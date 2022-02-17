@@ -4,13 +4,13 @@
 # under a Creative Commons Attribution-ShareAlike 4.0 International License
 # This file is distributed under the same license as the jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
-#
+# Sebastian Jentschke <sebastian.jentschke@uib.no>, 2021.
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-16 18:24+0100\n"
+"POT-Creation-Date: 2022-02-16 20:39+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,15 +19,15 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
 
-#: ../../usermanual/um_1_installation.rst:7
+#: ../../usermanual/um_1_installation.rst:4
 msgid "Installation"
-msgstr ""
+msgstr "Installation"
+
+#: ../../usermanual/um_1_installation.rst:8
+msgid "Windows"
+msgstr "Windows"
 
 #: ../../usermanual/um_1_installation.rst:10
-msgid "Windows"
-msgstr ""
-
-#: ../../usermanual/um_1_installation.rst:12
 msgid ""
 "jamovi is available for Windows Vista (64-bit) and above. Installation on"
 " windows is quite straight-forward, and should be familiar to anyone who "
@@ -35,8 +35,13 @@ msgid ""
 "from the `download page <https://www.jamovi.org/download.html>`__, and "
 "double-click the icon."
 msgstr ""
+"jamovi ist für Windows Vista (64-Bit) und neuere Windows-Versionen "
+"verfügbar. Die Installation unter Windows ist einfach: Laden Sie die "
+"gewünschte Version von der `Download-Seite "
+"<https://www.jamovi.org/download.html>`__ herunter und doppelklicken Sie "
+"auf das Symbol der heruntergeladenen Datei."
 
-#: ../../usermanual/um_1_installation.rst:19
+#: ../../usermanual/um_1_installation.rst:17
 msgid ""
 "At some institutions (particularly universities), the “normal” approach "
 "to installing software is blocked by IT security policies. In this case, "
@@ -46,12 +51,22 @@ msgid ""
 "security restrictions prevent jamovi from working in this way, in which "
 "case it would be worth raising the issue with your IT staff."
 msgstr ""
+"In einigen Institutionen (insbesondere Universitäten) wird der „normale“ "
+"Ansatz zur Installation von Software (.exe) durch IT-"
+"Sicherheitsrichtlinien blockiert. In diesem Fall können Sie die ZIP-"
+"Version herunterladen. Um diese zu verwenden, laden Sie es einfach "
+"herunter, entpacken Sie die Datei in einen Ordner auf dem Computer und "
+"navigieren Sie in diesem Ordner zum Unterverzeichnis ``bin``. Durch "
+"Doppelklicken auf jamovi.exe wird jamovi gestartet. Es ist möglich, dass "
+"zusätzliche Sicherheitsbeschränkungen verhindern, dass Jamovi auf diese "
+"Weise funktioniert. In diesem Fall müssen Sie das Problem bei Ihren IT-"
+"Mitarbeitern ansprechen und gemeinsam nach einer Lösung suchen."
 
-#: ../../usermanual/um_1_installation.rst:29
+#: ../../usermanual/um_1_installation.rst:28
 msgid "macOS"
-msgstr ""
+msgstr "MacOS"
 
-#: ../../usermanual/um_1_installation.rst:31
+#: ../../usermanual/um_1_installation.rst:30
 msgid ""
 "jamovi is available for macOS 10.9+ (Mavericks and newer). To install it,"
 " download the .dmg file from our `download page "
@@ -62,13 +77,25 @@ msgid ""
 " your applications, and can be started like any other installed "
 "application."
 msgstr ""
+"jamovi ist für macOS 10.9+ (Mavericks und neuer) verfügbar. Laden Sie zur"
+" Installation die .dmg-Datei von unserer `Download-Seite "
+"<https://www.jamovi.org/download.html>`__ herunter und doppelklicken Sie "
+"auf die heruntergeladene Datei. Dadurch wird eine „Dateiansicht“ "
+"angezeigt, und Sie können jamovi installieren, indem Sie die jamovi-"
+"Anwendung (wie üblich) in den Anwendungsordner ziehen und dort ablegen. "
+"Danach wird jamovi in Ihren Anwendungen angezeigt und kann wie jede "
+"andere installierte Anwendung gestartet werden."
 
-#: ../../usermanual/um_1_installation.rst:40
+#: ../../usermanual/um_1_installation.rst:39
 msgid ""
 "jamovi for macOS has an auto-update mechanism, and can alert you to when "
 "new versions are available. You can update your version of jamovi from "
 "the app menu (☰; at the top right of the window)."
 msgstr ""
+"jamovi für macOS verfügt über einen automatischen "
+"Aktualisierungsmechanismus. Dieser benachrichtigt Sie, wenn neue Version "
+"verfügbar ist. Sie können Ihre jamovi-Version dann über das App-Menü (☰; "
+"oben rechts im Fenster) aktualisieren."
 
 #: ../../usermanual/um_1_installation.rst:45
 msgid "Linux and Chromebooks"
@@ -80,6 +107,9 @@ msgid ""
 "linux distributions’ – which is most of them), and Chromebooks, from "
 "flathub."
 msgstr ""
+"jamovi ist für alle Linux-Distributionen, die Flatpak-Installationen "
+"erlauben – das ist die überwiegende Mehrzahl – und Chromebooks via "
+"flathub.org erhältlich."
 
 #: ../../usermanual/um_1_installation.rst:51
 msgid ""
@@ -87,6 +117,10 @@ msgid ""
 "up jamovi. If you encounter this, there are instructions on how to fix "
 "this a little :ref:`further down<blank-screen-on-chromebooks>`."
 msgstr ""
+"**Hinweis**: Bei einigen Chromebooks startet jamovi mit einem leeren "
+"Bildschirm. Wenn Sie auf dieses Problem stoßen, finden Sie Anweisungen, "
+"wie Sie dies beheben können :ref:`weiter unten<blank-screen-on-"
+"chromebooks>`."
 
 #: ../../usermanual/um_1_installation.rst:55
 msgid ""
@@ -94,60 +128,85 @@ msgid ""
 "on `our flathub page "
 "<https://flathub.org/apps/details/org.jamovi.jamovi>`__."
 msgstr ""
+"Wenn Sie wenig vertraut mit Flatpaks sind, folgen Sie bitte der "
+"Installationsanleitung auf `unserer Flathub-Seite "
+"<https://flathub.org/apps/details/org.jamovi.jamovi>`__."
 
 #: ../../usermanual/um_1_installation.rst:59
 msgid "If you’re an old hand at flatpak, you can install jamovi with the command:"
 msgstr ""
+"Wenn Sie Erfahrung mit flatpak haben, können Sie jamovi einfach mit dem "
+"folgenden Befehl installieren:"
 
 #: ../../usermanual/um_1_installation.rst:66
 msgid "and later, you can update your version of jamovi with:"
 msgstr ""
+"und mit dem folgenden Befehl können Sie Ihre jamovi-Version später "
+"aktualisieren:"
 
-#: ../../usermanual/um_1_installation.rst:73
+#: ../../usermanual/um_1_installation.rst:74
 msgid "Text not appearing in plots under linux"
-msgstr ""
+msgstr "Merkwürdige Sonderzeichen in den Abbildungen unter Linux"
 
-#: ../../usermanual/um_1_installation.rst:75
+#: ../../usermanual/um_1_installation.rst:76
 msgid ""
 "On some linux machines, the flatpak font cache is not up-to-date, "
 "resulting in plots in jamovi not displaying text correctly. To remedy "
 "this, you can run the following command at the terminal:"
 msgstr ""
+"Auf einigen Linux-Computern wird der Schriftarten-Cache unter Flatpak "
+"nicht wie vorgesehen aktualisiert, was dazu führt, dass in Abbildungen in"
+" jamovi der Text der Beschriftungen nicht korrekt angezeigt wird. Um dies"
+" zu beheben, können Sie den folgenden Befehl im Terminal ausführen:"
 
-#: ../../usermanual/um_1_installation.rst:83
+#: ../../usermanual/um_1_installation.rst:84
 msgid ""
 "This appears to be an issue with flatpaks, and we’re working with the "
 "flatpak community to get to the bottom of it."
 msgstr ""
+"Dies scheint ein Problem mit Flatpaks zu sein, und wir arbeiten mit der "
+"Flatpak-Community zusammen, um eine dauerhafte Lösung für das Problem zu "
+"finden."
 
-#: ../../usermanual/um_1_installation.rst:89
+#: ../../usermanual/um_1_installation.rst:90
 msgid "Blank screen at startup on Chromebooks"
-msgstr ""
+msgstr "Leerer Bildschirm beim Start von jamovi auf Chromebooks"
 
-#: ../../usermanual/um_1_installation.rst:91
+#: ../../usermanual/um_1_installation.rst:92
 msgid ""
 "Some Chromebooks experience a blank screen when starting up jamovi. The "
 "cause of this issue is not completely clear at this time, however it can "
 "be fixed by disabling “Crostini GPU support”."
 msgstr ""
+"Auf einigen Chromebooks wird beim Starten von jamovi ein leerer "
+"Bildschirm angezeigt. Die Ursache dieses Problems ist derzeit noch nicht "
+"vollständig geklärt. Sie lässt sich jedoch durch Deaktivieren der "
+"„Crostini-GPU-Unterstützung“ beheben."
 
-#: ../../usermanual/um_1_installation.rst:95
+#: ../../usermanual/um_1_installation.rst:96
 msgid ""
 "Enter ``chrome://flags/`` into the ChromeOS address bar. This will bring "
 "up “Experiments”. Search for ``Crostini GPU Support`` and set it to "
 "disabled. After restarting your Chromebook the issue will be fixed "
 "(special thanks to `@mulderc <https://github.com/mulderc>`__)."
 msgstr ""
+"Geben Sie ``chrome://flags/`` in der ChromeOS-Adressleiste ein. Dies "
+"öffnet \\\"Experimentelle Einstellungen\\\". Suchen Sie nach ``Crostini "
+"GPU Support`` und deaktivieren Sie die Einstellung. Nach dem Neustart "
+"Ihres Chromebooks ist das Problem behoben (Danke an `@mulderc "
+"<https://github.com/mulderc>`__\" für den Hinweis)."
 
 #: ../../usermanual/um_2_first-steps.rst:4
 msgid "First steps in jamovi"
-msgstr ""
+msgstr "Die ersten Schritte in jamovi"
 
 #: ../../usermanual/um_2_first-steps.rst:6
 msgid ""
 "When first starting jamovi, you will be presented with a user interface "
 "which looks something like this."
 msgstr ""
+"Wenn Sie jamovi zum ersten Mal starten, wird Ihnen eine "
+"Benutzeroberfläche präsentiert, die in etwa so aussieht:"
 
 #: ../../usermanual/um_2_first-steps.rst:9
 msgid "|screenshot|"
@@ -164,12 +223,20 @@ msgid ""
 "these two regions, and this can be dragged to the left or the right to "
 "change their sizes."
 msgstr ""
+"Auf der linken Seite befindet sich die Datentabelle und auf der rechten "
+"Seite werden die Ergebnisse der statistischen Analysen angezeigt. In der "
+"Mitte befindet sich ein Balken, der diese beiden Bereiche trennt und der "
+"mit der Maus nach links oder rechts verschoben werden kann, um die Größe "
+"der beiden Teile zu ändern."
 
 #: ../../usermanual/um_2_first-steps.rst:16
 msgid ""
 "It is possible to simply begin typing values into the jamovi spreadsheet "
 "as you would any other spreadsheet software."
 msgstr ""
+"Sie können einfach beginnen, Werte in die jamovi-Datentabelle "
+"einzutippen, genauso wie Sie es in jeder anderen "
+"Tabellenkalkulationssoftware tun würden."
 
 #: ../../usermanual/um_2_first-steps.rst:19
 msgid ""
@@ -181,6 +248,13 @@ msgid ""
 "PC``, depending on whether you want to open an example, or a file stored "
 "on your computer."
 msgstr ""
+"Alternativ können existierende Datendateien in verschiedenen Formaten "
+"(CSV, Excel, LibreOffice, R, SPSS, Stata, SAS, JASP) in jamovi geöffnet "
+"werden. Außerdem ist eine Reihe von Beispieldaten in jamovi verfügbar. Um"
+" eine Datei zu öffnen, wählen Sie das Dateimenü (☰, oben links in "
+"jamovi), wählen Sie ``Open`` und dann ``This PC`` oder ``Data library``, "
+"je nachdem, ob Sie eine auf Ihrem Computer gespeicherte Datei oder ein "
+"Beispiel öffnen wollen."
 
 #: ../../usermanual/um_2_first-steps.rst:27
 msgid "|csv-data|"
@@ -204,6 +278,19 @@ msgid ""
 "choose ``Comma delimited`` in the drop-down menu close to the ``Save "
 "as``-button. Thereafter, you may open the CSV-file in jamovi."
 msgstr ""
+"Ein sehr gebräuchliches Format für Datendateien sind Dateien mit \"Komma-"
+"getrennten Werten\" (.csv oder .txt). Da diese Daten als einfache "
+"Textdateien mit Kommas (oder \";\", \"|\" usw.) zur Trennung von "
+"Variablen gespeichert werden, kann (fast) jedes Softwarepaket sie lesen "
+"und schreiben (und Sie können sie mit jedm beliebigen Texteditor "
+"ansehen). Ein Beispiel ist in der Abbildung dargestellt. Die erste Zeile "
+"enthält die Variablennamen und jede weitere Zeile danach einen Messpunkt "
+"(typischerweise eine Person, von der Daten erfasst wurden). Wenn Sie Ihre"
+" Daten in einem Tabellenkalkulationsprogramm (z.B. Excel) eingegeben "
+"haben, können Sie eine CSV-Datei aus Ihren Daten erstellen, indem Sie "
+"``Datei`` → ``Speichern unter...`` wählen und in dem Drop-Down-Menü neben"
+" dem ``Speichern unter`` die Option ``Comma delimited`` auswählen. Danach"
+" können Sie die CSV-Datei in jamovi öffnen."
 
 #: ../../usermanual/um_2_first-steps.rst:41
 msgid ""
@@ -211,10 +298,14 @@ msgid ""
 " issue (bug report) in the GitHub `issue tracker "
 "<https://github.com/jamovi/jamovi/issues>`__."
 msgstr ""
+"Wenn jamovi eine Datei nicht korrekt öffnet, reichen Sie bitte einen "
+"Fehlerbericht in unserem GitHub `issue tracker "
+"<https://github.com/jamovi/jamovi/issues>`__ ein. Wir sind bestrebt, "
+"unsere Impor-Routinen so robust wie möglich zu machen."
 
 #: ../../usermanual/um_3_analyses.rst:4
 msgid "Analyses"
-msgstr ""
+msgstr "Analysen"
 
 #: ../../usermanual/um_3_analyses.rst:6
 msgid ""
@@ -225,6 +316,14 @@ msgid ""
 "results for the analysis will appear in the right “results panel”, and "
 "will update as you make changes to the options."
 msgstr ""
+"Analysen können über den \"Analyses\"-Tab im Ribbon-Menü (oben im jamovi-"
+"Fenster) ausgewählt werden. Wenn Sie eine Analyse auswählen, wird ein "
+"Eingabe- / Options-Panel für diese Analyse angezeigt. Dort können Sie "
+"Variablen zu den verschiedenen Teilen der Analyse zuweisen (z.B. "
+"abhängige Variable) und verschiedene Analyse-Optionen auswählen. Sobald "
+"Sie neue Variablen zuweisen oder Analyse-Optionen ändern, werden die "
+"Ergebnisse für die Analyse im rechten \"Ergebnisbereich\" angezeigt oder "
+"aktualisiert."
 
 #: ../../usermanual/um_3_analyses.rst:10
 msgid ""
@@ -234,6 +333,14 @@ msgid ""
 "were produced. In this way, you can return to any analysis that you (or "
 "say, a colleague) created earlier."
 msgstr ""
+"Wenn Sie alle erforderlichen Einstellungen für die Analyse vorgenommen "
+"haben und einen größeren Teil des jamovi-Fensters für das Anzeigen der "
+"Ergebnisse zur Verfügung haben möchten, können Sie die Analyseoptionen "
+"durch Klicken auf den Pfeil oben rechts im Optionsfeld ausblenden. Wenn "
+"Sie danach Änderungen an den Analyseoptionen vornehmen möchten, können "
+"Sie das Panel mit den Analyseoptionen einblenden indem Sie auf die "
+"Ergebnisse klicken. Auf diese Weise können Sie Änderungen an Analysen "
+"vornehmen, die Sie (oder ein Kollege) zuvor erstellt haben."
 
 #: ../../usermanual/um_3_analyses.rst:14
 msgid ""
@@ -241,6 +348,21 @@ msgid ""
 " with the results context menu. Right-clicking on the analysis results "
 "will bring up a menu, and by selecting ``Analysis``, and then ``Remove``,"
 " the analysis can be removed."
+msgstr ""
+"Wenn Sie eine bestimmte Analyse nicht mehr benötigen, können Sie diese "
+"über das Kontextmenü der Analyse im Ergebnis-Panel entfernen. Klicken Sie"
+" dafür mit der rechten Maustaste auf die Ergebnisse dieser Analyse und "
+"wählen Sie dort ``Analysis`` und dann ``Remove``."
+
+#: ../../usermanual/um_3_analyses.rst:22
+msgid ""
+"jamovi produces nice APA formatted tables, and attractive plots. It is "
+"often useful to be able to copy and paste these, perhaps into a Word "
+"document, or into an email to a colleague. To copy results, right click "
+"on the object of interest, and from the menu select exactly what you want"
+" to copy. The menu allows you to choose to copy, say only the image, or "
+"the entire analysis. Selecting copy, copies the content to the clipboard,"
+" and can be pasted into the other program in the usual way."
 msgstr ""
 
 #: ../../usermanual/um_4_spreadsheet.rst:4
@@ -252,10 +374,12 @@ msgid ""
 "In jamovi, data is represented in a spreadsheet, with each column "
 "representing a “variable”."
 msgstr ""
+"In jamovi werden die Daten in einer Tabelle dargestellt, in der jede "
+"Spalte eine \"Variable\" darstellt."
 
 #: ../../usermanual/um_4_spreadsheet.rst:10
 msgid "Data Variables"
-msgstr ""
+msgstr "Datenvariablen"
 
 #: ../../usermanual/um_4_spreadsheet.rst:12
 msgid ""
@@ -263,28 +387,32 @@ msgid ""
 "variables simply contain data either loaded from a data file, or \"typed "
 "in\" by the user. Data variables can be one three data types:"
 msgstr ""
+"Die am häufigsten verwendeten Variablen in jamovi sind „Datenvariablen“. "
+"Diese Variablen enthalten Daten, die entweder aus einer Datendatei "
+"geladen oder vom Benutzer „eingetippt“ wurden. Datenvariablen können "
+"einer der drei folgenden Datentypen sein:"
 
 #: ../../usermanual/um_4_spreadsheet.rst:15
 msgid "``Integer``"
-msgstr ""
+msgstr "``Integer``"
 
 #: ../../usermanual/um_4_spreadsheet.rst:16
 msgid "``Decimal``"
-msgstr ""
+msgstr "``Decimal``"
 
 #: ../../usermanual/um_4_spreadsheet.rst:17
 msgid "``Text``"
-msgstr ""
+msgstr "``Text``"
 
 #: ../../usermanual/um_4_spreadsheet.rst:19
 msgid "and one of four measure types:"
-msgstr ""
+msgstr "und eines von vier Skalenniveaus:"
 
 #: ../../usermanual/um_4_spreadsheet.rst:21
 msgid "|nominal|    ``Nominal``"
 msgstr "|nominal|    ``Nominal``"
 
-#: ../../usermanual/um_4_spreadsheet.rst:117
+#: ../../usermanual/um_4_spreadsheet.rst:122
 msgid "nominal"
 msgstr "nominal"
 
@@ -292,7 +420,7 @@ msgstr "nominal"
 msgid "|ordinal|    ``Ordinal``"
 msgstr "|ordinal|    ``Ordinal``"
 
-#: ../../usermanual/um_4_spreadsheet.rst:119
+#: ../../usermanual/um_4_spreadsheet.rst:124
 msgid "ordinal"
 msgstr "ordinal"
 
@@ -300,7 +428,7 @@ msgstr "ordinal"
 msgid "|continuous| ``Continuous``"
 msgstr "|continuous| ``Continuous``"
 
-#: ../../usermanual/um_4_spreadsheet.rst:121
+#: ../../usermanual/um_4_spreadsheet.rst:126
 msgid "continuous"
 msgstr "continuous"
 
@@ -308,7 +436,7 @@ msgstr "continuous"
 msgid "|id|         ``ID``"
 msgstr "|id|         ``ID``"
 
-#: ../../usermanual/um_4_spreadsheet.rst:123
+#: ../../usermanual/um_4_spreadsheet.rst:128
 msgid "id"
 msgstr "id"
 
@@ -318,6 +446,10 @@ msgid ""
 "variable’s column. Note that some combinations of data-type and measure-"
 "type don’t make sense, and jamovi won’t let you choose these."
 msgstr ""
+"Die Skalenniveaus werden durch das Symbol in der Kopfzeile der "
+"Variablenspalte angezeigt. Beachten Sie, dass einige Kombinationen von "
+"Datentyp und Skalenniveau nicht als Kombination auftreten können / "
+"sollten und das jamovi Sie solche Kombinationen nicht wählen lässt."
 
 #: ../../usermanual/um_4_spreadsheet.rst:30
 msgid ""
@@ -331,6 +463,16 @@ msgid ""
 "maintain a list of levels internally, which can improve performance when "
 "interacting with very large data sets."
 msgstr ""
+"``Nominal`` und ``Ordinal`` kennzeichnen nominale und ordinale Variablen."
+" ``Continuous`` ist für Variablen mit numerischen Werten, die als "
+"*Intervall*- oder *Ratio*-Skalen betrachtet werden (äquivalent zu "
+"``Scale`` in SPSS). Der Skalentyp ``ID`` existiert nur in jamovi. Er ist "
+"für Variablen gedacht, die Identifikatoren enthalten, die man nie "
+"analysieren möchte (z.B. Name oder ID eines Versuchsteilnehmers). Der "
+"Vorteil von IDs ist, dass jamovi intern keine Liste von Faktorstufen im "
+"Speicher halten muss (R repräsentiert Text-Variablen intern oft als "
+"Faktoren), was die Leistung bei der Interaktion mit sehr großen "
+"Datensätzen verbessern kann."
 
 #: ../../usermanual/um_4_spreadsheet.rst:35
 msgid ""
@@ -342,6 +484,15 @@ msgid ""
 "automatic approach may not be correct, and it may be necessary to "
 "manually specify the data and measure type with the variable editor."
 msgstr ""
+"Wenn Sie mit einer leeren Datentabelle beginnen und Werte eingeben, "
+"ändern sich Datentypen und Skalenniveaus automatisch in Abhängigkeit von "
+"den eingegebenen Daten. Dies ist eine gute Möglichkeit, ein Gefühl dafür "
+"zu bekommen, welche Variablentypen zu welcher Art von Daten passen. In "
+"ähnlicher Weise versucht jamovi beim Öffnen einer Datendatei den am "
+"besten passenden Variablentyp aus den Daten in jeder Spalte abzuleiten. "
+"In beiden Fällen kann es sein, dass diese automatische Bestimmung nicht "
+"korrekt ist. Daher kann es notwendig werden, den Datentyp und das "
+"Skalenniveau im Nachhinein manuell anzupassen."
 
 #: ../../usermanual/um_4_spreadsheet.rst:40
 msgid ""
@@ -353,32 +504,69 @@ msgid ""
 " editor can be dismissed by clicking the close arrow, or by pressing "
 "``F3`` again."
 msgstr ""
+"Der Variablen-Editor kann durch Auswahl von ``Setup`` auf der "
+"Registerkarte ``Data``, durch Doppelklick auf die Spaltenüberschrift der "
+"betreffenden Variable oder durch das Drücken von ``F3`` aufgerufen "
+"werden. Im Variablen-Editor können Sie den Namen der Variable und (bei "
+"Datenvariablen) den Datentyp, das Skalenniveau, die Stufen eines Faktors "
+"und das Label / die Bezeichnung für die unterschiedlichen Faktorstufen "
+"ändern. Der Variablen-Editor kann durch Anklicken des Schließpfeils oder "
+"durch erneutes Drücken der Taste ``F3`` verlassen werden."
 
-#: ../../usermanual/um_4_spreadsheet.rst:54
+#: ../../usermanual/um_4_spreadsheet.rst:50
+msgid ""
+"New variables can be inserted or appended to the data set using the "
+"``Add`` button from the data ribbon. The ``Add`` button also allows the "
+"addition of *Computed variables*."
+msgstr ""
+
+#: ../../usermanual/um_4_spreadsheet.rst:55
 msgid "Computed Variables"
 msgstr ""
 
-#: ../../usermanual/um_4_spreadsheet.rst:56
+#: ../../usermanual/um_4_spreadsheet.rst:57
 msgid ""
 "Computed Variables are those which take their value by performing a "
 "computation on other Variables. Computed Variables can be used for a "
 "range of purposes, including log transforms, z-scores, sum-scores, "
 "negative scoring and means."
 msgstr ""
+"Berechnete Variablen sind solche, die ihren Wert durch die Durchführung "
+"einer Berechnung basiert auf einer oder mehreren anderen Variablen "
+"erhalten. Berechnete Variablen können für eine Reihe von Zwecken "
+"verwendet werden, z. B. für logarithmische Transformationen, "
+"z-Transformationen, das Berechnen von Skalenwerten (Summe oder "
+"Mittelwert), für die Inversion von Skalenitems, etc."
 
-#: ../../usermanual/um_4_spreadsheet.rst:59
+#: ../../usermanual/um_4_spreadsheet.rst:60
 msgid ""
 "*Computed variable*\\ s can be added to the data set, with the ``Add`` "
 "button available on the data tab. This will produce a formula box where "
 "you can specify the formula. The usual arithmetic operators are "
 "available. Some examples of formulas are:"
 msgstr ""
+"*Berechnete Variablen* können dem Datensatz mit der Schaltfläche ``Add``,"
+" die unter der Registerkarte ``Data`` verfügbar ist, hinzugefügt werden. "
+"Dabei wird ein Formel-Feld angezeigt, in dem Sie die Formel angeben oder "
+"zusammenklicken (fx-Button) können. Es stehen die üblichen arithmetischen"
+" Operatoren zur Verfügung. Einige Beispiele für Formeln sind:"
 
-#: ../../usermanual/um_4_spreadsheet.rst:75
-msgid "``V``-functions"
+#: ../../usermanual/um_4_spreadsheet.rst:72
+msgid ""
+"In order, these are the sum of A and B, a log (base 10) transform of "
+"``len``, the mean of ``A`` and ``B``, and the z-score of ``dose`` "
+"(twice)."
 msgstr ""
 
-#: ../../usermanual/um_4_spreadsheet.rst:77
+#: ../../usermanual/um_4_spreadsheet.rst:74
+msgid "There are many more functions available."
+msgstr ""
+
+#: ../../usermanual/um_4_spreadsheet.rst:78
+msgid "``V``-functions"
+msgstr "``V``-Funktionen"
+
+#: ../../usermanual/um_4_spreadsheet.rst:80
 msgid ""
 "A number of functions appear in pairs, one prefixed with a ``V`` and the "
 "other not. ``V`` functions perform their calculation on a variable *as a "
@@ -387,30 +575,48 @@ msgid ""
 " for each row. Whereas ``VMEAN(A)`` gives the mean of *all* the values in"
 " ``A``."
 msgstr ""
+"Von einer Reihe von Funktionen gibt es Paare, wobei dem einen Teil des "
+"Paares ein ``V`` vorangestellt ist und dem anderen nicht. "
+"``V``-Funktionen führen ihre Berechnung auf einer Variablen *als Ganzes* "
+"durch (spaltenweise), während Funktionen ohne ``V`` ihre Berechnung "
+"zeilenweise durchführen. Zum Beispiel wird ``MEAN(A, B)`` den Mittelwert "
+"von ``A`` und ``B`` für jede Zeile erzeugen. Während ``VMEAN(A)`` den "
+"Mittelwert von *allen* Werten der Variable ``A`` liefert."
 
-#: ../../usermanual/um_4_spreadsheet.rst:81
+#: ../../usermanual/um_4_spreadsheet.rst:84
 msgid ""
 "Additionally ``V`` functions support a ``group_by`` argument. When a "
 "``group_by`` variable is specified, a separate value is calculated for "
 "each level of the ``group_by`` variable. In the following example:"
 msgstr ""
 
-#: ../../usermanual/um_4_spreadsheet.rst:93
+#: ../../usermanual/um_4_spreadsheet.rst:92
+msgid ""
+"A separate mean is calculated for each level of ``dose``, and each value "
+"in the computed variable will be the mean corresponding to it’s row’s "
+"value of ``dose``."
+msgstr ""
+
+#: ../../usermanual/um_4_spreadsheet.rst:97
 msgid "Recoded Variables"
 msgstr ""
 
-#: ../../usermanual/um_4_spreadsheet.rst:95
+#: ../../usermanual/um_4_spreadsheet.rst:99
 msgid ""
 "Transformed and recoded variables are also available. See this `blog post"
 " <https://blog.jamovi.org/2018/10/23/transforming-variables.html>`__ for "
 "details."
 msgstr ""
+"jamovi erlaubt auch das Generieren von transformierten und umkodierten "
+"Variablen. Ein `Blog-Beitrag <https://blog.jamovi.org/2018/10/23"
+"/transforming-variables.html>`__ (in Englisch) beschreibt die Details "
+"solcher Transformationen."
 
-#: ../../usermanual/um_4_spreadsheet.rst:99
+#: ../../usermanual/um_4_spreadsheet.rst:103
 msgid "Filters"
-msgstr ""
+msgstr "Filter"
 
-#: ../../usermanual/um_4_spreadsheet.rst:101
+#: ../../usermanual/um_4_spreadsheet.rst:105
 msgid ""
 "Filters in jamovi allow you to filter out rows that you don’t want "
 "included in your analysis. For example, you might want to only include "
@@ -420,23 +626,39 @@ msgid ""
 "cases you just want to exclude extreme scores, for example those that "
 "score more than 3 standard deviations from the mean."
 msgstr ""
+"Mit Filtern können Sie in jamovi Zeilen herausfiltern, die Sie aus Ihrer "
+"Analyse ausschließen wollen. Zum Beispiel können Sie die Umfrageantworten"
+" von Personen nur dann einbeziehen, wenn diese ausdrücklich der "
+"Verwendung ihrer Daten zugestimmt haben, Sie könnten alle Linkshänder "
+"ausschließen, oder Personen, die bei einer experimentellen Aufgabe „unter"
+" Zufallsniveau“ abschneiden. Filter eignen sich auch, um extreme Werte "
+"auszuschließen, zum Beispiel solche, die mehr als 3 Standardabweichungen "
+"vom Mittelwert abweichen oder die Extremwerte in Bezug auf ihren "
+"Interquartilbereich sind (IQR; d.h. Extremwerte außerhalb der Whisker im "
+"Box-Whisker-Diagramm)."
 
-#: ../../usermanual/um_4_spreadsheet.rst:106
+#: ../../usermanual/um_4_spreadsheet.rst:110
 msgid ""
 "The filters in jamovi are build on top of jamovi’s *computed variable* "
 "formula system, which allows the building of arbitrarily complex "
 "formulas."
 msgstr ""
+"Die Filter in jamovi bauen auf dem jamovis' Formelsystem für *Berechnete "
+"Variablen* auf. Dies ermöglicht das Erstellen (und Filtern) beliebig "
+"komplexer Formeln."
 
-#: ../../usermanual/um_4_spreadsheet.rst:108
+#: ../../usermanual/um_4_spreadsheet.rst:112
 msgid ""
 "More details about filters are covered in this `blog post "
 "<https://blog.jamovi.org/2018/04/25/jamovi-filters.html>`__"
 msgstr ""
+"Weitere Details zu Filtern finden Sie in diesem `Blog-Beitrag "
+"<https://blog.jamovi.org/2018/04/25/jamovi-filters.html>`__ (in "
+"Englisch)."
 
 #: ../../usermanual/um_5_updating_data.rst:4
 msgid "Updating data"
-msgstr ""
+msgstr "Aktualisieren der Daten"
 
 #: ../../usermanual/um_5_updating_data.rst:6
 msgid ""
@@ -450,63 +672,91 @@ msgid ""
 "having to re-perform all of your data cleaning and analysis steps (making"
 " your jamovi files behave a bit like scripts)."
 msgstr ""
+"Sobald ein Datensatz mit Filtern, berechneten Variablen, Transformationen"
+" und Analysen eingerichtet ist, möchten Sie die Daten manchmal "
+"aktualisieren. Dies kann verschiedene Gründe haben; z.B. dass Sie eine "
+"weitere Datendatei haben, mit der Sie die zuvor durchgeführten Analysen "
+"wiederholen möchten, oder weil Sie ein Experiment durchgeführt haben, bei"
+" dem Sie nun die Daten eines zusätzlichen Teilnehmers analysieren wollen."
+" Durch den Import in eine bestehende Datendatei können Sie Ihre Analysen "
+"erneut durchführen, ohne alle Schritte der Datenbereinigung und -analyse "
+"erneut durchführen zu müssen (wodurch sich Ihre jamovi-Dateien ein wenig "
+"wie Skripte verhalten)."
 
 #: ../../usermanual/um_5_updating_data.rst:16
 msgid ""
 "For a video introduction to import and templates in jamovi, see this "
 "`blog post <https://blog.jamovi.org/2019/03/27/import.html>`__."
 msgstr ""
+"Eine Einführung in den nachträglichen Import von Daten und jamovis' "
+"Analyse-Vorlage-Dateien (*templates*) finden Sie in diesem `Blog-Beitrag "
+"<https://blog.jamovi.org/2019/03/27/import.html>`__ (in Englisch)."
 
-#: ../../usermanual/um_5_updating_data.rst:20
+#: ../../usermanual/um_5_updating_data.rst:21
 msgid "Single-file Import"
-msgstr ""
+msgstr "Import einer einzelnen Datei"
 
-#: ../../usermanual/um_5_updating_data.rst:22
+#: ../../usermanual/um_5_updating_data.rst:23
 msgid ""
 "Import is available from the file menu (☰) at the top left of jamovi. "
 "When you import a file into an existing data set, the following "
 "operations are performed:"
 msgstr ""
-
-#: ../../usermanual/um_5_updating_data.rst:26
-msgid "All the rows of the existing data set are deleted."
-msgstr ""
+"Der Import ist über das Dateimenü (☰; oben links in jamovi) verfügbar. "
+"Wenn Sie eine Datei in einen bestehenden Datensatz importieren, werden "
+"die folgenden Schritte durchgeführt:"
 
 #: ../../usermanual/um_5_updating_data.rst:27
+msgid "All the rows of the existing data set are deleted."
+msgstr "Alle Zeilen der vorhandenen Datendatei werden gelöscht."
+
+#: ../../usermanual/um_5_updating_data.rst:28
 msgid ""
 "All the (original) names of the existing columns are matched to the names"
 " of the columns from the new data set."
 msgstr ""
+"Die (ursprünglichen) Namen der vorhandenen Spalten werden mit den Namen "
+"der Spalten aus dem neuen Datensatz abgeglichen."
 
-#: ../../usermanual/um_5_updating_data.rst:29
+#: ../../usermanual/um_5_updating_data.rst:30
 msgid ""
 "The new values are imported to the existing columns, *keeping* the data "
 "and measure types from the existing data set."
 msgstr ""
+"Die neuen Werte werden in die vorhandenen Spalten importiert, wobei der "
+"Datentyp und das Skalenniveau des vorhandenen Datensatzes *beibehalten* "
+"werden."
 
-#: ../../usermanual/um_5_updating_data.rst:31
+#: ../../usermanual/um_5_updating_data.rst:32
 msgid ""
 "The new columns which did not match names in the original data set are "
 "appended to the right of the data set."
 msgstr ""
+"Variablen, die im ursprünglichen Datensatz nicht existierten (oder einen "
+"anderen Namen hatten), werden in der Datentabelle rechts angehängt (d.h. "
+"nach den existierenden Variablen)."
 
-#: ../../usermanual/um_5_updating_data.rst:34
+#: ../../usermanual/um_5_updating_data.rst:35
 msgid ""
 "If no new column matches the column names in the existing data set, then "
 "those columns are left blank."
 msgstr ""
+"Wenn keine neue Spalte mit einem Spaltennamen im vorhandenen Datensatz "
+"übereinstimmt, wird diese Spalte leer gelassen."
 
-#: ../../usermanual/um_5_updating_data.rst:37
+#: ../../usermanual/um_5_updating_data.rst:38
 msgid ""
 "Following a file import, all the filters, computed variables, transforms "
 "and analyses update."
 msgstr ""
-
-#: ../../usermanual/um_5_updating_data.rst:41
-msgid "Multi-file Import"
-msgstr ""
+"Nach einem solchen Datei-Import werden alle Filter, berechneten "
+"Variablen, Transformationen und Analysen aktualisiert."
 
 #: ../../usermanual/um_5_updating_data.rst:43
+msgid "Multi-file Import"
+msgstr "Import mehrerer Dateien"
+
+#: ../../usermanual/um_5_updating_data.rst:45
 msgid ""
 "It is also possible to import multiple files at once. This can be useful "
 "when you are combining multiple data sets, for example, where each file "
@@ -516,8 +766,16 @@ msgid ""
 "when selecting data files, or with the “multi-select” button at the top "
 "of the import dialog."
 msgstr ""
+"Es ist auch möglich, mehrere Dateien auf einmal zu importieren. Dies kann"
+" nützlich sein, wenn Sie mehrere Datensätze kombinieren, z. B. wenn jede "
+"Datei einen Teilnehmer darstellt. Der Vorgang ist derselbe wie der oben "
+"beschriebene Einzeldatei-Import, mit dem Unterschied, dass Sie mehrere "
+"Dateien auswählen, wenn Sie den Import durchführen. Sie können dies tun, "
+"indem Sie beim Auswählen von Datendateien die Strg- oder Umschalttaste "
+"gedrückt halten, oder mit der „Mehrfachauswahl“-Schaltfläche oben im "
+"Importdialog."
 
-#: ../../usermanual/um_5_updating_data.rst:50
+#: ../../usermanual/um_5_updating_data.rst:52
 msgid ""
 "When importing multiple files like this, they are combined vertically "
 "with the rows of the second file appearing below the first, the rows of "
@@ -527,16 +785,27 @@ msgid ""
 "each participant. This column can be particularly useful to use with the "
 "``group_by`` argument to ``V``-functions described above."
 msgstr ""
+"Werden mehrere Dateien auf diese Weise importiert, werden diese vertikal "
+"kombiniert. Dabei erscheinen die Zeilen der zweiten Datei unter der "
+"ersten, die Zeilen der dritten Datei unter der zweiten und so weiter. Es "
+"wird eine zusätzliche Spalte namens ``source`` erstellt, die angibt, aus "
+"welcher Datei die einzelnen Zeilen stammen. Dies kann nützlich sein, wenn"
+" Sie die einzelnen Teilnehmer „aufteilen“ oder „gruppieren“ wollen. Diese"
+" Spalte kann lässt sich gut mit dem Argument ``group_by`` der zuvor "
+"beschriebenen ``V``-Funktionen verwenden."
 
-#: ../../usermanual/um_5_updating_data.rst:58
+#: ../../usermanual/um_5_updating_data.rst:60
 msgid "At present, there is no way to combine files horizontally in jamovi."
 msgstr ""
+"Zur Zeit gibt es in jamovi keine Möglichkeit, Dateien horizontal zu "
+"kombinieren (d.h. Datensätze der gleichen Versuchsteilnehmer mit "
+"zusätzlichen Variablen zu erweitern)."
 
-#: ../../usermanual/um_5_updating_data.rst:61
+#: ../../usermanual/um_5_updating_data.rst:64
 msgid "Templates"
-msgstr ""
+msgstr "Vorlagen (*templates*)"
 
-#: ../../usermanual/um_5_updating_data.rst:63
+#: ../../usermanual/um_5_updating_data.rst:66
 msgid ""
 "Templates in jamovi are special data sets that are analagous to script "
 "files in more traditional statistical environments. They are a way to "
@@ -546,8 +815,16 @@ msgid ""
 "jamovi templates is that they are entirely specified with the familiar "
 "user interface, and do not require working with a “syntax” or code."
 msgstr ""
+"Vorlagen in jamovi sind spezielle Datendateien, die mit Skriptdateien in "
+"anderen Statistikprogrammen vergleichbar sind. Sie bieten eine "
+"Möglichkeit, Datentypen, Berechnungen, Filter, Transformationen und "
+"Analysen im Voraus zu spezifizieren. Sobald die Daten verfügbar sind, "
+"können sie in die Vorlage importiert werden, und die Vorlage wird "
+"entsprechend aktualisiert. Das Elegante an jamovi-Vorlagen ist, dass sie "
+"vollständig über die vertraute Benutzeroberfläche spezifiziert werden und"
+" keine Arbeit mit einer „Syntax“ oder Code erfordern."
 
-#: ../../usermanual/um_5_updating_data.rst:71
+#: ../../usermanual/um_5_updating_data.rst:74
 msgid ""
 "To save a data set as a template, select ``Export`` from the file menu, "
 "and select ``jamovi template (.omt)`` from the file type box. When "
@@ -557,16 +834,28 @@ msgid ""
 "will update, followed by the filters, computed variables, and finally the"
 " analysis results."
 msgstr ""
+"Um einen Datensatz als Vorlage zu speichern, wählen Sie ``Export`` aus "
+"dem Dateimenü und wählen Sie ``jamovi template (.omt)`` aus dem Dateityp-"
+"Auswahlmenü. Wenn Sie eine Vorlage öffnen, werden Sie sehen, dass sie "
+"Spalten, aber keine Zeilen enthält, und dass alle Analyseergebnisse leer "
+"sind. Um die Vorlage zu verwenden, importieren Sie einen (oder mehrere) "
+"neue Datensätze mit dem zuvor beschriebenen Datei-Import. Die Daten "
+"werden eingelesen, mit den in den berechneten Variablen hinterlegten "
+"Formeln neu berechnet, danach gefiltert und schließlich werden die "
+"Analyseergebnisse aktualisiert."
 
-#: ../../usermanual/um_5_updating_data.rst:79
+#: ../../usermanual/um_5_updating_data.rst:82
 msgid ""
 "jamovi templates are also a great way to provide analyses to less capable"
 " students or colleagues."
 msgstr ""
+"jamovi-Vorlagen eignen sich auch hervorragend, um Analysen für Schüler "
+"oder Kollegen zu erstellen die weniger umfangreiche Kenntnisse über "
+"statistische Analysen haben."
 
 #: ../../usermanual/um_6_syntax_mode.rst:4
 msgid "Syntax Mode"
-msgstr ""
+msgstr "Syntax-Modus"
 
 #: ../../usermanual/um_6_syntax_mode.rst:6
 msgid ""
@@ -576,6 +865,12 @@ msgid ""
 "mode`` checkbox there. It is possible to leave syntax mode by clicking "
 "this a second time."
 msgstr ""
+"jamovi bietet einen \"R-Syntax-Modus\". In diesem Modus erzeugt jamovi "
+"R-Code für jede Analyse. Um in den Syntax-Modus zu wechseln, wählen Sie "
+"das Anwendungsmenü (⋮) oben rechts in jamovi und setzen dort einen Haken "
+"in die Checkbox ``Syntax mode``. Es ist möglich, den Syntaxmodus zu "
+"verlassen, indem Sie diesen ein zweites Mal anklicken (d.h. das Häkchen "
+"abwählen)."
 
 #: ../../usermanual/um_6_syntax_mode.rst:10
 msgid ""
@@ -583,5 +878,28 @@ msgid ""
 "produce R syntax, and “ASCII output” like an R session. Like all results "
 "objects in jamovi, you can right click on these items (including the R "
 "syntax) and copy and paste them, for example, into an R session."
+msgstr ""
+"Die Analysen funktionieren im Syntaxmodus weiter wie gewohnt, aber sie "
+"erzeugen jetzt R-Syntax (als erste Ausgabe innerhalb jeder Analyse) und "
+"während die übrigen Ausgaben als ASCII-Ausgabe / Textmodus formatiert "
+"sind (sie sehen also aus wie Ausgaben in einee R-Sitzung). Wie gewohnt "
+"können Sie mit der rechten Maustaste auf alle Ergebnisobjekte in jamovi "
+"(einschließlich der R-Syntax) klicken, Sie mit dem entsprechenden "
+"Menü-Eintrag kopieren und sie danach z. B. in eine R-Sitzung (oder einen "
+"Text-Editor) einfügen."
+
+#: ../../usermanual/um_6_syntax_mode.rst:18
+msgid ""
+"At present, the provided R syntax does not include the data import step, "
+"and this must be performed manually. There are many resources explaining "
+"how to import data into R, and we recommend you take a look at these "
+"(most analyses in jamovi require data as a data frame)."
+msgstr ""
+
+#: ../../usermanual/um_6_syntax_mode.rst:21
+msgid ""
+"Another R feature that may be of interest is the `Rj Editor "
+"<https://blog.jamovi.org/2018/07/30/rj.html>`__, which allows you to use "
+"R code to analyse data directly in jamovi."
 msgstr ""
 

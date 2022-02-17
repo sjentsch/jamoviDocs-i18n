@@ -3,9 +3,8 @@
 # Sebastian Jentschke (curating this documentation). This work is licensed
 # under a Creative Commons Attribution-ShareAlike 4.0 International License
 # This file is distributed under the same license as the jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
-#
-#, fuzzy
+# Sebastian Jentschke <sebastian.jentschke@uib.no>, 2021.
+# Johannes Keyser <joke@fsfe.org>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: jamovi \n"
@@ -21,11 +20,11 @@ msgstr ""
 
 #: ../../index.rst:12
 msgid "Getting Started"
-msgstr ""
+msgstr "Erste Schritte"
 
 #: ../../index.rst:24 ../../index.rst:90
 msgid "Analyses"
-msgstr ""
+msgstr "Analysen"
 
 #: ../../index.rst:42
 msgid "How to..."
@@ -33,11 +32,11 @@ msgstr ""
 
 #: ../../index.rst:50 ../../index.rst:123
 msgid "jamovi-modules"
-msgstr ""
+msgstr "jamovi-Module"
 
 #: ../../index.rst:58 ../../index.rst:135
 msgid "jamovi and other software"
-msgstr ""
+msgstr "jamovi und andere Software"
 
 #: ../../index.rst:70
 msgid ""
@@ -45,10 +44,13 @@ msgid ""
 "free and open statistical software to bridge the gap between researcher "
 "and statistician."
 msgstr ""
+"Willkommen zur Dokumentation von `jamovi <https://www.jamovi.org>`__, "
+"einer kostenlosen und offenen Statistiksoftware, die Forschern erlaubt, "
+"auf einfache Weise komplexe statistische Methoden anzuwenden."
 
 #: ../../index.rst:75
 msgid "Getting started"
-msgstr ""
+msgstr "Erste Schritte"
 
 #: ../../index.rst:77
 msgid ""
@@ -99,7 +101,7 @@ msgstr ":doc:`analyses/jg_11_descriptive-analyses`"
 
 #: ../../index.rst:99
 msgid "**t-tests**"
-msgstr ""
+msgstr "t-Tests"
 
 #: ../../index.rst:101
 msgid ":doc:`analyses/jg_21_t-test-independent`"

@@ -21,13 +21,15 @@ msgstr ""
 
 #: ../../howto/howto_Install_modules.rst:5
 msgid "Install modules in jamovi"
-msgstr ""
+msgstr "Module in jamovi installieren"
 
 #: ../../howto/howto_Install_modules.rst:8
 msgid ""
 "Click on the «+»-icon in the top-right corner to install modules from the"
 " jamovi library."
 msgstr ""
+"Klicken Sie auf das «+»-Symbol oben rechts, um Module aus der jamovi-"
+"Bibliothek zu installieren."
 
 #: ../../howto/howto_Install_modules.rst:9
 msgid "|jamovi_Modules1|"
@@ -40,6 +42,8 @@ msgstr "jamovi_Modules1"
 #: ../../howto/howto_Install_modules.rst:11
 msgid "Choose the jamovi library from the menu that opens."
 msgstr ""
+"Wählen Sie den ``jamovi library``-Tab aus dem sich öffnenden Menü aus."
+
 
 #: ../../howto/howto_Install_modules.rst:12
 msgid "|jamovi_Modules2|"
@@ -56,6 +60,12 @@ msgid ""
 "that you would like to use. Finally, close this window by clicking on the"
 " arrow pointing up (top-right corner)."
 msgstr ""
+"In dem sich nun öffnenden Fenster klicken Sie zunächst auf „Available“ "
+"(oben, in der Mitte). Gehen Sie dann die Liste mit den Modulen durch und "
+"klicken Sie bei jedem Modul, das Sie verwenden möchten, auf „INSTALL“. "
+"Zum Schluss schließen Sie dieses Fenster, indem Sie auf den nach oben "
+"zeigenden Pfeil klicken (oben, rechts).\n"
+"|jamovi_Modules3|"
 
 #: ../../howto/howto_Install_modules.rst:18
 msgid "|jamovi_Modules3|"

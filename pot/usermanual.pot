@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-16 19:03+0100\n"
+"POT-Creation-Date: 2022-02-16 20:39+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,15 +16,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../usermanual/um_1_installation.rst:7
+#: ../../usermanual/um_1_installation.rst:4
 msgid "Installation"
 msgstr ""
 
-#: ../../usermanual/um_1_installation.rst:10
+#: ../../usermanual/um_1_installation.rst:8
 msgid "Windows"
 msgstr ""
 
-#: ../../usermanual/um_1_installation.rst:12
+#: ../../usermanual/um_1_installation.rst:10
 msgid ""
 "jamovi is available for Windows Vista (64-bit) and above. Installation on "
 "windows is quite straight-forward, and should be familiar to anyone who has "
@@ -33,7 +33,7 @@ msgid ""
 "the icon."
 msgstr ""
 
-#: ../../usermanual/um_1_installation.rst:19
+#: ../../usermanual/um_1_installation.rst:17
 msgid ""
 "At some institutions (particularly universities), the “normal” approach to "
 "installing software is blocked by IT security policies. In this case, you "
@@ -44,11 +44,11 @@ msgid ""
 "be worth raising the issue with your IT staff."
 msgstr ""
 
-#: ../../usermanual/um_1_installation.rst:29
+#: ../../usermanual/um_1_installation.rst:28
 msgid "macOS"
 msgstr ""
 
-#: ../../usermanual/um_1_installation.rst:31
+#: ../../usermanual/um_1_installation.rst:30
 msgid ""
 "jamovi is available for macOS 10.9+ (Mavericks and newer). To install it, "
 "download the .dmg file from our `download page <https://www.jamovi.org/"
@@ -59,7 +59,7 @@ msgid ""
 "started like any other installed application."
 msgstr ""
 
-#: ../../usermanual/um_1_installation.rst:40
+#: ../../usermanual/um_1_installation.rst:39
 msgid ""
 "jamovi for macOS has an auto-update mechanism, and can alert you to when new "
 "versions are available. You can update your version of jamovi from the app "
@@ -98,35 +98,35 @@ msgstr ""
 msgid "and later, you can update your version of jamovi with:"
 msgstr ""
 
-#: ../../usermanual/um_1_installation.rst:73
+#: ../../usermanual/um_1_installation.rst:74
 msgid "Text not appearing in plots under linux"
 msgstr ""
 
-#: ../../usermanual/um_1_installation.rst:75
+#: ../../usermanual/um_1_installation.rst:76
 msgid ""
 "On some linux machines, the flatpak font cache is not up-to-date, resulting "
 "in plots in jamovi not displaying text correctly. To remedy this, you can "
 "run the following command at the terminal:"
 msgstr ""
 
-#: ../../usermanual/um_1_installation.rst:83
+#: ../../usermanual/um_1_installation.rst:84
 msgid ""
 "This appears to be an issue with flatpaks, and we’re working with the "
 "flatpak community to get to the bottom of it."
 msgstr ""
 
-#: ../../usermanual/um_1_installation.rst:89
+#: ../../usermanual/um_1_installation.rst:90
 msgid "Blank screen at startup on Chromebooks"
 msgstr ""
 
-#: ../../usermanual/um_1_installation.rst:91
+#: ../../usermanual/um_1_installation.rst:92
 msgid ""
 "Some Chromebooks experience a blank screen when starting up jamovi. The "
 "cause of this issue is not completely clear at this time, however it can be "
 "fixed by disabling “Crostini GPU support”."
 msgstr ""
 
-#: ../../usermanual/um_1_installation.rst:95
+#: ../../usermanual/um_1_installation.rst:96
 msgid ""
 "Enter ``chrome://flags/`` into the ChromeOS address bar. This will bring up "
 "“Experiments”. Search for ``Crostini GPU Support`` and set it to disabled. "
@@ -237,6 +237,17 @@ msgid ""
 "analysis can be removed."
 msgstr ""
 
+#: ../../usermanual/um_3_analyses.rst:22
+msgid ""
+"jamovi produces nice APA formatted tables, and attractive plots. It is often "
+"useful to be able to copy and paste these, perhaps into a Word document, or "
+"into an email to a colleague. To copy results, right click on the object of "
+"interest, and from the menu select exactly what you want to copy. The menu "
+"allows you to choose to copy, say only the image, or the entire analysis. "
+"Selecting copy, copies the content to the clipboard, and can be pasted into "
+"the other program in the usual way."
+msgstr ""
+
 #: ../../usermanual/um_4_spreadsheet.rst:4
 msgid "The Spreadsheet"
 msgstr ""
@@ -278,7 +289,7 @@ msgstr ""
 msgid "|nominal|    ``Nominal``"
 msgstr "|nominal|    ``Nominal``"
 
-#: ../../usermanual/um_4_spreadsheet.rst:117
+#: ../../usermanual/um_4_spreadsheet.rst:122
 msgid "nominal"
 msgstr "nominal"
 
@@ -286,7 +297,7 @@ msgstr "nominal"
 msgid "|ordinal|    ``Ordinal``"
 msgstr "|ordinal|    ``Ordinal``"
 
-#: ../../usermanual/um_4_spreadsheet.rst:119
+#: ../../usermanual/um_4_spreadsheet.rst:124
 msgid "ordinal"
 msgstr "ordinal"
 
@@ -294,7 +305,7 @@ msgstr "ordinal"
 msgid "|continuous| ``Continuous``"
 msgstr "|continuous| ``Continuous``"
 
-#: ../../usermanual/um_4_spreadsheet.rst:121
+#: ../../usermanual/um_4_spreadsheet.rst:126
 msgid "continuous"
 msgstr "continuous"
 
@@ -302,7 +313,7 @@ msgstr "continuous"
 msgid "|id|         ``ID``"
 msgstr "|id|         ``ID``"
 
-#: ../../usermanual/um_4_spreadsheet.rst:123
+#: ../../usermanual/um_4_spreadsheet.rst:128
 msgid "id"
 msgstr "id"
 
@@ -347,11 +358,18 @@ msgid ""
 "clicking the close arrow, or by pressing ``F3`` again."
 msgstr ""
 
-#: ../../usermanual/um_4_spreadsheet.rst:54
+#: ../../usermanual/um_4_spreadsheet.rst:50
+msgid ""
+"New variables can be inserted or appended to the data set using the ``Add`` "
+"button from the data ribbon. The ``Add`` button also allows the addition of "
+"*Computed variables*."
+msgstr ""
+
+#: ../../usermanual/um_4_spreadsheet.rst:55
 msgid "Computed Variables"
 msgstr ""
 
-#: ../../usermanual/um_4_spreadsheet.rst:56
+#: ../../usermanual/um_4_spreadsheet.rst:57
 msgid ""
 "Computed Variables are those which take their value by performing a "
 "computation on other Variables. Computed Variables can be used for a range "
@@ -359,7 +377,7 @@ msgid ""
 "scoring and means."
 msgstr ""
 
-#: ../../usermanual/um_4_spreadsheet.rst:59
+#: ../../usermanual/um_4_spreadsheet.rst:60
 msgid ""
 "*Computed variable*\\ s can be added to the data set, with the ``Add`` "
 "button available on the data tab. This will produce a formula box where you "
@@ -367,11 +385,21 @@ msgid ""
 "examples of formulas are:"
 msgstr ""
 
-#: ../../usermanual/um_4_spreadsheet.rst:75
+#: ../../usermanual/um_4_spreadsheet.rst:72
+msgid ""
+"In order, these are the sum of A and B, a log (base 10) transform of "
+"``len``, the mean of ``A`` and ``B``, and the z-score of ``dose`` (twice)."
+msgstr ""
+
+#: ../../usermanual/um_4_spreadsheet.rst:74
+msgid "There are many more functions available."
+msgstr ""
+
+#: ../../usermanual/um_4_spreadsheet.rst:78
 msgid "``V``-functions"
 msgstr ""
 
-#: ../../usermanual/um_4_spreadsheet.rst:77
+#: ../../usermanual/um_4_spreadsheet.rst:80
 msgid ""
 "A number of functions appear in pairs, one prefixed with a ``V`` and the "
 "other not. ``V`` functions perform their calculation on a variable *as a "
@@ -380,29 +408,36 @@ msgid ""
 "each row. Whereas ``VMEAN(A)`` gives the mean of *all* the values in ``A``."
 msgstr ""
 
-#: ../../usermanual/um_4_spreadsheet.rst:81
+#: ../../usermanual/um_4_spreadsheet.rst:84
 msgid ""
 "Additionally ``V`` functions support a ``group_by`` argument. When a "
 "``group_by`` variable is specified, a separate value is calculated for each "
 "level of the ``group_by`` variable. In the following example:"
 msgstr ""
 
-#: ../../usermanual/um_4_spreadsheet.rst:93
+#: ../../usermanual/um_4_spreadsheet.rst:92
+msgid ""
+"A separate mean is calculated for each level of ``dose``, and each value in "
+"the computed variable will be the mean corresponding to it’s row’s value of "
+"``dose``."
+msgstr ""
+
+#: ../../usermanual/um_4_spreadsheet.rst:97
 msgid "Recoded Variables"
 msgstr ""
 
-#: ../../usermanual/um_4_spreadsheet.rst:95
+#: ../../usermanual/um_4_spreadsheet.rst:99
 msgid ""
 "Transformed and recoded variables are also available. See this `blog post "
 "<https://blog.jamovi.org/2018/10/23/transforming-variables.html>`__ for "
 "details."
 msgstr ""
 
-#: ../../usermanual/um_4_spreadsheet.rst:99
+#: ../../usermanual/um_4_spreadsheet.rst:103
 msgid "Filters"
 msgstr ""
 
-#: ../../usermanual/um_4_spreadsheet.rst:101
+#: ../../usermanual/um_4_spreadsheet.rst:105
 msgid ""
 "Filters in jamovi allow you to filter out rows that you don’t want included "
 "in your analysis. For example, you might want to only include people’s "
@@ -413,13 +448,13 @@ msgid ""
 "deviations from the mean."
 msgstr ""
 
-#: ../../usermanual/um_4_spreadsheet.rst:106
+#: ../../usermanual/um_4_spreadsheet.rst:110
 msgid ""
 "The filters in jamovi are build on top of jamovi’s *computed variable* "
 "formula system, which allows the building of arbitrarily complex formulas."
 msgstr ""
 
-#: ../../usermanual/um_4_spreadsheet.rst:108
+#: ../../usermanual/um_4_spreadsheet.rst:112
 msgid ""
 "More details about filters are covered in this `blog post <https://blog."
 "jamovi.org/2018/04/25/jamovi-filters.html>`__"
@@ -448,56 +483,56 @@ msgid ""
 "post <https://blog.jamovi.org/2019/03/27/import.html>`__."
 msgstr ""
 
-#: ../../usermanual/um_5_updating_data.rst:20
+#: ../../usermanual/um_5_updating_data.rst:21
 msgid "Single-file Import"
 msgstr ""
 
-#: ../../usermanual/um_5_updating_data.rst:22
+#: ../../usermanual/um_5_updating_data.rst:23
 msgid ""
 "Import is available from the file menu (☰) at the top left of jamovi. When "
 "you import a file into an existing data set, the following operations are "
 "performed:"
 msgstr ""
 
-#: ../../usermanual/um_5_updating_data.rst:26
+#: ../../usermanual/um_5_updating_data.rst:27
 msgid "All the rows of the existing data set are deleted."
 msgstr ""
 
-#: ../../usermanual/um_5_updating_data.rst:27
+#: ../../usermanual/um_5_updating_data.rst:28
 msgid ""
 "All the (original) names of the existing columns are matched to the names of "
 "the columns from the new data set."
 msgstr ""
 
-#: ../../usermanual/um_5_updating_data.rst:29
+#: ../../usermanual/um_5_updating_data.rst:30
 msgid ""
 "The new values are imported to the existing columns, *keeping* the data and "
 "measure types from the existing data set."
 msgstr ""
 
-#: ../../usermanual/um_5_updating_data.rst:31
+#: ../../usermanual/um_5_updating_data.rst:32
 msgid ""
 "The new columns which did not match names in the original data set are "
 "appended to the right of the data set."
 msgstr ""
 
-#: ../../usermanual/um_5_updating_data.rst:34
+#: ../../usermanual/um_5_updating_data.rst:35
 msgid ""
 "If no new column matches the column names in the existing data set, then "
 "those columns are left blank."
 msgstr ""
 
-#: ../../usermanual/um_5_updating_data.rst:37
+#: ../../usermanual/um_5_updating_data.rst:38
 msgid ""
 "Following a file import, all the filters, computed variables, transforms and "
 "analyses update."
 msgstr ""
 
-#: ../../usermanual/um_5_updating_data.rst:41
+#: ../../usermanual/um_5_updating_data.rst:43
 msgid "Multi-file Import"
 msgstr ""
 
-#: ../../usermanual/um_5_updating_data.rst:43
+#: ../../usermanual/um_5_updating_data.rst:45
 msgid ""
 "It is also possible to import multiple files at once. This can be useful "
 "when you are combining multiple data sets, for example, where each file "
@@ -507,7 +542,7 @@ msgid ""
 "files, or with the “multi-select” button at the top of the import dialog."
 msgstr ""
 
-#: ../../usermanual/um_5_updating_data.rst:50
+#: ../../usermanual/um_5_updating_data.rst:52
 msgid ""
 "When importing multiple files like this, they are combined vertically with "
 "the rows of the second file appearing below the first, the rows of the third "
@@ -518,15 +553,15 @@ msgid ""
 "``V``-functions described above."
 msgstr ""
 
-#: ../../usermanual/um_5_updating_data.rst:58
+#: ../../usermanual/um_5_updating_data.rst:60
 msgid "At present, there is no way to combine files horizontally in jamovi."
 msgstr ""
 
-#: ../../usermanual/um_5_updating_data.rst:61
+#: ../../usermanual/um_5_updating_data.rst:64
 msgid "Templates"
 msgstr ""
 
-#: ../../usermanual/um_5_updating_data.rst:63
+#: ../../usermanual/um_5_updating_data.rst:66
 msgid ""
 "Templates in jamovi are special data sets that are analagous to script files "
 "in more traditional statistical environments. They are a way to specify data "
@@ -537,7 +572,7 @@ msgid ""
 "not require working with a “syntax” or code."
 msgstr ""
 
-#: ../../usermanual/um_5_updating_data.rst:71
+#: ../../usermanual/um_5_updating_data.rst:74
 msgid ""
 "To save a data set as a template, select ``Export`` from the file menu, and "
 "select ``jamovi template (.omt)`` from the file type box. When opening a "
@@ -548,7 +583,7 @@ msgid ""
 "results."
 msgstr ""
 
-#: ../../usermanual/um_5_updating_data.rst:79
+#: ../../usermanual/um_5_updating_data.rst:82
 msgid ""
 "jamovi templates are also a great way to provide analyses to less capable "
 "students or colleagues."
@@ -573,4 +608,19 @@ msgid ""
 "R syntax, and “ASCII output” like an R session. Like all results objects in "
 "jamovi, you can right click on these items (including the R syntax) and copy "
 "and paste them, for example, into an R session."
+msgstr ""
+
+#: ../../usermanual/um_6_syntax_mode.rst:18
+msgid ""
+"At present, the provided R syntax does not include the data import step, and "
+"this must be performed manually. There are many resources explaining how to "
+"import data into R, and we recommend you take a look at these (most analyses "
+"in jamovi require data as a data frame)."
+msgstr ""
+
+#: ../../usermanual/um_6_syntax_mode.rst:21
+msgid ""
+"Another R feature that may be of interest is the `Rj Editor <https://blog."
+"jamovi.org/2018/07/30/rj.html>`__, which allows you to use R code to analyse "
+"data directly in jamovi."
 msgstr ""
