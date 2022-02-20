@@ -5,27 +5,30 @@
 # This file is distributed under the same license as the jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jamovi \n"
+"Project-Id-Version: jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-16 20:39+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-02-21 11:29+0000\n"
+"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/jamovi/"
+"jamovidocs_1_usermanual/nb_NO/>\n"
+"Language: no\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.11-dev\n"
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../usermanual/um_1_installation.rst:4
 msgid "Installation"
-msgstr ""
+msgstr "Installasjon"
 
 #: ../../usermanual/um_1_installation.rst:8
 msgid "Windows"
-msgstr ""
+msgstr "Windows"
 
 #: ../../usermanual/um_1_installation.rst:10
 msgid ""
@@ -35,6 +38,11 @@ msgid ""
 "from the `download page <https://www.jamovi.org/download.html>`__, and "
 "double-click the icon."
 msgstr ""
+"jamovi er tilgjengelig for Windows Vista (64-bit) og nyere. Installasjon på "
+"Windows er ganske enkel, og bør være kjent for alle som har installert "
+"programvare på Windows før. Last ned den nyeste versjonen fra `"
+"nedlastingssiden <https://www.jamovi.org/download.html>`__, og dobbeltklikk "
+"på ikonet."
 
 #: ../../usermanual/um_1_installation.rst:17
 msgid ""
@@ -46,10 +54,17 @@ msgid ""
 "security restrictions prevent jamovi from working in this way, in which "
 "case it would be worth raising the issue with your IT staff."
 msgstr ""
+"Noen institusjoner (spesielt universiteter) blokkerer den \"vanlige\" måten "
+"å installere programvare ifm. IT-sikkerhetspolicyer. I dette tilfellet kan "
+"du laste ned .zip-versjon. Etter nedlasting pakker du den ut til et sted på "
+"datamaskinen, og naviger til bin-mappen. Hvis du dobbeltklikker på "
+"jamovi.exe starter jamovi. Det er fremdeles mulig at ytterligere "
+"sikkerhetsbegrensninger hindrer jamovi i å fungere på denne måten, i så fall "
+"vil er du nødt å ta opp problemet med IT-avdelingen."
 
 #: ../../usermanual/um_1_installation.rst:28
 msgid "macOS"
-msgstr ""
+msgstr "macOS"
 
 #: ../../usermanual/um_1_installation.rst:30
 msgid ""
@@ -62,6 +77,14 @@ msgid ""
 " your applications, and can be started like any other installed "
 "application."
 msgstr ""
+"jamovi er tilgjengelig for macOS 10.9+ (Mavericks og nyere). For å "
+"installere programmen, last ned .dmg-filen fra vår `nedlastingsside "
+"<https://www.jamovi.org/download.html>`__, og dobbeltklikk på den nedlastede "
+"filen. Dette vil presentere deg med en «filvisning|, hvor du kan installere "
+"jamovi ved å «dra og slippe» jamovi-applikasjonen til Programmer-mappen ("
+"slik som du gjør ved installasjon av andre programmer). Etter dette vil "
+"jamovi vises blant applikasjonene dine, og kan startes som alle andre "
+"installerte applikasjoner."
 
 #: ../../usermanual/um_1_installation.rst:39
 msgid ""
@@ -69,10 +92,13 @@ msgid ""
 "new versions are available. You can update your version of jamovi from "
 "the app menu (☰; at the top right of the window)."
 msgstr ""
+"jamovi for macOS har en mekanisme for automatisk oppdatering, og kan varsle "
+"deg om når nye versjoner er tilgjengelige. Du kan oppdatere din versjon av "
+"jamovi fra appmenyen (☰; øverst til høyre i vinduet)."
 
 #: ../../usermanual/um_1_installation.rst:45
 msgid "Linux and Chromebooks"
-msgstr ""
+msgstr "Linux og Chromebooker"
 
 #: ../../usermanual/um_1_installation.rst:47
 msgid ""
@@ -80,6 +106,8 @@ msgid ""
 "linux distributions’ – which is most of them), and Chromebooks, from "
 "flathub."
 msgstr ""
+"jamovi er tilgjengelig for Linux (for alle distribusjoner som støtter "
+"«flatpak» - dvs. de allerfleste), og Chromebooks, via flathub."
 
 #: ../../usermanual/um_1_installation.rst:51
 msgid ""
@@ -87,6 +115,9 @@ msgid ""
 "up jamovi. If you encounter this, there are instructions on how to fix "
 "this a little :ref:`further down<blank-screen-on-chromebooks>`."
 msgstr ""
+"**Merk**: Noen Chromebook-enheter viser et blank skjerm når du starter "
+"jamovi. Hvis du opplever dette problemet, finner du instruksjoner om hvordan "
+"du fikser dette litt :ref:'lenger ned<blank-screen-on-chromebooks>'."
 
 #: ../../usermanual/um_1_installation.rst:55
 msgid ""
@@ -94,18 +125,22 @@ msgid ""
 "on `our flathub page "
 "<https://flathub.org/apps/details/org.jamovi.jamovi>`__."
 msgstr ""
+"Hvis du ikke har brukt flatpak/flathub før, bør du følge "
+"installasjonsveiledningen på `flathub-siden vår <https://flathub.org/apps/"
+"details/org.jamovi.jamovi>`__."
 
 #: ../../usermanual/um_1_installation.rst:59
 msgid "If you’re an old hand at flatpak, you can install jamovi with the command:"
 msgstr ""
+"Hvis du har erfaring med flatpak, kan du installere jamovi med kommandoen:"
 
 #: ../../usermanual/um_1_installation.rst:66
 msgid "and later, you can update your version of jamovi with:"
-msgstr ""
+msgstr "og senere kan du oppdatere din versjon av jamovi med:"
 
 #: ../../usermanual/um_1_installation.rst:74
 msgid "Text not appearing in plots under linux"
-msgstr ""
+msgstr "Tekst i diagrammer på linux ser merkelig ut"
 
 #: ../../usermanual/um_1_installation.rst:76
 msgid ""
@@ -113,16 +148,21 @@ msgid ""
 "resulting in plots in jamovi not displaying text correctly. To remedy "
 "this, you can run the following command at the terminal:"
 msgstr ""
+"På noen linux-maskiner er flatpak-fontbufferen ikke oppdatert. Det kan "
+"resultere i at diagrammer i jamovi ikke viser teksten riktig. For å avhjelpe "
+"dette kan du bruke følgende kommando i terminalen:"
 
 #: ../../usermanual/um_1_installation.rst:84
 msgid ""
 "This appears to be an issue with flatpaks, and we’re working with the "
 "flatpak community to get to the bottom of it."
 msgstr ""
+"Dette ser ut til å være et generelt problem med flatpaks, og vi jobber med "
+"flatpak-samfunnet for å finne en løsning for dette problemet."
 
 #: ../../usermanual/um_1_installation.rst:90
 msgid "Blank screen at startup on Chromebooks"
-msgstr ""
+msgstr "Tom skjerm ved oppstart på Chromebook"
 
 #: ../../usermanual/um_1_installation.rst:92
 msgid ""
@@ -130,6 +170,9 @@ msgid ""
 "cause of this issue is not completely clear at this time, however it can "
 "be fixed by disabling “Crostini GPU support”."
 msgstr ""
+"Noen Chromebook-enheter opplever en tom skjerm når du starter jamovi. "
+"Årsaken til dette problemet er ikke helt klart på dette tidspunktet, men det "
+"kan løses ved å deaktivere «Crostini GPU-støtte»."
 
 #: ../../usermanual/um_1_installation.rst:96
 msgid ""
@@ -138,10 +181,14 @@ msgid ""
 "disabled. After restarting your Chromebook the issue will be fixed "
 "(special thanks to `@mulderc <https://github.com/mulderc>`__)."
 msgstr ""
+"Skriv inn ``chrome://flags/`` i ChromeOS-adresselinjen. Dette vil få opp "
+"«Eksperimenter». Søk etter ``Crostini GPU Support`` og sett den til "
+"deaktivert. Etter å ha startet Chromebooken på nytt vil problemet løses ("
+"spesiell takk til `@mulderc <https://github.com/mulderc>`__)."
 
 #: ../../usermanual/um_2_first-steps.rst:4
 msgid "First steps in jamovi"
-msgstr ""
+msgstr "De første trinnene i jamovi"
 
 #: ../../usermanual/um_2_first-steps.rst:6
 msgid ""
@@ -214,7 +261,7 @@ msgstr ""
 
 #: ../../usermanual/um_3_analyses.rst:4
 msgid "Analyses"
-msgstr ""
+msgstr "Analyser"
 
 #: ../../usermanual/um_3_analyses.rst:6
 msgid ""
@@ -635,4 +682,3 @@ msgid ""
 "<https://blog.jamovi.org/2018/07/30/rj.html>`__, which allows you to use "
 "R code to analyse data directly in jamovi."
 msgstr ""
-
