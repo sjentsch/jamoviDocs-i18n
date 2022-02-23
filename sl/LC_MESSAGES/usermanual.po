@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-16 19:03+0100\n"
-"PO-Revision-Date: 2022-02-21 23:07+0000\n"
+"PO-Revision-Date: 2022-02-23 12:55+0000\n"
 "Last-Translator: Matej U <mateju@src.gnome.org>\n"
 "Language-Team: Slovenian <https://hosted.weblate.org/projects/jamovi/"
 "jamovidocs_1_usermanual/sl/>\n"
@@ -404,7 +404,7 @@ msgstr ""
 
 #: ../../usermanual/um_4_spreadsheet.rst:99
 msgid "Filters"
-msgstr ""
+msgstr "Filtri"
 
 #: ../../usermanual/um_4_spreadsheet.rst:101
 msgid ""
