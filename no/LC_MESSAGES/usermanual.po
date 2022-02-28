@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-16 20:39+0100\n"
-"PO-Revision-Date: 2022-02-21 23:07+0000\n"
+"PO-Revision-Date: 2022-03-01 11:58+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/jamovi/"
 "jamovidocs_1_usermanual/nb_NO/>\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.11-dev\n"
+"X-Generator: Weblate 4.11.1-dev\n"
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../usermanual/um_1_installation.rst:4
@@ -195,6 +195,8 @@ msgid ""
 "When first starting jamovi, you will be presented with a user interface "
 "which looks something like this."
 msgstr ""
+"Når du først starter jamovi, vil du bli presentert med et brukergrensesnitt "
+"som ser omtrent slik ut."
 
 #: ../../usermanual/um_2_first-steps.rst:9
 msgid "|screenshot|"
@@ -211,12 +213,17 @@ msgid ""
 "these two regions, and this can be dragged to the left or the right to "
 "change their sizes."
 msgstr ""
+"Til venstre er regnearkvisningen, og til høyre vises resultatene av "
+"statistiske tester. Nedover midten er en stolpe som skiller disse to "
+"områdene, og dette kan dras til venstre eller høyre for å endre størrelsen."
 
 #: ../../usermanual/um_2_first-steps.rst:16
 msgid ""
 "It is possible to simply begin typing values into the jamovi spreadsheet "
 "as you would any other spreadsheet software."
 msgstr ""
+"Det er mulig å bare begynne å skrive inn verdier i jamovi-regnearket som du "
+"ville gjort med annen regnearkprogramvare."
 
 #: ../../usermanual/um_2_first-steps.rst:19
 msgid ""
@@ -228,6 +235,12 @@ msgid ""
 "PC``, depending on whether you want to open an example, or a file stored "
 "on your computer."
 msgstr ""
+"Alternativt kan eksisterende datasett i en rekke formater (CSV, Excel, "
+"LibreOffice, R, SPSS, Stata, SAS, etc.) åpnes i jamovi. I tillegg finnes det "
+"en rekke eksempeldatasett. Hvis du vil åpne en fil, velger du filmenyen (☰ "
+"øverst til venstre i jamovi), deretter Åpne og Denne PCen eller "
+"Databibliotek, avhengig av om du vil åpne en fil som er lagret på "
+"datamaskinen eller et eksempel."
 
 #: ../../usermanual/um_2_first-steps.rst:27
 msgid "|csv-data|"
@@ -251,6 +264,17 @@ msgid ""
 "choose ``Comma delimited`` in the drop-down menu close to the ``Save "
 "as``-button. Thereafter, you may open the CSV-file in jamovi."
 msgstr ""
+"Et svært vanlig format for utveksling av data er å bruke filer med "
+"\"kommadelte verdier\" (.csv eller .txt). Gitt at disse dataene lagres som "
+"enkel tekstfil ved hjelp av kommaer (eller \";\", \"|\", etc.) for å skille "
+"verdier nesten alle programvarepakker kan lese og skrive dem (og du kan ta "
+"en titt ved hjelp av tekstredigeringsprogrammer). Et eksempel vises i "
+"figuren. Den første linjen inneholder variabelnavnene og en hvilken som "
+"helst annen linje etterpå et målepunkt (vanligvis en person der data ble "
+"hentet fra). Hvis du har dataene dine i et regnearkprogram (for eksempel "
+"Excel), kan du opprette en CSV-fil fra dataene dine ved å velge ''Fil'' → "
+"''Lagre som...'' og velg ''Kommadelt'' i rullegardinmenyen nær ''Lagre som'-"
+"knappen. Deretter kan du åpne CSV-filen i jamovi."
 
 #: ../../usermanual/um_2_first-steps.rst:41
 msgid ""
@@ -258,6 +282,9 @@ msgid ""
 " issue (bug report) in the GitHub `issue tracker "
 "<https://github.com/jamovi/jamovi/issues>`__."
 msgstr ""
+"I det usannsynlige tilfellet at jamovi ikke åpner en fil riktig, kan du "
+"sende inn et problem (feilrapport) i 'issue tracker <https://github.com/"
+"jamovi/jamovi/issues>'__ på GitHub."
 
 #: ../../usermanual/um_3_analyses.rst:4
 msgid "Analyses"
@@ -272,6 +299,14 @@ msgid ""
 "results for the analysis will appear in the right “results panel”, and "
 "will update as you make changes to the options."
 msgstr ""
+"Analyser kan velges fra «Analyser»-ribbon-menyet (øverste linje i jamovi-"
+"vinduet). Hvis du velger en analyse, vises et inngave-\"panel\" for den "
+"analysen du har valgt, slik at du kan tilordne forskjellige variabler til "
+"forskjellige funksjoner av analysen (f.eks. avhengige variable) og velge "
+"forskjellige opsjoner hvordan analysen bør gjennomføres (f.eks. hvilke "
+"forutsetningene for analysen bør testes). Samtidig vil resultatene for "
+"analysen vises i høyre \"resultatpanel\", og vil oppdateres når du gjør "
+"endringer i opsjonene."
 
 #: ../../usermanual/um_3_analyses.rst:10
 msgid ""
@@ -281,6 +316,11 @@ msgid ""
 "were produced. In this way, you can return to any analysis that you (or "
 "say, a colleague) created earlier."
 msgstr ""
+"Når du har konfigurert analysen riktig, kan du lukke inngave-panelen for "
+"denne analysen ved å klikke pilen øverst til høyre i alternativpanelet. Hvis "
+"du ønsker å gå tilbake til inngave-panelen, kan du klikke på resultatene. På "
+"denne måten kan du gå tilbake til alle analyser du (eller en kollega) har "
+"opprettet tidligere."
 
 #: ../../usermanual/um_3_analyses.rst:14
 msgid ""
@@ -289,6 +329,10 @@ msgid ""
 "will bring up a menu, and by selecting ``Analysis``, and then ``Remove``,"
 " the analysis can be removed."
 msgstr ""
+"Hvis du bestemmer deg for at du ikke lenger trenger en bestemt analyse, kan "
+"du fjerne den med hurtigmenyen for resultater. Høyreklikk på "
+"analyseresultatene vil få opp en meny, og ved å velge ``Analyse``, og "
+"deretter ``Fjern``, kan analysen fjernes."
 
 #: ../../usermanual/um_3_analyses.rst:22
 msgid ""
@@ -300,20 +344,29 @@ msgid ""
 "the entire analysis. Selecting copy, copies the content to the clipboard,"
 " and can be pasted into the other program in the usual way."
 msgstr ""
+"jamovi produserer attraktive APA-formaterte tabeller og diagrammer. Å kunne "
+"kopiere og lime inn disse, kanskje i et tekstdokument eller i en e-post til "
+"en kollega, er ofte svært nyttige. Hvis du vil kopiere resultater, "
+"høyreklikker du objektet du er interessert i, og i kontekstmenyen velger du "
+"hvilke deler du vil kopiere. Menyen lar deg velge å kopiere, bare et diagram "
+"eller hele analysen. Etter du har gjort valg, kopieres det valgte innholdet "
+"til utklippstavlen, og det kan limes inn i andre programmer på vanlig måte."
 
 #: ../../usermanual/um_4_spreadsheet.rst:4
 msgid "The Spreadsheet"
-msgstr ""
+msgstr "Regnearket"
 
 #: ../../usermanual/um_4_spreadsheet.rst:6
 msgid ""
 "In jamovi, data is represented in a spreadsheet, with each column "
 "representing a “variable”."
 msgstr ""
+"I jamovi representeres data i et regneark, der hver kolonne representerer en "
+"«variabel»."
 
 #: ../../usermanual/um_4_spreadsheet.rst:10
 msgid "Data Variables"
-msgstr ""
+msgstr "Datavariabler"
 
 #: ../../usermanual/um_4_spreadsheet.rst:12
 msgid ""
@@ -321,22 +374,25 @@ msgid ""
 "variables simply contain data either loaded from a data file, or \"typed "
 "in\" by the user. Data variables can be one three data types:"
 msgstr ""
+"De mest brukte variablene i jamovi er «Datavariabler». Disse variablene "
+"inneholder data som enten lastes inn fra en datafil, eller «skrevet inn» av "
+"brukeren. Datavariabler kan være én av tre datatyper:"
 
 #: ../../usermanual/um_4_spreadsheet.rst:15
 msgid "``Integer``"
-msgstr ""
+msgstr "``Integer``"
 
 #: ../../usermanual/um_4_spreadsheet.rst:16
 msgid "``Decimal``"
-msgstr ""
+msgstr "``Decimal``"
 
 #: ../../usermanual/um_4_spreadsheet.rst:17
 msgid "``Text``"
-msgstr ""
+msgstr "``Text``"
 
 #: ../../usermanual/um_4_spreadsheet.rst:19
 msgid "and one of four measure types:"
-msgstr ""
+msgstr "og en av fire målenivåer:"
 
 #: ../../usermanual/um_4_spreadsheet.rst:21
 msgid "|nominal|    ``Nominal``"
@@ -376,6 +432,9 @@ msgid ""
 "variable’s column. Note that some combinations of data-type and measure-"
 "type don’t make sense, and jamovi won’t let you choose these."
 msgstr ""
+"Målenivåne er angitt med symbolet i overskriften til variabelens kolonne. "
+"Merk at noen kombinasjoner av datatype og måletype ikke gir mening, og "
+"jamovi lar deg ikke velge disse."
 
 #: ../../usermanual/um_4_spreadsheet.rst:30
 msgid ""
@@ -389,6 +448,14 @@ msgid ""
 "maintain a list of levels internally, which can improve performance when "
 "interacting with very large data sets."
 msgstr ""
+"``Nominal`` og ``Ordinal`` er for nominale og ordinale variabler. "
+"``Continuous`` er for variabler med numeriske verdier som anses å være "
+"*Intervall*- eller *forholdstall*-skalaer (tilsvarer ``Scale`` i SPSS). "
+"Måltypen ``ID`` er unik for jamovi. Den bør brukes for variabler som "
+"inneholder identifikatorer som du nesten aldri vil analysere (f.eks. et "
+"personnavn eller en deltaker-ID). Fordelen med ``ID`` er at jamovi ikke "
+"trenger å opprettholde en liste over nivåer internt. Det kan forbedre "
+"prosesseringshastighet når du bruker svært store datasett."
 
 #: ../../usermanual/um_4_spreadsheet.rst:35
 msgid ""
