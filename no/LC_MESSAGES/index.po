@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: jamovi\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2022-02-16 19:03+0100\n"
-"PO-Revision-Date: 2022-03-01 22:03+0000\n"
+"PO-Revision-Date: 2022-03-01 22:06+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/"
 "jamovidocs/0_start/nb_NO/>\n"
@@ -24,7 +24,7 @@ msgstr ""
 
 #: ../../index.rst:12
 msgid "Getting Started"
-msgstr "Kom i gang1"
+msgstr "Kom i gang"
 
 #: ../../index.rst:24 ../../index.rst:90
 msgid "Analyses"
