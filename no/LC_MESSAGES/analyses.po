@@ -5,23 +5,26 @@
 # This file is distributed under the same license as the jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jamovi \n"
+"Project-Id-Version: jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-16 18:48+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-03-01 22:31+0000\n"
+"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/"
+"jamovidocs/2_analyses/nb_NO/>\n"
+"Language: no\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.11.1-dev\n"
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../analyses/jg_00_overview.rst:5
 msgid "Analyses: Introduction"
-msgstr ""
+msgstr "Analyser: Introduksjon"
 
 #: ../../analyses/jg_00_overview.rst:7
 msgid ""
@@ -33,10 +36,17 @@ msgid ""
 "`community resources <https://www.jamovi.org/community.html>`__ "
 "available."
 msgstr ""
+"Målet med den følgende delen er å gi korte, ikke-tekniske veiledninger om "
+"hvordan man utfører vanlige statistiske prosedyrer i jamovi. Veiledningene "
+"ble opprinnelig laget av Jonas Rafi under navnet jamovi-guide. Men, det er "
+"bare ment som en kort oversikt og som hjelp for å komme i gang. For en mer "
+"dypere behandling av disse analysene, anbefaler vi at du tar en titt på de "
+"mange `community resources <https://www.jamovi.org/community.html>`__ som er "
+"tilgjengelige."
 
 #: ../../analyses/jg_00_overview.rst:13
 msgid "A Note On Measurement Types"
-msgstr ""
+msgstr "En merknad om måletyper"
 
 #: ../../analyses/jg_00_overview.rst:15
 msgid ""
@@ -52,6 +62,17 @@ msgid ""
 "|continuous| continuous variable to an analysis expecting a |nominal| "
 "nominal one, the analysis will simply treat the variable as nominal."
 msgstr ""
+"Følgende dokumentasjon beskriver hver av analysene, og beskriver de "
+"nødvendige måletypene for variable mål. Det kan for eksempel forklare at en "
+"bestemt analyse krever en |continuous| kontinuerlig avhengig variabel og en "
+"|nominal| nominell grupperingsvariabel. Det skjer av og til at kolonnene i "
+"datasettet ikke er konfigurert med den korrekte måletypen (det vises i "
+"kolonneoverskriften). Du kan justere måletypen for kolonner ved hjelp av "
+"variabelredigering (dobbeltklikk på kolonneoverskrift), men (for det meste) "
+"disse måletypene er heller en veiledning og analysene virker selv om du "
+"bruker en «ukorrekt» måletype. Hvis du tilordner et |continuous| "
+"kontinuerlig variabel til en analyse som forventer en |nominal| nominell, "
+"vil analysen ganske enkelt behandle variabelen som nominell."
 
 #: ../../analyses/jg_00_overview.rst:94
 #: ../../analyses/jg_21_t-test-independent.rst:50
@@ -63,7 +84,7 @@ msgstr ""
 #: ../../analyses/jg_42_regression-linear.rst:54
 #: ../../analyses/jg_43_regression-logistic.rst:56
 msgid "continuous"
-msgstr ""
+msgstr "continuous"
 
 #: ../../analyses/jg_00_overview.rst:92
 #: ../../analyses/jg_21_t-test-independent.rst:48
@@ -72,7 +93,7 @@ msgstr ""
 #: ../../analyses/jg_34_anova-mixed.rst:58
 #: ../../analyses/jg_43_regression-logistic.rst:52
 msgid "nominal"
-msgstr ""
+msgstr "nominal"
 
 #: ../../analyses/jg_00_overview.rst:21
 msgid ""
@@ -81,10 +102,13 @@ msgid ""
 "can save yourself the labour of setting the measure types correctly if "
 "you don't want to."
 msgstr ""
+"Det betyr at selv om dokumentasjonen kanskje sier at en bestemt måletype er "
+"nødvendig, må dataene ganske enkelt være korrekt satt og du kan spare deg "
+"selv tiden for å rette dem hvis du ikke vil."
 
 #: ../../analyses/jg_00_overview.rst:26
 msgid "Descriptives"
-msgstr ""
+msgstr "Deskriptivstatistiske analyser"
 
 #: ../../analyses/jg_00_overview.rst:28
 msgid ":doc:`jg_11_descriptive-analyses`"
@@ -92,7 +116,7 @@ msgstr ":doc:`jg_11_descriptive-analyses`"
 
 #: ../../analyses/jg_00_overview.rst:32
 msgid "t-tests"
-msgstr ""
+msgstr "t-tester"
 
 #: ../../analyses/jg_00_overview.rst:34
 msgid ""
@@ -100,10 +124,13 @@ msgid ""
 "distributed data set deviates significantly from a null hypothesis (which"
 " assumes that there is no difference)."
 msgstr ""
+"t-testen brukes til å teste om gjennomsnittsverdien i et normalfordelt "
+"datasett avviker betydelig fra en nullhypotese (som påstår at det ikke er "
+"noen forskjell)."
 
 #: ../../analyses/jg_00_overview.rst:37
 msgid "There are three types of t-tests:"
-msgstr ""
+msgstr "Det finnes tre typer t-tester:"
 
 #: ../../analyses/jg_00_overview.rst:39
 msgid ":doc:`jg_21_t-test-independent`"
@@ -121,7 +148,7 @@ msgstr ":doc:`jg_23_t-test-onesample`"
 #: ../../analyses/jg_00_overview.rst:84
 #: ../../analyses/jg_21_t-test-independent.rst:35
 msgid "Community resources"
-msgstr ""
+msgstr "Community resources"
 
 #: ../../analyses/jg_00_overview.rst
 msgid ""
@@ -1100,4 +1127,3 @@ msgid ""
 "preferences: fast food, healthy food, high protein food, vegan food, "
 "etc.)."
 msgstr ""
-
