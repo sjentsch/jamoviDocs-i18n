@@ -3,17 +3,19 @@
 # Sebastian Jentschke (curating this documentation). This work is licensed
 # under a Creative Commons Attribution-ShareAlike 4.0 International License
 # This file is distributed under the same license as the jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
-#
-#, fuzzy
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+# Leonardo Villa <leovilla80@gmail.com>, 2021.
 msgid ""
 msgstr ""
-"Project-Id-Version: jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-16 18:48+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Project-Id-Version:  jamovi\n"
+"Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
+"POT-Creation-Date: 2021-10-30 20:11+0200\n"
+"PO-Revision-Date: 2021-10-28 09:37+0000\n"
+"Last-Translator: Leonardo Villa <leovilla80@gmail.com>\n"
+"Language: es\n"
+"Language-Team: Spanish <https://hosted.weblate.org/projects/jamovi/"
+"jg_0_introduction/es/>\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -21,7 +23,7 @@ msgstr ""
 
 #: ../../analyses/jg_00_overview.rst:5
 msgid "Analyses: Introduction"
-msgstr ""
+msgstr "Análisis: Introducción"
 
 #: ../../analyses/jg_00_overview.rst:7
 msgid ""
@@ -33,6 +35,14 @@ msgid ""
 "`community resources <https://www.jamovi.org/community.html>`__ "
 "available."
 msgstr ""
+"El objetivo de la siguiente sección es proveer tutoriales cortos, no "
+"técnicos, de cómo realizar procedimientos estadísticos comunes en jamovi. "
+"Fue creado originalmente por Jonas Rafi bajo el nombre de Guía jamovi. Sin "
+"embargo, ha sido pensado como una introducción, no como un recurso que "
+"provea una introducción profunda a los antecedentes de dichos "
+"procedimientos. Para quienes deseen eso, hay una gran cantidad de otros "
+"recursos. Algunos de dichos recursos están listados al final de las páginas "
+"que introducen al análisis individual en la caja \"recurso de la Comunidad\"."
 
 #: ../../analyses/jg_00_overview.rst:13
 msgid "A Note On Measurement Types"
@@ -92,7 +102,7 @@ msgstr ":doc:`jg_11_descriptive-analyses`"
 
 #: ../../analyses/jg_00_overview.rst:32
 msgid "t-tests"
-msgstr ""
+msgstr "Pruebas T"
 
 #: ../../analyses/jg_00_overview.rst:34
 msgid ""
@@ -100,10 +110,13 @@ msgid ""
 "distributed data set deviates significantly from a null hypothesis (which"
 " assumes that there is no difference)."
 msgstr ""
+"La prueba t se utiliza para comprobar si la media de un conjunto de datos "
+"con distribución normal se desvía significativamente de una hipótesis nula "
+"(que supone que no hay diferencias)."
 
 #: ../../analyses/jg_00_overview.rst:37
 msgid "There are three types of t-tests:"
-msgstr ""
+msgstr "Hay tres tipos de pruebas t:"
 
 #: ../../analyses/jg_00_overview.rst:39
 msgid ":doc:`jg_21_t-test-independent`"
@@ -121,7 +134,7 @@ msgstr ":doc:`jg_23_t-test-onesample`"
 #: ../../analyses/jg_00_overview.rst:84
 #: ../../analyses/jg_21_t-test-independent.rst:35
 msgid "Community resources"
-msgstr ""
+msgstr "Recursos de la Comunidad"
 
 #: ../../analyses/jg_00_overview.rst
 msgid ""
@@ -130,10 +143,14 @@ msgid ""
 "<https://www.youtube.com/embed/mb7KCLYEis8?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__"
 " by `Barton Poulson <https://datalab.cc/jamovi>`__."
 msgstr ""
+"Una introducción más completa al concepto se presenta en este `vídeo "
+"<https://www.youtube.com/embed/mb7KCLYEis8?"
+"list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ de `Barton Poulson <https://"
+"datalab.cc/jamovi>`__."
 
 #: ../../analyses/jg_00_overview.rst:50
 msgid "Analyses of Variance (ANOVA)"
-msgstr ""
+msgstr "Análisis de la Varianza (ANOVA)"
 
 #: ../../analyses/jg_00_overview.rst:52
 msgid ""
@@ -148,6 +165,16 @@ msgid ""
 "(t-tests only allow two) and in that several factors can be examined "
 "simultaneously."
 msgstr ""
+"El análisis de la varianza (ANOVA) es un método estadístico que examina cómo "
+"el impacto de uno o más factores afecta a una variable de resultado "
+"(dependiente). Estos factores son las variables predictoras y son "
+"categóricas. Normalmente, estos factores reflejan una manipulación "
+"experimental (por ejemplo, con o sin tratamiento), pero un factor también "
+"puede representar grupos cuya influencia uno podría desear controlar (por "
+"ejemplo, el género: hombres o mujeres). El análisis de la varianza se basa "
+"en un concepto similar al de la prueba t, pero va más allá, en el sentido de "
+"que los factores pueden tener varios niveles (las pruebas t sólo permiten "
+"dos) y en que se pueden examinar varios factores simultáneamente."
 
 #: ../../analyses/jg_00_overview.rst:58
 msgid ""
@@ -155,6 +182,9 @@ msgid ""
 "number of factors examined - one or more factors - or whether they "
 "compare between people or within a person - repeated measurements:"
 msgstr ""
+"Existen diferentes tipos de análisis de la varianza, que difieren en el "
+"número de factores examinados -uno o más factores- o en si se comparan entre "
+"personas o dentro de una persona -medidas repetidas-:"
 
 #: ../../analyses/jg_00_overview.rst:61
 msgid ":doc:`jg_31_unianova`"
@@ -178,10 +208,14 @@ msgid ""
 "<https://www.youtube.com/embed/GcbMG6sizXs?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__"
 " by `Barton Poulson <https://datalab.cc/jamovi>`__."
 msgstr ""
+"Una introducción en el concepto del ANOVA se presenta en este `video "
+"<https://www.youtube.com/embed/GcbMG6sizXs?"
+"list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ por `Barton Poulson <https://"
+"datalab.cc/jamovi>`__."
 
 #: ../../analyses/jg_00_overview.rst:74
 msgid "Correlation and regression"
-msgstr ""
+msgstr "Correlación y regresión"
 
 #: ../../analyses/jg_00_overview.rst:76
 msgid ""
@@ -194,6 +228,14 @@ msgid ""
 "distinction is made between linear and non-linear (e.g., logistic "
 "regression)."
 msgstr ""
+"Los análisis de correlación y regresión son métodos estadísticos para "
+"evaluar las relaciones entre una variable dependiente/de resultado y una o "
+"más variables independientes/de predicción. Mientras que el análisis de "
+"*correlación* examina la *relación* entre un predictor y una variable de "
+"resultado, el análisis de *regresión* se centra principalmente en la "
+"*predicción* (en qué medida pueden una o más variables predecir otra "
+"variable (de resultado)). A menudo se distingue entre lineal y no lineal "
+"(por ejemplo, regresión logística)."
 
 #: ../../analyses/jg_00_overview.rst:81
 msgid ":doc:`jg_42_regression-linear`"
@@ -210,6 +252,10 @@ msgid ""
 "<https://www.youtube.com/embed/gRhVjKNWiUs?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__"
 " by `Barton Poulson <https://datalab.cc/jamovi>`__."
 msgstr ""
+"Una introducción al concepto del análisis de regresión se presenta en este "
+"`video <https://www.youtube.com/embed/gRhVjKNWiUs?"
+"list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ por `Barton Poulson <https://"
+"datalab.cc/jamovi>`__."
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:5
 msgid "Descriptive analyses"
@@ -250,6 +296,8 @@ msgid ""
 "The result is shown in the right panel. Right-click on the output to save"
 " or copy it."
 msgstr ""
+"El resultado se ve en el panel derecho. Haga click-derecho en la salida para "
+"guardarlo o copiarlo."
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:25
 msgid "|output_descriptives|"
@@ -304,6 +352,11 @@ msgid ""
 " and to check whehter your variables conform with a normal distribution, "
 "then you should tick ``Box plot``, ``Violin``, and ``Q-Q``."
 msgstr ""
+"Para crear un gráfico basado en las opciones anteriores, haga clic en la "
+"pestaña ``Plots`` y marque la casilla del gráfico deseado. Si desea "
+"identificar los valores atípicos y comprobar si sus variables se ajustan a "
+"una distribución normal, deberá marcar las casillas ``Ploteo de caja``, "
+"``Violín`` y ``Q-Q``."
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:49
 msgid "|select_descriptives_plots|"
@@ -331,6 +384,10 @@ msgid ""
 "<https://www.youtube.com/embed/srqNCux0ijY?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__"
 " by `Barton Poulson <https://datalab.cc/jamovi>`__."
 msgstr ""
+"Si quiere que le expliquen estos conceptos de otra manera, vea este `vídeo "
+"introductorio <https://www.youtube.com/embed/srqNCux0ijY?"
+"list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ de `Barton Poulson <https://"
+"datalab.cc/jamovi>`__."
 
 #: ../../analyses/jg_11_descriptive-analyses.rst
 msgid ""
@@ -342,6 +399,12 @@ msgid ""
 "`Danielle J. Navarro <https://djnavarro.net/>`__ and `David R. Foxcroft "
 "<https://www.davidfoxcroft.com/>`__."
 msgstr ""
+"Para aquellos que quieran profundizar aún más en la introducción, pueden "
+"leer el capítulo correspondiente de la `documentación web \"Learning "
+"statistics with jamovi\" <https://lsj.readthedocs.io/en/latest/lsj/"
+"Ch04_Descriptives.html>`__ o el capítulo 4 del `e-book <https://www."
+"learnstatswithjamovi.com/>`__ de `Danielle J. Navarro <https://djnavarro.net/"
+">`__ y `David R. Foxcroft <https://www.davidfoxcroft.com/>`__."
 
 #: ../../analyses/jg_21_t-test-independent.rst:5
 msgid "t-test: Independent samples"
@@ -392,6 +455,7 @@ msgid ""
 "Drag and drop your outcome variable to ``Dependent Variables`` and your "
 "grouping variable to ``Grouping Variable``."
 msgstr ""
+"Selecciona ``Análisis`` → ``Pruebas T`` → ``Prueba T muestras pareadas``."
 
 #: ../../analyses/jg_21_t-test-independent.rst:25
 msgid "|add_var_ttest_independent|"
@@ -422,6 +486,9 @@ msgid ""
 "<https://datalab.cc/jamovi>`__ provides a more comprehensive introduction"
 " into this test."
 msgstr ""
+"Este `video <https://www.youtube.com/embed/lSjfYYiJG6E?"
+"list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ por `Barton Poulson <https://"
+"datalab.cc/jamovi>`__ da una introducción más comprensible a esta prueba."
 
 #: ../../analyses/jg_21_t-test-independent.rst
 msgid ""
@@ -549,6 +616,7 @@ msgstr "select_ttest_onesample"
 #: ../../analyses/jg_23_t-test-onesample.rst
 msgid "Drag and drop your dependent variable to ``Dependent Variables``."
 msgstr ""
+"Arrastre y suelte su variable dependiente en ` `Variables dependientes``."
 
 #: ../../analyses/jg_23_t-test-onesample.rst:25
 msgid "|add_var_ttest_onesample|"

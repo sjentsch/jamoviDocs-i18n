@@ -21,11 +21,11 @@ msgstr ""
 
 #: ../../jamovi2r/j2R_Rj.rst:5
 msgid "Rj Editor for jamovi"
-msgstr ""
+msgstr "Das Rj-Modul für jamovi"
 
 #: ../../jamovi2r/j2R_Rj.rst:8
 msgid "Preparation"
-msgstr ""
+msgstr "Vorbereitung"
 
 #: ../../jamovi2r/j2R_Rj.rst:10
 msgid ""
@@ -33,6 +33,9 @@ msgid ""
 "<../howto/howto_Install_modules>` Rj from the jamovi library. This will "
 "create a «R»-icon in the icon bar."
 msgstr ""
+"Zuerst müssen Sie das :doc:`Modul <../howto/howto_Install_modules>` Rj aus "
+"der jamovi-Bibliothek installieren. Wenn das Modul installiert ist, findet "
+"sich ein „R“-Symbol in der Symbolleiste."
 
 #: ../../jamovi2r/j2R_Rj.rst:12
 msgid "|jamovi_Rj1|"
@@ -44,11 +47,11 @@ msgstr "jamovi_Rj1"
 
 #: ../../jamovi2r/j2R_Rj.rst:16
 msgid "Running R commands"
-msgstr ""
+msgstr "Ausführen von R-Befehlen"
 
 #: ../../jamovi2r/j2R_Rj.rst:19
 msgid "Click on the «R» icon and select «Rj Editor»."
-msgstr ""
+msgstr "Klicken Sie auf das „R“-Symbol und wählen Sie „Rj Editor“."
 
 #: ../../jamovi2r/j2R_Rj.rst:21
 msgid "|jamovi_Rj2|"
@@ -61,6 +64,8 @@ msgstr "jamovi_Rj2"
 #: ../../jamovi2r/j2R_Rj.rst:19
 msgid "This opens an input field on the left side where you can use R commands."
 msgstr ""
+"Dies öffnet ein Eingabe-Panel auf der linken Seite, in dem Sie R-Befehle "
+"eintippen (oder kopieren) können."
 
 #: ../../jamovi2r/j2R_Rj.rst:21
 msgid "|jamovi_Rj3|"
@@ -76,6 +81,10 @@ msgid ""
 "selects the first three columns of your dataset. Alternatively, you can "
 "use variable names as shown in the second line."
 msgstr ""
+"Sie können auf Ihren (gegenwärtig in jamovi geöffneten) Datensatz mit der"
+" Variable ``data`` zugreifen. Die erste Zeile wählt die ersten drei "
+"Spalten / Variablen dieses Datensatzes aus. Alternativ können Sie auch "
+"Variablennamen verwenden, wie in der zweiten Zeile gezeigt."
 
 #: ../../jamovi2r/j2R_Rj.rst:33
 msgid ""
@@ -103,6 +112,13 @@ msgid ""
 "managed that, you have unlimited access to (almost) any kind of "
 "statistical analysis you can imagine."
 msgstr ""
+"Es kann einige Zeit dauern, um herauszufinden, wie diese Funktionen "
+"verwendet werden können. Dies gibt insbesondere dafür, herauszufinden, "
+"welches Eingabe-Format / welcher Variablentyp sich als Eingabe für "
+"bestimmte R-Funktionen eignet (sie müssen möglicherweise mit ``as.numeric()``"
+" in Zahlen konvertiert werden oder mit ``list`` in eine list-Variable). "
+"Sobald diese Hürden überwunden sind, haben Sie unbegrenzten Zugriff auf "
+"(fast) jede Art von statistischer Analyse, die Sie sich vorstellen können."
 
 #: ../../jamovi2r/j2R_Rj.rst:55
 msgid ""
@@ -112,7 +128,7 @@ msgstr ""
 
 #: ../../jamovi2r/j2R_Rj.rst:62
 msgid "Some of these libraries are especially interesting:"
-msgstr ""
+msgstr "Einige dieser Bibliotheken sind besonders interessant:"
 
 #: ../../jamovi2r/j2R_Rj.rst:64
 msgid ""
@@ -120,12 +136,17 @@ msgid ""
 "``stats::glm`` for fitting Generalized Linear Models or ``stats:kmeans`` "
 "for running k-means cluster analyses)"
 msgstr ""
+"|stats|_, um Zugriff auf eine Vielzahl statistischer Analysen zu erhalten"
+" (z.B. ``stats::glm`` für Generalized Linear Models oder ``stats:kmeans``"
+" für die Durchführung von k-means-Clusteranalysen)"
 
 #: ../../jamovi2r/j2R_Rj.rst:66
 msgid ""
 "|lme4|_ to calculate Linear, Generalized Linear, and Nonlinear mixed "
 "modells"
 msgstr ""
+"|lme4|_ erlaubt das Berechnen von *Linear Models*, *Generalized Linear "
+"Models* und *Nonlinear Mixed Models*"
 
 #: ../../jamovi2r/j2R_Rj.rst:67
 msgid ""
@@ -133,6 +154,9 @@ msgid ""
 " Applied Statistics with S» (which includes, e.e., linear discriminant "
 "analysis ``MASS::lda``)"
 msgstr ""
+"|MASS|_ implementiert Analysen aus dem berühmten Buch „Modern Applied "
+"Statistics with S“ von Venables und Ripley (dazu gehört z. B. die lineare"
+" Diskriminanzanalyse ``MASS::lda``)"
 
 #: ../../jamovi2r/j2R_Rj.rst:69
 msgid ""
@@ -140,6 +164,9 @@ msgid ""
 "confirmatory factor analysis, structural equation modeling and latent "
 "growth curve models)"
 msgstr ""
+"|lavaan|_ erlaubt das Durchführen einer Vielzahl von Analysen mit "
+"latenten Variablen (u. a. konfirmatorische Faktorenanalyse, "
+"Strukturgleichungsmodelle und *latent growth curve models*)"
 
 #: ../../jamovi2r/j2R_Rj.rst:71
 msgid ""
@@ -148,26 +175,36 @@ msgid ""
 "t-test; NB: it is of course easier to use the jamovi-module «jsq» for "
 "that)"
 msgstr ""
+"|BayesFactor|_ erlaubt Ihnen verschiedene Arten von Bayes-Analysen "
+"durchzuführen, um „klassische“ (frequentistische) statistische Analysen "
+"zu ergänzen (z.B. das Bayes-Äquivalent des t-Tests; NB: die meisten "
+"Analysen sind im jamovi-Modul ``jsq`` implementiert, und daher ist oft "
+"einfacher, die Analysen in diesem Modul zu verwenden)"
 
 #: ../../jamovi2r/j2R_Rj.rst:73
 msgid "|cluster|_ to run several types of cluster analyses"
-msgstr ""
+msgstr "|cluster|_ um verschiedene Arten von Clusteranalysen durchzuführen"
 
 #: ../../jamovi2r/j2R_Rj.rst:74
 msgid ""
 "|ggplot2|_ to produce (almost) any type of fancy `figures "
 "<http://www.ggplot2-exts.org/gallery/>`__ you can imagine"
 msgstr ""
+"|ggplot2|_ um (fast) jede Art von ausgefallenen `Diagrammen / Plots "
+"<http://www.ggplot2-exts.org/gallery/>`__ zu erzeugen, die Sie sich "
+"vorstellen können"
 
 #: ../../jamovi2r/j2R_Rj.rst:75
 msgid ""
 "there are also several of Hadley Wickham's |tidyverse|_ libraries "
 "included, e.g., |dplyr|_, |stringr|_ or |tidyselect|_"
 msgstr ""
+"jamovi / Rj enthält auch mehrere von Hadley Wickhams "
+"|tidyverse|_-Bibliotheken, z. B. |dplyr|_, |stringr|_ oder |tidyselect|_"
 
 #: ../../jamovi2r/j2R_Rj.rst:79
 msgid "Switch between R-versions"
-msgstr ""
+msgstr "Umschalten zwischen R-Versionen"
 
 #: ../../jamovi2r/j2R_Rj.rst:82
 msgid "|jamovi_Rj4|"
@@ -191,6 +228,18 @@ msgid ""
 "Please note that this option this option is not available for certain "
 "system-and-R-version-combinations (e.g., R > 3.4 on Linux)."
 msgstr ""
+"Standardmäßig verwendet Rj die R-Installation, die in jamovi enthalten "
+"ist. Für die meisten Fälle ist dies ausreichend (nicht zuletzt, weil eine"
+" ganze Fülle von Bibliotheken enthalten ist; siehe oben). Es kann jedoch "
+"vorkommen, dass Sie die R-Installation auf Ihrem Computer verwenden "
+"möchten, in der Regel, wenn Sie Bibliotheken verwenden möchten, die nicht"
+" in der R-Version von jamovi enthalten sind. Klicken Sie dazu auf das "
+"Zahnradsymbol in der oberen rechten Ecke des Rj-Eingabefeldes. Es öffnet "
+"sich ein Fenster, in dem Sie einstellen können, ob Sie die R-Version von "
+"jamovi («jamovi R» in der Dropdown-Box im unteren Teil dieses Fensters) "
+"oder die R-Version Ihres Systems («System R») verwenden möchten. Bitte "
+"beachten Sie, dass diese Option derzeit (Nov 2019) für bestimmte System- "
+"und R-Versionskombinationen (z. B. unter Linux) nicht verfügbar ist."
 
 #: ../../jamovi2r/j2R_overview.rst:5
 msgid "jamovi and R"

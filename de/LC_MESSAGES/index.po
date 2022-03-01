@@ -50,7 +50,8 @@ msgid ""
 msgstr ""
 "Willkommen zur Dokumentation von `jamovi <https://www.jamovi.org>`__, einer "
 "kostenlosen und quelloffenen Statistiksoftware. jamovi möchte "
-"Wissenschaftlern einen einfachen Zugang zu Statistik bieten."
+"Wissenschaftlern einen einfachen Zugang zu komplexen statistischen Methoden "
+"bieten."
 
 #: ../../index.rst:75
 msgid "Getting started"
