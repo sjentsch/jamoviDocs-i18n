@@ -7,30 +7,237 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: jamovi\n"
+"Project-Id-Version:  jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-16 20:39+0100\n"
 "PO-Revision-Date: 2022-03-01 21:20+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
-"Language-Team: German <https://hosted.weblate.org/projects/jamovidocs/"
-"2_analyses/de/>\n"
 "Language: de\n"
+"Language-Team: German "
+"<https://hosted.weblate.org/projects/jamovidocs/2_analyses/de/>\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.11.1-dev\n"
 "Generated-By: Babel 2.9.1\n"
 
-#: ../../_pages/jg_11_descriptive-analyses.rst:5
+#: ../../analyses/jg_00_overview.rst:5
+msgid "Analyses: Introduction"
+msgstr ""
+
+#: ../../analyses/jg_00_overview.rst:7
+msgid ""
+"The aim of the following section is to provide short, non-technical "
+"tutorials on how to conduct common statistical procedures in jamovi, and "
+"was originally created by Jonas Rafi under the name jamovi guide. "
+"However, this is only intended as a brief overview. For a more in-depth "
+"treatment of these analyses, we'd recommend you take a look at the many "
+"`community resources <https://www.jamovi.org/community.html>`__ "
+"available."
+msgstr ""
+
+#: ../../analyses/jg_00_overview.rst:13
+msgid "A Note On Measurement Types"
+msgstr ""
+
+#: ../../analyses/jg_00_overview.rst:15
+msgid ""
+"The following documentation describes each of the analyses, and describes"
+" the variable measure types required. For example, it might explain that "
+"a particular analysis requires a continuous |continuous| dependent "
+"variable, and a nominal |nominal| grouping variable. However it's "
+"possible that the columns in your data set, for a number of different "
+"reasons, aren't set up with the correct measure types (as indicated in "
+"the column header). You can adjust the measure type of columns using the "
+"variable editor, however (for the most part) these measure types are "
+"really just a guide and don't need to be set correctly. If you assign a "
+"|continuous| continuous variable to an analysis expecting a |nominal| "
+"nominal one, the analysis will simply treat the variable as nominal."
+msgstr ""
+
+#: ../../analyses/jg_00_overview.rst:94
+#: ../../analyses/jg_21_t-test-independent.rst:50
+#: ../../analyses/jg_22_t-test-paired.rst:50
+#: ../../analyses/jg_23_t-test-onesample.rst:54
+#: ../../analyses/jg_31_unianova.rst:53
+#: ../../analyses/jg_32_anova-factorial.rst:50
+#: ../../analyses/jg_33_anova-rm.rst:61 ../../analyses/jg_34_anova-mixed.rst:60
+#: ../../analyses/jg_42_regression-linear.rst:54
+#: ../../analyses/jg_43_regression-logistic.rst:56
+msgid "continuous"
+msgstr ""
+
+#: ../../analyses/jg_00_overview.rst:92
+#: ../../analyses/jg_21_t-test-independent.rst:48
+#: ../../analyses/jg_31_unianova.rst:51
+#: ../../analyses/jg_32_anova-factorial.rst:48
+#: ../../analyses/jg_34_anova-mixed.rst:58
+#: ../../analyses/jg_43_regression-logistic.rst:52
+#, fuzzy
+msgid "nominal"
+msgstr "ordinal"
+
+#: ../../analyses/jg_00_overview.rst:21
+msgid ""
+"All this to say, if the documentation says that a particular measure type"
+" is required, the data simply needs to be the correct 'shape', and you "
+"can save yourself the labour of setting the measure types correctly if "
+"you don't want to."
+msgstr ""
+
+#: ../../analyses/jg_00_overview.rst:26
 msgid "Descriptives"
 msgstr "Deskriptivstatistische Analysen"
 
-#: ../../_pages/jg_11_descriptive-analyses.rst:7
+#: ../../analyses/jg_00_overview.rst:28
+msgid ":doc:`jg_11_descriptive-analyses`"
+msgstr ":doc:`jg_11_descriptive-analyses`"
+
+#: ../../analyses/jg_00_overview.rst:32
+msgid "t-tests"
+msgstr ""
+
+#: ../../analyses/jg_00_overview.rst:34
+msgid ""
+"The t-test is used to test whether the mean value in a normally "
+"distributed data set deviates significantly from a null hypothesis (which"
+" assumes that there is no difference)."
+msgstr ""
+
+#: ../../analyses/jg_00_overview.rst:37
+msgid "There are three types of t-tests:"
+msgstr ""
+
+#: ../../analyses/jg_00_overview.rst:39
+#, fuzzy
+msgid ":doc:`jg_21_t-test-independent`"
+msgstr "add_var_ttest_independent"
+
+#: ../../analyses/jg_00_overview.rst:40
+#, fuzzy
+msgid ":doc:`jg_22_t-test-paired`"
+msgstr "add_var_ttest_paired"
+
+#: ../../analyses/jg_00_overview.rst:41
+#, fuzzy
+msgid ":doc:`jg_23_t-test-onesample`"
+msgstr "add_var_ttest_onesample"
+
+#: ../../analyses/jg_00_overview.rst:43 ../../analyses/jg_00_overview.rst:66
+#: ../../analyses/jg_00_overview.rst:84
+#: ../../analyses/jg_21_t-test-independent.rst:35
+#, fuzzy
+msgid "Community resources"
+msgstr "Mehr Hilfe in den Community-Ressourcen"
+
+#: ../../analyses/jg_00_overview.rst
+#, fuzzy
+msgid ""
+"A more comprehensive introduction into the concept is presented in this "
+"`video "
+"<https://www.youtube.com/embed/mb7KCLYEis8?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__"
+" by `Barton Poulson <https://datalab.cc/jamovi>`__."
+msgstr ""
+"Eine umfassendere Einführung in diese statistische Methode bietet das "
+"folgende `Video "
+"<https://www.youtube.com/embed/m5JNwPgiMso?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__"
+" von `Barton Poulson <https://datalab.cc/jamovi>`__."
+
+#: ../../analyses/jg_00_overview.rst:50
+msgid "Analyses of Variance (ANOVA)"
+msgstr ""
+
+#: ../../analyses/jg_00_overview.rst:52
+msgid ""
+"The Analysis of variance (ANOVA) is a statistical method that examines "
+"how the impact of one or more factors affects an outcome (dependent) "
+"variable. These factors are the predictor variables and are categorical. "
+"Typically, such factors reflect an experimental manipulation (e.g. with "
+"or without treatment), but a factor can also represent groups for whose "
+"influence one would like to control (e.g. gender: men or women). The "
+"analysis of variance is based on a concept similar to that of the t-test,"
+" but it goes beyond that, in that factors can have several levels "
+"(t-tests only allow two) and in that several factors can be examined "
+"simultaneously."
+msgstr ""
+
+#: ../../analyses/jg_00_overview.rst:58
+msgid ""
+"There are different types of analysis of variance, which differ in the "
+"number of factors examined - one or more factors - or whether they "
+"compare between people or within a person - repeated measurements:"
+msgstr ""
+
+#: ../../analyses/jg_00_overview.rst:61
+msgid ":doc:`jg_31_unianova`"
+msgstr ":doc:`jg_31_unianova`"
+
+#: ../../analyses/jg_00_overview.rst:62
+#, fuzzy
+msgid ":doc:`jg_32_anova-factorial`"
+msgstr "add_var_anova_factorial"
+
+#: ../../analyses/jg_00_overview.rst:63
+msgid ":doc:`jg_33_anova-rm`"
+msgstr ":doc:`jg_33_anova-rm`"
+
+#: ../../analyses/jg_00_overview.rst:64
+#, fuzzy
+msgid ":doc:`jg_34_anova-mixed`"
+msgstr "add_var_anova_mixed"
+
+#: ../../analyses/jg_00_overview.rst
+msgid ""
+"An introduction into the concept of an ANOVA is presented in this `video "
+"<https://www.youtube.com/embed/GcbMG6sizXs?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__"
+" by `Barton Poulson <https://datalab.cc/jamovi>`__."
+msgstr ""
+
+#: ../../analyses/jg_00_overview.rst:74
+#, fuzzy
+msgid "Correlation and regression"
+msgstr "Lineare Regression"
+
+#: ../../analyses/jg_00_overview.rst:76
+msgid ""
+"Correlation and regression analyses are statistical methods for assessing"
+" the relationships between a dependent / outcome variable and one or more"
+" independent / predictor variables. While the *correlation* analysis "
+"examines the *relationship* between one predictor and one outcome "
+"variable, *regression* analysis mainly focuses on *prediction* (how well "
+"can one or more variables predict another (outcome) variable). Often, a "
+"distinction is made between linear and non-linear (e.g., logistic "
+"regression)."
+msgstr ""
+
+#: ../../analyses/jg_00_overview.rst:81
+#, fuzzy
+msgid ":doc:`jg_42_regression-linear`"
+msgstr "add_var_regression_linear"
+
+#: ../../analyses/jg_00_overview.rst:82
+#, fuzzy
+msgid ":doc:`jg_43_regression-logistic`"
+msgstr "add_var_regression_logistic"
+
+#: ../../analyses/jg_00_overview.rst
+msgid ""
+"An introduction into the concept of regression analyses is presented in "
+"this `video "
+"<https://www.youtube.com/embed/gRhVjKNWiUs?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__"
+" by `Barton Poulson <https://datalab.cc/jamovi>`__."
+msgstr ""
+
+#: ../../analyses/jg_11_descriptive-analyses.rst:5
+#, fuzzy
+msgid "Descriptive analyses"
+msgstr "Deskriptivstatistische Analysen"
+
+#: ../../analyses/jg_11_descriptive-analyses.rst:7
 msgid "How to perform descriptive analyses and create graphs in jamovi:"
 msgstr ""
-"Sie können mit jamovi auf die folgende Weise deskriptivstatistische Analysen "
-"durchführen und Diagramme erstellen:"
+"Sie können mit jamovi auf die folgende Weise deskriptivstatistische "
+"Analysen durchführen und Diagramme erstellen:"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst
 msgid "Select ``Analyses`` → ``Exploration`` → ``Descriptives``."
@@ -199,8 +406,8 @@ msgid ""
 "You need at least one |continuous| continuous dependent variable, and a "
 "|nominal| grouping variable with two levels (e.g. treatment / control)."
 msgstr ""
-"Sie benötigen mindestens eine kontinuierliche abhängige Variable und eine "
-"nominale Gruppierungsvariable mit zwei Stufen (z. B. Experimental- / "
+"Sie benötigen mindestens eine kontinuierliche abhängige Variable und eine"
+" nominale Gruppierungsvariable mit zwei Stufen (z. B. Experimental- / "
 "Kontrollgruppe)."
 
 #: ../../analyses/jg_21_t-test-independent.rst
@@ -341,10 +548,10 @@ msgid ""
 "these one at a time, or select both variables in a pair by holding down "
 "the Ctrl-key while clicking on each, before dragging them across)."
 msgstr ""
-"Ziehen Sie Ihre beiden Variablen nach ``Paired Variables`` (Sie können sie "
-"einzeln ziehen oder beide Variablen in einem Paar auswählen, indem Sie die "
-"Strg-Taste gedrückt halten, während Sie auf jede klicken, bevor Sie sie "
-"hinüberziehen)."
+"Ziehen Sie Ihre beiden Variablen nach ``Paired Variables`` (Sie können "
+"sie einzeln ziehen oder beide Variablen in einem Paar auswählen, indem "
+"Sie die Strg-Taste gedrückt halten, während Sie auf jede klicken, bevor "
+"Sie sie hinüberziehen)."
 
 #: ../../analyses/jg_22_t-test-paired.rst:27
 msgid "|add_var_ttest_paired|"
@@ -489,12 +696,12 @@ msgid ""
 " `Danielle J. Navarro <https://djnavarro.net/>`__ and `David R. Foxcroft "
 "<https://www.davidfoxcroft.com/>`__."
 msgstr ""
-"Wer noch weiter in die Tiefe gehen möchte, kann den entsprechenden Abschnitt "
-"in der `Webdokumentation „Learning statistics with jamovi“ <https://lsj."
-"readthedocs.io/en/latest/Ch04/Ch04_Descriptives.html>`__ oder Kapitel 4 des "
-"`e-Books <https://www.learnstatswithjamovi.com/>`__ von `Danielle J. Navarro "
-"<https://djnavarro.net/>`__ und `David R. Foxcroft <https://www.davidfoxcroft"
-".com/>`__ lesen."
+"Wer noch weiter in die Tiefe gehen möchte, kann den entsprechenden "
+"Abschnitt in der `Webdokumentation „Learning statistics with jamovi“ "
+"<https://lsj.readthedocs.io/en/latest/Ch04/Ch04_Descriptives.html>`__ "
+"oder Kapitel 4 des `e-Books <https://www.learnstatswithjamovi.com/>`__ "
+"von `Danielle J. Navarro <https://djnavarro.net/>`__ und `David R. "
+"Foxcroft <https://www.davidfoxcroft.com/>`__ lesen."
 
 #: ../../analyses/jg_31_unianova.rst:5
 msgid "ANOVA: One-Way"
@@ -509,8 +716,8 @@ msgid ""
 "You need one |continuous| continuous dependent variable, and one "
 "|nominal| grouping variable with two or more levels."
 msgstr ""
-"Sie benötigen eine |continuous| kontinuierliche abhängige Variable und eine "
-"|nominal| Gruppierungsvariable mit zwei oder mehr Stufen."
+"Sie benötigen eine |continuous| kontinuierliche abhängige Variable und "
+"eine |nominal| Gruppierungsvariable mit zwei oder mehr Stufen."
 
 #: ../../analyses/jg_31_unianova.rst:13
 msgid "|data_format_unianova|"
@@ -613,8 +820,8 @@ msgid ""
 "You need one |continuous| continuous dependent variable, and one or more "
 "|nominal| grouping variables."
 msgstr ""
-"Sie benötigen eine |continuous| kontinuierliche abhängige Variable und eine "
-"oder mehrere |nominal| Gruppierungsvariablen."
+"Sie benötigen eine |continuous| kontinuierliche abhängige Variable und "
+"eine oder mehrere |nominal| Gruppierungsvariablen."
 
 #: ../../analyses/jg_32_anova-factorial.rst:13
 msgid "|data_format_anova_factorial|"
@@ -686,10 +893,11 @@ msgid ""
 msgstr ""
 "Wer noch weiter in die Tiefe gehen möchte, kann die entsprechenden "
 "Abschnitte in der `Webdokumentation „Learning statistics with jamovi“ "
-"<https://lsj.readthedocs.io/en/latest/Ch12/Ch12_Regression_03.html>`__ oder "
-"die Kapitel 12.3 – 12.11 des `e-books <https://www.learnstatswithjamovi.com/"
-">`__ von `Danielle J. Navarro <https://djnavarro.net/>`__ und `David R. "
-"Foxcroft <https://www.davidfoxcroft.com/>`__ lesen."
+"<https://lsj.readthedocs.io/en/latest/Ch12/Ch12_Regression_03.html>`__ "
+"oder die Kapitel 12.3 – 12.11 des `e-books "
+"<https://www.learnstatswithjamovi.com/>`__ von `Danielle J. Navarro "
+"<https://djnavarro.net/>`__ und `David R. Foxcroft "
+"<https://www.davidfoxcroft.com/>`__ lesen."
 
 #: ../../analyses/jg_33_anova-rm.rst:5
 msgid "ANOVA: Repeated Measures"
@@ -704,8 +912,8 @@ msgid ""
 "You need one |continuous| continuous dependent variable for each "
 "measurement occasion."
 msgstr ""
-"Sie benötigen eine |continuous| kontinuierliche abhängige Variable für jeden "
-"Messzeitpunkt."
+"Sie benötigen eine |continuous| kontinuierliche abhängige Variable für "
+"jeden Messzeitpunkt."
 
 #: ../../analyses/jg_33_anova-rm.rst:13
 msgid "|data_format_anova_repeated|"
@@ -814,12 +1022,12 @@ msgid ""
 "chapter 13.7 of the `e-book <https://www.learnstatswithjamovi.com/>`__ by"
 " Danielle J. Navarro and David R. Foxcroft."
 msgstr ""
-"Wer noch weiter in die Tiefe gehen möchte, kann den entsprechenden Abschnitt "
-"in der `Webdokumentation „Learning statistics with jamovi“ <https://lsj."
-"readthedocs.io/en/latest/Ch11/Ch11_tTest_05.html>`__ oder Kapitel 11.5 des "
-"`e-Books <https://www.learnstatswithjamovi.com/>`__ von `Danielle J. Navarro "
-"<https://djnavarro.net/>`__ und `David R. Foxcroft <https://www.davidfoxcroft"
-".com/>`__ lesen."
+"Wer noch weiter in die Tiefe gehen möchte, kann den entsprechenden "
+"Abschnitt in der `Webdokumentation „Learning statistics with jamovi“ "
+"<https://lsj.readthedocs.io/en/latest/Ch11/Ch11_tTest_05.html>`__ oder "
+"Kapitel 11.5 des `e-Books <https://www.learnstatswithjamovi.com/>`__ von "
+"`Danielle J. Navarro <https://djnavarro.net/>`__ und `David R. Foxcroft "
+"<https://www.davidfoxcroft.com/>`__ lesen."
 
 #: ../../analyses/jg_34_anova-mixed.rst:5
 msgid "ANOVA: Mixed"
@@ -839,9 +1047,9 @@ msgid ""
 "treatment / control, gender)."
 msgstr ""
 "Sie benötigen eine |continuous| kontinuierliche Variable für jede "
-"innerbetriebliche Messung (z.B. pre / post) und mindestens eine |nominal| "
-"Gruppierungsvariable (between-subjects-factor) mit mindestens zwei Stufen ("
-"z.B. Experimental- / Kontrollgruppe, Geschlecht)."
+"innerbetriebliche Messung (z.B. pre / post) und mindestens eine |nominal|"
+" Gruppierungsvariable (between-subjects-factor) mit mindestens zwei "
+"Stufen (z.B. Experimental- / Kontrollgruppe, Geschlecht)."
 
 #: ../../analyses/jg_34_anova-mixed.rst:14
 msgid "|data_format_anova_mixed|"
@@ -988,12 +1196,13 @@ msgid ""
 "<https://djnavarro.net/>`__ and `David R. Foxcroft "
 "<https://www.davidfoxcroft.com/>`__."
 msgstr ""
-"Wer noch weiter in die Tiefe gehen möchte, kann den entsprechenden Abschnitt "
-"in der `Webdokumentation „Learning statistics with jamovi“ <https://lsj."
-"readthedocs.io/en/latest/Ch12/Ch12_Regression_03.html>`__ oder Kapitel 12.3 -"
-" 12.11 des `e-Books <https://www.learnstatswithjamovi.com/>`__ von `Danielle "
-"J. Navarro <https://djnavarro.net/>`__ und `David R. Foxcroft <https://www."
-"davidfoxcroft.com/>`__ lesen."
+"Wer noch weiter in die Tiefe gehen möchte, kann den entsprechenden "
+"Abschnitt in der `Webdokumentation „Learning statistics with jamovi“ "
+"<https://lsj.readthedocs.io/en/latest/Ch12/Ch12_Regression_03.html>`__ "
+"oder Kapitel 12.3 - 12.11 des `e-Books "
+"<https://www.learnstatswithjamovi.com/>`__ von `Danielle J. Navarro "
+"<https://djnavarro.net/>`__ und `David R. Foxcroft "
+"<https://www.davidfoxcroft.com/>`__ lesen."
 
 #: ../../analyses/jg_43_regression-logistic.rst:5
 msgid "Logistic Regression"
@@ -1008,8 +1217,8 @@ msgid ""
 "You need one |nominal| |ordinal| categorical dependent variable (nominal "
 "or ordinal), and at least one continuous explanatory variable."
 msgstr ""
-"Sie benötigen eine |nominal| |ordinal| kategoriale abhängige Variable ("
-"nominal oder ordinal) und mindestens eine |continuous| kontinuierliche "
+"Sie benötigen eine |nominal| |ordinal| kategoriale abhängige Variable "
+"(nominal oder ordinal) und mindestens eine |continuous| kontinuierliche "
 "erklärende Variable."
 
 #: ../../analyses/jg_43_regression-logistic.rst:54
@@ -1179,3 +1388,4 @@ msgstr ""
 #~ " J. Navarro <https://djnavarro.net/>`__ und "
 #~ "`David R. Foxcroft "
 #~ "<https://www.davidfoxcroft.com/>`__ lesen."
+

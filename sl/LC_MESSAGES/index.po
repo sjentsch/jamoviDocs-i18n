@@ -3,6 +3,7 @@
 # This file is distributed under the same license as the jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: jamovi\n"
@@ -42,9 +43,9 @@ msgstr ""
 
 #: ../../index.rst:70
 msgid ""
-"Welcome to the documentation for `jamovi <https://www.jamovi.org>`__, a free "
-"and open statistical software to bridge the gap between researcher and "
-"statistician."
+"Welcome to the documentation for `jamovi <https://www.jamovi.org>`__, a "
+"free and open statistical software to bridge the gap between researcher "
+"and statistician."
 msgstr ""
 
 #: ../../index.rst:75
@@ -59,35 +60,35 @@ msgstr ""
 
 #: ../../index.rst:79
 msgid ":doc:`usermanual/um_1_installation`"
-msgstr ""
+msgstr ":doc:`usermanual/um_1_installation`"
 
 #: ../../index.rst:80
 msgid ":doc:`usermanual/um_2_first-steps`"
-msgstr ""
+msgstr ":doc:`usermanual/um_2_first-steps`"
 
 #: ../../index.rst:81
 msgid ":doc:`usermanual/um_3_analyses`"
-msgstr ""
+msgstr ":doc:`usermanual/um_3_analyses`"
 
 #: ../../index.rst:82
 msgid ":doc:`usermanual/um_4_spreadsheet`"
-msgstr ""
+msgstr ":doc:`usermanual/um_4_spreadsheet`"
 
 #: ../../index.rst:83
 msgid ":doc:`usermanual/um_5_updating_data`"
-msgstr ""
+msgstr ":doc:`usermanual/um_5_updating_data`"
 
 #: ../../index.rst:84
 msgid ":doc:`usermanual/um_6_syntax_mode`"
-msgstr ""
+msgstr ":doc:`usermanual/um_6_syntax_mode`"
 
 #: ../../index.rst:92
 msgid ""
 "The aim of the following section is to provide short, non-technical "
-"tutorials on how to conduct common statistical procedures in jamovi. The :"
-"doc:`introduction <analyses/jg_00_overview>` gives an overview over the "
-"available analyses, or you can otherwise directly access specific analyses "
-"by following the links below."
+"tutorials on how to conduct common statistical procedures in jamovi. The "
+":doc:`introduction <analyses/jg_00_overview>` gives an overview over the "
+"available analyses, or you can otherwise directly access specific "
+"analyses by following the links below."
 msgstr ""
 
 #: ../../index.rst:95
@@ -96,7 +97,7 @@ msgstr ""
 
 #: ../../index.rst:97
 msgid ":doc:`analyses/jg_11_descriptive-analyses`"
-msgstr ""
+msgstr ":doc:`analyses/jg_11_descriptive-analyses`"
 
 #: ../../index.rst:99
 msgid "**t-tests**"
@@ -104,15 +105,15 @@ msgstr ""
 
 #: ../../index.rst:101
 msgid ":doc:`analyses/jg_21_t-test-independent`"
-msgstr ""
+msgstr ":doc:`analyses/jg_21_t-test-independent`"
 
 #: ../../index.rst:102
 msgid ":doc:`analyses/jg_22_t-test-paired`"
-msgstr ""
+msgstr ":doc:`analyses/jg_22_t-test-paired`"
 
 #: ../../index.rst:103
 msgid ":doc:`analyses/jg_23_t-test-onesample`"
-msgstr ""
+msgstr ":doc:`analyses/jg_23_t-test-onesample`"
 
 #: ../../index.rst:106
 msgid "**Analyses of Variance (ANOVA)**"
@@ -120,19 +121,19 @@ msgstr ""
 
 #: ../../index.rst:108
 msgid ":doc:`analyses/jg_31_unianova`"
-msgstr ""
+msgstr ":doc:`analyses/jg_31_unianova`"
 
 #: ../../index.rst:109
 msgid ":doc:`analyses/jg_32_anova-factorial`"
-msgstr ""
+msgstr ":doc:`analyses/jg_32_anova-factorial`"
 
 #: ../../index.rst:110
 msgid ":doc:`analyses/jg_33_anova-rm`"
-msgstr ""
+msgstr ":doc:`analyses/jg_33_anova-rm`"
 
 #: ../../index.rst:111
 msgid ":doc:`analyses/jg_34_anova-mixed`"
-msgstr ""
+msgstr ":doc:`analyses/jg_34_anova-mixed`"
 
 #: ../../index.rst:114
 msgid "**Correlation and regression**"
@@ -140,29 +141,30 @@ msgstr ""
 
 #: ../../index.rst:116
 msgid ":doc:`analyses/jg_42_regression-linear`"
-msgstr ""
+msgstr ":doc:`analyses/jg_42_regression-linear`"
 
 #: ../../index.rst:117
 msgid ":doc:`analyses/jg_43_regression-logistic`"
-msgstr ""
+msgstr ":doc:`analyses/jg_43_regression-logistic`"
 
 #: ../../index.rst:125
 msgid ""
 "jamovi's functionality can easily be extended by creating specialized "
-"modules. It therefore calls for a community of developers to implement such "
-"additional analyses. The developer's hub describes how such modules can be "
-"created and provides additional information (API) and about options for "
-"elements of the jamovi UI used for those analyses."
+"modules. It therefore calls for a community of developers to implement "
+"such additional analyses. The developer's hub describes how such modules "
+"can be created and provides additional information (API) and about "
+"options for elements of the jamovi UI used for those analyses."
 msgstr ""
 
 #: ../../index.rst:129
 msgid ":doc:`developer/dh_overview`"
-msgstr ""
+msgstr ":doc:`developer/dh_overview`"
 
 #: ../../index.rst:137
 msgid ":doc:`spss2jamovi/s2j_overview`"
-msgstr ""
+msgstr ":doc:`spss2jamovi/s2j_overview`"
 
 #: ../../index.rst:138
 msgid ":doc:`jamovi2r/j2R_overview`"
-msgstr ""
+msgstr ":doc:`jamovi2r/j2R_overview`"
+

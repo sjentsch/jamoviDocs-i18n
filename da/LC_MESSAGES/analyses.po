@@ -63,7 +63,7 @@ msgstr ""
 #: ../../analyses/jg_42_regression-linear.rst:54
 #: ../../analyses/jg_43_regression-logistic.rst:56
 msgid "continuous"
-msgstr ""
+msgstr "continuous"
 
 #: ../../analyses/jg_00_overview.rst:92
 #: ../../analyses/jg_21_t-test-independent.rst:48
@@ -72,7 +72,7 @@ msgstr ""
 #: ../../analyses/jg_34_anova-mixed.rst:58
 #: ../../analyses/jg_43_regression-logistic.rst:52
 msgid "nominal"
-msgstr ""
+msgstr "nominal"
 
 #: ../../analyses/jg_00_overview.rst:21
 msgid ""
