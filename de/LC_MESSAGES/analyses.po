@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-16 20:39+0100\n"
-"PO-Revision-Date: 2022-03-02 02:15+0000\n"
+"PO-Revision-Date: 2022-03-02 16:37+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/jamovidocs/"
 "2_analyses/de/>\n"
@@ -109,19 +109,16 @@ msgid "There are three types of t-tests:"
 msgstr ""
 
 #: ../../analyses/jg_00_overview.rst:39
-#, fuzzy
 msgid ":doc:`jg_21_t-test-independent`"
-msgstr "add_var_ttest_independent"
+msgstr ":doc:`jg_21_t-test-independent`"
 
 #: ../../analyses/jg_00_overview.rst:40
-#, fuzzy
 msgid ":doc:`jg_22_t-test-paired`"
-msgstr "add_var_ttest_paired"
+msgstr ":doc:`jg_22_t-test-paired`"
 
 #: ../../analyses/jg_00_overview.rst:41
-#, fuzzy
 msgid ":doc:`jg_23_t-test-onesample`"
-msgstr "add_var_ttest_onesample"
+msgstr ":doc:`jg_23_t-test-onesample`"
 
 #: ../../analyses/jg_00_overview.rst:43 ../../analyses/jg_00_overview.rst:66
 #: ../../analyses/jg_00_overview.rst:84
@@ -173,18 +170,16 @@ msgid ":doc:`jg_31_unianova`"
 msgstr ":doc:`jg_31_unianova`"
 
 #: ../../analyses/jg_00_overview.rst:62
-#, fuzzy
 msgid ":doc:`jg_32_anova-factorial`"
-msgstr "add_var_anova_factorial"
+msgstr ":doc:`jg_32_anova-factorial`"
 
 #: ../../analyses/jg_00_overview.rst:63
 msgid ":doc:`jg_33_anova-rm`"
 msgstr ":doc:`jg_33_anova-rm`"
 
 #: ../../analyses/jg_00_overview.rst:64
-#, fuzzy
 msgid ":doc:`jg_34_anova-mixed`"
-msgstr "add_var_anova_mixed"
+msgstr ":doc:`jg_34_anova-mixed`"
 
 #: ../../analyses/jg_00_overview.rst
 msgid ""
@@ -211,14 +206,12 @@ msgid ""
 msgstr ""
 
 #: ../../analyses/jg_00_overview.rst:81
-#, fuzzy
 msgid ":doc:`jg_42_regression-linear`"
-msgstr "add_var_regression_linear"
+msgstr ":doc:`jg_42_regression-linear`"
 
 #: ../../analyses/jg_00_overview.rst:82
-#, fuzzy
 msgid ":doc:`jg_43_regression-logistic`"
-msgstr "add_var_regression_logistic"
+msgstr ":doc:`jg_43_regression-logistic`"
 
 #: ../../analyses/jg_00_overview.rst
 msgid ""
