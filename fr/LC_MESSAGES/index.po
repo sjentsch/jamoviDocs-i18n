@@ -10,8 +10,8 @@ msgstr ""
 "Project-Id-Version: jamovi\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2022-02-16 19:03+0100\n"
-"PO-Revision-Date: 2022-03-01 20:53+0000\n"
-"Last-Translator: J. Lavoie <j.lavoie@net-c.ca>\n"
+"PO-Revision-Date: 2022-03-02 16:37+0000\n"
+"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/jamovidocs/"
 "0_start/fr/>\n"
 "Language: fr\n"
@@ -162,11 +162,9 @@ msgid ":doc:`developer/dh_overview`"
 msgstr ":doc:`developer/dh_overview`"
 
 #: ../../index.rst:137
-#, fuzzy
 msgid ":doc:`spss2jamovi/s2j_overview`"
 msgstr ":doc:`SPSS2jamovi/s2j_overview`"
 
 #: ../../index.rst:138
-#, fuzzy
 msgid ":doc:`jamovi2r/j2R_overview`"
 msgstr ":doc:`jamovi2R/j2R_overview`"
