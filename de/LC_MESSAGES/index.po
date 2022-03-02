@@ -8,18 +8,18 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: jamovi\n"
-"Report-Msgid-Bugs-To: \n"
+"Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2022-02-16 19:03+0100\n"
-"PO-Revision-Date: 2022-02-17 00:23+0000\n"
+"PO-Revision-Date: 2022-03-02 02:15+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
-"Language-Team: German <https://hosted.weblate.org/projects/jamovi/"
-"jamovidocs_start/de/>\n"
+"Language-Team: German <https://hosted.weblate.org/projects/jamovidocs/"
+"0_start/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.11-dev\n"
+"X-Generator: Weblate 4.11.1-dev\n"
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../index.rst:12
@@ -32,7 +32,7 @@ msgstr "Analysen"
 
 #: ../../index.rst:42
 msgid "How to..."
-msgstr "Wie man..."
+msgstr "So wird es gemacht..."
 
 #: ../../index.rst:50 ../../index.rst:123
 msgid "jamovi-modules"

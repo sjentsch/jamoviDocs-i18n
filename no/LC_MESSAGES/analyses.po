@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-16 18:48+0100\n"
-"PO-Revision-Date: 2022-03-01 22:31+0000\n"
+"PO-Revision-Date: 2022-03-02 02:39+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/"
 "jamovidocs/2_analyses/nb_NO/>\n"
@@ -1052,7 +1052,7 @@ msgstr ""
 
 #: ../../analyses/jg_43_regression-logistic.rst:54
 msgid "ordinal"
-msgstr ""
+msgstr "ordinal"
 
 #: ../../analyses/jg_43_regression-logistic.rst:13
 msgid "|data_format_regression_logistic|"

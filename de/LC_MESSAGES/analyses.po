@@ -7,18 +7,19 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version:  jamovi\n"
+"Project-Id-Version: jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-16 20:39+0100\n"
-"PO-Revision-Date: 2022-03-01 21:20+0000\n"
+"PO-Revision-Date: 2022-03-02 02:15+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"Language-Team: German <https://hosted.weblate.org/projects/jamovidocs/"
+"2_analyses/de/>\n"
 "Language: de\n"
-"Language-Team: German "
-"<https://hosted.weblate.org/projects/jamovidocs/2_analyses/de/>\n"
-"Plural-Forms: nplurals=2; plural=n != 1\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.11.1-dev\n"
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../analyses/jg_00_overview.rst:5
@@ -65,7 +66,7 @@ msgstr ""
 #: ../../analyses/jg_42_regression-linear.rst:54
 #: ../../analyses/jg_43_regression-logistic.rst:56
 msgid "continuous"
-msgstr ""
+msgstr "continuous"
 
 #: ../../analyses/jg_00_overview.rst:92
 #: ../../analyses/jg_21_t-test-independent.rst:48
@@ -73,9 +74,8 @@ msgstr ""
 #: ../../analyses/jg_32_anova-factorial.rst:48
 #: ../../analyses/jg_34_anova-mixed.rst:58
 #: ../../analyses/jg_43_regression-logistic.rst:52
-#, fuzzy
 msgid "nominal"
-msgstr "ordinal"
+msgstr "nominal"
 
 #: ../../analyses/jg_00_overview.rst:21
 msgid ""
@@ -1388,4 +1388,3 @@ msgstr ""
 #~ " J. Navarro <https://djnavarro.net/>`__ und "
 #~ "`David R. Foxcroft "
 #~ "<https://www.davidfoxcroft.com/>`__ lesen."
-

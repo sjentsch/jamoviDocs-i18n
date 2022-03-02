@@ -5,18 +5,21 @@
 # This file is distributed under the same license as the jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jamovi \n"
-"Report-Msgid-Bugs-To: \n"
+"Project-Id-Version: jamovi\n"
+"Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2022-02-16 18:24+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-03-02 02:15+0000\n"
+"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"Language-Team: German <https://hosted.weblate.org/projects/jamovidocs/"
+"3_howto/de/>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.11.1-dev\n"
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../howto/howto_Install_modules.rst:5
@@ -44,7 +47,6 @@ msgid "Choose the jamovi library from the menu that opens."
 msgstr ""
 "Wählen Sie den ``jamovi library``-Tab aus dem sich öffnenden Menü aus."
 
-
 #: ../../howto/howto_Install_modules.rst:12
 msgid "|jamovi_Modules2|"
 msgstr "|jamovi_Modules2|"
@@ -60,12 +62,11 @@ msgid ""
 "that you would like to use. Finally, close this window by clicking on the"
 " arrow pointing up (top-right corner)."
 msgstr ""
-"In dem sich nun öffnenden Fenster klicken Sie zunächst auf „Available“ "
-"(oben, in der Mitte). Gehen Sie dann die Liste mit den Modulen durch und "
-"klicken Sie bei jedem Modul, das Sie verwenden möchten, auf „INSTALL“. "
-"Zum Schluss schließen Sie dieses Fenster, indem Sie auf den nach oben "
-"zeigenden Pfeil klicken (oben, rechts).\n"
-"|jamovi_Modules3|"
+"In dem sich nun öffnenden Fenster klicken Sie zunächst auf „Available“ ("
+"oben, in der Mitte). Gehen Sie dann die Liste mit den Modulen durch und "
+"klicken Sie bei jedem Modul, das Sie verwenden möchten, auf „INSTALL“. Zum "
+"Schluss schließen Sie dieses Fenster, indem Sie auf den nach oben zeigenden "
+"Pfeil klicken (oben, rechts)."
 
 #: ../../howto/howto_Install_modules.rst:18
 msgid "|jamovi_Modules3|"
@@ -77,19 +78,20 @@ msgstr "jamovi_Modules3"
 
 #: ../../howto/howto_overview.rst:12
 msgid "How to..."
-msgstr ""
+msgstr "So wird es gemacht..."
 
 #: ../../howto/howto_overview.rst:14
 msgid ""
 "The aim of the following section is to clear and simple instructions on "
 "how to deal with common tasks within jamovi."
 msgstr ""
+"Ziel des folgenden Abschnitts ist es, klare und einfache Anleitungen zu "
+"geben, wie sich häufig benötigte Aufgaben innerhalb von jamovi lösen lassen."
 
 #: ../../howto/howto_overview.rst:18
 msgid "jamovi's user interface"
-msgstr ""
+msgstr "jamovi's Benutzeroberfläche"
 
 #: ../../howto/howto_overview.rst:20
 msgid ":doc:`howto_Install_modules`"
 msgstr ":doc:`howto_Install_modules`"
-
