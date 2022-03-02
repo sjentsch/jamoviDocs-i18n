@@ -5,18 +5,21 @@
 # This file is distributed under the same license as the jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jamovi \n"
-"Report-Msgid-Bugs-To: \n"
+"Project-Id-Version: jamovi\n"
+"Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2022-02-16 19:03+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-03-02 02:15+0000\n"
+"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"Language-Team: German <https://hosted.weblate.org/projects/jamovidocs/"
+"5_jamovi2r/de/>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.11.1-dev\n"
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../jamovi2r/j2R_Rj.rst:5
@@ -95,6 +98,12 @@ msgid ""
 "insert it, e.g., into a function for a computed variable: ``SUM([insert "
 "text you copied])``"
 msgstr ""
+"Manchmal benötigen Sie eine Liste aller Variablen in Form einer Zeichenkette "
+"(z. B. um sie in Verbindung mit Funktionen in Berechnete Variablen zu "
+"verwenden). Natürlich können Sie die Variablen auch wie im obigen Befehl mit "
+"den Spaltenindizes einschränken. Anschließend können Sie den Ausgabetext "
+"einfach kopieren und z.B. in eine Funktion für eine berechnete Variable "
+"einfügen: ``SUM([den kopierten Text hier einfügen])``"
 
 #: ../../jamovi2r/j2R_Rj.rst:43
 msgid ""
@@ -102,6 +111,9 @@ msgid ""
 "doing so, you may have to precede these functions with the name of the "
 "package and ``::``."
 msgstr ""
+"Sie können aber auch Funktionen aus R-Bibliotheken verwenden (z.B. aus "
+"``stats``). Wenn Sie dies tun, müssen Sie diesen Funktionen den Namen des "
+"Pakets und ``::`` voranstellen."
 
 #: ../../jamovi2r/j2R_Rj.rst:51
 msgid ""
@@ -125,6 +137,8 @@ msgid ""
 "The following commands permits you to list the wealth of R libraries "
 "included with jamovi and Rj:"
 msgstr ""
+"Mit den folgenden Befehlen können Sie die zahlreichen R-Bibliotheken "
+"auflisten, die in jamovi und Rj enthalten sind:"
 
 #: ../../jamovi2r/j2R_Rj.rst:62
 msgid "Some of these libraries are especially interesting:"
@@ -243,7 +257,7 @@ msgstr ""
 
 #: ../../jamovi2r/j2R_overview.rst:5
 msgid "jamovi and R"
-msgstr ""
+msgstr "jamovi und R"
 
 #: ../../jamovi2r/j2R_overview.rst:7
 msgid ""
@@ -251,6 +265,10 @@ msgid ""
 " the :doc:`Rj Editor <j2R_Rj>`, a module available from the jamovi "
 "library that allows executing R code from within jamovi."
 msgstr ""
+"Es gibt mehrere Möglichkeiten, jamovi und R miteinander zu verbinden. Die "
+"erste ist die Verwendung des :doc:`Rj-Editors <j2R_Rj>`, ein in der jamovi-"
+"Bibliothek verfügbares Modul, das die Ausführung von R-Code aus jamovi "
+"heraus ermöglicht."
 
 #: ../../jamovi2r/j2R_overview.rst:10
 msgid ""
@@ -260,4 +278,8 @@ msgid ""
 " syntax for each analysis with :doc:`Syntax mode "
 "<../usermanual/um_6_syntax_mode>`."
 msgstr ""
-
+"Eine andere Möglichkeit ist die Verwendung des :doc:`R-Pakets jmv <../jmv/"
+"jmv_overview>`, welches alle Analysen, die in jamovi enthalten sind, in "
+"einer R-Sitzung (z.B. in RStudio) verfügbar macht. jamovi kann die "
+"entsprechende R-Syntax für jede Analyse mit dem :doc:`Syntax mode <../"
+"usermanual/um_6_syntax_mode>` bereitstellen."
