@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-16 20:39+0100\n"
-"PO-Revision-Date: 2022-03-02 02:39+0000\n"
+"PO-Revision-Date: 2022-03-04 02:30+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/jamovidocs/"
 "1_usermanual/it/>\n"
@@ -299,7 +299,6 @@ msgid "|nominal|    ``Nominal``"
 msgstr "|nominal|    ``Nominal``"
 
 #: ../../usermanual/um_4_spreadsheet.rst:122
-#, fuzzy
 msgid "nominal"
 msgstr "nominal"
 
