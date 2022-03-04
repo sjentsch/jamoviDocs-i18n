@@ -7,20 +7,19 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: jamovi\n"
+"Project-Id-Version:  jamovi\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-16 18:48+0100\n"
+"POT-Creation-Date: 2022-03-04 22:50+0100\n"
 "PO-Revision-Date: 2022-03-02 02:39+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
-"Language-Team: Russian <https://hosted.weblate.org/projects/jamovidocs/"
-"2_analyses/ru/>\n"
 "Language: ru\n"
+"Language-Team: Russian "
+"<https://hosted.weblate.org/projects/jamovidocs/2_analyses/ru/>\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.11.1-dev\n"
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../analyses/jg_00_overview.rst:5
@@ -58,23 +57,23 @@ msgid ""
 msgstr ""
 
 #: ../../analyses/jg_00_overview.rst:94
-#: ../../analyses/jg_21_t-test-independent.rst:50
-#: ../../analyses/jg_22_t-test-paired.rst:50
+#: ../../analyses/jg_21_t-test-independent.rst:56
+#: ../../analyses/jg_22_t-test-paired.rst:56
 #: ../../analyses/jg_23_t-test-onesample.rst:54
 #: ../../analyses/jg_31_unianova.rst:53
 #: ../../analyses/jg_32_anova-factorial.rst:50
 #: ../../analyses/jg_33_anova-rm.rst:61 ../../analyses/jg_34_anova-mixed.rst:60
-#: ../../analyses/jg_42_regression-linear.rst:54
-#: ../../analyses/jg_43_regression-logistic.rst:56
+#: ../../analyses/jg_42_regression-linear.rst:55
+#: ../../analyses/jg_43_regression-logistic.rst:62
 msgid "continuous"
 msgstr "continuous"
 
 #: ../../analyses/jg_00_overview.rst:92
-#: ../../analyses/jg_21_t-test-independent.rst:48
+#: ../../analyses/jg_21_t-test-independent.rst:54
 #: ../../analyses/jg_31_unianova.rst:51
 #: ../../analyses/jg_32_anova-factorial.rst:48
 #: ../../analyses/jg_34_anova-mixed.rst:58
-#: ../../analyses/jg_43_regression-logistic.rst:52
+#: ../../analyses/jg_43_regression-logistic.rst:58
 msgid "nominal"
 msgstr "nominal"
 
@@ -123,7 +122,7 @@ msgstr ":doc:`jg_23_t-test-onesample`"
 
 #: ../../analyses/jg_00_overview.rst:43 ../../analyses/jg_00_overview.rst:66
 #: ../../analyses/jg_00_overview.rst:84
-#: ../../analyses/jg_21_t-test-independent.rst:35
+#: ../../analyses/jg_21_t-test-independent.rst:42
 msgid "Community resources"
 msgstr ""
 
@@ -231,7 +230,7 @@ msgstr ""
 msgid "|select_descriptives|"
 msgstr "|select_descriptives|"
 
-#: ../../analyses/jg_11_descriptive-analyses.rst:67
+#: ../../analyses/jg_11_descriptive-analyses.rst:65
 msgid "select_descriptives"
 msgstr "select_descriptives"
 
@@ -245,7 +244,7 @@ msgstr ""
 msgid "|add_var_descriptives|"
 msgstr "|add_var_descriptives|"
 
-#: ../../analyses/jg_11_descriptive-analyses.rst:70
+#: ../../analyses/jg_11_descriptive-analyses.rst:68
 msgid "add_var_descriptives"
 msgstr "add_var_descriptives"
 
@@ -259,7 +258,7 @@ msgstr ""
 msgid "|output_descriptives|"
 msgstr "|output_descriptives|"
 
-#: ../../analyses/jg_11_descriptive-analyses.rst:73
+#: ../../analyses/jg_11_descriptive-analyses.rst:71
 msgid "output_descriptives"
 msgstr "output_descriptives"
 
@@ -273,7 +272,7 @@ msgstr ""
 msgid "|add_var_descriptives_groupby|"
 msgstr "|add_var_descriptives_groupby|"
 
-#: ../../analyses/jg_11_descriptive-analyses.rst:76
+#: ../../analyses/jg_11_descriptive-analyses.rst:74
 msgid "add_var_descriptives_groupby"
 msgstr "add_var_descriptives_groupby"
 
@@ -285,7 +284,7 @@ msgstr ""
 msgid "|output_descriptives_groupby|"
 msgstr "|output_descriptives_groupby|"
 
-#: ../../analyses/jg_11_descriptive-analyses.rst:79
+#: ../../analyses/jg_11_descriptive-analyses.rst:77
 msgid "output_descriptives_groupby"
 msgstr "output_descriptives_groupby"
 
@@ -297,7 +296,7 @@ msgstr ""
 msgid "|select_descriptives_statistics|"
 msgstr "|select_descriptives_statistics|"
 
-#: ../../analyses/jg_11_descriptive-analyses.rst:82
+#: ../../analyses/jg_11_descriptive-analyses.rst:80
 msgid "select_descriptives_statistics"
 msgstr "select_descriptives_statistics"
 
@@ -313,18 +312,18 @@ msgstr ""
 msgid "|select_descriptives_plots|"
 msgstr "|select_descriptives_plots|"
 
-#: ../../analyses/jg_11_descriptive-analyses.rst:85
+#: ../../analyses/jg_11_descriptive-analyses.rst:83
 msgid "select_descriptives_plots"
 msgstr "select_descriptives_plots"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:53
-#: ../../analyses/jg_22_t-test-paired.rst:37
-#: ../../analyses/jg_23_t-test-onesample.rst:41
-#: ../../analyses/jg_31_unianova.rst:41
-#: ../../analyses/jg_32_anova-factorial.rst:35
-#: ../../analyses/jg_33_anova-rm.rst:48 ../../analyses/jg_34_anova-mixed.rst:49
-#: ../../analyses/jg_42_regression-linear.rst:36
-#: ../../analyses/jg_43_regression-logistic.rst:41
+#: ../../analyses/jg_22_t-test-paired.rst:44
+#: ../../analyses/jg_23_t-test-onesample.rst:42
+#: ../../analyses/jg_31_unianova.rst:42
+#: ../../analyses/jg_32_anova-factorial.rst:36
+#: ../../analyses/jg_33_anova-rm.rst:49 ../../analyses/jg_34_anova-mixed.rst:50
+#: ../../analyses/jg_42_regression-linear.rst:43
+#: ../../analyses/jg_43_regression-logistic.rst:48
 msgid "Further help from the community resources"
 msgstr ""
 
@@ -375,7 +374,7 @@ msgstr ""
 msgid "|data_format_ttest_independent|"
 msgstr "|data_format_ttest_independent|"
 
-#: ../../analyses/jg_21_t-test-independent.rst:52
+#: ../../analyses/jg_21_t-test-independent.rst:58
 msgid "data_format_ttest_independent"
 msgstr "data_format_ttest_independent"
 
@@ -387,7 +386,7 @@ msgstr ""
 msgid "|select_ttest_independent|"
 msgstr "|select_ttest_independent|"
 
-#: ../../analyses/jg_21_t-test-independent.rst:54
+#: ../../analyses/jg_21_t-test-independent.rst:60
 msgid "select_ttest_independent"
 msgstr "select_ttest_independent"
 
@@ -401,7 +400,7 @@ msgstr ""
 msgid "|add_var_ttest_independent|"
 msgstr "|add_var_ttest_independent|"
 
-#: ../../analyses/jg_21_t-test-independent.rst:56
+#: ../../analyses/jg_21_t-test-independent.rst:62
 msgid "add_var_ttest_independent"
 msgstr "add_var_ttest_independent"
 
@@ -415,9 +414,16 @@ msgstr ""
 msgid "|output_ttest_independent|"
 msgstr "|output_ttest_independent|"
 
-#: ../../analyses/jg_21_t-test-independent.rst:58
+#: ../../analyses/jg_21_t-test-independent.rst:64
 msgid "output_ttest_independent"
 msgstr "output_ttest_independent"
+
+#: ../../analyses/jg_21_t-test-independent.rst
+msgid ""
+"Those who have previous experience with SPSS may want to have a look at "
+"the :doc:`side-by-side-comparison <../spss2jamovi/s2j_ttestIS>` of how a "
+"t-test for independent samples is conducted in SPSS and jamovi."
+msgstr ""
 
 #: ../../analyses/jg_21_t-test-independent.rst
 msgid ""
@@ -458,7 +464,7 @@ msgstr ""
 msgid "|data_format_ttest_paired|"
 msgstr "|data_format_ttest_paired|"
 
-#: ../../analyses/jg_22_t-test-paired.rst:52
+#: ../../analyses/jg_22_t-test-paired.rst:58
 msgid "data_format_ttest_paired"
 msgstr "data_format_ttest_paired"
 
@@ -470,7 +476,7 @@ msgstr ""
 msgid "|select_ttest_paired|"
 msgstr "|select_ttest_paired|"
 
-#: ../../analyses/jg_22_t-test-paired.rst:54
+#: ../../analyses/jg_22_t-test-paired.rst:60
 msgid "select_ttest_paired"
 msgstr "select_ttest_paired"
 
@@ -485,7 +491,7 @@ msgstr ""
 msgid "|add_var_ttest_paired|"
 msgstr "|add_var_ttest_paired|"
 
-#: ../../analyses/jg_22_t-test-paired.rst:56
+#: ../../analyses/jg_22_t-test-paired.rst:62
 msgid "add_var_ttest_paired"
 msgstr "add_var_ttest_paired"
 
@@ -493,9 +499,16 @@ msgstr "add_var_ttest_paired"
 msgid "|output_ttest_paired|"
 msgstr "|output_ttest_paired|"
 
-#: ../../analyses/jg_22_t-test-paired.rst:58
+#: ../../analyses/jg_22_t-test-paired.rst:64
 msgid "output_ttest_paired"
 msgstr "output_ttest_paired"
+
+#: ../../analyses/jg_22_t-test-paired.rst
+msgid ""
+"Those who have previous experience with SPSS may want to have a look at "
+"the :doc:`side-by-side-comparison <../spss2jamovi/s2j_ttestPS2>` of how a"
+" t-test for paired samples is conducted in SPSS and jamovi."
+msgstr ""
 
 #: ../../analyses/jg_22_t-test-paired.rst
 msgid ""
@@ -954,7 +967,7 @@ msgstr ""
 msgid "|data_format_regression_linear|"
 msgstr "|data_format_regression_linear|"
 
-#: ../../analyses/jg_42_regression-linear.rst:56
+#: ../../analyses/jg_42_regression-linear.rst:57
 msgid "data_format_regression_linear"
 msgstr "data_format_regression_linear"
 
@@ -966,7 +979,7 @@ msgstr ""
 msgid "|select_regression_linear|"
 msgstr "|select_regression_linear|"
 
-#: ../../analyses/jg_42_regression-linear.rst:58
+#: ../../analyses/jg_42_regression-linear.rst:59
 msgid "select_regression_linear"
 msgstr "select_regression_linear"
 
@@ -981,7 +994,7 @@ msgstr ""
 msgid "|add_var_regression_linear|"
 msgstr "|add_var_regression_linear|"
 
-#: ../../analyses/jg_42_regression-linear.rst:60
+#: ../../analyses/jg_42_regression-linear.rst:61
 msgid "add_var_regression_linear"
 msgstr "add_var_regression_linear"
 
@@ -989,9 +1002,16 @@ msgstr "add_var_regression_linear"
 msgid "|output_regression_linear|"
 msgstr "|output_regression_linear|"
 
-#: ../../analyses/jg_42_regression-linear.rst:62
+#: ../../analyses/jg_42_regression-linear.rst:63
 msgid "output_regression_linear"
 msgstr "output_regression_linear"
+
+#: ../../analyses/jg_42_regression-linear.rst
+msgid ""
+"Those who have previous experience with SPSS may want to have a look at "
+"the :doc:`side-by-side-comparison <../spss2jamovi/s2j_linReg>` of how a "
+"linear regression is conducted in SPSS and jamovi."
+msgstr ""
 
 #: ../../analyses/jg_42_regression-linear.rst
 msgid ""
@@ -1027,7 +1047,7 @@ msgid ""
 "or ordinal), and at least one continuous explanatory variable."
 msgstr ""
 
-#: ../../analyses/jg_43_regression-logistic.rst:54
+#: ../../analyses/jg_43_regression-logistic.rst:60
 msgid "ordinal"
 msgstr "ordinal"
 
@@ -1035,7 +1055,7 @@ msgstr "ordinal"
 msgid "|data_format_regression_logistic|"
 msgstr "|data_format_regression_logistic|"
 
-#: ../../analyses/jg_43_regression-logistic.rst:58
+#: ../../analyses/jg_43_regression-logistic.rst:64
 msgid "data_format_regression_logistic"
 msgstr "data_format_regression_logistic"
 
@@ -1052,7 +1072,7 @@ msgstr ""
 msgid "|select_regression_logistic|"
 msgstr "|select_regression_logistic|"
 
-#: ../../analyses/jg_43_regression-logistic.rst:60
+#: ../../analyses/jg_43_regression-logistic.rst:66
 msgid "select_regression_logistic"
 msgstr "select_regression_logistic"
 
@@ -1066,7 +1086,7 @@ msgstr ""
 msgid "|add_var_regression_logistic|"
 msgstr "|add_var_regression_logistic|"
 
-#: ../../analyses/jg_43_regression-logistic.rst:62
+#: ../../analyses/jg_43_regression-logistic.rst:68
 msgid "add_var_regression_logistic"
 msgstr "add_var_regression_logistic"
 
@@ -1080,7 +1100,7 @@ msgstr ""
 msgid "|options_regression_logistic|"
 msgstr "|options_regression_logistic|"
 
-#: ../../analyses/jg_43_regression-logistic.rst:64
+#: ../../analyses/jg_43_regression-logistic.rst:70
 msgid "options_regression_logistic"
 msgstr "options_regression_logistic"
 
@@ -1088,9 +1108,16 @@ msgstr "options_regression_logistic"
 msgid "|output_regression_logistic|"
 msgstr "|output_regression_logistic|"
 
-#: ../../analyses/jg_43_regression-logistic.rst:66
+#: ../../analyses/jg_43_regression-logistic.rst:72
 msgid "output_regression_logistic"
 msgstr "output_regression_logistic"
+
+#: ../../analyses/jg_43_regression-logistic.rst
+msgid ""
+"Those who have previous experience with SPSS may want to have a look at "
+"the :doc:`side-by-side-comparison <../spss2jamovi/s2j_logReg>` of how a "
+"logistic regression is conducted in SPSS and jamovi."
+msgstr ""
 
 #: ../../analyses/jg_43_regression-logistic.rst
 msgid ""
@@ -1104,3 +1131,4 @@ msgid ""
 "preferences: fast food, healthy food, high protein food, vegan food, "
 "etc.)."
 msgstr ""
+

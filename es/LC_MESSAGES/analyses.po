@@ -7,19 +7,18 @@
 # Leonardo Villa <leovilla80@gmail.com>, 2021.
 msgid ""
 msgstr ""
-"Project-Id-Version: jamovi\n"
+"Project-Id-Version:  jamovi\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
-"POT-Creation-Date: 2021-10-30 20:11+0200\n"
+"POT-Creation-Date: 2022-03-04 22:50+0100\n"
 "PO-Revision-Date: 2022-03-02 02:39+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
-"Language-Team: Spanish <https://hosted.weblate.org/projects/jamovidocs/"
-"2_analyses/es/>\n"
 "Language: es\n"
+"Language-Team: Spanish "
+"<https://hosted.weblate.org/projects/jamovidocs/2_analyses/es/>\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.11.1-dev\n"
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../analyses/jg_00_overview.rst:5
@@ -37,13 +36,14 @@ msgid ""
 "available."
 msgstr ""
 "El objetivo de la siguiente sección es proveer tutoriales cortos, no "
-"técnicos, de cómo realizar procedimientos estadísticos comunes en jamovi. "
-"Fue creado originalmente por Jonas Rafi bajo el nombre de Guía jamovi. Sin "
-"embargo, ha sido pensado como una introducción, no como un recurso que "
-"provea una introducción profunda a los antecedentes de dichos "
+"técnicos, de cómo realizar procedimientos estadísticos comunes en jamovi."
+" Fue creado originalmente por Jonas Rafi bajo el nombre de Guía jamovi. "
+"Sin embargo, ha sido pensado como una introducción, no como un recurso "
+"que provea una introducción profunda a los antecedentes de dichos "
 "procedimientos. Para quienes deseen eso, hay una gran cantidad de otros "
-"recursos. Algunos de dichos recursos están listados al final de las páginas "
-"que introducen al análisis individual en la caja \"recurso de la Comunidad\"."
+"recursos. Algunos de dichos recursos están listados al final de las "
+"páginas que introducen al análisis individual en la caja \"recurso de la "
+"Comunidad\"."
 
 #: ../../analyses/jg_00_overview.rst:13
 msgid "A Note On Measurement Types"
@@ -65,23 +65,23 @@ msgid ""
 msgstr ""
 
 #: ../../analyses/jg_00_overview.rst:94
-#: ../../analyses/jg_21_t-test-independent.rst:50
-#: ../../analyses/jg_22_t-test-paired.rst:50
+#: ../../analyses/jg_21_t-test-independent.rst:56
+#: ../../analyses/jg_22_t-test-paired.rst:56
 #: ../../analyses/jg_23_t-test-onesample.rst:54
 #: ../../analyses/jg_31_unianova.rst:53
 #: ../../analyses/jg_32_anova-factorial.rst:50
 #: ../../analyses/jg_33_anova-rm.rst:61 ../../analyses/jg_34_anova-mixed.rst:60
-#: ../../analyses/jg_42_regression-linear.rst:54
-#: ../../analyses/jg_43_regression-logistic.rst:56
+#: ../../analyses/jg_42_regression-linear.rst:55
+#: ../../analyses/jg_43_regression-logistic.rst:62
 msgid "continuous"
 msgstr "continuous"
 
 #: ../../analyses/jg_00_overview.rst:92
-#: ../../analyses/jg_21_t-test-independent.rst:48
+#: ../../analyses/jg_21_t-test-independent.rst:54
 #: ../../analyses/jg_31_unianova.rst:51
 #: ../../analyses/jg_32_anova-factorial.rst:48
 #: ../../analyses/jg_34_anova-mixed.rst:58
-#: ../../analyses/jg_43_regression-logistic.rst:52
+#: ../../analyses/jg_43_regression-logistic.rst:58
 msgid "nominal"
 msgstr "nominal"
 
@@ -111,9 +111,9 @@ msgid ""
 "distributed data set deviates significantly from a null hypothesis (which"
 " assumes that there is no difference)."
 msgstr ""
-"La prueba t se utiliza para comprobar si la media de un conjunto de datos "
-"con distribución normal se desvía significativamente de una hipótesis nula "
-"(que supone que no hay diferencias)."
+"La prueba t se utiliza para comprobar si la media de un conjunto de datos"
+" con distribución normal se desvía significativamente de una hipótesis "
+"nula (que supone que no hay diferencias)."
 
 #: ../../analyses/jg_00_overview.rst:37
 msgid "There are three types of t-tests:"
@@ -133,7 +133,7 @@ msgstr ":doc:`jg_23_t-test-onesample`"
 
 #: ../../analyses/jg_00_overview.rst:43 ../../analyses/jg_00_overview.rst:66
 #: ../../analyses/jg_00_overview.rst:84
-#: ../../analyses/jg_21_t-test-independent.rst:35
+#: ../../analyses/jg_21_t-test-independent.rst:42
 msgid "Community resources"
 msgstr "Recursos de la Comunidad"
 
@@ -145,9 +145,8 @@ msgid ""
 " by `Barton Poulson <https://datalab.cc/jamovi>`__."
 msgstr ""
 "Una introducción más completa al concepto se presenta en este `vídeo "
-"<https://www.youtube.com/embed/mb7KCLYEis8?"
-"list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ de `Barton Poulson <https://"
-"datalab.cc/jamovi>`__."
+"<https://www.youtube.com/embed/mb7KCLYEis8?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__"
+" de `Barton Poulson <https://datalab.cc/jamovi>`__."
 
 #: ../../analyses/jg_00_overview.rst:50
 msgid "Analyses of Variance (ANOVA)"
@@ -166,16 +165,17 @@ msgid ""
 "(t-tests only allow two) and in that several factors can be examined "
 "simultaneously."
 msgstr ""
-"El análisis de la varianza (ANOVA) es un método estadístico que examina cómo "
-"el impacto de uno o más factores afecta a una variable de resultado "
+"El análisis de la varianza (ANOVA) es un método estadístico que examina "
+"cómo el impacto de uno o más factores afecta a una variable de resultado "
 "(dependiente). Estos factores son las variables predictoras y son "
 "categóricas. Normalmente, estos factores reflejan una manipulación "
-"experimental (por ejemplo, con o sin tratamiento), pero un factor también "
-"puede representar grupos cuya influencia uno podría desear controlar (por "
-"ejemplo, el género: hombres o mujeres). El análisis de la varianza se basa "
-"en un concepto similar al de la prueba t, pero va más allá, en el sentido de "
-"que los factores pueden tener varios niveles (las pruebas t sólo permiten "
-"dos) y en que se pueden examinar varios factores simultáneamente."
+"experimental (por ejemplo, con o sin tratamiento), pero un factor también"
+" puede representar grupos cuya influencia uno podría desear controlar "
+"(por ejemplo, el género: hombres o mujeres). El análisis de la varianza "
+"se basa en un concepto similar al de la prueba t, pero va más allá, en el"
+" sentido de que los factores pueden tener varios niveles (las pruebas t "
+"sólo permiten dos) y en que se pueden examinar varios factores "
+"simultáneamente."
 
 #: ../../analyses/jg_00_overview.rst:58
 msgid ""
@@ -184,8 +184,8 @@ msgid ""
 "compare between people or within a person - repeated measurements:"
 msgstr ""
 "Existen diferentes tipos de análisis de la varianza, que difieren en el "
-"número de factores examinados -uno o más factores- o en si se comparan entre "
-"personas o dentro de una persona -medidas repetidas-:"
+"número de factores examinados -uno o más factores- o en si se comparan "
+"entre personas o dentro de una persona -medidas repetidas-:"
 
 #: ../../analyses/jg_00_overview.rst:61
 msgid ":doc:`jg_31_unianova`"
@@ -210,9 +210,8 @@ msgid ""
 " by `Barton Poulson <https://datalab.cc/jamovi>`__."
 msgstr ""
 "Una introducción en el concepto del ANOVA se presenta en este `video "
-"<https://www.youtube.com/embed/GcbMG6sizXs?"
-"list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ por `Barton Poulson <https://"
-"datalab.cc/jamovi>`__."
+"<https://www.youtube.com/embed/GcbMG6sizXs?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__"
+" por `Barton Poulson <https://datalab.cc/jamovi>`__."
 
 #: ../../analyses/jg_00_overview.rst:74
 msgid "Correlation and regression"
@@ -230,10 +229,10 @@ msgid ""
 "regression)."
 msgstr ""
 "Los análisis de correlación y regresión son métodos estadísticos para "
-"evaluar las relaciones entre una variable dependiente/de resultado y una o "
-"más variables independientes/de predicción. Mientras que el análisis de "
-"*correlación* examina la *relación* entre un predictor y una variable de "
-"resultado, el análisis de *regresión* se centra principalmente en la "
+"evaluar las relaciones entre una variable dependiente/de resultado y una "
+"o más variables independientes/de predicción. Mientras que el análisis de"
+" *correlación* examina la *relación* entre un predictor y una variable de"
+" resultado, el análisis de *regresión* se centra principalmente en la "
 "*predicción* (en qué medida pueden una o más variables predecir otra "
 "variable (de resultado)). A menudo se distingue entre lineal y no lineal "
 "(por ejemplo, regresión logística)."
@@ -253,10 +252,10 @@ msgid ""
 "<https://www.youtube.com/embed/gRhVjKNWiUs?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__"
 " by `Barton Poulson <https://datalab.cc/jamovi>`__."
 msgstr ""
-"Una introducción al concepto del análisis de regresión se presenta en este "
-"`video <https://www.youtube.com/embed/gRhVjKNWiUs?"
-"list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ por `Barton Poulson <https://"
-"datalab.cc/jamovi>`__."
+"Una introducción al concepto del análisis de regresión se presenta en "
+"este `video "
+"<https://www.youtube.com/embed/gRhVjKNWiUs?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__"
+" por `Barton Poulson <https://datalab.cc/jamovi>`__."
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:5
 msgid "Descriptive analyses"
@@ -274,7 +273,7 @@ msgstr ""
 msgid "|select_descriptives|"
 msgstr "|select_descriptives|"
 
-#: ../../analyses/jg_11_descriptive-analyses.rst:67
+#: ../../analyses/jg_11_descriptive-analyses.rst:65
 msgid "select_descriptives"
 msgstr "select_descriptives"
 
@@ -288,7 +287,7 @@ msgstr ""
 msgid "|add_var_descriptives|"
 msgstr "|add_var_descriptives|"
 
-#: ../../analyses/jg_11_descriptive-analyses.rst:70
+#: ../../analyses/jg_11_descriptive-analyses.rst:68
 msgid "add_var_descriptives"
 msgstr "add_var_descriptives"
 
@@ -297,14 +296,14 @@ msgid ""
 "The result is shown in the right panel. Right-click on the output to save"
 " or copy it."
 msgstr ""
-"El resultado se ve en el panel derecho. Haga click-derecho en la salida para "
-"guardarlo o copiarlo."
+"El resultado se ve en el panel derecho. Haga click-derecho en la salida "
+"para guardarlo o copiarlo."
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:25
 msgid "|output_descriptives|"
 msgstr "|output_descriptives|"
 
-#: ../../analyses/jg_11_descriptive-analyses.rst:73
+#: ../../analyses/jg_11_descriptive-analyses.rst:71
 msgid "output_descriptives"
 msgstr "output_descriptives"
 
@@ -318,7 +317,7 @@ msgstr ""
 msgid "|add_var_descriptives_groupby|"
 msgstr "|add_var_descriptives_groupby|"
 
-#: ../../analyses/jg_11_descriptive-analyses.rst:76
+#: ../../analyses/jg_11_descriptive-analyses.rst:74
 msgid "add_var_descriptives_groupby"
 msgstr "add_var_descriptives_groupby"
 
@@ -330,7 +329,7 @@ msgstr ""
 msgid "|output_descriptives_groupby|"
 msgstr "|output_descriptives_groupby|"
 
-#: ../../analyses/jg_11_descriptive-analyses.rst:79
+#: ../../analyses/jg_11_descriptive-analyses.rst:77
 msgid "output_descriptives_groupby"
 msgstr "output_descriptives_groupby"
 
@@ -342,7 +341,7 @@ msgstr ""
 msgid "|select_descriptives_statistics|"
 msgstr "|select_descriptives_statistics|"
 
-#: ../../analyses/jg_11_descriptive-analyses.rst:82
+#: ../../analyses/jg_11_descriptive-analyses.rst:80
 msgid "select_descriptives_statistics"
 msgstr "select_descriptives_statistics"
 
@@ -355,26 +354,26 @@ msgid ""
 msgstr ""
 "Para crear un gráfico basado en las opciones anteriores, haga clic en la "
 "pestaña ``Plots`` y marque la casilla del gráfico deseado. Si desea "
-"identificar los valores atípicos y comprobar si sus variables se ajustan a "
-"una distribución normal, deberá marcar las casillas ``Ploteo de caja``, "
-"``Violín`` y ``Q-Q``."
+"identificar los valores atípicos y comprobar si sus variables se ajustan "
+"a una distribución normal, deberá marcar las casillas ``Ploteo de caja``,"
+" ``Violín`` y ``Q-Q``."
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:49
 msgid "|select_descriptives_plots|"
 msgstr "|select_descriptives_plots|"
 
-#: ../../analyses/jg_11_descriptive-analyses.rst:85
+#: ../../analyses/jg_11_descriptive-analyses.rst:83
 msgid "select_descriptives_plots"
 msgstr "select_descriptives_plots"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:53
-#: ../../analyses/jg_22_t-test-paired.rst:37
-#: ../../analyses/jg_23_t-test-onesample.rst:41
-#: ../../analyses/jg_31_unianova.rst:41
-#: ../../analyses/jg_32_anova-factorial.rst:35
-#: ../../analyses/jg_33_anova-rm.rst:48 ../../analyses/jg_34_anova-mixed.rst:49
-#: ../../analyses/jg_42_regression-linear.rst:36
-#: ../../analyses/jg_43_regression-logistic.rst:41
+#: ../../analyses/jg_22_t-test-paired.rst:44
+#: ../../analyses/jg_23_t-test-onesample.rst:42
+#: ../../analyses/jg_31_unianova.rst:42
+#: ../../analyses/jg_32_anova-factorial.rst:36
+#: ../../analyses/jg_33_anova-rm.rst:49 ../../analyses/jg_34_anova-mixed.rst:50
+#: ../../analyses/jg_42_regression-linear.rst:43
+#: ../../analyses/jg_43_regression-logistic.rst:48
 msgid "Further help from the community resources"
 msgstr ""
 
@@ -385,10 +384,10 @@ msgid ""
 "<https://www.youtube.com/embed/srqNCux0ijY?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__"
 " by `Barton Poulson <https://datalab.cc/jamovi>`__."
 msgstr ""
-"Si quiere que le expliquen estos conceptos de otra manera, vea este `vídeo "
-"introductorio <https://www.youtube.com/embed/srqNCux0ijY?"
-"list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ de `Barton Poulson <https://"
-"datalab.cc/jamovi>`__."
+"Si quiere que le expliquen estos conceptos de otra manera, vea este "
+"`vídeo introductorio "
+"<https://www.youtube.com/embed/srqNCux0ijY?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__"
+" de `Barton Poulson <https://datalab.cc/jamovi>`__."
 
 #: ../../analyses/jg_11_descriptive-analyses.rst
 msgid ""
@@ -402,10 +401,11 @@ msgid ""
 msgstr ""
 "Para aquellos que quieran profundizar aún más en la introducción, pueden "
 "leer el capítulo correspondiente de la `documentación web \"Learning "
-"statistics with jamovi\" <https://lsj.readthedocs.io/en/latest/lsj/"
-"Ch04_Descriptives.html>`__ o el capítulo 4 del `e-book <https://www."
-"learnstatswithjamovi.com/>`__ de `Danielle J. Navarro <https://djnavarro.net/"
-">`__ y `David R. Foxcroft <https://www.davidfoxcroft.com/>`__."
+"statistics with jamovi\" "
+"<https://lsj.readthedocs.io/en/latest/lsj/Ch04_Descriptives.html>`__ o el"
+" capítulo 4 del `e-book <https://www.learnstatswithjamovi.com/>`__ de "
+"`Danielle J. Navarro <https://djnavarro.net/>`__ y `David R. Foxcroft "
+"<https://www.davidfoxcroft.com/>`__."
 
 #: ../../analyses/jg_21_t-test-independent.rst:5
 msgid "t-test: Independent samples"
@@ -435,7 +435,7 @@ msgstr ""
 msgid "|data_format_ttest_independent|"
 msgstr "|data_format_ttest_independent|"
 
-#: ../../analyses/jg_21_t-test-independent.rst:52
+#: ../../analyses/jg_21_t-test-independent.rst:58
 msgid "data_format_ttest_independent"
 msgstr "data_format_ttest_independent"
 
@@ -447,7 +447,7 @@ msgstr ""
 msgid "|select_ttest_independent|"
 msgstr "|select_ttest_independent|"
 
-#: ../../analyses/jg_21_t-test-independent.rst:54
+#: ../../analyses/jg_21_t-test-independent.rst:60
 msgid "select_ttest_independent"
 msgstr "select_ttest_independent"
 
@@ -455,14 +455,13 @@ msgstr "select_ttest_independent"
 msgid ""
 "Drag and drop your outcome variable to ``Dependent Variables`` and your "
 "grouping variable to ``Grouping Variable``."
-msgstr ""
-"Selecciona ``Análisis`` → ``Pruebas T`` → ``Prueba T muestras pareadas``."
+msgstr "Selecciona ``Análisis`` → ``Pruebas T`` → ``Prueba T muestras pareadas``."
 
 #: ../../analyses/jg_21_t-test-independent.rst:25
 msgid "|add_var_ttest_independent|"
 msgstr "|add_var_ttest_independent|"
 
-#: ../../analyses/jg_21_t-test-independent.rst:56
+#: ../../analyses/jg_21_t-test-independent.rst:62
 msgid "add_var_ttest_independent"
 msgstr "add_var_ttest_independent"
 
@@ -476,9 +475,16 @@ msgstr ""
 msgid "|output_ttest_independent|"
 msgstr "|output_ttest_independent|"
 
-#: ../../analyses/jg_21_t-test-independent.rst:58
+#: ../../analyses/jg_21_t-test-independent.rst:64
 msgid "output_ttest_independent"
 msgstr "output_ttest_independent"
+
+#: ../../analyses/jg_21_t-test-independent.rst
+msgid ""
+"Those who have previous experience with SPSS may want to have a look at "
+"the :doc:`side-by-side-comparison <../spss2jamovi/s2j_ttestIS>` of how a "
+"t-test for independent samples is conducted in SPSS and jamovi."
+msgstr ""
 
 #: ../../analyses/jg_21_t-test-independent.rst
 msgid ""
@@ -487,9 +493,10 @@ msgid ""
 "<https://datalab.cc/jamovi>`__ provides a more comprehensive introduction"
 " into this test."
 msgstr ""
-"Este `video <https://www.youtube.com/embed/lSjfYYiJG6E?"
-"list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ por `Barton Poulson <https://"
-"datalab.cc/jamovi>`__ da una introducción más comprensible a esta prueba."
+"Este `video "
+"<https://www.youtube.com/embed/lSjfYYiJG6E?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__"
+" por `Barton Poulson <https://datalab.cc/jamovi>`__ da una introducción "
+"más comprensible a esta prueba."
 
 #: ../../analyses/jg_21_t-test-independent.rst
 msgid ""
@@ -522,7 +529,7 @@ msgstr ""
 msgid "|data_format_ttest_paired|"
 msgstr "|data_format_ttest_paired|"
 
-#: ../../analyses/jg_22_t-test-paired.rst:52
+#: ../../analyses/jg_22_t-test-paired.rst:58
 msgid "data_format_ttest_paired"
 msgstr "data_format_ttest_paired"
 
@@ -534,7 +541,7 @@ msgstr ""
 msgid "|select_ttest_paired|"
 msgstr "|select_ttest_paired|"
 
-#: ../../analyses/jg_22_t-test-paired.rst:54
+#: ../../analyses/jg_22_t-test-paired.rst:60
 msgid "select_ttest_paired"
 msgstr "select_ttest_paired"
 
@@ -549,7 +556,7 @@ msgstr ""
 msgid "|add_var_ttest_paired|"
 msgstr "|add_var_ttest_paired|"
 
-#: ../../analyses/jg_22_t-test-paired.rst:56
+#: ../../analyses/jg_22_t-test-paired.rst:62
 msgid "add_var_ttest_paired"
 msgstr "add_var_ttest_paired"
 
@@ -557,9 +564,16 @@ msgstr "add_var_ttest_paired"
 msgid "|output_ttest_paired|"
 msgstr "|output_ttest_paired|"
 
-#: ../../analyses/jg_22_t-test-paired.rst:58
+#: ../../analyses/jg_22_t-test-paired.rst:64
 msgid "output_ttest_paired"
 msgstr "output_ttest_paired"
+
+#: ../../analyses/jg_22_t-test-paired.rst
+msgid ""
+"Those who have previous experience with SPSS may want to have a look at "
+"the :doc:`side-by-side-comparison <../spss2jamovi/s2j_ttestPS2>` of how a"
+" t-test for paired samples is conducted in SPSS and jamovi."
+msgstr ""
 
 #: ../../analyses/jg_22_t-test-paired.rst
 msgid ""
@@ -616,8 +630,7 @@ msgstr "select_ttest_onesample"
 
 #: ../../analyses/jg_23_t-test-onesample.rst
 msgid "Drag and drop your dependent variable to ``Dependent Variables``."
-msgstr ""
-"Arrastre y suelte su variable dependiente en ` `Variables dependientes``."
+msgstr "Arrastre y suelte su variable dependiente en ` `Variables dependientes``."
 
 #: ../../analyses/jg_23_t-test-onesample.rst:25
 msgid "|add_var_ttest_onesample|"
@@ -1019,7 +1032,7 @@ msgstr ""
 msgid "|data_format_regression_linear|"
 msgstr "|data_format_regression_linear|"
 
-#: ../../analyses/jg_42_regression-linear.rst:56
+#: ../../analyses/jg_42_regression-linear.rst:57
 msgid "data_format_regression_linear"
 msgstr "data_format_regression_linear"
 
@@ -1031,7 +1044,7 @@ msgstr ""
 msgid "|select_regression_linear|"
 msgstr "|select_regression_linear|"
 
-#: ../../analyses/jg_42_regression-linear.rst:58
+#: ../../analyses/jg_42_regression-linear.rst:59
 msgid "select_regression_linear"
 msgstr "select_regression_linear"
 
@@ -1046,7 +1059,7 @@ msgstr ""
 msgid "|add_var_regression_linear|"
 msgstr "|add_var_regression_linear|"
 
-#: ../../analyses/jg_42_regression-linear.rst:60
+#: ../../analyses/jg_42_regression-linear.rst:61
 msgid "add_var_regression_linear"
 msgstr "add_var_regression_linear"
 
@@ -1054,9 +1067,16 @@ msgstr "add_var_regression_linear"
 msgid "|output_regression_linear|"
 msgstr "|output_regression_linear|"
 
-#: ../../analyses/jg_42_regression-linear.rst:62
+#: ../../analyses/jg_42_regression-linear.rst:63
 msgid "output_regression_linear"
 msgstr "output_regression_linear"
+
+#: ../../analyses/jg_42_regression-linear.rst
+msgid ""
+"Those who have previous experience with SPSS may want to have a look at "
+"the :doc:`side-by-side-comparison <../spss2jamovi/s2j_linReg>` of how a "
+"linear regression is conducted in SPSS and jamovi."
+msgstr ""
 
 #: ../../analyses/jg_42_regression-linear.rst
 msgid ""
@@ -1092,7 +1112,7 @@ msgid ""
 "or ordinal), and at least one continuous explanatory variable."
 msgstr ""
 
-#: ../../analyses/jg_43_regression-logistic.rst:54
+#: ../../analyses/jg_43_regression-logistic.rst:60
 msgid "ordinal"
 msgstr "ordinal"
 
@@ -1100,7 +1120,7 @@ msgstr "ordinal"
 msgid "|data_format_regression_logistic|"
 msgstr "|data_format_regression_logistic|"
 
-#: ../../analyses/jg_43_regression-logistic.rst:58
+#: ../../analyses/jg_43_regression-logistic.rst:64
 msgid "data_format_regression_logistic"
 msgstr "data_format_regression_logistic"
 
@@ -1117,7 +1137,7 @@ msgstr ""
 msgid "|select_regression_logistic|"
 msgstr "|select_regression_logistic|"
 
-#: ../../analyses/jg_43_regression-logistic.rst:60
+#: ../../analyses/jg_43_regression-logistic.rst:66
 msgid "select_regression_logistic"
 msgstr "select_regression_logistic"
 
@@ -1131,7 +1151,7 @@ msgstr ""
 msgid "|add_var_regression_logistic|"
 msgstr "|add_var_regression_logistic|"
 
-#: ../../analyses/jg_43_regression-logistic.rst:62
+#: ../../analyses/jg_43_regression-logistic.rst:68
 msgid "add_var_regression_logistic"
 msgstr "add_var_regression_logistic"
 
@@ -1145,7 +1165,7 @@ msgstr ""
 msgid "|options_regression_logistic|"
 msgstr "|options_regression_logistic|"
 
-#: ../../analyses/jg_43_regression-logistic.rst:64
+#: ../../analyses/jg_43_regression-logistic.rst:70
 msgid "options_regression_logistic"
 msgstr "options_regression_logistic"
 
@@ -1153,9 +1173,16 @@ msgstr "options_regression_logistic"
 msgid "|output_regression_logistic|"
 msgstr "|output_regression_logistic|"
 
-#: ../../analyses/jg_43_regression-logistic.rst:66
+#: ../../analyses/jg_43_regression-logistic.rst:72
 msgid "output_regression_logistic"
 msgstr "output_regression_logistic"
+
+#: ../../analyses/jg_43_regression-logistic.rst
+msgid ""
+"Those who have previous experience with SPSS may want to have a look at "
+"the :doc:`side-by-side-comparison <../spss2jamovi/s2j_logReg>` of how a "
+"logistic regression is conducted in SPSS and jamovi."
+msgstr ""
 
 #: ../../analyses/jg_43_regression-logistic.rst
 msgid ""
@@ -1169,3 +1196,4 @@ msgid ""
 "preferences: fast food, healthy food, high protein food, vegan food, "
 "etc.)."
 msgstr ""
+

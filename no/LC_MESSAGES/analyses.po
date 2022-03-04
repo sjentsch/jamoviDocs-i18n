@@ -7,19 +7,18 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: jamovi\n"
+"Project-Id-Version:  jamovi\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-16 18:48+0100\n"
+"POT-Creation-Date: 2022-03-04 22:50+0100\n"
 "PO-Revision-Date: 2022-03-02 02:39+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
-"Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/"
-"jamovidocs/2_analyses/nb_NO/>\n"
 "Language: no\n"
+"Language-Team: Norwegian Bokmål "
+"<https://hosted.weblate.org/projects/jamovidocs/2_analyses/nb_NO/>\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.11.1-dev\n"
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../analyses/jg_00_overview.rst:5
@@ -36,13 +35,13 @@ msgid ""
 "`community resources <https://www.jamovi.org/community.html>`__ "
 "available."
 msgstr ""
-"Målet med den følgende delen er å gi korte, ikke-tekniske veiledninger om "
-"hvordan man utfører vanlige statistiske prosedyrer i jamovi. Veiledningene "
-"ble opprinnelig laget av Jonas Rafi under navnet jamovi-guide. Men, det er "
-"bare ment som en kort oversikt og som hjelp for å komme i gang. For en mer "
-"dypere behandling av disse analysene, anbefaler vi at du tar en titt på de "
-"mange `community resources <https://www.jamovi.org/community.html>`__ som er "
-"tilgjengelige."
+"Målet med den følgende delen er å gi korte, ikke-tekniske veiledninger om"
+" hvordan man utfører vanlige statistiske prosedyrer i jamovi. "
+"Veiledningene ble opprinnelig laget av Jonas Rafi under navnet jamovi-"
+"guide. Men, det er bare ment som en kort oversikt og som hjelp for å "
+"komme i gang. For en mer dypere behandling av disse analysene, anbefaler "
+"vi at du tar en titt på de mange `community resources "
+"<https://www.jamovi.org/community.html>`__ som er tilgjengelige."
 
 #: ../../analyses/jg_00_overview.rst:13
 msgid "A Note On Measurement Types"
@@ -63,35 +62,36 @@ msgid ""
 "nominal one, the analysis will simply treat the variable as nominal."
 msgstr ""
 "Følgende dokumentasjon beskriver hver av analysene, og beskriver de "
-"nødvendige måletypene for variable mål. Det kan for eksempel forklare at en "
-"bestemt analyse krever en |continuous| kontinuerlig avhengig variabel og en "
-"|nominal| nominell grupperingsvariabel. Det skjer av og til at kolonnene i "
-"datasettet ikke er konfigurert med den korrekte måletypen (det vises i "
-"kolonneoverskriften). Du kan justere måletypen for kolonner ved hjelp av "
-"variabelredigering (dobbeltklikk på kolonneoverskrift), men (for det meste) "
-"disse måletypene er heller en veiledning og analysene virker selv om du "
-"bruker en «ukorrekt» måletype. Hvis du tilordner et |continuous| "
-"kontinuerlig variabel til en analyse som forventer en |nominal| nominell, "
-"vil analysen ganske enkelt behandle variabelen som nominell."
+"nødvendige måletypene for variable mål. Det kan for eksempel forklare at "
+"en bestemt analyse krever en |continuous| kontinuerlig avhengig variabel "
+"og en |nominal| nominell grupperingsvariabel. Det skjer av og til at "
+"kolonnene i datasettet ikke er konfigurert med den korrekte måletypen "
+"(det vises i kolonneoverskriften). Du kan justere måletypen for kolonner "
+"ved hjelp av variabelredigering (dobbeltklikk på kolonneoverskrift), men "
+"(for det meste) disse måletypene er heller en veiledning og analysene "
+"virker selv om du bruker en «ukorrekt» måletype. Hvis du tilordner et "
+"|continuous| kontinuerlig variabel til en analyse som forventer en "
+"|nominal| nominell, vil analysen ganske enkelt behandle variabelen som "
+"nominell."
 
 #: ../../analyses/jg_00_overview.rst:94
-#: ../../analyses/jg_21_t-test-independent.rst:50
-#: ../../analyses/jg_22_t-test-paired.rst:50
+#: ../../analyses/jg_21_t-test-independent.rst:56
+#: ../../analyses/jg_22_t-test-paired.rst:56
 #: ../../analyses/jg_23_t-test-onesample.rst:54
 #: ../../analyses/jg_31_unianova.rst:53
 #: ../../analyses/jg_32_anova-factorial.rst:50
 #: ../../analyses/jg_33_anova-rm.rst:61 ../../analyses/jg_34_anova-mixed.rst:60
-#: ../../analyses/jg_42_regression-linear.rst:54
-#: ../../analyses/jg_43_regression-logistic.rst:56
+#: ../../analyses/jg_42_regression-linear.rst:55
+#: ../../analyses/jg_43_regression-logistic.rst:62
 msgid "continuous"
 msgstr "continuous"
 
 #: ../../analyses/jg_00_overview.rst:92
-#: ../../analyses/jg_21_t-test-independent.rst:48
+#: ../../analyses/jg_21_t-test-independent.rst:54
 #: ../../analyses/jg_31_unianova.rst:51
 #: ../../analyses/jg_32_anova-factorial.rst:48
 #: ../../analyses/jg_34_anova-mixed.rst:58
-#: ../../analyses/jg_43_regression-logistic.rst:52
+#: ../../analyses/jg_43_regression-logistic.rst:58
 msgid "nominal"
 msgstr "nominal"
 
@@ -102,9 +102,9 @@ msgid ""
 "can save yourself the labour of setting the measure types correctly if "
 "you don't want to."
 msgstr ""
-"Det betyr at selv om dokumentasjonen kanskje sier at en bestemt måletype er "
-"nødvendig, må dataene ganske enkelt være korrekt satt og du kan spare deg "
-"selv tiden for å rette dem hvis du ikke vil."
+"Det betyr at selv om dokumentasjonen kanskje sier at en bestemt måletype "
+"er nødvendig, må dataene ganske enkelt være korrekt satt og du kan spare "
+"deg selv tiden for å rette dem hvis du ikke vil."
 
 #: ../../analyses/jg_00_overview.rst:26
 msgid "Descriptives"
@@ -125,8 +125,8 @@ msgid ""
 " assumes that there is no difference)."
 msgstr ""
 "t-testen brukes til å teste om gjennomsnittsverdien i et normalfordelt "
-"datasett avviker betydelig fra en nullhypotese (som påstår at det ikke er "
-"noen forskjell)."
+"datasett avviker betydelig fra en nullhypotese (som påstår at det ikke er"
+" noen forskjell)."
 
 #: ../../analyses/jg_00_overview.rst:37
 msgid "There are three types of t-tests:"
@@ -146,7 +146,7 @@ msgstr ":doc:`jg_23_t-test-onesample`"
 
 #: ../../analyses/jg_00_overview.rst:43 ../../analyses/jg_00_overview.rst:66
 #: ../../analyses/jg_00_overview.rst:84
-#: ../../analyses/jg_21_t-test-independent.rst:35
+#: ../../analyses/jg_21_t-test-independent.rst:42
 msgid "Community resources"
 msgstr "Community resources"
 
@@ -254,7 +254,7 @@ msgstr ""
 msgid "|select_descriptives|"
 msgstr "|select_descriptives|"
 
-#: ../../analyses/jg_11_descriptive-analyses.rst:67
+#: ../../analyses/jg_11_descriptive-analyses.rst:65
 msgid "select_descriptives"
 msgstr "select_descriptives"
 
@@ -268,7 +268,7 @@ msgstr ""
 msgid "|add_var_descriptives|"
 msgstr "|add_var_descriptives|"
 
-#: ../../analyses/jg_11_descriptive-analyses.rst:70
+#: ../../analyses/jg_11_descriptive-analyses.rst:68
 msgid "add_var_descriptives"
 msgstr "add_var_descriptives"
 
@@ -282,7 +282,7 @@ msgstr ""
 msgid "|output_descriptives|"
 msgstr "|output_descriptives|"
 
-#: ../../analyses/jg_11_descriptive-analyses.rst:73
+#: ../../analyses/jg_11_descriptive-analyses.rst:71
 msgid "output_descriptives"
 msgstr "output_descriptives"
 
@@ -296,7 +296,7 @@ msgstr ""
 msgid "|add_var_descriptives_groupby|"
 msgstr "|add_var_descriptives_groupby|"
 
-#: ../../analyses/jg_11_descriptive-analyses.rst:76
+#: ../../analyses/jg_11_descriptive-analyses.rst:74
 msgid "add_var_descriptives_groupby"
 msgstr "add_var_descriptives_groupby"
 
@@ -308,7 +308,7 @@ msgstr ""
 msgid "|output_descriptives_groupby|"
 msgstr "|output_descriptives_groupby|"
 
-#: ../../analyses/jg_11_descriptive-analyses.rst:79
+#: ../../analyses/jg_11_descriptive-analyses.rst:77
 msgid "output_descriptives_groupby"
 msgstr "output_descriptives_groupby"
 
@@ -320,7 +320,7 @@ msgstr ""
 msgid "|select_descriptives_statistics|"
 msgstr "|select_descriptives_statistics|"
 
-#: ../../analyses/jg_11_descriptive-analyses.rst:82
+#: ../../analyses/jg_11_descriptive-analyses.rst:80
 msgid "select_descriptives_statistics"
 msgstr "select_descriptives_statistics"
 
@@ -336,18 +336,18 @@ msgstr ""
 msgid "|select_descriptives_plots|"
 msgstr "|select_descriptives_plots|"
 
-#: ../../analyses/jg_11_descriptive-analyses.rst:85
+#: ../../analyses/jg_11_descriptive-analyses.rst:83
 msgid "select_descriptives_plots"
 msgstr "select_descriptives_plots"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:53
-#: ../../analyses/jg_22_t-test-paired.rst:37
-#: ../../analyses/jg_23_t-test-onesample.rst:41
-#: ../../analyses/jg_31_unianova.rst:41
-#: ../../analyses/jg_32_anova-factorial.rst:35
-#: ../../analyses/jg_33_anova-rm.rst:48 ../../analyses/jg_34_anova-mixed.rst:49
-#: ../../analyses/jg_42_regression-linear.rst:36
-#: ../../analyses/jg_43_regression-logistic.rst:41
+#: ../../analyses/jg_22_t-test-paired.rst:44
+#: ../../analyses/jg_23_t-test-onesample.rst:42
+#: ../../analyses/jg_31_unianova.rst:42
+#: ../../analyses/jg_32_anova-factorial.rst:36
+#: ../../analyses/jg_33_anova-rm.rst:49 ../../analyses/jg_34_anova-mixed.rst:50
+#: ../../analyses/jg_42_regression-linear.rst:43
+#: ../../analyses/jg_43_regression-logistic.rst:48
 msgid "Further help from the community resources"
 msgstr ""
 
@@ -398,7 +398,7 @@ msgstr ""
 msgid "|data_format_ttest_independent|"
 msgstr "|data_format_ttest_independent|"
 
-#: ../../analyses/jg_21_t-test-independent.rst:52
+#: ../../analyses/jg_21_t-test-independent.rst:58
 msgid "data_format_ttest_independent"
 msgstr "data_format_ttest_independent"
 
@@ -410,7 +410,7 @@ msgstr ""
 msgid "|select_ttest_independent|"
 msgstr "|select_ttest_independent|"
 
-#: ../../analyses/jg_21_t-test-independent.rst:54
+#: ../../analyses/jg_21_t-test-independent.rst:60
 msgid "select_ttest_independent"
 msgstr "select_ttest_independent"
 
@@ -424,7 +424,7 @@ msgstr ""
 msgid "|add_var_ttest_independent|"
 msgstr "|add_var_ttest_independent|"
 
-#: ../../analyses/jg_21_t-test-independent.rst:56
+#: ../../analyses/jg_21_t-test-independent.rst:62
 msgid "add_var_ttest_independent"
 msgstr "add_var_ttest_independent"
 
@@ -438,9 +438,16 @@ msgstr ""
 msgid "|output_ttest_independent|"
 msgstr "|output_ttest_independent|"
 
-#: ../../analyses/jg_21_t-test-independent.rst:58
+#: ../../analyses/jg_21_t-test-independent.rst:64
 msgid "output_ttest_independent"
 msgstr "output_ttest_independent"
+
+#: ../../analyses/jg_21_t-test-independent.rst
+msgid ""
+"Those who have previous experience with SPSS may want to have a look at "
+"the :doc:`side-by-side-comparison <../spss2jamovi/s2j_ttestIS>` of how a "
+"t-test for independent samples is conducted in SPSS and jamovi."
+msgstr ""
 
 #: ../../analyses/jg_21_t-test-independent.rst
 msgid ""
@@ -481,7 +488,7 @@ msgstr ""
 msgid "|data_format_ttest_paired|"
 msgstr "|data_format_ttest_paired|"
 
-#: ../../analyses/jg_22_t-test-paired.rst:52
+#: ../../analyses/jg_22_t-test-paired.rst:58
 msgid "data_format_ttest_paired"
 msgstr "data_format_ttest_paired"
 
@@ -493,7 +500,7 @@ msgstr ""
 msgid "|select_ttest_paired|"
 msgstr "|select_ttest_paired|"
 
-#: ../../analyses/jg_22_t-test-paired.rst:54
+#: ../../analyses/jg_22_t-test-paired.rst:60
 msgid "select_ttest_paired"
 msgstr "select_ttest_paired"
 
@@ -508,7 +515,7 @@ msgstr ""
 msgid "|add_var_ttest_paired|"
 msgstr "|add_var_ttest_paired|"
 
-#: ../../analyses/jg_22_t-test-paired.rst:56
+#: ../../analyses/jg_22_t-test-paired.rst:62
 msgid "add_var_ttest_paired"
 msgstr "add_var_ttest_paired"
 
@@ -516,9 +523,16 @@ msgstr "add_var_ttest_paired"
 msgid "|output_ttest_paired|"
 msgstr "|output_ttest_paired|"
 
-#: ../../analyses/jg_22_t-test-paired.rst:58
+#: ../../analyses/jg_22_t-test-paired.rst:64
 msgid "output_ttest_paired"
 msgstr "output_ttest_paired"
+
+#: ../../analyses/jg_22_t-test-paired.rst
+msgid ""
+"Those who have previous experience with SPSS may want to have a look at "
+"the :doc:`side-by-side-comparison <../spss2jamovi/s2j_ttestPS2>` of how a"
+" t-test for paired samples is conducted in SPSS and jamovi."
+msgstr ""
 
 #: ../../analyses/jg_22_t-test-paired.rst
 msgid ""
@@ -977,7 +991,7 @@ msgstr ""
 msgid "|data_format_regression_linear|"
 msgstr "|data_format_regression_linear|"
 
-#: ../../analyses/jg_42_regression-linear.rst:56
+#: ../../analyses/jg_42_regression-linear.rst:57
 msgid "data_format_regression_linear"
 msgstr "data_format_regression_linear"
 
@@ -989,7 +1003,7 @@ msgstr ""
 msgid "|select_regression_linear|"
 msgstr "|select_regression_linear|"
 
-#: ../../analyses/jg_42_regression-linear.rst:58
+#: ../../analyses/jg_42_regression-linear.rst:59
 msgid "select_regression_linear"
 msgstr "select_regression_linear"
 
@@ -1004,7 +1018,7 @@ msgstr ""
 msgid "|add_var_regression_linear|"
 msgstr "|add_var_regression_linear|"
 
-#: ../../analyses/jg_42_regression-linear.rst:60
+#: ../../analyses/jg_42_regression-linear.rst:61
 msgid "add_var_regression_linear"
 msgstr "add_var_regression_linear"
 
@@ -1012,9 +1026,16 @@ msgstr "add_var_regression_linear"
 msgid "|output_regression_linear|"
 msgstr "|output_regression_linear|"
 
-#: ../../analyses/jg_42_regression-linear.rst:62
+#: ../../analyses/jg_42_regression-linear.rst:63
 msgid "output_regression_linear"
 msgstr "output_regression_linear"
+
+#: ../../analyses/jg_42_regression-linear.rst
+msgid ""
+"Those who have previous experience with SPSS may want to have a look at "
+"the :doc:`side-by-side-comparison <../spss2jamovi/s2j_linReg>` of how a "
+"linear regression is conducted in SPSS and jamovi."
+msgstr ""
 
 #: ../../analyses/jg_42_regression-linear.rst
 msgid ""
@@ -1050,7 +1071,7 @@ msgid ""
 "or ordinal), and at least one continuous explanatory variable."
 msgstr ""
 
-#: ../../analyses/jg_43_regression-logistic.rst:54
+#: ../../analyses/jg_43_regression-logistic.rst:60
 msgid "ordinal"
 msgstr "ordinal"
 
@@ -1058,7 +1079,7 @@ msgstr "ordinal"
 msgid "|data_format_regression_logistic|"
 msgstr "|data_format_regression_logistic|"
 
-#: ../../analyses/jg_43_regression-logistic.rst:58
+#: ../../analyses/jg_43_regression-logistic.rst:64
 msgid "data_format_regression_logistic"
 msgstr "data_format_regression_logistic"
 
@@ -1075,7 +1096,7 @@ msgstr ""
 msgid "|select_regression_logistic|"
 msgstr "|select_regression_logistic|"
 
-#: ../../analyses/jg_43_regression-logistic.rst:60
+#: ../../analyses/jg_43_regression-logistic.rst:66
 msgid "select_regression_logistic"
 msgstr "select_regression_logistic"
 
@@ -1089,7 +1110,7 @@ msgstr ""
 msgid "|add_var_regression_logistic|"
 msgstr "|add_var_regression_logistic|"
 
-#: ../../analyses/jg_43_regression-logistic.rst:62
+#: ../../analyses/jg_43_regression-logistic.rst:68
 msgid "add_var_regression_logistic"
 msgstr "add_var_regression_logistic"
 
@@ -1103,7 +1124,7 @@ msgstr ""
 msgid "|options_regression_logistic|"
 msgstr "|options_regression_logistic|"
 
-#: ../../analyses/jg_43_regression-logistic.rst:64
+#: ../../analyses/jg_43_regression-logistic.rst:70
 msgid "options_regression_logistic"
 msgstr "options_regression_logistic"
 
@@ -1111,9 +1132,16 @@ msgstr "options_regression_logistic"
 msgid "|output_regression_logistic|"
 msgstr "|output_regression_logistic|"
 
-#: ../../analyses/jg_43_regression-logistic.rst:66
+#: ../../analyses/jg_43_regression-logistic.rst:72
 msgid "output_regression_logistic"
 msgstr "output_regression_logistic"
+
+#: ../../analyses/jg_43_regression-logistic.rst
+msgid ""
+"Those who have previous experience with SPSS may want to have a look at "
+"the :doc:`side-by-side-comparison <../spss2jamovi/s2j_logReg>` of how a "
+"logistic regression is conducted in SPSS and jamovi."
+msgstr ""
 
 #: ../../analyses/jg_43_regression-logistic.rst
 msgid ""
