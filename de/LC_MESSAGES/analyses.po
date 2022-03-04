@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-04 22:50+0100\n"
-"PO-Revision-Date: 2022-03-04 22:09+0000\n"
+"PO-Revision-Date: 2022-03-04 22:38+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/jamovidocs/"
 "2_analyses/de/>\n"
@@ -24,7 +24,7 @@ msgstr ""
 
 #: ../../analyses/jg_00_overview.rst:5
 msgid "Analyses: Introduction"
-msgstr ""
+msgstr "Analysen: Übersicht"
 
 #: ../../analyses/jg_00_overview.rst:7
 msgid ""
@@ -39,7 +39,7 @@ msgstr ""
 
 #: ../../analyses/jg_00_overview.rst:13
 msgid "A Note On Measurement Types"
-msgstr ""
+msgstr "Eine Anmerkung zu den Skalenniveaus"
 
 #: ../../analyses/jg_00_overview.rst:15
 msgid ""
@@ -95,7 +95,7 @@ msgstr ":doc:`jg_11_descriptive-analyses`"
 
 #: ../../analyses/jg_00_overview.rst:32
 msgid "t-tests"
-msgstr ""
+msgstr "t-Tests"
 
 #: ../../analyses/jg_00_overview.rst:34
 msgid ""
@@ -103,10 +103,13 @@ msgid ""
 "distributed data set deviates significantly from a null hypothesis (which"
 " assumes that there is no difference)."
 msgstr ""
+"Der t-Test wird verwendet, um zu prüfen, ob der Mittelwert eines "
+"normalverteilten Datensatzes signifikant von der Nullhypothese abweicht (die "
+"davon ausgeht, dass es keinen Unterschied gibt)."
 
 #: ../../analyses/jg_00_overview.rst:37
 msgid "There are three types of t-tests:"
-msgstr ""
+msgstr "Es gibt drei Arten von t-Tests:"
 
 #: ../../analyses/jg_00_overview.rst:39
 msgid ":doc:`jg_21_t-test-independent`"
@@ -140,7 +143,7 @@ msgstr ""
 
 #: ../../analyses/jg_00_overview.rst:50
 msgid "Analyses of Variance (ANOVA)"
-msgstr ""
+msgstr "Varianzanalysen (ANOVAs)"
 
 #: ../../analyses/jg_00_overview.rst:52
 msgid ""
