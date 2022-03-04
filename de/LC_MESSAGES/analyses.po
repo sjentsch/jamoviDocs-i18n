@@ -123,12 +123,10 @@ msgstr ":doc:`jg_23_t-test-onesample`"
 #: ../../analyses/jg_00_overview.rst:43 ../../analyses/jg_00_overview.rst:66
 #: ../../analyses/jg_00_overview.rst:84
 #: ../../analyses/jg_21_t-test-independent.rst:35
-#, fuzzy
 msgid "Community resources"
 msgstr "Mehr Hilfe in den Community-Ressourcen"
 
 #: ../../analyses/jg_00_overview.rst
-#, fuzzy
 msgid ""
 "A more comprehensive introduction into the concept is presented in this "
 "`video "
@@ -137,7 +135,7 @@ msgid ""
 msgstr ""
 "Eine umfassendere Einführung in diese statistische Methode bietet das "
 "folgende `Video "
-"<https://www.youtube.com/embed/m5JNwPgiMso?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__"
+"<https://www.youtube.com/embed/mb7KCLYEis8?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__"
 " von `Barton Poulson <https://datalab.cc/jamovi>`__."
 
 #: ../../analyses/jg_00_overview.rst:50
@@ -189,9 +187,8 @@ msgid ""
 msgstr ""
 
 #: ../../analyses/jg_00_overview.rst:74
-#, fuzzy
 msgid "Correlation and regression"
-msgstr "Lineare Regression"
+msgstr "Korrelation und lineare Regression"
 
 #: ../../analyses/jg_00_overview.rst:76
 msgid ""
@@ -222,9 +219,8 @@ msgid ""
 msgstr ""
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:5
-#, fuzzy
 msgid "Descriptive analyses"
-msgstr "Deskriptivstatistische Analysen"
+msgstr "Deskriptiv-statistische Analysen"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:7
 msgid "How to perform descriptive analyses and create graphs in jamovi:"

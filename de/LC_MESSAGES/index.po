@@ -181,8 +181,8 @@ msgstr ":doc:`developer/dh_overview`"
 
 #: ../../index.rst:137
 msgid ":doc:`spss2jamovi/s2j_overview`"
-msgstr ":doc:`SPSS2jamovi/s2j_overview`"
+msgstr ":doc:`spss2jamovi/s2j_overview`"
 
 #: ../../index.rst:138
 msgid ":doc:`jamovi2r/j2R_overview`"
-msgstr ":doc:`jamovi2R/j2R_overview`"
+msgstr ":doc:`jamovi2r/j2R_overview`"

@@ -74,7 +74,6 @@ msgstr "continuous"
 #: ../../analyses/jg_32_anova-factorial.rst:48
 #: ../../analyses/jg_34_anova-mixed.rst:58
 #: ../../analyses/jg_43_regression-logistic.rst:52
-#, fuzzy
 msgid "nominal"
 msgstr "nominal"
 
