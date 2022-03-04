@@ -7,20 +7,19 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: jamovi\n"
+"Project-Id-Version:  jamovi\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
-"POT-Creation-Date: 2022-03-02 02:45+0100\n"
+"POT-Creation-Date: 2022-03-04 02:43+0100\n"
 "PO-Revision-Date: 2022-03-02 02:39+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
-"Language-Team: Slovenian <https://hosted.weblate.org/projects/jamovidocs/"
-"3_howto/sl/>\n"
 "Language: sl\n"
+"Language-Team: Slovenian "
+"<https://hosted.weblate.org/projects/jamovidocs/3_howto/sl/>\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 "
+"|| n%100==4 ? 2 : 3\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n"
-"%100==4 ? 2 : 3;\n"
-"X-Generator: Weblate 4.11.1-dev\n"
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../howto/howto_Install_modules.rst:5
@@ -69,20 +68,20 @@ msgstr "|jamovi_Modules3|"
 msgid "jamovi_Modules3"
 msgstr "jamovi_Modules3"
 
-#: ../../howto/howto_overview.rst:12
+#: ../../howto/howto_overview.rst:5
 msgid "How to..."
 msgstr "Kako..."
 
-#: ../../howto/howto_overview.rst:14
+#: ../../howto/howto_overview.rst:7
 msgid ""
 "The aim of the following section is to clear and simple instructions on "
 "how to deal with common tasks within jamovi."
 msgstr ""
 
-#: ../../howto/howto_overview.rst:18
+#: ../../howto/howto_overview.rst:11
 msgid "jamovi's user interface"
 msgstr ""
 
-#: ../../howto/howto_overview.rst:20
-msgid ":doc:`howto_Install_modules`"
-msgstr ":doc:`howto_Install_modules`"
+#~ msgid ":doc:`howto_Install_modules`"
+#~ msgstr ":doc:`howto_Install_modules`"
+

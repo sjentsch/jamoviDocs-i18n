@@ -30,8 +30,8 @@ msgstr "在 jamovi 中安装模块"
 
 #: ../../howto/howto_Install_modules.rst:8
 msgid ""
-"Click on the «+»-icon in the top-right corner to install modules from the"
-" jamovi library."
+"Click on the «+»-icon in the top-right corner to install modules from the "
+"jamovi library."
 msgstr "单击右上角的 \"+\" 图标来安装 jamovi 库中的模块。"
 
 #: ../../howto/howto_Install_modules.rst:9
@@ -56,13 +56,14 @@ msgstr "jamovi_Modules2"
 
 #: ../../howto/howto_Install_modules.rst:17
 msgid ""
-"In the window that opens now, first click on «Available» (top-middle). "
-"Then go through the list with modules and click «INSTALL» at any module "
-"that you would like to use. Finally, close this window by clicking on the"
-" arrow pointing up (top-right corner)."
+"In the window that opens now, first click on «Available» (top-middle). Then "
+"go through the list with modules and click «INSTALL» at any module that you "
+"would like to use. Finally, close this window by clicking on the arrow "
+"pointing up (top-right corner)."
 msgstr ""
-"在打开的窗口中，首先点击 \"Available\" "
-"(顶部中间)。然后浏览包含模块的列表，并在您想要使用的任何模块上单击\"INSTALL\"。最后，通过单击向上的箭头（右上角）来关闭这个窗口。"
+"在打开的窗口中，首先点击 \"Available\" (顶部中间)。然后浏览包含模块的列表，并"
+"在您想要使用的任何模块上单击\"INSTALL\"。最后，通过单击向上的箭头（右上角）来"
+"关闭这个窗口。"
 
 #: ../../howto/howto_Install_modules.rst:18
 msgid "|jamovi_Modules3|"
@@ -72,17 +73,17 @@ msgstr "|jamovi_Modules3|"
 msgid "jamovi_Modules3"
 msgstr "jamovi_Modules3"
 
-#: ../../howto/howto_overview.rst:12
+#: ../../howto/howto_overview.rst:12 ../../howto/howto_overview.rst:5
 msgid "How to..."
 msgstr ""
 
-#: ../../howto/howto_overview.rst:14
+#: ../../howto/howto_overview.rst:14 ../../howto/howto_overview.rst:7
 msgid ""
-"The aim of the following section is to clear and simple instructions on "
-"how to deal with common tasks within jamovi."
+"The aim of the following section is to clear and simple instructions on how "
+"to deal with common tasks within jamovi."
 msgstr ""
 
-#: ../../howto/howto_overview.rst:18
+#: ../../howto/howto_overview.rst:18 ../../howto/howto_overview.rst:11
 msgid "jamovi's user interface"
 msgstr ""
 

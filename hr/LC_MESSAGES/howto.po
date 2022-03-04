@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-02 02:41+0100\n"
+"POT-Creation-Date: 2022-03-04 02:43+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -65,21 +65,20 @@ msgstr "|jamovi_Modules3|"
 msgid "jamovi_Modules3"
 msgstr "jamovi_Modules3"
 
-#: ../../howto/howto_overview.rst:12
+#: ../../howto/howto_overview.rst:5
 msgid "How to..."
 msgstr ""
 
-#: ../../howto/howto_overview.rst:14
+#: ../../howto/howto_overview.rst:7
 msgid ""
 "The aim of the following section is to clear and simple instructions on "
 "how to deal with common tasks within jamovi."
 msgstr ""
 
-#: ../../howto/howto_overview.rst:18
+#: ../../howto/howto_overview.rst:11
 msgid "jamovi's user interface"
 msgstr ""
 
-#: ../../howto/howto_overview.rst:20
-msgid ":doc:`howto_Install_modules`"
-msgstr ":doc:`howto_Install_modules`"
+#~ msgid ":doc:`howto_Install_modules`"
+#~ msgstr ":doc:`howto_Install_modules`"
 
