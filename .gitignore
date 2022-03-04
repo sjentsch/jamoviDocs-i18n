@@ -1,3 +1,6 @@
 # git and weblate setttings
 .gitignore
 .weblate
+
+# .mo (machine objects of the translations)
+*.mo
