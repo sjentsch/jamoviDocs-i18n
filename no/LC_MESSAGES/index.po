@@ -182,4 +182,4 @@ msgstr ":doc:`spss2jamovi/s2j_overview`"
 
 #: ../../index.rst:138
 msgid ":doc:`jamovi2r/j2R_overview`"
-msgstr ":doc:`jamovi2R/j2R_overview`"
+msgstr ":doc:`jamovi2r/j2R_overview`"

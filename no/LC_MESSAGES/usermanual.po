@@ -117,8 +117,8 @@ msgid ""
 msgstr ""
 "**Merk**: Noen Chromebook-enheter viser et blank skjerm når du starter "
 "jamovi. Hvis du opplever dette problemet, finner du instruksjoner om "
-"hvordan du fikser dette litt :ref:'lenger ned<blank-screen-on-"
-"chromebooks>'."
+"hvordan du fikser dette litt :ref:`lenger ned<blank-screen-on-"
+"chromebooks>`."
 
 #: ../../usermanual/um_1_installation.rst:40
 msgid ""
