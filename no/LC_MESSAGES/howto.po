@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: jamovi\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2022-03-04 02:43+0100\n"
-"PO-Revision-Date: 2022-03-04 22:09+0000\n"
+"PO-Revision-Date: 2022-03-09 11:58+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/"
 "jamovidocs/3_howto/nb_NO/>\n"
@@ -24,13 +24,15 @@ msgstr ""
 
 #: ../../howto/howto_Install_modules.rst:5
 msgid "Install modules in jamovi"
-msgstr ""
+msgstr "Installer moduler i jamovi"
 
 #: ../../howto/howto_Install_modules.rst:8
 msgid ""
 "Click on the «+»-icon in the top-right corner to install modules from the"
 " jamovi library."
 msgstr ""
+"Klikk på «+»-ikonet øverst til høyre for å installere moduler fra jamovi-"
+"biblioteket."
 
 #: ../../howto/howto_Install_modules.rst:9
 msgid "|jamovi_Modules1|"
@@ -42,7 +44,7 @@ msgstr "jamovi_Modules1"
 
 #: ../../howto/howto_Install_modules.rst:11
 msgid "Choose the jamovi library from the menu that opens."
-msgstr ""
+msgstr "Velg ``jamovi library``-fanen fra menyen som åpnes."
 
 #: ../../howto/howto_Install_modules.rst:12
 msgid "|jamovi_Modules2|"
