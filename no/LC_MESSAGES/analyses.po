@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-04 22:50+0100\n"
-"PO-Revision-Date: 2022-03-04 22:09+0000\n"
+"PO-Revision-Date: 2022-03-10 12:58+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/"
 "jamovidocs/2_analyses/nb_NO/>\n"
@@ -158,6 +158,10 @@ msgid ""
 "<https://www.youtube.com/embed/mb7KCLYEis8?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__"
 " by `Barton Poulson <https://datalab.cc/jamovi>`__."
 msgstr ""
+"En mer omfattende introduksjon til denne statistiske analysen presenteres i "
+"følgende `videoen <https://www.youtube.com/embed/"
+"mb7KCLYEis8?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ av `Barton Poulson "
+"<https://datalab.cc/jamovi>` __."
 
 #: ../../analyses/jg_00_overview.rst:50
 msgid "Analyses of Variance (ANOVA)"
@@ -176,6 +180,15 @@ msgid ""
 "(t-tests only allow two) and in that several factors can be examined "
 "simultaneously."
 msgstr ""
+"Variansanalysen (ANOVA) er en statistisk metode som undersøker hvordan en "
+"eller flere faktorer påvirker en utfallsvariabel (avhengig). Disse faktorene "
+"er prediktorvariablene og er kategoriske. Vanligvis reflekterer slike "
+"faktorer en eksperimentell manipulasjon (f.eks. med eller uten intervensjon)"
+", men en faktor kan også representere grupper hvor det er ønskelig å "
+"kontrollere deres innflytelse (f.eks. kjønn: menn eller kvinner). "
+"Variansanalysen er basert på et konsept som ligner på t-testen, men det går "
+"utover det: Faktorer kan ha flere nivåer (t-tester tillater kun to) og flere "
+"faktorer kan undersøkes samtidig."
 
 #: ../../analyses/jg_00_overview.rst:58
 msgid ""
@@ -183,6 +196,9 @@ msgid ""
 "number of factors examined - one or more factors - or whether they "
 "compare between people or within a person - repeated measurements:"
 msgstr ""
+"Det finnes forskjellige typer variansanalyser, som varierer i antall "
+"faktorer som undersøkes - en eller flere faktorer - eller om de sammenligner "
+"mellom deltakere eller innenfor en deltaker (gjentatte målinger):"
 
 #: ../../analyses/jg_00_overview.rst:61
 msgid ":doc:`jg_31_unianova`"
@@ -206,6 +222,10 @@ msgid ""
 "<https://www.youtube.com/embed/GcbMG6sizXs?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__"
 " by `Barton Poulson <https://datalab.cc/jamovi>`__."
 msgstr ""
+"En introduksjon til konseptet bak ANOVAen finnes i denne `videoen "
+"<https://www.youtube.com/embed/"
+"GcbMG6sizXs?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ av `Barton Poulson "
+"<https://datalab.cc/jamovi> `__."
 
 #: ../../analyses/jg_00_overview.rst:74
 msgid "Correlation and regression"
@@ -222,6 +242,13 @@ msgid ""
 "distinction is made between linear and non-linear (e.g., logistic "
 "regression)."
 msgstr ""
+"Korrelasjons- og regresjonsanalyser er statistiske metoder for å undersøke "
+"sammenhengene mellom en (avhengig) utfallsvariabel og en eller flere "
+"(uavhengige) prediktorvariabler. Mens *korrelasjon* undersøker *relasjonen* "
+"mellom én prediktor og én resultatvariabel, fokuserer *regresjon* "
+"hovedsakelig på *prediksjon* (hvor godt kan én eller flere variabler "
+"predikere / forklare en annen resultatvariabel). Ofte skilles det mellom "
+"lineær og ikke-lineær (f.eks. logistisk regresjon)."
 
 #: ../../analyses/jg_00_overview.rst:81
 msgid ":doc:`jg_42_regression-linear`"
@@ -238,18 +265,23 @@ msgid ""
 "<https://www.youtube.com/embed/gRhVjKNWiUs?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__"
 " by `Barton Poulson <https://datalab.cc/jamovi>`__."
 msgstr ""
+"En introduksjon til konseptet bak regresjonsanalyser er framstilt i denne `"
+"videoen <https://www.youtube.com/embed/"
+"gRhVjKNWiUs?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ av `Barton Poulson "
+"<https://datalab.cc/jamovi> `__."
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:5
 msgid "Descriptive analyses"
-msgstr ""
+msgstr "Deskriptivstatistiske analyser"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:7
 msgid "How to perform descriptive analyses and create graphs in jamovi:"
 msgstr ""
+"Slik utfører du deskriptivstatistiske analyser og lager diagrammer i jamovi:"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst
 msgid "Select ``Analyses`` → ``Exploration`` → ``Descriptives``."
-msgstr ""
+msgstr "Velg ``Analyses`` → ``Exploration`` → ``Descriptives``."
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:11
 msgid "|select_descriptives|"
@@ -264,6 +296,8 @@ msgid ""
 "Drag and drop the variables you want descriptive analyses for to "
 "``Variables``."
 msgstr ""
+"Dra og slipp variablene du vil ha deskriptivstatistiske analyser for til "
+"``Variables``."
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:18
 msgid "|add_var_descriptives|"
@@ -278,6 +312,8 @@ msgid ""
 "The result is shown in the right panel. Right-click on the output to save"
 " or copy it."
 msgstr ""
+"Resultatet vises i panelet til høyre. Høyreklikk på utgaven for å eksportere "
+"eller kopiere den."
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:25
 msgid "|output_descriptives|"
@@ -292,6 +328,9 @@ msgid ""
 "To split your descriptive analyses on a categorical variable (e.g. to "
 "separate by gender), move that variable to ``Split by``."
 msgstr ""
+"For å dele de deskriptivstatistiske analysene dine etter en kategorisk "
+"variabel (f.eks. for å skille etter kjønn), flytt denne variabelen til ``"
+"Split by``."
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:32
 msgid "|add_var_descriptives_groupby|"
@@ -303,7 +342,7 @@ msgstr "add_var_descriptives_groupby"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst
 msgid "This changes how the output looks like:"
-msgstr ""
+msgstr "Dette endrer hvordan utgaven ser ut:"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:36
 msgid "|output_descriptives_groupby|"
@@ -315,7 +354,7 @@ msgstr "output_descriptives_groupby"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst
 msgid "Click the ``Statistics`` tab to see more alternatives."
-msgstr ""
+msgstr "Klikk på ``Statistics``-rullemeny for å se flere alternativer."
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:42
 msgid "|select_descriptives_statistics|"
@@ -332,6 +371,10 @@ msgid ""
 " and to check whehter your variables conform with a normal distribution, "
 "then you should tick ``Box plot``, ``Violin``, and ``Q-Q``."
 msgstr ""
+"For å lage et plott basert på valgene ovenfor, klikk på ``Plots``-rullemeny "
+"og merk av i boksen for ønsket plot. Hvis du vil identifisere uteliggere og "
+"sjekke om variablene dine samsvarer med en normalfordeling, bør du krysse av "
+"for ``Boxplot``, ``Violin`` og ``Q-Q``."
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:49
 msgid "|select_descriptives_plots|"
@@ -350,7 +393,7 @@ msgstr "select_descriptives_plots"
 #: ../../analyses/jg_42_regression-linear.rst:43
 #: ../../analyses/jg_43_regression-logistic.rst:48
 msgid "Further help from the community resources"
-msgstr ""
+msgstr "Mer hjelp fra community ressources"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst
 msgid ""
@@ -359,6 +402,10 @@ msgid ""
 "<https://www.youtube.com/embed/srqNCux0ijY?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__"
 " by `Barton Poulson <https://datalab.cc/jamovi>`__."
 msgstr ""
+"Hvis du vil ha disse konseptene forklart på en annen måte, kan du se på "
+"denne 'innføringsvideoen <https://www.youtube.com/embed/"
+"srqNCux0ijY?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>'__ av 'Barton Poulson "
+"<https://datalab.cc/jamovi>'__."
 
 #: ../../analyses/jg_11_descriptive-analyses.rst
 msgid ""
@@ -370,20 +417,28 @@ msgid ""
 "`Danielle J. Navarro <https://djnavarro.net/>`__ and `David R. Foxcroft "
 "<https://www.davidfoxcroft.com/>`__."
 msgstr ""
+"De som ønsker en mer omfattende og grundig oversikt kan lese det tilsvarende "
+"kapittelet i «Learnings statistics with jamovi»-`nettdokumentasjon "
+"<https://lsj.readthedocs.io/no/latest/lsj/Ch04_Descriptives.html>`__ eller "
+"kapittel 4 i `e-boken <https://www.learnstatswithjamovi.com/>`__ av `"
+"Danielle J. Navarro <https://djnavarro.net/>`__ og `David R. Foxcroft "
+"<https://www.davidfoxcroft.com/>`__."
 
 #: ../../analyses/jg_21_t-test-independent.rst:5
 msgid "t-test: Independent samples"
-msgstr ""
+msgstr "Uavhengig t-test"
 
 #: ../../analyses/jg_21_t-test-independent.rst:7
 msgid "How to perform an independent samples t-test in jamovi:"
-msgstr ""
+msgstr "Slik utfører du en uavhengig t-test i jamovi:"
 
 #: ../../analyses/jg_21_t-test-independent.rst
 msgid ""
 "You need at least one |continuous| continuous dependent variable, and a "
 "|nominal| grouping variable with two levels (e.g. treatment / control)."
 msgstr ""
+"Du trenger minst én |continuous| kontinuerlig avhengig variabel, og en "
+"|nominal| grupperingsvariabel med to nivåer (f.eks. behandling/kontroll)."
 
 #: ../../analyses/jg_21_t-test-independent.rst
 #: ../../analyses/jg_22_t-test-paired.rst
@@ -393,7 +448,7 @@ msgstr ""
 #: ../../analyses/jg_42_regression-linear.rst
 #: ../../analyses/jg_43_regression-logistic.rst
 msgid "A correct setup should look similar to this:"
-msgstr ""
+msgstr "Et riktig oppsett skal se slik ut:"
 
 #: ../../analyses/jg_21_t-test-independent.rst:13
 msgid "|data_format_ttest_independent|"
@@ -405,7 +460,7 @@ msgstr "data_format_ttest_independent"
 
 #: ../../analyses/jg_21_t-test-independent.rst
 msgid "Select ``Analyses`` → ``T-Tests`` → ``Independent Samples T-Test``."
-msgstr ""
+msgstr "Velg ``Analyses`` → ``T-Tests`` → ``Independent Samples T-Test``."
 
 #: ../../analyses/jg_21_t-test-independent.rst:19
 msgid "|select_ttest_independent|"
