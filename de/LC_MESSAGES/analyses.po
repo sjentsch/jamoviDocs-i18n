@@ -7,23 +7,24 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version:  jamovi\n"
+"Project-Id-Version: jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-04 22:50+0100\n"
-"PO-Revision-Date: 2022-03-02 16:37+0000\n"
+"PO-Revision-Date: 2022-03-10 12:58+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"Language-Team: German <https://hosted.weblate.org/projects/jamovidocs/"
+"2_analyses/de/>\n"
 "Language: de\n"
-"Language-Team: German "
-"<https://hosted.weblate.org/projects/jamovidocs/2_analyses/de/>\n"
-"Plural-Forms: nplurals=2; plural=n != 1\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.12-dev\n"
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../analyses/jg_00_overview.rst:5
 msgid "Analyses: Introduction"
-msgstr ""
+msgstr "Analysen: Übersicht"
 
 #: ../../analyses/jg_00_overview.rst:7
 msgid ""
@@ -35,10 +36,17 @@ msgid ""
 "`community resources <https://www.jamovi.org/community.html>`__ "
 "available."
 msgstr ""
+"Das Ziel des folgenden Abschnitts ist es, kurze, nicht-technische "
+"Anleitungen zur Durchführung gängiger statistischer Verfahren in jamovi zu "
+"geben. Er wurde ursprünglich von Jonas Rafi unter dem Namen jamovi guide "
+"erstellt. Dies ist jedoch nur als kurzer Überblick gedacht. Für eine "
+"tiefergehende Behandlung dieser Analysen empfehlen wir Ihnen, einen Blick "
+"auf die vielen `Community-Ressourcen <https://www.jamovi.org/community.html>`"
+"__ zu werfen."
 
 #: ../../analyses/jg_00_overview.rst:13
 msgid "A Note On Measurement Types"
-msgstr ""
+msgstr "Eine Anmerkung zu den Skalenniveaus"
 
 #: ../../analyses/jg_00_overview.rst:15
 msgid ""
@@ -54,6 +62,17 @@ msgid ""
 "|continuous| continuous variable to an analysis expecting a |nominal| "
 "nominal one, the analysis will simply treat the variable as nominal."
 msgstr ""
+"In der folgenden Dokumentation werden die einzelnen Analysen beschrieben und "
+"die erforderlichen Variablentypen erläutert. Beispielsweise wird erklärt, "
+"dass eine bestimmte Analyse eine kontinuierliche abhängige Variable und eine "
+"nominale Gruppierungsvariable erfordert. Es ist jedoch möglich, dass die "
+"Spalten in Ihrem Datensatz aus verschiedenen Gründen nicht das „richtige“ "
+"Skalenniveau haben (wie in der Spaltenüberschrift angegeben). Sie können das "
+"Skalenniveau der Spalten mit dem Variablen-Editor anpassen, aber (in den "
+"meisten Fällen) sind die Skalenniveau nur ein Anhaltspunkt und müssen nicht "
+"korrekt eingestellt sein. Wenn Sie eine kontinuierliche Variable einer "
+"Analyse zuweisen, die eine nominale Variable erwartet, wird die Analyse die "
+"Variable einfach als nominal behandeln."
 
 #: ../../analyses/jg_00_overview.rst:94
 #: ../../analyses/jg_21_t-test-independent.rst:56
@@ -83,6 +102,10 @@ msgid ""
 "can save yourself the labour of setting the measure types correctly if "
 "you don't want to."
 msgstr ""
+"Das heißt, wenn in der Dokumentation steht, dass ein bestimmtes Skalenniveau "
+"erforderlich ist, müssen die Daten einfach die richtige Form haben. Sie "
+"können sich die Arbeit sparen, die Skalenniveaus korrekt einzustellen, wenn "
+"Sie das nicht wollen."
 
 #: ../../analyses/jg_00_overview.rst:26
 msgid "Descriptives"
@@ -94,7 +117,7 @@ msgstr ":doc:`jg_11_descriptive-analyses`"
 
 #: ../../analyses/jg_00_overview.rst:32
 msgid "t-tests"
-msgstr ""
+msgstr "t-Tests"
 
 #: ../../analyses/jg_00_overview.rst:34
 msgid ""
@@ -102,10 +125,13 @@ msgid ""
 "distributed data set deviates significantly from a null hypothesis (which"
 " assumes that there is no difference)."
 msgstr ""
+"Der t-Test wird verwendet, um zu prüfen, ob der Mittelwert eines "
+"normalverteilten Datensatzes signifikant von der Nullhypothese abweicht (die "
+"davon ausgeht, dass es keinen Unterschied gibt)."
 
 #: ../../analyses/jg_00_overview.rst:37
 msgid "There are three types of t-tests:"
-msgstr ""
+msgstr "Es gibt drei Arten von t-Tests:"
 
 #: ../../analyses/jg_00_overview.rst:39
 msgid ":doc:`jg_21_t-test-independent`"
@@ -139,7 +165,7 @@ msgstr ""
 
 #: ../../analyses/jg_00_overview.rst:50
 msgid "Analyses of Variance (ANOVA)"
-msgstr ""
+msgstr "Varianzanalysen (ANOVAs)"
 
 #: ../../analyses/jg_00_overview.rst:52
 msgid ""
@@ -154,6 +180,16 @@ msgid ""
 "(t-tests only allow two) and in that several factors can be examined "
 "simultaneously."
 msgstr ""
+"Die Varianzanalyse (ANOVA) ist eine statistische Methode, mit der untersucht "
+"wird, wie sich ein oder mehrere Faktoren auf eine (abhängige) "
+"Ergebnisvariable auswirken. Diese Faktoren sind die Prädiktorvariablen und "
+"sind kategorisch. Normalerweise spiegeln solche Faktoren eine experimentelle "
+"Manipulation wider (z. B. mit oder ohne Behandlung), aber ein Faktor kann "
+"auch Gruppen darstellen, für deren Einfluss man kontrollieren möchte (z. B. "
+"Geschlecht: Männer oder Frauen). Die Varianzanalyse basiert auf einem "
+"ähnlichen Konzept wie der t-Test, geht aber insofern darüber hinaus, als "
+"Faktoren mehrere Niveaus haben können (t-Tests lassen nur zwei zu) und dass "
+"mehrere Faktoren gleichzeitig untersucht werden können."
 
 #: ../../analyses/jg_00_overview.rst:58
 msgid ""
@@ -161,6 +197,10 @@ msgid ""
 "number of factors examined - one or more factors - or whether they "
 "compare between people or within a person - repeated measurements:"
 msgstr ""
+"Es gibt verschiedene Arten der Varianzanalyse, die sich in der Anzahl der "
+"untersuchten Faktoren - ein oder mehrere Faktoren - oder darin "
+"unterscheiden, ob sie Messungen zwischen Personen oder innerhalb einer "
+"Person (wiederholte Messungen) miteinander vergleichen:"
 
 #: ../../analyses/jg_00_overview.rst:61
 msgid ":doc:`jg_31_unianova`"
@@ -184,10 +224,14 @@ msgid ""
 "<https://www.youtube.com/embed/GcbMG6sizXs?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__"
 " by `Barton Poulson <https://datalab.cc/jamovi>`__."
 msgstr ""
+"Eine Einführung in das Konzept der ANOVA findet sich in diesem `Video "
+"<https://www.youtube.com/embed/"
+"GcbMG6sizXs?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ von `Barton Poulson "
+"<https://datalab.cc/jamovi>`__."
 
 #: ../../analyses/jg_00_overview.rst:74
 msgid "Correlation and regression"
-msgstr "Korrelation und lineare Regression"
+msgstr "Korrelation und Regression"
 
 #: ../../analyses/jg_00_overview.rst:76
 msgid ""
@@ -200,6 +244,15 @@ msgid ""
 "distinction is made between linear and non-linear (e.g., logistic "
 "regression)."
 msgstr ""
+"Korrelations- und Regressionsanalysen sind statistische Methoden zur "
+"Bewertung der Beziehungen zwischen einer (abhängigen) Ergebnisvariablen und "
+"einer oder mehreren (unabhängigen) Vorhersagevariablen. Bei der "
+"*Korrelationsanalyse* wird die *Beziehung* zwischen einem Prädiktor und "
+"einer Ergebnisvariablen untersucht, Die *Regressionsanalyse* konzentriert "
+"sich hauptsächlich auf die *Vorhersage* (wie gut kann eine oder mehrere "
+"Variablen eine andere (Ergebnis-)Variable vorhersagen). Häufig wird zwischen "
+"linearer und nichtlinearer Regression (z. B. logistische Regression) "
+"unterschieden."
 
 #: ../../analyses/jg_00_overview.rst:81
 msgid ":doc:`jg_42_regression-linear`"
@@ -216,6 +269,10 @@ msgid ""
 "<https://www.youtube.com/embed/gRhVjKNWiUs?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__"
 " by `Barton Poulson <https://datalab.cc/jamovi>`__."
 msgstr ""
+"Eine Einführung in das Konzept der Regressionsanalysen bietet dieses `Video "
+"<https://www.youtube.com/embed/"
+"gRhVjKNWiUs?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ von `Barton Poulson "
+"<https://datalab.cc/jamovi>`__."
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:5
 msgid "Descriptive analyses"
@@ -394,9 +451,9 @@ msgid ""
 "You need at least one |continuous| continuous dependent variable, and a "
 "|nominal| grouping variable with two levels (e.g. treatment / control)."
 msgstr ""
-"Sie benötigen mindestens eine kontinuierliche abhängige Variable und eine"
-" nominale Gruppierungsvariable mit zwei Stufen (z. B. Experimental- / "
-"Kontrollgruppe)."
+"Sie benötigen mindestens eine |continuous| kontinuierliche abhängige "
+"Variable und eine |nominal| nominale Gruppierungsvariable mit zwei Stufen ("
+"z. B. Experimental- / Kontrollgruppe)."
 
 #: ../../analyses/jg_21_t-test-independent.rst
 #: ../../analyses/jg_22_t-test-paired.rst
@@ -465,6 +522,9 @@ msgid ""
 "the :doc:`side-by-side-comparison <../spss2jamovi/s2j_ttestIS>` of how a "
 "t-test for independent samples is conducted in SPSS and jamovi."
 msgstr ""
+"Diejenigen, die bereits Erfahrung mit SPSS haben, können sich den :doc"
+":`Seite-an-Seite-Vergleich <../spss2jamovi/s2j_ttestIS>` mit der Durchfühung "
+"eines t-Tests für unabhängige Stichproben in SPSS und jamovi ansehen."
 
 #: ../../analyses/jg_21_t-test-independent.rst
 msgid ""
@@ -570,6 +630,10 @@ msgid ""
 "the :doc:`side-by-side-comparison <../spss2jamovi/s2j_ttestPS2>` of how a"
 " t-test for paired samples is conducted in SPSS and jamovi."
 msgstr ""
+"Diejenigen, die bereits Erfahrung mit SPSS haben, können sich den :doc"
+":`Seite-an-Seite-Vergleich <../spss2jamovi/s2j_ttestPS2>` mit der "
+"Durchfühung eines t-Tests für vebundene Stichproben (auch t-"
+"Paardifferenzentest genannt) in SPSS und jamovi ansehen."
 
 #: ../../analyses/jg_22_t-test-paired.rst
 msgid ""
@@ -1181,6 +1245,9 @@ msgid ""
 "the :doc:`side-by-side-comparison <../spss2jamovi/s2j_linReg>` of how a "
 "linear regression is conducted in SPSS and jamovi."
 msgstr ""
+"Diejenigen, die bereits Erfahrung mit SPSS haben, können sich den :doc"
+":`Seite-an-Seite-Vergleich <.. /spss2jamovi/s2j_linReg>` mit der Durchfühung "
+"einer linearen Regression in SPSS und jamovi ansehen."
 
 #: ../../analyses/jg_42_regression-linear.rst
 msgid ""
@@ -1312,6 +1379,9 @@ msgid ""
 "the :doc:`side-by-side-comparison <../spss2jamovi/s2j_logReg>` of how a "
 "logistic regression is conducted in SPSS and jamovi."
 msgstr ""
+"Diejenigen, die bereits Erfahrung mit SPSS haben, können sich den :doc"
+":`Seite-an-Seite-Vergleich <.. /spss2jamovi/s2j_logReg>` mit der Durchfühung "
+"einer logistischen Regression in SPSS und jamovi ansehen."
 
 #: ../../analyses/jg_43_regression-logistic.rst
 msgid ""
@@ -1404,4 +1474,3 @@ msgstr ""
 #~ " J. Navarro <https://djnavarro.net/>`__ und "
 #~ "`David R. Foxcroft "
 #~ "<https://www.davidfoxcroft.com/>`__ lesen."
-

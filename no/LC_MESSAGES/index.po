@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: jamovi\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2022-02-16 19:03+0100\n"
-"PO-Revision-Date: 2022-03-01 22:06+0000\n"
+"PO-Revision-Date: 2022-03-04 22:09+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/"
 "jamovidocs/0_start/nb_NO/>\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.11.1-dev\n"
+"X-Generator: Weblate 4.12-dev\n"
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../index.rst:12
@@ -32,7 +32,7 @@ msgstr "Analyser"
 
 #: ../../index.rst:42
 msgid "How to..."
-msgstr "Hvordan kan jeg..."
+msgstr "Slik kan Du..."
 
 #: ../../index.rst:50 ../../index.rst:123
 msgid "jamovi-modules"

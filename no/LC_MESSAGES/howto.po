@@ -5,29 +5,34 @@
 # This file is distributed under the same license as the jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jamovi \n"
-"Report-Msgid-Bugs-To: \n"
+"Project-Id-Version: jamovi\n"
+"Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2022-03-04 02:43+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-03-10 12:58+0000\n"
+"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/"
+"jamovidocs/3_howto/nb_NO/>\n"
+"Language: no\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.12-dev\n"
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../howto/howto_Install_modules.rst:5
 msgid "Install modules in jamovi"
-msgstr ""
+msgstr "Installer moduler i jamovi"
 
 #: ../../howto/howto_Install_modules.rst:8
 msgid ""
 "Click on the «+»-icon in the top-right corner to install modules from the"
 " jamovi library."
 msgstr ""
+"Klikk på «+»-ikonet øverst til høyre for å installere moduler fra jamovi-"
+"biblioteket."
 
 #: ../../howto/howto_Install_modules.rst:9
 msgid "|jamovi_Modules1|"
@@ -39,7 +44,7 @@ msgstr "jamovi_Modules1"
 
 #: ../../howto/howto_Install_modules.rst:11
 msgid "Choose the jamovi library from the menu that opens."
-msgstr ""
+msgstr "Velg ``jamovi library``-fanen fra menyen som åpnes."
 
 #: ../../howto/howto_Install_modules.rst:12
 msgid "|jamovi_Modules2|"
@@ -56,6 +61,10 @@ msgid ""
 "that you would like to use. Finally, close this window by clicking on the"
 " arrow pointing up (top-right corner)."
 msgstr ""
+"I vinduet som åpner nå klikker du først på «Available» (øverst i midten). Gå "
+"deretter gjennom listen med moduler og klikk «INSTALL» nesten ved modul du "
+"ønsker å bruke. Til slutt lukker du dette vinduet ved å klikke på pilen som "
+"peker opp (øverst til høyre)."
 
 #: ../../howto/howto_Install_modules.rst:18
 msgid "|jamovi_Modules3|"
@@ -67,18 +76,19 @@ msgstr "jamovi_Modules3"
 
 #: ../../howto/howto_overview.rst:5
 msgid "How to..."
-msgstr ""
+msgstr "Slik kan Du..."
 
 #: ../../howto/howto_overview.rst:7
 msgid ""
 "The aim of the following section is to clear and simple instructions on "
 "how to deal with common tasks within jamovi."
 msgstr ""
+"Målet med den følgende avsnitt er å gi klare og enkle instruksjoner om "
+"hvordan du kan håndtere vanlige oppgaver innenfor jamovi."
 
 #: ../../howto/howto_overview.rst:11
 msgid "jamovi's user interface"
-msgstr ""
+msgstr "jamovis brukergrensesnitt"
 
 #~ msgid ":doc:`howto_Install_modules`"
 #~ msgstr ":doc:`howto_Install_modules`"
-
