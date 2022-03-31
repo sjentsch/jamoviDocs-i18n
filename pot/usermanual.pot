@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-04 22:50+0100\n"
+"POT-Creation-Date: 2022-03-31 20:11+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -115,18 +115,18 @@ msgid ""
 "flatpak community to get to the bottom of it."
 msgstr ""
 
-#: ../../usermanual/um_1_installation.rst:70
+#: ../../usermanual/um_1_installation.rst:71
 msgid "Blank screen at startup on Chromebooks"
 msgstr ""
 
-#: ../../usermanual/um_1_installation.rst:72
+#: ../../usermanual/um_1_installation.rst:73
 msgid ""
 "Some Chromebooks experience a blank screen when starting up jamovi. The "
 "cause of this issue is not completely clear at this time, however it can be "
 "fixed by disabling “Crostini GPU support”."
 msgstr ""
 
-#: ../../usermanual/um_1_installation.rst:75
+#: ../../usermanual/um_1_installation.rst:76
 msgid ""
 "Enter ``chrome://flags/`` into the ChromeOS address bar. This will bring up "
 "“Experiments”. Search for ``Crostini GPU Support`` and set it to disabled. "
@@ -265,8 +265,8 @@ msgstr ""
 #: ../../usermanual/um_4_spreadsheet.rst:12
 msgid ""
 "The most commonly used variables in jamovi are “Data Variables”, these "
-"variables simply contain data either loaded from a data file, or \"typed "
-"in\" by the user. Data variables can be one three data types:"
+"variables simply contain data either loaded from a data file, or \"typed in"
+"\" by the user. Data variables can be one three data types:"
 msgstr ""
 
 #: ../../usermanual/um_4_spreadsheet.rst:15
