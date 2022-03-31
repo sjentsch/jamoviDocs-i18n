@@ -5,25 +5,28 @@
 # This file is distributed under the same license as the jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jamovi \n"
-"Report-Msgid-Bugs-To: \n"
+"Project-Id-Version: jamovi\n"
+"Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2022-03-04 22:50+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-03-31 14:15+0000\n"
+"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"Language-Team: German <https://hosted.weblate.org/projects/jamovidocs/"
+"4_spss2jamovi/de/>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.12-dev\n"
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../spss2jamovi/s2j_ANCOVA.rst:5 ../../spss2jamovi/s2j_ANCOVA2.rst:5
 #: ../../spss2jamovi/s2j_ANCOVA3.rst:5 ../../spss2jamovi/s2j_ANCOVA4.rst:5
 #: ../../spss2jamovi/s2j_ANCOVA5.rst:5
 msgid "From SPSS to jamovi: Analysis of Covariance (ANCOVA)"
-msgstr ""
+msgstr "Von SPSS zu jamovi: Kovarianzanalyse (ANCOVA)"
 
 #: ../../spss2jamovi/s2j_ANCOVA.rst:7
 msgid ""
@@ -35,6 +38,13 @@ msgid ""
 "the `web page accompanying the book <https://edge.sagepub.com/field5e"
 "/student-resources/datasets>`__."
 msgstr ""
+"Dieser Vergleich zeigt, wie eine Regression mit einem Prädiktor und zwei "
+"Dummy-Variablen in SPSS und jamovi durchgeführt wird. Der SPSS-Test folgt "
+"der Beschreibung in Kapitel 13.3 von `Field (2017) <https://edge.sagepub.com/"
+"field5e>`__, und fokussiert insbesondere auf Output 13.1 - 13.2. Die Analyse "
+"verwendet den Datensatz **Puppy Love Dummy.sav**, der von der `Webseite zum "
+"Buch <https://edge.sagepub.com/field5e/student-resources/datasets>`__ "
+"heruntergeladen werden kann."
 
 #: ../../spss2jamovi/s2j_ANCOVA.rst:12 ../../spss2jamovi/s2j_ANCOVA2.rst:12
 #: ../../spss2jamovi/s2j_ANCOVA3.rst:13 ../../spss2jamovi/s2j_ANCOVA4.rst:13
@@ -55,7 +65,7 @@ msgstr ""
 #: ../../spss2jamovi/s2j_ttestIS.rst:12 ../../spss2jamovi/s2j_ttestPS.rst:21
 #: ../../spss2jamovi/s2j_ttestPS2.rst:14
 msgid "**SPSS**"
-msgstr ""
+msgstr "**SPSS**"
 
 #: ../../spss2jamovi/s2j_ANCOVA.rst:12 ../../spss2jamovi/s2j_ANCOVA2.rst:12
 #: ../../spss2jamovi/s2j_ANCOVA3.rst:13 ../../spss2jamovi/s2j_ANCOVA4.rst:13
@@ -76,19 +86,23 @@ msgstr ""
 #: ../../spss2jamovi/s2j_ttestIS.rst:12 ../../spss2jamovi/s2j_ttestPS.rst:21
 #: ../../spss2jamovi/s2j_ttestPS2.rst:14
 msgid "**jamovi**"
-msgstr ""
+msgstr "**jamovi**"
 
 #: ../../spss2jamovi/s2j_ANCOVA.rst:14
 msgid ""
 "In SPSS you can run a regression using: ``Analyze`` → ``Regression`` → → "
 "``Linear``."
 msgstr ""
+"In SPSS können Sie eine Regression durchführen mit: ``Analyze`` → "
+"``Regression`` → ``Linear``."
 
 #: ../../spss2jamovi/s2j_ANCOVA.rst:14
 msgid ""
 "In jamovi you do this using: ``Analyses`` → ``Regression`` → ``Linear "
 "Regression``."
 msgstr ""
+"In jamovi tun Sie dies mit: ``Analyses`` → ``Regression`` → ``Linear "
+"Regression``."
 
 #: ../../spss2jamovi/s2j_ANCOVA.rst:17
 msgid "|SPSS_Menu_ANCOVA1|"
@@ -111,6 +125,8 @@ msgid ""
 "In SPSS, move ``Happiness`` to the variable box ``Independent`` and "
 "``Puppy_love`` to the variable box ``Independent(s)``."
 msgstr ""
+"In SPSS, verschieben Sie ``Happiness`` in das Variablenfeld ``Dependent`` "
+"und ``Puppy_love`` in das Variablenfeld ``Independent(s)``."
 
 #: ../../spss2jamovi/s2j_ANCOVA.rst:19
 msgid ""
@@ -118,6 +134,9 @@ msgid ""
 " ``Puppy_love`` to the variable box ``Covariates``, and ``Low_Control`` "
 "and ``High_Control`` to the ``Factors`` box."
 msgstr ""
+"In jamovi verschieben Sie ``Happiness`` in das Variablenfeld ``Dependent "
+"Variable``, ``Puppy_love`` in das Variablenfeld ``Covariates``, und "
+"``Low_Control`` und ``High_Control`` in das Feld ``Factors``."
 
 #: ../../spss2jamovi/s2j_ANCOVA.rst:23
 msgid "|SPSS_Input_ANCOVA1_1|"
@@ -4684,4 +4703,3 @@ msgstr ""
 #~ " Cloak)`` (as shown in the images "
 #~ "below)."
 #~ msgstr ""
-
