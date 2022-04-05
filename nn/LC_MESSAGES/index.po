@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-31 20:25+0200\n"
+"POT-Creation-Date: 2022-04-05 13:12+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -31,11 +31,11 @@ msgstr ""
 msgid "How to..."
 msgstr ""
 
-#: ../../index.rst:47 ../../index.rst:118
+#: ../../index.rst:47 ../../index.rst:111
 msgid "jamovi-modules"
 msgstr ""
 
-#: ../../index.rst:54 ../../index.rst:130
+#: ../../index.rst:54 ../../index.rst:123
 msgid "jamovi and other software"
 msgstr ""
 
@@ -90,62 +90,46 @@ msgid ""
 msgstr ""
 
 #: ../../index.rst:90
-msgid "**Descriptive analyses**"
-msgstr ""
-
-#: ../../index.rst:92
 msgid ":doc:`analyses/jg_11_descriptive-analyses`"
 msgstr ":doc:`analyses/jg_11_descriptive-analyses`"
 
-#: ../../index.rst:94
-msgid "**t-tests**"
-msgstr ""
-
-#: ../../index.rst:96
+#: ../../index.rst:93
 msgid ":doc:`analyses/jg_21_t-test-independent`"
 msgstr ":doc:`analyses/jg_21_t-test-independent`"
 
-#: ../../index.rst:97
+#: ../../index.rst:94
 msgid ":doc:`analyses/jg_22_t-test-paired`"
 msgstr ":doc:`analyses/jg_22_t-test-paired`"
 
-#: ../../index.rst:98
+#: ../../index.rst:95
 msgid ":doc:`analyses/jg_23_t-test-onesample`"
 msgstr ":doc:`analyses/jg_23_t-test-onesample`"
 
-#: ../../index.rst:101
-msgid "**Analyses of Variance (ANOVA)**"
-msgstr ""
-
-#: ../../index.rst:103
+#: ../../index.rst:98
 msgid ":doc:`analyses/jg_31_unianova`"
 msgstr ":doc:`analyses/jg_31_unianova`"
 
-#: ../../index.rst:104
+#: ../../index.rst:99
 msgid ":doc:`analyses/jg_32_anova-factorial`"
 msgstr ":doc:`analyses/jg_32_anova-factorial`"
 
-#: ../../index.rst:105
+#: ../../index.rst:100
 msgid ":doc:`analyses/jg_33_anova-rm`"
 msgstr ":doc:`analyses/jg_33_anova-rm`"
 
-#: ../../index.rst:106
+#: ../../index.rst:101
 msgid ":doc:`analyses/jg_34_anova-mixed`"
 msgstr ":doc:`analyses/jg_34_anova-mixed`"
 
-#: ../../index.rst:109
-msgid "**Correlation and regression**"
-msgstr ""
-
-#: ../../index.rst:111
+#: ../../index.rst:104
 msgid ":doc:`analyses/jg_42_regression-linear`"
 msgstr ":doc:`analyses/jg_42_regression-linear`"
 
-#: ../../index.rst:112
+#: ../../index.rst:105
 msgid ":doc:`analyses/jg_43_regression-logistic`"
 msgstr ":doc:`analyses/jg_43_regression-logistic`"
 
-#: ../../index.rst:120
+#: ../../index.rst:113
 msgid ""
 "jamovi's functionality can easily be extended by creating specialized "
 "modules. It therefore calls for a community of developers to implement "
@@ -154,15 +138,19 @@ msgid ""
 "options for elements of the jamovi UI used for those analyses."
 msgstr ""
 
-#: ../../index.rst:124
+#: ../../index.rst:117
 msgid ":doc:`developer/dh_overview`"
 msgstr ":doc:`developer/dh_overview`"
 
-#: ../../index.rst:132
+#: ../../index.rst:125
 msgid ":doc:`spss2jamovi/s2j_overview`"
 msgstr ":doc:`spss2jamovi/s2j_overview`"
 
-#: ../../index.rst:133
+#: ../../index.rst:126
 msgid ":doc:`jamovi2r/j2R_overview`"
 msgstr ":doc:`jamovi2r/j2R_overview`"
+
+
+
+
 
