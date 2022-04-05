@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-05 12:22+0200\n"
+"POT-Creation-Date: 2022-04-05 12:33+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -350,7 +350,7 @@ msgstr ""
 
 #: ../../spss2jamovi/s2j_ANCOVA2.rst:14
 msgid ""
-"In SPSS you can run this test using `` ``Analyze`` → ``Compare Means`` → "
+"In SPSS you can run this test using ``Analyze`` → ``Compare Means`` → "
 "``One Way ANOVA``."
 msgstr ""
 
@@ -5064,5 +5064,11 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "<../_static/output/s2j_Output_jamovi_ttestPS2.omv>`_"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "In SPSS you can run this test "
+#~ "using `` ``Analyze`` → ``Compare Means``"
+#~ " → ``One Way ANOVA``."
 #~ msgstr ""
 
