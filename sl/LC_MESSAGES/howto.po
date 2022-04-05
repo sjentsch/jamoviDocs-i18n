@@ -82,6 +82,4 @@ msgstr ""
 msgid "jamovi's user interface"
 msgstr ""
 
-#~ msgid ":doc:`howto_Install_modules`"
-#~ msgstr ":doc:`howto_Install_modules`"
 
