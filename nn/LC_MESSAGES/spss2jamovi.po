@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-31 20:25+0200\n"
+"POT-Creation-Date: 2022-04-05 12:22+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -94,7 +94,7 @@ msgstr ""
 msgid "|SPSS_Menu_ANCOVA1|"
 msgstr "|SPSS_Menu_ANCOVA1|"
 
-#: ../../spss2jamovi/s2j_ANCOVA.rst:95
+#: ../../spss2jamovi/s2j_ANCOVA.rst:96
 msgid "SPSS_Menu_ANCOVA1"
 msgstr "SPSS_Menu_ANCOVA1"
 
@@ -102,7 +102,7 @@ msgstr "SPSS_Menu_ANCOVA1"
 msgid "|jamovi_Menu_ANCOVA1|"
 msgstr "|jamovi_Menu_ANCOVA1|"
 
-#: ../../spss2jamovi/s2j_ANCOVA.rst:96
+#: ../../spss2jamovi/s2j_ANCOVA.rst:97
 msgid "jamovi_Menu_ANCOVA1"
 msgstr "jamovi_Menu_ANCOVA1"
 
@@ -123,7 +123,7 @@ msgstr ""
 msgid "|SPSS_Input_ANCOVA1_1|"
 msgstr "|SPSS_Input_ANCOVA1_1|"
 
-#: ../../spss2jamovi/s2j_ANCOVA.rst:97
+#: ../../spss2jamovi/s2j_ANCOVA.rst:98
 msgid "SPSS_Input_ANCOVA1_1"
 msgstr "SPSS_Input_ANCOVA1_1"
 
@@ -131,7 +131,7 @@ msgstr "SPSS_Input_ANCOVA1_1"
 msgid "|jamovi_Input_ANCOVA1_1|"
 msgstr "|jamovi_Input_ANCOVA1_1|"
 
-#: ../../spss2jamovi/s2j_ANCOVA.rst:99
+#: ../../spss2jamovi/s2j_ANCOVA.rst:100
 msgid "jamovi_Input_ANCOVA1_1"
 msgstr "jamovi_Input_ANCOVA1_1"
 
@@ -153,7 +153,7 @@ msgstr ""
 msgid "|SPSS_Input_ANCOVA1_2|"
 msgstr "|SPSS_Input_ANCOVA1_2|"
 
-#: ../../spss2jamovi/s2j_ANCOVA.rst:98
+#: ../../spss2jamovi/s2j_ANCOVA.rst:99
 msgid "SPSS_Input_ANCOVA1_2"
 msgstr "SPSS_Input_ANCOVA1_2"
 
@@ -161,7 +161,7 @@ msgstr "SPSS_Input_ANCOVA1_2"
 msgid "|jamovi_Input_ANCOVA1_2|"
 msgstr "|jamovi_Input_ANCOVA1_2|"
 
-#: ../../spss2jamovi/s2j_ANCOVA.rst:100
+#: ../../spss2jamovi/s2j_ANCOVA.rst:101
 msgid "jamovi_Input_ANCOVA1_2"
 msgstr "jamovi_Input_ANCOVA1_2"
 
@@ -175,7 +175,7 @@ msgstr ""
 msgid "|jamovi_Input_ANCOVA1_3|"
 msgstr "|jamovi_Input_ANCOVA1_3|"
 
-#: ../../spss2jamovi/s2j_ANCOVA.rst:101
+#: ../../spss2jamovi/s2j_ANCOVA.rst:102
 msgid "jamovi_Input_ANCOVA1_3"
 msgstr "jamovi_Input_ANCOVA1_3"
 
@@ -191,7 +191,7 @@ msgstr ""
 msgid "|SPSS_Output_ANCOVA1_1|"
 msgstr "|SPSS_Output_ANCOVA1_1|"
 
-#: ../../spss2jamovi/s2j_ANCOVA.rst:102
+#: ../../spss2jamovi/s2j_ANCOVA.rst:103
 msgid "SPSS_Output_ANCOVA1_1"
 msgstr "SPSS_Output_ANCOVA1_1"
 
@@ -199,7 +199,7 @@ msgstr "SPSS_Output_ANCOVA1_1"
 msgid "|SPSS_Output_ANCOVA1_2|"
 msgstr "|SPSS_Output_ANCOVA1_2|"
 
-#: ../../spss2jamovi/s2j_ANCOVA.rst:103
+#: ../../spss2jamovi/s2j_ANCOVA.rst:104
 msgid "SPSS_Output_ANCOVA1_2"
 msgstr "SPSS_Output_ANCOVA1_2"
 
@@ -207,7 +207,7 @@ msgstr "SPSS_Output_ANCOVA1_2"
 msgid "|jamovi_Output_ANCOVA1_1|"
 msgstr "|jamovi_Output_ANCOVA1_1|"
 
-#: ../../spss2jamovi/s2j_ANCOVA.rst:104
+#: ../../spss2jamovi/s2j_ANCOVA.rst:105
 msgid "jamovi_Output_ANCOVA1_1"
 msgstr "jamovi_Output_ANCOVA1_1"
 
@@ -215,7 +215,7 @@ msgstr "jamovi_Output_ANCOVA1_1"
 msgid "|jamovi_Output_ANCOVA1_2|"
 msgstr "|jamovi_Output_ANCOVA1_2|"
 
-#: ../../spss2jamovi/s2j_ANCOVA.rst:105
+#: ../../spss2jamovi/s2j_ANCOVA.rst:106
 msgid "jamovi_Output_ANCOVA1_2"
 msgstr "jamovi_Output_ANCOVA1_2"
 
@@ -282,62 +282,16 @@ msgid ""
 "files and the jamovi files with the analyses from below the syntax."
 msgstr ""
 
-#: ../../spss2jamovi/s2j_ANCOVA.rst:76 ../../spss2jamovi/s2j_ANCOVA2.rst:47
-#: ../../spss2jamovi/s2j_ANCOVA3.rst:78 ../../spss2jamovi/s2j_ANCOVA4.rst:77
-#: ../../spss2jamovi/s2j_ANCOVA5.rst:57
-#: ../../spss2jamovi/s2j_correlation.rst:52
-#: ../../spss2jamovi/s2j_correlation2.rst:51
-#: ../../spss2jamovi/s2j_correlation3.rst:51
-#: ../../spss2jamovi/s2j_correlation4.rst:49
-#: ../../spss2jamovi/s2j_correlation5.rst:49
-#: ../../spss2jamovi/s2j_frequencies.rst:87
-#: ../../spss2jamovi/s2j_frequencies2.rst:84
-#: ../../spss2jamovi/s2j_linReg.rst:67 ../../spss2jamovi/s2j_linReg2.rst:116
-#: ../../spss2jamovi/s2j_logReg.rst:111
-#: ../../spss2jamovi/s2j_nonParametric.rst:67
-#: ../../spss2jamovi/s2j_nonParametric2.rst:77
-#: ../../spss2jamovi/s2j_nonParametric3.rst:61
-#: ../../spss2jamovi/s2j_ttestIS.rst:57 ../../spss2jamovi/s2j_ttestPS2.rst:64
-msgid "`SPSS output file containing the analyses`_"
+#: ../../spss2jamovi/s2j_ANCOVA.rst:76
+msgid ""
+"`SPSS output file containing the analyses "
+"<../_static/output/s2j_Output_SPSS_ANCOVA1.spv>`_"
 msgstr ""
 
-#: ../../spss2jamovi/s2j_ANCOVA.rst:76 ../../spss2jamovi/s2j_ANCOVA2.rst:47
-#: ../../spss2jamovi/s2j_ANCOVA3.rst:78 ../../spss2jamovi/s2j_ANCOVA4.rst:77
-#: ../../spss2jamovi/s2j_ANCOVA5.rst:57
-#: ../../spss2jamovi/s2j_correlation.rst:52
-#: ../../spss2jamovi/s2j_correlation2.rst:51
-#: ../../spss2jamovi/s2j_correlation3.rst:51
-#: ../../spss2jamovi/s2j_correlation4.rst:49
-#: ../../spss2jamovi/s2j_correlation5.rst:49
-#: ../../spss2jamovi/s2j_frequencies.rst:87
-#: ../../spss2jamovi/s2j_frequencies2.rst:84
-#: ../../spss2jamovi/s2j_linReg.rst:67 ../../spss2jamovi/s2j_linReg2.rst:116
-#: ../../spss2jamovi/s2j_logReg.rst:111
-#: ../../spss2jamovi/s2j_nonParametric.rst:67
-#: ../../spss2jamovi/s2j_nonParametric3.rst:61
-#: ../../spss2jamovi/s2j_ttestIS.rst:57 ../../spss2jamovi/s2j_ttestPS.rst:96
-#: ../../spss2jamovi/s2j_ttestPS2.rst:64
-msgid "`jamovi file containing the analyses`_"
-msgstr ""
-
-#: ../../spss2jamovi/s2j_ANCOVA.rst:89 ../../spss2jamovi/s2j_ANCOVA2.rst:51
-#: ../../spss2jamovi/s2j_ANCOVA3.rst:82 ../../spss2jamovi/s2j_ANCOVA4.rst:81
-#: ../../spss2jamovi/s2j_ANCOVA5.rst:61
-#: ../../spss2jamovi/s2j_correlation.rst:65
-#: ../../spss2jamovi/s2j_correlation2.rst:55
-#: ../../spss2jamovi/s2j_correlation3.rst:55
-#: ../../spss2jamovi/s2j_correlation4.rst:53
-#: ../../spss2jamovi/s2j_correlation5.rst:53
-#: ../../spss2jamovi/s2j_frequencies.rst:97
-#: ../../spss2jamovi/s2j_frequencies2.rst:88
-#: ../../spss2jamovi/s2j_linReg.rst:76 ../../spss2jamovi/s2j_linReg2.rst:120
-#: ../../spss2jamovi/s2j_logReg.rst:115
-#: ../../spss2jamovi/s2j_nonParametric.rst:78
-#: ../../spss2jamovi/s2j_nonParametric2.rst:82
-#: ../../spss2jamovi/s2j_nonParametric3.rst:65
-#: ../../spss2jamovi/s2j_overview.rst:55 ../../spss2jamovi/s2j_ttestIS.rst:61
-#: ../../spss2jamovi/s2j_ttestPS.rst:107 ../../spss2jamovi/s2j_ttestPS2.rst:68
-msgid "**References**"
+#: ../../spss2jamovi/s2j_ANCOVA.rst:76
+msgid ""
+"`jamovi file containing the analyses "
+"<../_static/output/s2j_Output_jamovi_ANCOVA1.omv>`_"
 msgstr ""
 
 #: ../../spss2jamovi/s2j_ANCOVA.rst:90 ../../spss2jamovi/s2j_ANCOVA2.rst:52
@@ -353,10 +307,30 @@ msgstr ""
 #: ../../spss2jamovi/s2j_linReg.rst:77 ../../spss2jamovi/s2j_linReg2.rst:121
 #: ../../spss2jamovi/s2j_logReg.rst:116
 #: ../../spss2jamovi/s2j_nonParametric.rst:79
-#: ../../spss2jamovi/s2j_nonParametric2.rst:83
+#: ../../spss2jamovi/s2j_nonParametric2.rst:84
 #: ../../spss2jamovi/s2j_nonParametric3.rst:66
-#: ../../spss2jamovi/s2j_overview.rst:56 ../../spss2jamovi/s2j_ttestIS.rst:62
-#: ../../spss2jamovi/s2j_ttestPS.rst:108 ../../spss2jamovi/s2j_ttestPS2.rst:69
+#: ../../spss2jamovi/s2j_overview.rst:55 ../../spss2jamovi/s2j_ttestIS.rst:62
+#: ../../spss2jamovi/s2j_ttestPS.rst:109 ../../spss2jamovi/s2j_ttestPS2.rst:69
+msgid "**References**"
+msgstr ""
+
+#: ../../spss2jamovi/s2j_ANCOVA.rst:91 ../../spss2jamovi/s2j_ANCOVA2.rst:53
+#: ../../spss2jamovi/s2j_ANCOVA3.rst:84 ../../spss2jamovi/s2j_ANCOVA4.rst:83
+#: ../../spss2jamovi/s2j_ANCOVA5.rst:63
+#: ../../spss2jamovi/s2j_correlation.rst:67
+#: ../../spss2jamovi/s2j_correlation2.rst:57
+#: ../../spss2jamovi/s2j_correlation3.rst:57
+#: ../../spss2jamovi/s2j_correlation4.rst:55
+#: ../../spss2jamovi/s2j_correlation5.rst:55
+#: ../../spss2jamovi/s2j_frequencies.rst:99
+#: ../../spss2jamovi/s2j_frequencies2.rst:90
+#: ../../spss2jamovi/s2j_linReg.rst:78 ../../spss2jamovi/s2j_linReg2.rst:122
+#: ../../spss2jamovi/s2j_logReg.rst:117
+#: ../../spss2jamovi/s2j_nonParametric.rst:80
+#: ../../spss2jamovi/s2j_nonParametric2.rst:85
+#: ../../spss2jamovi/s2j_nonParametric3.rst:67
+#: ../../spss2jamovi/s2j_overview.rst:56 ../../spss2jamovi/s2j_ttestIS.rst:63
+#: ../../spss2jamovi/s2j_ttestPS.rst:110 ../../spss2jamovi/s2j_ttestPS2.rst:70
 msgid ""
 "Field, A. (2017). *Discovering statistics using IBM SPSS statistics* (5th"
 " ed.). SAGE Publications. https://edge.sagepub.com/field5e"
@@ -389,7 +363,7 @@ msgstr ""
 msgid "|SPSS_Menu_ANCOVA2|"
 msgstr "|SPSS_Menu_ANCOVA2|"
 
-#: ../../spss2jamovi/s2j_ANCOVA2.rst:57
+#: ../../spss2jamovi/s2j_ANCOVA2.rst:58
 msgid "SPSS_Menu_ANCOVA2"
 msgstr "SPSS_Menu_ANCOVA2"
 
@@ -397,7 +371,7 @@ msgstr "SPSS_Menu_ANCOVA2"
 msgid "|jamovi_Menu_ANCOVA2|"
 msgstr "|jamovi_Menu_ANCOVA2|"
 
-#: ../../spss2jamovi/s2j_ANCOVA2.rst:58
+#: ../../spss2jamovi/s2j_ANCOVA2.rst:59
 msgid "jamovi_Menu_ANCOVA2"
 msgstr "jamovi_Menu_ANCOVA2"
 
@@ -417,7 +391,7 @@ msgstr ""
 msgid "|SPSS_Input_ANCOVA2|"
 msgstr "|SPSS_Input_ANCOVA2|"
 
-#: ../../spss2jamovi/s2j_ANCOVA2.rst:59
+#: ../../spss2jamovi/s2j_ANCOVA2.rst:60
 msgid "SPSS_Input_ANCOVA2"
 msgstr "SPSS_Input_ANCOVA2"
 
@@ -425,7 +399,7 @@ msgstr "SPSS_Input_ANCOVA2"
 msgid "|jamovi_Input_ANCOVA2|"
 msgstr "|jamovi_Input_ANCOVA2|"
 
-#: ../../spss2jamovi/s2j_ANCOVA2.rst:60
+#: ../../spss2jamovi/s2j_ANCOVA2.rst:61
 msgid "jamovi_Input_ANCOVA2"
 msgstr "jamovi_Input_ANCOVA2"
 
@@ -440,7 +414,7 @@ msgstr ""
 msgid "|SPSS_Output_ANCOVA2|"
 msgstr "|SPSS_Output_ANCOVA2|"
 
-#: ../../spss2jamovi/s2j_ANCOVA2.rst:61
+#: ../../spss2jamovi/s2j_ANCOVA2.rst:62
 msgid "SPSS_Output_ANCOVA2"
 msgstr "SPSS_Output_ANCOVA2"
 
@@ -448,7 +422,7 @@ msgstr "SPSS_Output_ANCOVA2"
 msgid "|jamovi_Output_ANCOVA2|"
 msgstr "|jamovi_Output_ANCOVA2|"
 
-#: ../../spss2jamovi/s2j_ANCOVA2.rst:62
+#: ../../spss2jamovi/s2j_ANCOVA2.rst:63
 msgid "jamovi_Output_ANCOVA2"
 msgstr "jamovi_Output_ANCOVA2"
 
@@ -479,6 +453,18 @@ msgid ""
 "1.98, *p* = 0.16."
 msgstr ""
 
+#: ../../spss2jamovi/s2j_ANCOVA2.rst:47
+msgid ""
+"`SPSS output file containing the analyses "
+"<../_static/output/s2j_Output_SPSS_ANCOVA2.spv>`_"
+msgstr ""
+
+#: ../../spss2jamovi/s2j_ANCOVA2.rst:47
+msgid ""
+"`jamovi file containing the analyses "
+"<../_static/output/s2j_Output_jamovi_ANCOVA2.omv>`_"
+msgstr ""
+
 #: ../../spss2jamovi/s2j_ANCOVA3.rst:7
 msgid ""
 "This comparison shows how to conduct an analysis of covariance in SPSS "
@@ -502,8 +488,8 @@ msgstr ""
 msgid "|SPSS_Menu_ANCOVA3|"
 msgstr "|SPSS_Menu_ANCOVA3|"
 
-#: ../../spss2jamovi/s2j_ANCOVA3.rst:88
-#: ../../spss2jamovi/s2j_frequencies.rst:103
+#: ../../spss2jamovi/s2j_ANCOVA3.rst:89
+#: ../../spss2jamovi/s2j_frequencies.rst:104
 msgid "SPSS_Menu_ANCOVA3"
 msgstr "SPSS_Menu_ANCOVA3"
 
@@ -511,7 +497,7 @@ msgstr "SPSS_Menu_ANCOVA3"
 msgid "|jamovi_Menu_ANCOVA3|"
 msgstr "|jamovi_Menu_ANCOVA3|"
 
-#: ../../spss2jamovi/s2j_ANCOVA3.rst:89
+#: ../../spss2jamovi/s2j_ANCOVA3.rst:90
 msgid "jamovi_Menu_ANCOVA3"
 msgstr "jamovi_Menu_ANCOVA3"
 
@@ -531,7 +517,7 @@ msgstr ""
 msgid "|SPSS_Input_ANCOVA3_1|"
 msgstr "|SPSS_Input_ANCOVA3_1|"
 
-#: ../../spss2jamovi/s2j_ANCOVA3.rst:90
+#: ../../spss2jamovi/s2j_ANCOVA3.rst:91
 msgid "SPSS_Input_ANCOVA3_1"
 msgstr "SPSS_Input_ANCOVA3_1"
 
@@ -539,7 +525,7 @@ msgstr "SPSS_Input_ANCOVA3_1"
 msgid "|jamovi_Input_ANCOVA3_1|"
 msgstr "|jamovi_Input_ANCOVA3_1|"
 
-#: ../../spss2jamovi/s2j_ANCOVA3.rst:93
+#: ../../spss2jamovi/s2j_ANCOVA3.rst:94
 msgid "jamovi_Input_ANCOVA3_1"
 msgstr "jamovi_Input_ANCOVA3_1"
 
@@ -560,7 +546,7 @@ msgstr ""
 msgid "|SPSS_Input_ANCOVA3_2|"
 msgstr "|SPSS_Input_ANCOVA3_2|"
 
-#: ../../spss2jamovi/s2j_ANCOVA3.rst:91
+#: ../../spss2jamovi/s2j_ANCOVA3.rst:92
 msgid "SPSS_Input_ANCOVA3_2"
 msgstr "SPSS_Input_ANCOVA3_2"
 
@@ -568,7 +554,7 @@ msgstr "SPSS_Input_ANCOVA3_2"
 msgid "|jamovi_Input_ANCOVA3_2|"
 msgstr "|jamovi_Input_ANCOVA3_2|"
 
-#: ../../spss2jamovi/s2j_ANCOVA3.rst:94
+#: ../../spss2jamovi/s2j_ANCOVA3.rst:95
 msgid "jamovi_Input_ANCOVA3_2"
 msgstr "jamovi_Input_ANCOVA3_2"
 
@@ -590,7 +576,7 @@ msgstr ""
 msgid "|SPSS_Input_ANCOVA3_3|"
 msgstr "|SPSS_Input_ANCOVA3_3|"
 
-#: ../../spss2jamovi/s2j_ANCOVA3.rst:92
+#: ../../spss2jamovi/s2j_ANCOVA3.rst:93
 msgid "SPSS_Input_ANCOVA3_3"
 msgstr "SPSS_Input_ANCOVA3_3"
 
@@ -598,7 +584,7 @@ msgstr "SPSS_Input_ANCOVA3_3"
 msgid "|jamovi_Input_ANCOVA3_3|"
 msgstr "|jamovi_Input_ANCOVA3_3|"
 
-#: ../../spss2jamovi/s2j_ANCOVA3.rst:95
+#: ../../spss2jamovi/s2j_ANCOVA3.rst:96
 msgid "jamovi_Input_ANCOVA3_3"
 msgstr "jamovi_Input_ANCOVA3_3"
 
@@ -613,7 +599,7 @@ msgstr ""
 msgid "|SPSS_Output_ANCOVA3_1|"
 msgstr "|SPSS_Output_ANCOVA3_1|"
 
-#: ../../spss2jamovi/s2j_ANCOVA3.rst:96
+#: ../../spss2jamovi/s2j_ANCOVA3.rst:97
 msgid "SPSS_Output_ANCOVA3_1"
 msgstr "SPSS_Output_ANCOVA3_1"
 
@@ -621,7 +607,7 @@ msgstr "SPSS_Output_ANCOVA3_1"
 msgid "|SPSS_Output_ANCOVA3_2|"
 msgstr "|SPSS_Output_ANCOVA3_2|"
 
-#: ../../spss2jamovi/s2j_ANCOVA3.rst:97
+#: ../../spss2jamovi/s2j_ANCOVA3.rst:98
 msgid "SPSS_Output_ANCOVA3_2"
 msgstr "SPSS_Output_ANCOVA3_2"
 
@@ -629,7 +615,7 @@ msgstr "SPSS_Output_ANCOVA3_2"
 msgid "|SPSS_Output_ANCOVA3_3|"
 msgstr "|SPSS_Output_ANCOVA3_3|"
 
-#: ../../spss2jamovi/s2j_ANCOVA3.rst:98
+#: ../../spss2jamovi/s2j_ANCOVA3.rst:99
 msgid "SPSS_Output_ANCOVA3_3"
 msgstr "SPSS_Output_ANCOVA3_3"
 
@@ -637,7 +623,7 @@ msgstr "SPSS_Output_ANCOVA3_3"
 msgid "|jamovi_Output_ANCOVA3|"
 msgstr "|jamovi_Output_ANCOVA3|"
 
-#: ../../spss2jamovi/s2j_ANCOVA3.rst:99
+#: ../../spss2jamovi/s2j_ANCOVA3.rst:100
 msgid "jamovi_Output_ANCOVA3"
 msgstr "jamovi_Output_ANCOVA3"
 
@@ -688,6 +674,18 @@ msgid ""
 "0.010."
 msgstr ""
 
+#: ../../spss2jamovi/s2j_ANCOVA3.rst:78
+msgid ""
+"`SPSS output file containing the analyses "
+"<../_static/output/s2j_Output_SPSS_ANCOVA3.spv>`_"
+msgstr ""
+
+#: ../../spss2jamovi/s2j_ANCOVA3.rst:78
+msgid ""
+"`jamovi file containing the analyses "
+"<../_static/output/s2j_Output_jamovi_ANCOVA3.omv>`_"
+msgstr ""
+
 #: ../../spss2jamovi/s2j_ANCOVA4.rst:7
 msgid ""
 "This comparison shows how an analysis of covariance which excludes the "
@@ -710,7 +708,7 @@ msgstr ""
 msgid "|SPSS_Menu_ANCOVA4|"
 msgstr "|SPSS_Menu_ANCOVA4|"
 
-#: ../../spss2jamovi/s2j_ANCOVA4.rst:87
+#: ../../spss2jamovi/s2j_ANCOVA4.rst:88
 msgid "SPSS_Menu_ANCOVA4"
 msgstr "SPSS_Menu_ANCOVA4"
 
@@ -718,7 +716,7 @@ msgstr "SPSS_Menu_ANCOVA4"
 msgid "|jamovi_Menu_ANCOVA4|"
 msgstr "|jamovi_Menu_ANCOVA4|"
 
-#: ../../spss2jamovi/s2j_ANCOVA4.rst:88
+#: ../../spss2jamovi/s2j_ANCOVA4.rst:89
 msgid "jamovi_Menu_ANCOVA4"
 msgstr "jamovi_Menu_ANCOVA4"
 
@@ -738,7 +736,7 @@ msgstr ""
 msgid "|SPSS_Input_ANCOVA4_1|"
 msgstr "|SPSS_Input_ANCOVA4_1|"
 
-#: ../../spss2jamovi/s2j_ANCOVA4.rst:89
+#: ../../spss2jamovi/s2j_ANCOVA4.rst:90
 msgid "SPSS_Input_ANCOVA4_1"
 msgstr "SPSS_Input_ANCOVA4_1"
 
@@ -746,7 +744,7 @@ msgstr "SPSS_Input_ANCOVA4_1"
 msgid "|jamovi_Input_ANCOVA4_1|"
 msgstr "|jamovi_Input_ANCOVA4_1|"
 
-#: ../../spss2jamovi/s2j_ANCOVA4.rst:92
+#: ../../spss2jamovi/s2j_ANCOVA4.rst:93
 msgid "jamovi_Input_ANCOVA4_1"
 msgstr "jamovi_Input_ANCOVA4_1"
 
@@ -761,7 +759,7 @@ msgstr ""
 msgid "|SPSS_Input_ANCOVA4_2|"
 msgstr "|SPSS_Input_ANCOVA4_2|"
 
-#: ../../spss2jamovi/s2j_ANCOVA4.rst:90
+#: ../../spss2jamovi/s2j_ANCOVA4.rst:91
 msgid "SPSS_Input_ANCOVA4_2"
 msgstr "SPSS_Input_ANCOVA4_2"
 
@@ -769,7 +767,7 @@ msgstr "SPSS_Input_ANCOVA4_2"
 msgid "|jamovi_Input_ANCOVA4_2|"
 msgstr "|jamovi_Input_ANCOVA4_2|"
 
-#: ../../spss2jamovi/s2j_ANCOVA4.rst:93
+#: ../../spss2jamovi/s2j_ANCOVA4.rst:94
 msgid "jamovi_Input_ANCOVA4_2"
 msgstr "jamovi_Input_ANCOVA4_2"
 
@@ -784,7 +782,7 @@ msgstr ""
 msgid "|SPSS_Input_ANCOVA4_3|"
 msgstr "|SPSS_Input_ANCOVA4_3|"
 
-#: ../../spss2jamovi/s2j_ANCOVA4.rst:91
+#: ../../spss2jamovi/s2j_ANCOVA4.rst:92
 msgid "SPSS_Input_ANCOVA4_3"
 msgstr "SPSS_Input_ANCOVA4_3"
 
@@ -792,7 +790,7 @@ msgstr "SPSS_Input_ANCOVA4_3"
 msgid "|jamovi_Input_ANCOVA4_3|"
 msgstr "|jamovi_Input_ANCOVA4_3|"
 
-#: ../../spss2jamovi/s2j_ANCOVA4.rst:94
+#: ../../spss2jamovi/s2j_ANCOVA4.rst:95
 msgid "jamovi_Input_ANCOVA4_3"
 msgstr "jamovi_Input_ANCOVA4_3"
 
@@ -806,7 +804,7 @@ msgstr ""
 msgid "|SPSS_Output_ANCOVA4_1|"
 msgstr "|SPSS_Output_ANCOVA4_1|"
 
-#: ../../spss2jamovi/s2j_ANCOVA4.rst:95
+#: ../../spss2jamovi/s2j_ANCOVA4.rst:96
 msgid "SPSS_Output_ANCOVA4_1"
 msgstr "SPSS_Output_ANCOVA4_1"
 
@@ -814,7 +812,7 @@ msgstr "SPSS_Output_ANCOVA4_1"
 msgid "|SPSS_Output_ANCOVA4_2|"
 msgstr "|SPSS_Output_ANCOVA4_2|"
 
-#: ../../spss2jamovi/s2j_ANCOVA4.rst:96
+#: ../../spss2jamovi/s2j_ANCOVA4.rst:97
 msgid "SPSS_Output_ANCOVA4_2"
 msgstr "SPSS_Output_ANCOVA4_2"
 
@@ -822,7 +820,7 @@ msgstr "SPSS_Output_ANCOVA4_2"
 msgid "|SPSS_Output_ANCOVA4_3|"
 msgstr "|SPSS_Output_ANCOVA4_3|"
 
-#: ../../spss2jamovi/s2j_ANCOVA4.rst:97
+#: ../../spss2jamovi/s2j_ANCOVA4.rst:98
 msgid "SPSS_Output_ANCOVA4_3"
 msgstr "SPSS_Output_ANCOVA4_3"
 
@@ -830,7 +828,7 @@ msgstr "SPSS_Output_ANCOVA4_3"
 msgid "|jamovi_Output_ANCOVA4|"
 msgstr "|jamovi_Output_ANCOVA4|"
 
-#: ../../spss2jamovi/s2j_ANCOVA4.rst:98
+#: ../../spss2jamovi/s2j_ANCOVA4.rst:99
 msgid "jamovi_Output_ANCOVA4"
 msgstr "jamovi_Output_ANCOVA4"
 
@@ -881,6 +879,18 @@ msgid ""
 "0.055."
 msgstr ""
 
+#: ../../spss2jamovi/s2j_ANCOVA4.rst:77
+msgid ""
+"`SPSS output file containing the analyses "
+"<../_static/output/s2j_Output_SPSS_ANCOVA4.spv>`_"
+msgstr ""
+
+#: ../../spss2jamovi/s2j_ANCOVA4.rst:77
+msgid ""
+"`jamovi file containing the analyses "
+"<../_static/output/s2j_Output_jamovi_ANCOVA4.omv>`_"
+msgstr ""
+
 #: ../../spss2jamovi/s2j_ANCOVA5.rst:7
 msgid ""
 "This comparison shows how to test the assumption of homogeneity of "
@@ -896,7 +906,7 @@ msgstr ""
 msgid "|SPSS_Menu_ANCOVA5|"
 msgstr "|SPSS_Menu_ANCOVA5|"
 
-#: ../../spss2jamovi/s2j_ANCOVA5.rst:67
+#: ../../spss2jamovi/s2j_ANCOVA5.rst:68
 msgid "SPSS_Menu_ANCOVA5"
 msgstr "SPSS_Menu_ANCOVA5"
 
@@ -904,7 +914,7 @@ msgstr "SPSS_Menu_ANCOVA5"
 msgid "|jamovi_Menu_ANCOVA5|"
 msgstr "|jamovi_Menu_ANCOVA5|"
 
-#: ../../spss2jamovi/s2j_ANCOVA5.rst:68
+#: ../../spss2jamovi/s2j_ANCOVA5.rst:69
 msgid "jamovi_Menu_ANCOVA5"
 msgstr "jamovi_Menu_ANCOVA5"
 
@@ -926,7 +936,7 @@ msgstr ""
 msgid "|SPSS_Input_ANCOVA5_1|"
 msgstr "|SPSS_Input_ANCOVA5_1|"
 
-#: ../../spss2jamovi/s2j_ANCOVA5.rst:69
+#: ../../spss2jamovi/s2j_ANCOVA5.rst:70
 msgid "SPSS_Input_ANCOVA5_1"
 msgstr "SPSS_Input_ANCOVA5_1"
 
@@ -934,7 +944,7 @@ msgstr "SPSS_Input_ANCOVA5_1"
 msgid "|jamovi_Input_ANCOVA5_1|"
 msgstr "|jamovi_Input_ANCOVA5_1|"
 
-#: ../../spss2jamovi/s2j_ANCOVA5.rst:71
+#: ../../spss2jamovi/s2j_ANCOVA5.rst:72
 msgid "jamovi_Input_ANCOVA5_1"
 msgstr "jamovi_Input_ANCOVA5_1"
 
@@ -955,7 +965,7 @@ msgstr ""
 msgid "|SPSS_Input_ANCOVA5_2|"
 msgstr "|SPSS_Input_ANCOVA5_2|"
 
-#: ../../spss2jamovi/s2j_ANCOVA5.rst:70
+#: ../../spss2jamovi/s2j_ANCOVA5.rst:71
 msgid "SPSS_Input_ANCOVA5_2"
 msgstr "SPSS_Input_ANCOVA5_2"
 
@@ -963,7 +973,7 @@ msgstr "SPSS_Input_ANCOVA5_2"
 msgid "|jamovi_Input_ANCOVA5_2|"
 msgstr "|jamovi_Input_ANCOVA5_2|"
 
-#: ../../spss2jamovi/s2j_ANCOVA5.rst:72
+#: ../../spss2jamovi/s2j_ANCOVA5.rst:73
 msgid "jamovi_Input_ANCOVA5_2"
 msgstr "jamovi_Input_ANCOVA5_2"
 
@@ -977,7 +987,7 @@ msgstr ""
 msgid "|SPSS_Output_ANCOVA5|"
 msgstr "|SPSS_Output_ANCOVA5|"
 
-#: ../../spss2jamovi/s2j_ANCOVA5.rst:73
+#: ../../spss2jamovi/s2j_ANCOVA5.rst:74
 msgid "SPSS_Output_ANCOVA5"
 msgstr "SPSS_Output_ANCOVA5"
 
@@ -985,7 +995,7 @@ msgstr "SPSS_Output_ANCOVA5"
 msgid "|jamovi_Output_ANCOVA5|"
 msgstr "|jamovi_Output_ANCOVA5|"
 
-#: ../../spss2jamovi/s2j_ANCOVA5.rst:74
+#: ../../spss2jamovi/s2j_ANCOVA5.rst:75
 msgid "jamovi_Output_ANCOVA5"
 msgstr "jamovi_Output_ANCOVA5"
 
@@ -1018,6 +1028,18 @@ msgid ""
 "If one compares the numerical values, they are the same: "
 "*SS*<sub>Dose</sub> = 36.6, *p* < .01; *SS*<sub>Puppy_love</sub> = 17.2, "
 "*p* < .05; *SS*<sub>Dose \\* Puppy_love</sub> = 20.4, *p* < .05."
+msgstr ""
+
+#: ../../spss2jamovi/s2j_ANCOVA5.rst:57
+msgid ""
+"`SPSS output file containing the analyses "
+"<../_static/output/s2j_Output_SPSS_ANCOVA5.spv>`_"
+msgstr ""
+
+#: ../../spss2jamovi/s2j_ANCOVA5.rst:57
+msgid ""
+"`jamovi file containing the analyses "
+"<../_static/output/s2j_Output_jamovi_ANCOVA5.omv>`_"
 msgstr ""
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:5
@@ -1699,7 +1721,7 @@ msgstr ""
 msgid "|SPSS_Menu_corr1|"
 msgstr "|SPSS_Menu_corr1|"
 
-#: ../../spss2jamovi/s2j_correlation.rst:71
+#: ../../spss2jamovi/s2j_correlation.rst:72
 msgid "SPSS_Menu_corr1"
 msgstr "SPSS_Menu_corr1"
 
@@ -1707,7 +1729,7 @@ msgstr "SPSS_Menu_corr1"
 msgid "|jamovi_Menu_corr1|"
 msgstr "|jamovi_Menu_corr1|"
 
-#: ../../spss2jamovi/s2j_correlation.rst:72
+#: ../../spss2jamovi/s2j_correlation.rst:73
 msgid "jamovi_Menu_corr1"
 msgstr "jamovi_Menu_corr1"
 
@@ -1730,7 +1752,7 @@ msgstr ""
 msgid "|SPSS_Input_corr1|"
 msgstr "|SPSS_Input_corr1|"
 
-#: ../../spss2jamovi/s2j_correlation.rst:73
+#: ../../spss2jamovi/s2j_correlation.rst:74
 msgid "SPSS_Input_corr1"
 msgstr "SPSS_Input_corr1"
 
@@ -1738,7 +1760,7 @@ msgstr "SPSS_Input_corr1"
 msgid "|jamovi_Input_corr1|"
 msgstr "|jamovi_Input_corr1|"
 
-#: ../../spss2jamovi/s2j_correlation.rst:74
+#: ../../spss2jamovi/s2j_correlation.rst:75
 msgid "jamovi_Input_corr1"
 msgstr "jamovi_Input_corr1"
 
@@ -1750,7 +1772,7 @@ msgstr ""
 msgid "|SPSS_Output_corr1|"
 msgstr "|SPSS_Output_corr1|"
 
-#: ../../spss2jamovi/s2j_correlation.rst:75
+#: ../../spss2jamovi/s2j_correlation.rst:76
 msgid "SPSS_Output_corr1"
 msgstr "SPSS_Output_corr1"
 
@@ -1758,7 +1780,7 @@ msgstr "SPSS_Output_corr1"
 msgid "|jamovi_Output_corr1|"
 msgstr "|jamovi_Output_corr1|"
 
-#: ../../spss2jamovi/s2j_correlation.rst:76
+#: ../../spss2jamovi/s2j_correlation.rst:77
 msgid "jamovi_Output_corr1"
 msgstr "jamovi_Output_corr1"
 
@@ -1793,6 +1815,18 @@ msgid ""
 ".001; *r* = -0.71, *p* < .001; *r* = -0.44, *p* < .001."
 msgstr ""
 
+#: ../../spss2jamovi/s2j_correlation.rst:52
+msgid ""
+"`SPSS output file containing the analyses "
+"<../_static/output/s2j_Output_SPSS_corr1.spv>`_"
+msgstr ""
+
+#: ../../spss2jamovi/s2j_correlation.rst:52
+msgid ""
+"`jamovi file containing the analyses "
+"<../_static/output/s2j_Output_jamovi_corr1.omv>`_"
+msgstr ""
+
 #: ../../spss2jamovi/s2j_correlation2.rst:7
 msgid ""
 "This comparison shows how a Spearman’s correlation is conducted in SPSS "
@@ -1815,7 +1849,7 @@ msgstr ""
 msgid "|SPSS_Menu_corr2|"
 msgstr "|SPSS_Menu_corr2|"
 
-#: ../../spss2jamovi/s2j_correlation2.rst:61
+#: ../../spss2jamovi/s2j_correlation2.rst:62
 msgid "SPSS_Menu_corr2"
 msgstr "SPSS_Menu_corr2"
 
@@ -1823,7 +1857,7 @@ msgstr "SPSS_Menu_corr2"
 msgid "|jamovi_Menu_corr2|"
 msgstr "|jamovi_Menu_corr2|"
 
-#: ../../spss2jamovi/s2j_correlation2.rst:62
+#: ../../spss2jamovi/s2j_correlation2.rst:63
 msgid "jamovi_Menu_corr2"
 msgstr "jamovi_Menu_corr2"
 
@@ -1846,7 +1880,7 @@ msgstr ""
 msgid "|SPSS_Input_corr2|"
 msgstr "|SPSS_Input_corr2|"
 
-#: ../../spss2jamovi/s2j_correlation2.rst:63
+#: ../../spss2jamovi/s2j_correlation2.rst:64
 msgid "SPSS_Input_corr2"
 msgstr "SPSS_Input_corr2"
 
@@ -1854,7 +1888,7 @@ msgstr "SPSS_Input_corr2"
 msgid "|jamovi_Input_corr2|"
 msgstr "|jamovi_Input_corr2|"
 
-#: ../../spss2jamovi/s2j_correlation2.rst:64
+#: ../../spss2jamovi/s2j_correlation2.rst:65
 msgid "jamovi_Input_corr2"
 msgstr "jamovi_Input_corr2"
 
@@ -1866,7 +1900,7 @@ msgstr ""
 msgid "|SPSS_Output_corr2|"
 msgstr "|SPSS_Output_corr2|"
 
-#: ../../spss2jamovi/s2j_correlation2.rst:65
+#: ../../spss2jamovi/s2j_correlation2.rst:66
 msgid "SPSS_Output_corr2"
 msgstr "SPSS_Output_corr2"
 
@@ -1874,7 +1908,7 @@ msgstr "SPSS_Output_corr2"
 msgid "|jamovi_Output_corr2|"
 msgstr "|jamovi_Output_corr2|"
 
-#: ../../spss2jamovi/s2j_correlation2.rst:66
+#: ../../spss2jamovi/s2j_correlation2.rst:67
 msgid "jamovi_Output_corr2"
 msgstr "jamovi_Output_corr2"
 
@@ -1884,6 +1918,18 @@ msgid ""
 " both underneath and over the diagonal in SPSS, while in jamovi the "
 "coefficient is only shown underneath. The numerical values for the "
 "statistics are identical: *r* = -0.37, *p* < .01."
+msgstr ""
+
+#: ../../spss2jamovi/s2j_correlation2.rst:51
+msgid ""
+"`SPSS output file containing the analyses "
+"<../_static/output/s2j_Output_SPSS_corr2.spv>`_"
+msgstr ""
+
+#: ../../spss2jamovi/s2j_correlation2.rst:51
+msgid ""
+"`jamovi file containing the analyses "
+"<../_static/output/s2j_Output_jamovi_corr2.omv>`_"
 msgstr ""
 
 #: ../../spss2jamovi/s2j_correlation3.rst:7
@@ -1900,7 +1946,7 @@ msgstr ""
 msgid "|SPSS_Menu_corr3|"
 msgstr "|SPSS_Menu_corr3|"
 
-#: ../../spss2jamovi/s2j_correlation3.rst:61
+#: ../../spss2jamovi/s2j_correlation3.rst:62
 msgid "SPSS_Menu_corr3"
 msgstr "SPSS_Menu_corr3"
 
@@ -1908,7 +1954,7 @@ msgstr "SPSS_Menu_corr3"
 msgid "|jamovi_Menu_corr3|"
 msgstr "|jamovi_Menu_corr3|"
 
-#: ../../spss2jamovi/s2j_correlation3.rst:62
+#: ../../spss2jamovi/s2j_correlation3.rst:63
 msgid "jamovi_Menu_corr3"
 msgstr "jamovi_Menu_corr3"
 
@@ -1931,7 +1977,7 @@ msgstr ""
 msgid "|SPSS_Input_corr3|"
 msgstr "|SPSS_Input_corr3|"
 
-#: ../../spss2jamovi/s2j_correlation3.rst:63
+#: ../../spss2jamovi/s2j_correlation3.rst:64
 msgid "SPSS_Input_corr3"
 msgstr "SPSS_Input_corr3"
 
@@ -1939,7 +1985,7 @@ msgstr "SPSS_Input_corr3"
 msgid "|jamovi_Input_corr3|"
 msgstr "|jamovi_Input_corr3|"
 
-#: ../../spss2jamovi/s2j_correlation3.rst:64
+#: ../../spss2jamovi/s2j_correlation3.rst:65
 msgid "jamovi_Input_corr3"
 msgstr "jamovi_Input_corr3"
 
@@ -1951,7 +1997,7 @@ msgstr ""
 msgid "|SPSS_Output_corr3|"
 msgstr "|SPSS_Output_corr3|"
 
-#: ../../spss2jamovi/s2j_correlation3.rst:65
+#: ../../spss2jamovi/s2j_correlation3.rst:66
 msgid "SPSS_Output_corr3"
 msgstr "SPSS_Output_corr3"
 
@@ -1959,7 +2005,7 @@ msgstr "SPSS_Output_corr3"
 msgid "|jamovi_Output_corr3|"
 msgstr "|jamovi_Output_corr3|"
 
-#: ../../spss2jamovi/s2j_correlation3.rst:66
+#: ../../spss2jamovi/s2j_correlation3.rst:67
 msgid "jamovi_Output_corr3"
 msgstr "jamovi_Output_corr3"
 
@@ -1969,6 +2015,18 @@ msgid ""
 "diagonal in SPSS, while in jamovi the coefficient is only shown "
 "underneath. The numerical values for the statistics are the same: *r* = "
 "-.30, *p* < .01."
+msgstr ""
+
+#: ../../spss2jamovi/s2j_correlation3.rst:51
+msgid ""
+"`SPSS output file containing the analyses "
+"<../_static/output/s2j_Output_SPSS_corr3.spv>`_"
+msgstr ""
+
+#: ../../spss2jamovi/s2j_correlation3.rst:51
+msgid ""
+"`jamovi file containing the analyses "
+"<../_static/output/s2j_Output_jamovi_corr3.omv>`_"
 msgstr ""
 
 #: ../../spss2jamovi/s2j_correlation4.rst:7
@@ -1985,7 +2043,7 @@ msgstr ""
 msgid "|SPSS_Menu_corr4|"
 msgstr "|SPSS_Menu_corr4|"
 
-#: ../../spss2jamovi/s2j_correlation4.rst:59
+#: ../../spss2jamovi/s2j_correlation4.rst:60
 msgid "SPSS_Menu_corr4"
 msgstr "SPSS_Menu_corr4"
 
@@ -1993,7 +2051,7 @@ msgstr "SPSS_Menu_corr4"
 msgid "|jamovi_Menu_corr4|"
 msgstr "|jamovi_Menu_corr4|"
 
-#: ../../spss2jamovi/s2j_correlation4.rst:60
+#: ../../spss2jamovi/s2j_correlation4.rst:61
 msgid "jamovi_Menu_corr4"
 msgstr "jamovi_Menu_corr4"
 
@@ -2015,7 +2073,7 @@ msgstr ""
 msgid "|SPSS_Input_corr4|"
 msgstr "|SPSS_Input_corr4|"
 
-#: ../../spss2jamovi/s2j_correlation4.rst:61
+#: ../../spss2jamovi/s2j_correlation4.rst:62
 msgid "SPSS_Input_corr4"
 msgstr "SPSS_Input_corr4"
 
@@ -2023,7 +2081,7 @@ msgstr "SPSS_Input_corr4"
 msgid "|jamovi_Input_corr4|"
 msgstr "|jamovi_Input_corr4|"
 
-#: ../../spss2jamovi/s2j_correlation4.rst:62
+#: ../../spss2jamovi/s2j_correlation4.rst:63
 msgid "jamovi_Input_corr4"
 msgstr "jamovi_Input_corr4"
 
@@ -2036,7 +2094,7 @@ msgstr ""
 msgid "|SPSS_Output_corr4|"
 msgstr "|SPSS_Output_corr4|"
 
-#: ../../spss2jamovi/s2j_correlation4.rst:63
+#: ../../spss2jamovi/s2j_correlation4.rst:64
 msgid "SPSS_Output_corr4"
 msgstr "SPSS_Output_corr4"
 
@@ -2044,7 +2102,7 @@ msgstr "SPSS_Output_corr4"
 msgid "|jamovi_Output_corr4|"
 msgstr "|jamovi_Output_corr4|"
 
-#: ../../spss2jamovi/s2j_correlation4.rst:64
+#: ../../spss2jamovi/s2j_correlation4.rst:65
 msgid "jamovi_Output_corr4"
 msgstr "jamovi_Output_corr4"
 
@@ -2063,6 +2121,18 @@ msgid ""
 "diagonal in SPSS, while in jamovi the coefficient is only shown "
 "underneath. The numerical values for the statistics are identical: *r* = "
 "0.38, *p* < .01."
+msgstr ""
+
+#: ../../spss2jamovi/s2j_correlation4.rst:49
+msgid ""
+"`SPSS output file containing the analyses "
+"<../_static/output/s2j_Output_SPSS_corr4.spv>`_"
+msgstr ""
+
+#: ../../spss2jamovi/s2j_correlation4.rst:49
+msgid ""
+"`jamovi file containing the analyses "
+"<../_static/output/s2j_Output_jamovi_corr4.omv>`_"
 msgstr ""
 
 #: ../../spss2jamovi/s2j_correlation5.rst:7
@@ -2091,7 +2161,7 @@ msgstr ""
 msgid "|SPSS_Menu_corr5|"
 msgstr "|SPSS_Menu_corr5|"
 
-#: ../../spss2jamovi/s2j_correlation5.rst:59
+#: ../../spss2jamovi/s2j_correlation5.rst:60
 msgid "SPSS_Menu_corr5"
 msgstr "SPSS_Menu_corr5"
 
@@ -2099,7 +2169,7 @@ msgstr "SPSS_Menu_corr5"
 msgid "|jamovi_Menu_corr5|"
 msgstr "|jamovi_Menu_corr5|"
 
-#: ../../spss2jamovi/s2j_correlation5.rst:60
+#: ../../spss2jamovi/s2j_correlation5.rst:61
 msgid "jamovi_Menu_corr5"
 msgstr "jamovi_Menu_corr5"
 
@@ -2121,7 +2191,7 @@ msgstr ""
 msgid "|SPSS_Input_corr5|"
 msgstr "|SPSS_Input_corr5|"
 
-#: ../../spss2jamovi/s2j_correlation5.rst:61
+#: ../../spss2jamovi/s2j_correlation5.rst:62
 msgid "SPSS_Input_corr5"
 msgstr "SPSS_Input_corr5"
 
@@ -2129,7 +2199,7 @@ msgstr "SPSS_Input_corr5"
 msgid "|jamovi_Input_corr5|"
 msgstr "|jamovi_Input_corr5|"
 
-#: ../../spss2jamovi/s2j_correlation5.rst:62
+#: ../../spss2jamovi/s2j_correlation5.rst:63
 msgid "jamovi_Input_corr5"
 msgstr "jamovi_Input_corr5"
 
@@ -2137,7 +2207,7 @@ msgstr "jamovi_Input_corr5"
 msgid "|SPSS_Output_corr5_1|"
 msgstr "|SPSS_Output_corr5_1|"
 
-#: ../../spss2jamovi/s2j_correlation5.rst:63
+#: ../../spss2jamovi/s2j_correlation5.rst:64
 msgid "SPSS_Output_corr5_1"
 msgstr "SPSS_Output_corr5_1"
 
@@ -2145,7 +2215,7 @@ msgstr "SPSS_Output_corr5_1"
 msgid "|jamovi_Output_corr5|"
 msgstr "|jamovi_Output_corr5|"
 
-#: ../../spss2jamovi/s2j_correlation5.rst:65
+#: ../../spss2jamovi/s2j_correlation5.rst:66
 msgid "jamovi_Output_corr5"
 msgstr "jamovi_Output_corr5"
 
@@ -2153,7 +2223,7 @@ msgstr "jamovi_Output_corr5"
 msgid "|SPSS_Output_corr5_2|"
 msgstr "|SPSS_Output_corr5_2|"
 
-#: ../../spss2jamovi/s2j_correlation5.rst:64
+#: ../../spss2jamovi/s2j_correlation5.rst:65
 msgid "SPSS_Output_corr5_2"
 msgstr "SPSS_Output_corr5_2"
 
@@ -2162,6 +2232,18 @@ msgid ""
 "Results are presented twice in SPSS, while in jamovi they are only "
 "presented once. The numerical values for the statistics are identical: "
 "*r* = -.25."
+msgstr ""
+
+#: ../../spss2jamovi/s2j_correlation5.rst:49
+msgid ""
+"`SPSS output file containing the analyses "
+"<../_static/output/s2j_Output_SPSS_corr5.spv>`_"
+msgstr ""
+
+#: ../../spss2jamovi/s2j_correlation5.rst:49
+msgid ""
+"`jamovi file containing the analyses "
+"<../_static/output/s2j_Output_jamovi_corr5.omv>`_"
 msgstr ""
 
 #: ../../spss2jamovi/s2j_frequencies.rst:5
@@ -2196,7 +2278,7 @@ msgstr ""
 msgid "|SPSS_Menu_chi-square_1|"
 msgstr "|SPSS_Menu_chi-square_1|"
 
-#: ../../spss2jamovi/s2j_frequencies.rst:105
+#: ../../spss2jamovi/s2j_frequencies.rst:106
 msgid "SPSS_Menu_chi-square_1"
 msgstr "SPSS_Menu_chi-square_1"
 
@@ -2204,7 +2286,7 @@ msgstr "SPSS_Menu_chi-square_1"
 msgid "|jamovi_Menu_chi-square|"
 msgstr "|jamovi_Menu_chi-square|"
 
-#: ../../spss2jamovi/s2j_frequencies.rst:107
+#: ../../spss2jamovi/s2j_frequencies.rst:108
 msgid "jamovi_Menu_chi-square"
 msgstr "jamovi_Menu_chi-square"
 
@@ -2212,7 +2294,7 @@ msgstr "jamovi_Menu_chi-square"
 msgid "|SPSS_Menu_chi-square_2|"
 msgstr "|SPSS_Menu_chi-square_2|"
 
-#: ../../spss2jamovi/s2j_frequencies.rst:106
+#: ../../spss2jamovi/s2j_frequencies.rst:107
 msgid "SPSS_Menu_chi-square_2"
 msgstr "SPSS_Menu_chi-square_2"
 
@@ -2232,7 +2314,7 @@ msgstr ""
 msgid "|SPSS_Input_chi-square_1|"
 msgstr "|SPSS_Input_chi-square_1|"
 
-#: ../../spss2jamovi/s2j_frequencies.rst:108
+#: ../../spss2jamovi/s2j_frequencies.rst:109
 msgid "SPSS_Input_chi-square_1"
 msgstr "SPSS_Input_chi-square_1"
 
@@ -2240,7 +2322,7 @@ msgstr "SPSS_Input_chi-square_1"
 msgid "|jamovi_Input_chi-square_1|"
 msgstr "|jamovi_Input_chi-square_1|"
 
-#: ../../spss2jamovi/s2j_frequencies.rst:113
+#: ../../spss2jamovi/s2j_frequencies.rst:114
 msgid "jamovi_Input_chi-square_1"
 msgstr "jamovi_Input_chi-square_1"
 
@@ -2262,7 +2344,7 @@ msgstr ""
 msgid "|SPSS_Input_chi-square_2|"
 msgstr "|SPSS_Input_chi-square_2|"
 
-#: ../../spss2jamovi/s2j_frequencies.rst:109
+#: ../../spss2jamovi/s2j_frequencies.rst:110
 msgid "SPSS_Input_chi-square_2"
 msgstr "SPSS_Input_chi-square_2"
 
@@ -2270,7 +2352,7 @@ msgstr "SPSS_Input_chi-square_2"
 msgid "|jamovi_Input_chi-square_2|"
 msgstr "|jamovi_Input_chi-square_2|"
 
-#: ../../spss2jamovi/s2j_frequencies.rst:114
+#: ../../spss2jamovi/s2j_frequencies.rst:115
 msgid "jamovi_Input_chi-square_2"
 msgstr "jamovi_Input_chi-square_2"
 
@@ -2288,7 +2370,7 @@ msgstr ""
 msgid "|SPSS_Input_chi-square_3|"
 msgstr "|SPSS_Input_chi-square_3|"
 
-#: ../../spss2jamovi/s2j_frequencies.rst:110
+#: ../../spss2jamovi/s2j_frequencies.rst:111
 msgid "SPSS_Input_chi-square_3"
 msgstr "SPSS_Input_chi-square_3"
 
@@ -2296,7 +2378,7 @@ msgstr "SPSS_Input_chi-square_3"
 msgid "|jamovi_Input_chi-square_3|"
 msgstr "|jamovi_Input_chi-square_3|"
 
-#: ../../spss2jamovi/s2j_frequencies.rst:115
+#: ../../spss2jamovi/s2j_frequencies.rst:116
 msgid "jamovi_Input_chi-square_3"
 msgstr "jamovi_Input_chi-square_3"
 
@@ -2310,7 +2392,7 @@ msgstr ""
 msgid "|SPSS_Input_chi-square_4|"
 msgstr "|SPSS_Input_chi-square_4|"
 
-#: ../../spss2jamovi/s2j_frequencies.rst:111
+#: ../../spss2jamovi/s2j_frequencies.rst:112
 msgid "SPSS_Input_chi-square_4"
 msgstr "SPSS_Input_chi-square_4"
 
@@ -2324,7 +2406,7 @@ msgstr ""
 msgid "|SPSS_Input_chi-square_5|"
 msgstr "|SPSS_Input_chi-square_5|"
 
-#: ../../spss2jamovi/s2j_frequencies.rst:112
+#: ../../spss2jamovi/s2j_frequencies.rst:113
 msgid "SPSS_Input_chi-square_5"
 msgstr "SPSS_Input_chi-square_5"
 
@@ -2339,7 +2421,7 @@ msgstr ""
 msgid "|SPSS_Output_chi-square_1|"
 msgstr "|SPSS_Output_chi-square_1|"
 
-#: ../../spss2jamovi/s2j_frequencies.rst:116
+#: ../../spss2jamovi/s2j_frequencies.rst:117
 msgid "SPSS_Output_chi-square_1"
 msgstr "SPSS_Output_chi-square_1"
 
@@ -2347,7 +2429,7 @@ msgstr "SPSS_Output_chi-square_1"
 msgid "|jamovi_Output_chi-square|"
 msgstr "|jamovi_Output_chi-square|"
 
-#: ../../spss2jamovi/s2j_frequencies.rst:119
+#: ../../spss2jamovi/s2j_frequencies.rst:120
 msgid "jamovi_Output_chi-square"
 msgstr "jamovi_Output_chi-square"
 
@@ -2355,7 +2437,7 @@ msgstr "jamovi_Output_chi-square"
 msgid "|SPSS_Output_chi-square_2|"
 msgstr "|SPSS_Output_chi-square_2|"
 
-#: ../../spss2jamovi/s2j_frequencies.rst:117
+#: ../../spss2jamovi/s2j_frequencies.rst:118
 msgid "SPSS_Output_chi-square_2"
 msgstr "SPSS_Output_chi-square_2"
 
@@ -2363,7 +2445,7 @@ msgstr "SPSS_Output_chi-square_2"
 msgid "|SPSS_Output_chi-square_3|"
 msgstr "|SPSS_Output_chi-square_3|"
 
-#: ../../spss2jamovi/s2j_frequencies.rst:118
+#: ../../spss2jamovi/s2j_frequencies.rst:119
 msgid "SPSS_Output_chi-square_3"
 msgstr "SPSS_Output_chi-square_3"
 
@@ -2403,6 +2485,18 @@ msgid ""
 " = 25.36, *p* < .001."
 msgstr ""
 
+#: ../../spss2jamovi/s2j_frequencies.rst:87
+msgid ""
+"`SPSS output file containing the analyses <../_static/output"
+"/s2j_Output_SPSS_chi-square.spv>`_"
+msgstr ""
+
+#: ../../spss2jamovi/s2j_frequencies.rst:87
+msgid ""
+"`jamovi file containing the analyses <../_static/output"
+"/s2j_Output_jamovi_chi-square.omv>`_"
+msgstr ""
+
 #: ../../spss2jamovi/s2j_frequencies2.rst:7
 msgid ""
 "This comparison shows how a loglinear analysis is conducted in SPSS and "
@@ -2429,7 +2523,7 @@ msgstr ""
 msgid "|SPSS_Menu_logLinear|"
 msgstr "|SPSS_Menu_logLinear|"
 
-#: ../../spss2jamovi/s2j_frequencies2.rst:94
+#: ../../spss2jamovi/s2j_frequencies2.rst:95
 msgid "SPSS_Menu_logLinear"
 msgstr "SPSS_Menu_logLinear"
 
@@ -2437,7 +2531,7 @@ msgstr "SPSS_Menu_logLinear"
 msgid "|jamovi_Menu_logLinear|"
 msgstr "|jamovi_Menu_logLinear|"
 
-#: ../../spss2jamovi/s2j_frequencies2.rst:95
+#: ../../spss2jamovi/s2j_frequencies2.rst:96
 msgid "jamovi_Menu_logLinear"
 msgstr "jamovi_Menu_logLinear"
 
@@ -2461,7 +2555,7 @@ msgstr ""
 msgid "|SPSS_Input_logLinear_1|"
 msgstr "|SPSS_Input_logLinear_1|"
 
-#: ../../spss2jamovi/s2j_frequencies2.rst:96
+#: ../../spss2jamovi/s2j_frequencies2.rst:97
 msgid "SPSS_Input_logLinear_1"
 msgstr "SPSS_Input_logLinear_1"
 
@@ -2469,7 +2563,7 @@ msgstr "SPSS_Input_logLinear_1"
 msgid "|jamovi_Input_logLinear_1|"
 msgstr "|jamovi_Input_logLinear_1|"
 
-#: ../../spss2jamovi/s2j_frequencies2.rst:98
+#: ../../spss2jamovi/s2j_frequencies2.rst:99
 msgid "jamovi_Input_logLinear_1"
 msgstr "jamovi_Input_logLinear_1"
 
@@ -2477,7 +2571,7 @@ msgstr "jamovi_Input_logLinear_1"
 msgid "|SPSS_Input_logLinear_2|"
 msgstr "|SPSS_Input_logLinear_2|"
 
-#: ../../spss2jamovi/s2j_frequencies2.rst:97
+#: ../../spss2jamovi/s2j_frequencies2.rst:98
 msgid "SPSS_Input_logLinear_2"
 msgstr "SPSS_Input_logLinear_2"
 
@@ -2492,7 +2586,7 @@ msgstr ""
 msgid "|jamovi_Input_logLinear_2|"
 msgstr "|jamovi_Input_logLinear_2|"
 
-#: ../../spss2jamovi/s2j_frequencies2.rst:99
+#: ../../spss2jamovi/s2j_frequencies2.rst:100
 msgid "jamovi_Input_logLinear_2"
 msgstr "jamovi_Input_logLinear_2"
 
@@ -2506,7 +2600,7 @@ msgstr ""
 msgid "|jamovi_Input_logLinear_3|"
 msgstr "|jamovi_Input_logLinear_3|"
 
-#: ../../spss2jamovi/s2j_frequencies2.rst:100
+#: ../../spss2jamovi/s2j_frequencies2.rst:101
 msgid "jamovi_Input_logLinear_3"
 msgstr "jamovi_Input_logLinear_3"
 
@@ -2521,7 +2615,7 @@ msgstr ""
 msgid "|SPSS_Output_logLinear|"
 msgstr "|SPSS_Output_logLinear|"
 
-#: ../../spss2jamovi/s2j_frequencies2.rst:101
+#: ../../spss2jamovi/s2j_frequencies2.rst:102
 msgid "SPSS_Output_logLinear"
 msgstr "SPSS_Output_logLinear"
 
@@ -2529,7 +2623,7 @@ msgstr "SPSS_Output_logLinear"
 msgid "|jamovi_Output_logLinear_1|"
 msgstr "|jamovi_Output_logLinear_1|"
 
-#: ../../spss2jamovi/s2j_frequencies2.rst:102
+#: ../../spss2jamovi/s2j_frequencies2.rst:103
 msgid "jamovi_Output_logLinear_1"
 msgstr "jamovi_Output_logLinear_1"
 
@@ -2537,7 +2631,7 @@ msgstr "jamovi_Output_logLinear_1"
 msgid "|jamovi_Output_logLinear_2|"
 msgstr "|jamovi_Output_logLinear_2|"
 
-#: ../../spss2jamovi/s2j_frequencies2.rst:103
+#: ../../spss2jamovi/s2j_frequencies2.rst:104
 msgid "jamovi_Output_logLinear_2"
 msgstr "jamovi_Output_logLinear_2"
 
@@ -2581,6 +2675,18 @@ msgid ""
 "8.61, *p* < .01."
 msgstr ""
 
+#: ../../spss2jamovi/s2j_frequencies2.rst:84
+msgid ""
+"`SPSS output file containing the analyses "
+"<../_static/output/s2j_Output_SPSS_logLinear.spv>`_"
+msgstr ""
+
+#: ../../spss2jamovi/s2j_frequencies2.rst:84
+msgid ""
+"`jamovi file containing the analyses "
+"<../_static/output/s2j_Output_jamovi_logLinear.omv>`_"
+msgstr ""
+
 #: ../../spss2jamovi/s2j_linReg.rst:5 ../../spss2jamovi/s2j_linReg2.rst:5
 msgid "From SPSS to jamovi: Linear regression"
 msgstr ""
@@ -2611,7 +2717,7 @@ msgstr ""
 msgid "|SPSS_Menu_linReg1|"
 msgstr "|SPSS_Menu_linReg1|"
 
-#: ../../spss2jamovi/s2j_linReg.rst:82
+#: ../../spss2jamovi/s2j_linReg.rst:83
 msgid "SPSS_Menu_linReg1"
 msgstr "SPSS_Menu_linReg1"
 
@@ -2619,7 +2725,7 @@ msgstr "SPSS_Menu_linReg1"
 msgid "|jamovi_Menu_linReg1|"
 msgstr "|jamovi_Menu_linReg1|"
 
-#: ../../spss2jamovi/s2j_linReg.rst:83
+#: ../../spss2jamovi/s2j_linReg.rst:84
 msgid "jamovi_Menu_linReg1"
 msgstr "jamovi_Menu_linReg1"
 
@@ -2639,7 +2745,7 @@ msgstr ""
 msgid "|SPSS_Input_linReg1|"
 msgstr "|SPSS_Input_linReg1|"
 
-#: ../../spss2jamovi/s2j_linReg.rst:84
+#: ../../spss2jamovi/s2j_linReg.rst:85
 msgid "SPSS_Input_linReg1"
 msgstr "SPSS_Input_linReg1"
 
@@ -2647,7 +2753,7 @@ msgstr "SPSS_Input_linReg1"
 msgid "|jamovi_Input_linReg1_1|"
 msgstr "|jamovi_Input_linReg1_1|"
 
-#: ../../spss2jamovi/s2j_linReg.rst:85
+#: ../../spss2jamovi/s2j_linReg.rst:86
 msgid "jamovi_Input_linReg1_1"
 msgstr "jamovi_Input_linReg1_1"
 
@@ -2661,7 +2767,7 @@ msgstr ""
 msgid "|jamovi_Input_linReg1_2|"
 msgstr "|jamovi_Input_linReg1_2|"
 
-#: ../../spss2jamovi/s2j_linReg.rst:86
+#: ../../spss2jamovi/s2j_linReg.rst:87
 msgid "jamovi_Input_linReg1_2"
 msgstr "jamovi_Input_linReg1_2"
 
@@ -2675,7 +2781,7 @@ msgstr ""
 msgid "|jamovi_Input_linReg1_3|"
 msgstr "|jamovi_Input_linReg1_3|"
 
-#: ../../spss2jamovi/s2j_linReg.rst:87
+#: ../../spss2jamovi/s2j_linReg.rst:88
 msgid "jamovi_Input_linReg1_3"
 msgstr "jamovi_Input_linReg1_3"
 
@@ -2696,7 +2802,7 @@ msgstr ""
 msgid "|SPSS_Output_linReg1|"
 msgstr "|SPSS_Output_linReg1|"
 
-#: ../../spss2jamovi/s2j_linReg.rst:88
+#: ../../spss2jamovi/s2j_linReg.rst:89
 msgid "SPSS_Output_linReg1"
 msgstr "SPSS_Output_linReg1"
 
@@ -2704,7 +2810,7 @@ msgstr "SPSS_Output_linReg1"
 msgid "|jamovi_Output_linReg1|"
 msgstr "|jamovi_Output_linReg1|"
 
-#: ../../spss2jamovi/s2j_linReg.rst:89
+#: ../../spss2jamovi/s2j_linReg.rst:90
 msgid "jamovi_Output_linReg1"
 msgstr "jamovi_Output_linReg1"
 
@@ -2738,6 +2844,18 @@ msgid ""
 " *p* < .001."
 msgstr ""
 
+#: ../../spss2jamovi/s2j_linReg.rst:67
+msgid ""
+"`SPSS output file containing the analyses "
+"<../_static/output/s2j_Output_SPSS_linReg1.spv>`_"
+msgstr ""
+
+#: ../../spss2jamovi/s2j_linReg.rst:67
+msgid ""
+"`jamovi file containing the analyses "
+"<../_static/output/s2j_Output_jamovi_linReg1.omv>`_"
+msgstr ""
+
 #: ../../spss2jamovi/s2j_linReg2.rst:7
 msgid ""
 "This comparison shows how a linear model with several predictors is "
@@ -2759,7 +2877,7 @@ msgstr ""
 msgid "|SPSS_Menu_linReg2|"
 msgstr "|SPSS_Menu_linReg2|"
 
-#: ../../spss2jamovi/s2j_linReg2.rst:126
+#: ../../spss2jamovi/s2j_linReg2.rst:127
 msgid "SPSS_Menu_linReg2"
 msgstr "SPSS_Menu_linReg2"
 
@@ -2767,7 +2885,7 @@ msgstr "SPSS_Menu_linReg2"
 msgid "|jamovi_Menu_linReg2|"
 msgstr "|jamovi_Menu_linReg2|"
 
-#: ../../spss2jamovi/s2j_linReg2.rst:127
+#: ../../spss2jamovi/s2j_linReg2.rst:128
 msgid "jamovi_Menu_linReg2"
 msgstr "jamovi_Menu_linReg2"
 
@@ -2787,7 +2905,7 @@ msgstr ""
 msgid "|SPSS_Input_linReg2_1|"
 msgstr "|SPSS_Input_linReg2_1|"
 
-#: ../../spss2jamovi/s2j_linReg2.rst:128
+#: ../../spss2jamovi/s2j_linReg2.rst:129
 msgid "SPSS_Input_linReg2_1"
 msgstr "SPSS_Input_linReg2_1"
 
@@ -2795,7 +2913,7 @@ msgstr "SPSS_Input_linReg2_1"
 msgid "|jamovi_Input_linReg2_1|"
 msgstr "|jamovi_Input_linReg2_1|"
 
-#: ../../spss2jamovi/s2j_linReg2.rst:134
+#: ../../spss2jamovi/s2j_linReg2.rst:135
 msgid "jamovi_Input_linReg2_1"
 msgstr "jamovi_Input_linReg2_1"
 
@@ -2816,7 +2934,7 @@ msgstr ""
 msgid "|SPSS_Input_linReg2_2|"
 msgstr "|SPSS_Input_linReg2_2|"
 
-#: ../../spss2jamovi/s2j_linReg2.rst:129
+#: ../../spss2jamovi/s2j_linReg2.rst:130
 msgid "SPSS_Input_linReg2_2"
 msgstr "SPSS_Input_linReg2_2"
 
@@ -2824,7 +2942,7 @@ msgstr "SPSS_Input_linReg2_2"
 msgid "|jamovi_Input_linReg2_2|"
 msgstr "|jamovi_Input_linReg2_2|"
 
-#: ../../spss2jamovi/s2j_linReg2.rst:135
+#: ../../spss2jamovi/s2j_linReg2.rst:136
 msgid "jamovi_Input_linReg2_2"
 msgstr "jamovi_Input_linReg2_2"
 
@@ -2844,7 +2962,7 @@ msgstr ""
 msgid "|SPSS_Input_linReg2_3|"
 msgstr "|SPSS_Input_linReg2_3|"
 
-#: ../../spss2jamovi/s2j_linReg2.rst:130
+#: ../../spss2jamovi/s2j_linReg2.rst:131
 msgid "SPSS_Input_linReg2_3"
 msgstr "SPSS_Input_linReg2_3"
 
@@ -2852,7 +2970,7 @@ msgstr "SPSS_Input_linReg2_3"
 msgid "|jamovi_Input_linReg2_3|"
 msgstr "|jamovi_Input_linReg2_3|"
 
-#: ../../spss2jamovi/s2j_linReg2.rst:136
+#: ../../spss2jamovi/s2j_linReg2.rst:137
 msgid "jamovi_Input_linReg2_3"
 msgstr "jamovi_Input_linReg2_3"
 
@@ -2874,7 +2992,7 @@ msgstr ""
 msgid "|SPSS_Input_linReg2_4|"
 msgstr "|SPSS_Input_linReg2_4|"
 
-#: ../../spss2jamovi/s2j_linReg2.rst:131
+#: ../../spss2jamovi/s2j_linReg2.rst:132
 msgid "SPSS_Input_linReg2_4"
 msgstr "SPSS_Input_linReg2_4"
 
@@ -2882,7 +3000,7 @@ msgstr "SPSS_Input_linReg2_4"
 msgid "|jamovi_Input_linReg2_4|"
 msgstr "|jamovi_Input_linReg2_4|"
 
-#: ../../spss2jamovi/s2j_linReg2.rst:137
+#: ../../spss2jamovi/s2j_linReg2.rst:138
 msgid "jamovi_Input_linReg2_4"
 msgstr "jamovi_Input_linReg2_4"
 
@@ -2902,7 +3020,7 @@ msgstr ""
 msgid "|SPSS_Input_linReg2_5|"
 msgstr "|SPSS_Input_linReg2_5|"
 
-#: ../../spss2jamovi/s2j_linReg2.rst:132
+#: ../../spss2jamovi/s2j_linReg2.rst:133
 msgid "SPSS_Input_linReg2_5"
 msgstr "SPSS_Input_linReg2_5"
 
@@ -2910,7 +3028,7 @@ msgstr "SPSS_Input_linReg2_5"
 msgid "|jamovi_Input_linReg2_5|"
 msgstr "|jamovi_Input_linReg2_5|"
 
-#: ../../spss2jamovi/s2j_linReg2.rst:138
+#: ../../spss2jamovi/s2j_linReg2.rst:139
 msgid "jamovi_Input_linReg2_5"
 msgstr "jamovi_Input_linReg2_5"
 
@@ -2925,7 +3043,7 @@ msgstr ""
 msgid "|SPSS_Input_linReg2_6|"
 msgstr "|SPSS_Input_linReg2_6|"
 
-#: ../../spss2jamovi/s2j_linReg2.rst:133
+#: ../../spss2jamovi/s2j_linReg2.rst:134
 msgid "SPSS_Input_linReg2_6"
 msgstr "SPSS_Input_linReg2_6"
 
@@ -2940,7 +3058,7 @@ msgstr ""
 msgid "|SPSS_Output_linReg2_1|"
 msgstr "|SPSS_Output_linReg2_1|"
 
-#: ../../spss2jamovi/s2j_linReg2.rst:139
+#: ../../spss2jamovi/s2j_linReg2.rst:140
 msgid "SPSS_Output_linReg2_1"
 msgstr "SPSS_Output_linReg2_1"
 
@@ -2948,7 +3066,7 @@ msgstr "SPSS_Output_linReg2_1"
 msgid "|SPSS_Output_linReg2_2|"
 msgstr "|SPSS_Output_linReg2_2|"
 
-#: ../../spss2jamovi/s2j_linReg2.rst:140
+#: ../../spss2jamovi/s2j_linReg2.rst:141
 msgid "SPSS_Output_linReg2_2"
 msgstr "SPSS_Output_linReg2_2"
 
@@ -2956,7 +3074,7 @@ msgstr "SPSS_Output_linReg2_2"
 msgid "|SPSS_Output_linReg2_3|"
 msgstr "|SPSS_Output_linReg2_3|"
 
-#: ../../spss2jamovi/s2j_linReg2.rst:141
+#: ../../spss2jamovi/s2j_linReg2.rst:142
 msgid "SPSS_Output_linReg2_3"
 msgstr "SPSS_Output_linReg2_3"
 
@@ -2964,7 +3082,7 @@ msgstr "SPSS_Output_linReg2_3"
 msgid "|SPSS_Output_linReg2_4|"
 msgstr "|SPSS_Output_linReg2_4|"
 
-#: ../../spss2jamovi/s2j_linReg2.rst:142
+#: ../../spss2jamovi/s2j_linReg2.rst:143
 msgid "SPSS_Output_linReg2_4"
 msgstr "SPSS_Output_linReg2_4"
 
@@ -2972,7 +3090,7 @@ msgstr "SPSS_Output_linReg2_4"
 msgid "|SPSS_Output_linReg2_5|"
 msgstr "|SPSS_Output_linReg2_5|"
 
-#: ../../spss2jamovi/s2j_linReg2.rst:143
+#: ../../spss2jamovi/s2j_linReg2.rst:144
 msgid "SPSS_Output_linReg2_5"
 msgstr "SPSS_Output_linReg2_5"
 
@@ -2980,7 +3098,7 @@ msgstr "SPSS_Output_linReg2_5"
 msgid "|SPSS_Output_linReg2_6|"
 msgstr "|SPSS_Output_linReg2_6|"
 
-#: ../../spss2jamovi/s2j_linReg2.rst:144
+#: ../../spss2jamovi/s2j_linReg2.rst:145
 msgid "SPSS_Output_linReg2_6"
 msgstr "SPSS_Output_linReg2_6"
 
@@ -2988,7 +3106,7 @@ msgstr "SPSS_Output_linReg2_6"
 msgid "|SPSS_Output_linReg2_7|"
 msgstr "|SPSS_Output_linReg2_7|"
 
-#: ../../spss2jamovi/s2j_linReg2.rst:145
+#: ../../spss2jamovi/s2j_linReg2.rst:146
 msgid "SPSS_Output_linReg2_7"
 msgstr "SPSS_Output_linReg2_7"
 
@@ -2996,7 +3114,7 @@ msgstr "SPSS_Output_linReg2_7"
 msgid "|SPSS_Output_linReg2_8|"
 msgstr "|SPSS_Output_linReg2_8|"
 
-#: ../../spss2jamovi/s2j_linReg2.rst:146
+#: ../../spss2jamovi/s2j_linReg2.rst:147
 msgid "SPSS_Output_linReg2_8"
 msgstr "SPSS_Output_linReg2_8"
 
@@ -3004,7 +3122,7 @@ msgstr "SPSS_Output_linReg2_8"
 msgid "|SPSS_Output_linReg2_9|"
 msgstr "|SPSS_Output_linReg2_9|"
 
-#: ../../spss2jamovi/s2j_linReg2.rst:147
+#: ../../spss2jamovi/s2j_linReg2.rst:148
 msgid "SPSS_Output_linReg2_9"
 msgstr "SPSS_Output_linReg2_9"
 
@@ -3012,7 +3130,7 @@ msgstr "SPSS_Output_linReg2_9"
 msgid "|jamovi_Output_linReg2_1|"
 msgstr "|jamovi_Output_linReg2_1|"
 
-#: ../../spss2jamovi/s2j_linReg2.rst:148
+#: ../../spss2jamovi/s2j_linReg2.rst:149
 msgid "jamovi_Output_linReg2_1"
 msgstr "jamovi_Output_linReg2_1"
 
@@ -3020,7 +3138,7 @@ msgstr "jamovi_Output_linReg2_1"
 msgid "|jamovi_Output_linReg2_2|"
 msgstr "|jamovi_Output_linReg2_2|"
 
-#: ../../spss2jamovi/s2j_linReg2.rst:149
+#: ../../spss2jamovi/s2j_linReg2.rst:150
 msgid "jamovi_Output_linReg2_2"
 msgstr "jamovi_Output_linReg2_2"
 
@@ -3028,7 +3146,7 @@ msgstr "jamovi_Output_linReg2_2"
 msgid "|jamovi_Output_linReg2_3|"
 msgstr "|jamovi_Output_linReg2_3|"
 
-#: ../../spss2jamovi/s2j_linReg2.rst:150
+#: ../../spss2jamovi/s2j_linReg2.rst:151
 msgid "jamovi_Output_linReg2_3"
 msgstr "jamovi_Output_linReg2_3"
 
@@ -3036,7 +3154,7 @@ msgstr "jamovi_Output_linReg2_3"
 msgid "|jamovi_Output_linReg2_4|"
 msgstr "|jamovi_Output_linReg2_4|"
 
-#: ../../spss2jamovi/s2j_linReg2.rst:151
+#: ../../spss2jamovi/s2j_linReg2.rst:152
 msgid "jamovi_Output_linReg2_4"
 msgstr "jamovi_Output_linReg2_4"
 
@@ -3044,7 +3162,7 @@ msgstr "jamovi_Output_linReg2_4"
 msgid "|jamovi_Output_linReg2_5|"
 msgstr "|jamovi_Output_linReg2_5|"
 
-#: ../../spss2jamovi/s2j_linReg2.rst:152
+#: ../../spss2jamovi/s2j_linReg2.rst:153
 msgid "jamovi_Output_linReg2_5"
 msgstr "jamovi_Output_linReg2_5"
 
@@ -3052,7 +3170,7 @@ msgstr "jamovi_Output_linReg2_5"
 msgid "|jamovi_Output_linReg2_6|"
 msgstr "|jamovi_Output_linReg2_6|"
 
-#: ../../spss2jamovi/s2j_linReg2.rst:153
+#: ../../spss2jamovi/s2j_linReg2.rst:154
 msgid "jamovi_Output_linReg2_6"
 msgstr "jamovi_Output_linReg2_6"
 
@@ -3097,6 +3215,18 @@ msgid ""
 "*β* = 0.51, *p* < .001; *β* = 0.19, *p* < .001."
 msgstr ""
 
+#: ../../spss2jamovi/s2j_linReg2.rst:116
+msgid ""
+"`SPSS output file containing the analyses "
+"<../_static/output/s2j_Output_SPSS_linReg2.spv>`_"
+msgstr ""
+
+#: ../../spss2jamovi/s2j_linReg2.rst:116
+msgid ""
+"`jamovi file containing the analyses "
+"<../_static/output/s2j_Output_jamovi_linReg2.omv>`_"
+msgstr ""
+
 #: ../../spss2jamovi/s2j_logReg.rst:5
 msgid "From SPSS to jamovi: Logistic Regression"
 msgstr ""
@@ -3128,7 +3258,7 @@ msgstr ""
 msgid "|SPSS_Menu_logReg1|"
 msgstr "|SPSS_Menu_logReg1|"
 
-#: ../../spss2jamovi/s2j_logReg.rst:120
+#: ../../spss2jamovi/s2j_logReg.rst:121
 msgid "SPSS_Menu_logReg1"
 msgstr "SPSS_Menu_logReg1"
 
@@ -3136,7 +3266,7 @@ msgstr "SPSS_Menu_logReg1"
 msgid "|jamovi_Menu_logReg1|"
 msgstr "|jamovi_Menu_logReg1|"
 
-#: ../../spss2jamovi/s2j_logReg.rst:121
+#: ../../spss2jamovi/s2j_logReg.rst:122
 msgid "jamovi_Menu_logReg1"
 msgstr "jamovi_Menu_logReg1"
 
@@ -3156,7 +3286,7 @@ msgstr ""
 msgid "|SPSS_Input_logReg1_1|"
 msgstr "|SPSS_Input_logReg1_1|"
 
-#: ../../spss2jamovi/s2j_logReg.rst:122
+#: ../../spss2jamovi/s2j_logReg.rst:123
 msgid "SPSS_Input_logReg1_1"
 msgstr "SPSS_Input_logReg1_1"
 
@@ -3164,7 +3294,7 @@ msgstr "SPSS_Input_logReg1_1"
 msgid "|jamovi_Input_logReg1_1|"
 msgstr "|jamovi_Input_logReg1_1|"
 
-#: ../../spss2jamovi/s2j_logReg.rst:128
+#: ../../spss2jamovi/s2j_logReg.rst:129
 msgid "jamovi_Input_logReg1_1"
 msgstr "jamovi_Input_logReg1_1"
 
@@ -3184,7 +3314,7 @@ msgstr ""
 msgid "|SPSS_Input_logReg1_2|"
 msgstr "|SPSS_Input_logReg1_2|"
 
-#: ../../spss2jamovi/s2j_logReg.rst:123
+#: ../../spss2jamovi/s2j_logReg.rst:124
 msgid "SPSS_Input_logReg1_2"
 msgstr "SPSS_Input_logReg1_2"
 
@@ -3192,7 +3322,7 @@ msgstr "SPSS_Input_logReg1_2"
 msgid "|jamovi_Input_logReg1_2|"
 msgstr "|jamovi_Input_logReg1_2|"
 
-#: ../../spss2jamovi/s2j_logReg.rst:129
+#: ../../spss2jamovi/s2j_logReg.rst:130
 msgid "jamovi_Input_logReg1_2"
 msgstr "jamovi_Input_logReg1_2"
 
@@ -3207,7 +3337,7 @@ msgstr ""
 msgid "|SPSS_Input_logReg1_3|"
 msgstr "|SPSS_Input_logReg1_3|"
 
-#: ../../spss2jamovi/s2j_logReg.rst:124
+#: ../../spss2jamovi/s2j_logReg.rst:125
 msgid "SPSS_Input_logReg1_3"
 msgstr "SPSS_Input_logReg1_3"
 
@@ -3230,7 +3360,7 @@ msgstr ""
 msgid "|SPSS_Input_logReg1_4|"
 msgstr "|SPSS_Input_logReg1_4|"
 
-#: ../../spss2jamovi/s2j_logReg.rst:125
+#: ../../spss2jamovi/s2j_logReg.rst:126
 msgid "SPSS_Input_logReg1_4"
 msgstr "SPSS_Input_logReg1_4"
 
@@ -3238,7 +3368,7 @@ msgstr "SPSS_Input_logReg1_4"
 msgid "|jamovi_Input_logReg1_3|"
 msgstr "|jamovi_Input_logReg1_3|"
 
-#: ../../spss2jamovi/s2j_logReg.rst:130
+#: ../../spss2jamovi/s2j_logReg.rst:131
 msgid "jamovi_Input_logReg1_3"
 msgstr "jamovi_Input_logReg1_3"
 
@@ -3259,7 +3389,7 @@ msgstr ""
 msgid "|jamovi_Input_logReg1_4|"
 msgstr "|jamovi_Input_logReg1_4|"
 
-#: ../../spss2jamovi/s2j_logReg.rst:131
+#: ../../spss2jamovi/s2j_logReg.rst:132
 msgid "jamovi_Input_logReg1_4"
 msgstr "jamovi_Input_logReg1_4"
 
@@ -3273,7 +3403,7 @@ msgstr ""
 msgid "|jamovi_Input_logReg1_5|"
 msgstr "|jamovi_Input_logReg1_5|"
 
-#: ../../spss2jamovi/s2j_logReg.rst:132
+#: ../../spss2jamovi/s2j_logReg.rst:133
 msgid "jamovi_Input_logReg1_5"
 msgstr "jamovi_Input_logReg1_5"
 
@@ -3287,7 +3417,7 @@ msgstr ""
 msgid "|SPSS_Input_logReg1_6|"
 msgstr "|SPSS_Input_logReg1_6|"
 
-#: ../../spss2jamovi/s2j_logReg.rst:127
+#: ../../spss2jamovi/s2j_logReg.rst:128
 msgid "SPSS_Input_logReg1_6"
 msgstr "SPSS_Input_logReg1_6"
 
@@ -3295,7 +3425,7 @@ msgstr "SPSS_Input_logReg1_6"
 msgid "|jamovi_Input_logReg1_6|"
 msgstr "|jamovi_Input_logReg1_6|"
 
-#: ../../spss2jamovi/s2j_logReg.rst:133
+#: ../../spss2jamovi/s2j_logReg.rst:134
 msgid "jamovi_Input_logReg1_6"
 msgstr "jamovi_Input_logReg1_6"
 
@@ -3317,7 +3447,7 @@ msgstr ""
 msgid "|SPSS_Input_logReg1_5|"
 msgstr "|SPSS_Input_logReg1_5|"
 
-#: ../../spss2jamovi/s2j_logReg.rst:126
+#: ../../spss2jamovi/s2j_logReg.rst:127
 msgid "SPSS_Input_logReg1_5"
 msgstr "SPSS_Input_logReg1_5"
 
@@ -3325,7 +3455,7 @@ msgstr "SPSS_Input_logReg1_5"
 msgid "|jamovi_Input_logReg1_7|"
 msgstr "|jamovi_Input_logReg1_7|"
 
-#: ../../spss2jamovi/s2j_logReg.rst:134
+#: ../../spss2jamovi/s2j_logReg.rst:135
 msgid "jamovi_Input_logReg1_7"
 msgstr "jamovi_Input_logReg1_7"
 
@@ -3344,7 +3474,7 @@ msgstr ""
 msgid "|jamovi_Output_logReg1_1|"
 msgstr "|jamovi_Output_logReg1_1|"
 
-#: ../../spss2jamovi/s2j_logReg.rst:138
+#: ../../spss2jamovi/s2j_logReg.rst:139
 msgid "jamovi_Output_logReg1_1"
 msgstr "jamovi_Output_logReg1_1"
 
@@ -3352,7 +3482,7 @@ msgstr "jamovi_Output_logReg1_1"
 msgid "|SPSS_Output_logReg1_1|"
 msgstr "|SPSS_Output_logReg1_1|"
 
-#: ../../spss2jamovi/s2j_logReg.rst:135
+#: ../../spss2jamovi/s2j_logReg.rst:136
 msgid "SPSS_Output_logReg1_1"
 msgstr "SPSS_Output_logReg1_1"
 
@@ -3360,7 +3490,7 @@ msgstr "SPSS_Output_logReg1_1"
 msgid "|jamovi_Output_logReg1_2|"
 msgstr "|jamovi_Output_logReg1_2|"
 
-#: ../../spss2jamovi/s2j_logReg.rst:139
+#: ../../spss2jamovi/s2j_logReg.rst:140
 msgid "jamovi_Output_logReg1_2"
 msgstr "jamovi_Output_logReg1_2"
 
@@ -3368,7 +3498,7 @@ msgstr "jamovi_Output_logReg1_2"
 msgid "|SPSS_Output_logReg1_2|"
 msgstr "|SPSS_Output_logReg1_2|"
 
-#: ../../spss2jamovi/s2j_logReg.rst:136
+#: ../../spss2jamovi/s2j_logReg.rst:137
 msgid "SPSS_Output_logReg1_2"
 msgstr "SPSS_Output_logReg1_2"
 
@@ -3376,7 +3506,7 @@ msgstr "SPSS_Output_logReg1_2"
 msgid "|jamovi_Output_logReg1_3|"
 msgstr "|jamovi_Output_logReg1_3|"
 
-#: ../../spss2jamovi/s2j_logReg.rst:140
+#: ../../spss2jamovi/s2j_logReg.rst:141
 msgid "jamovi_Output_logReg1_3"
 msgstr "jamovi_Output_logReg1_3"
 
@@ -3384,7 +3514,7 @@ msgstr "jamovi_Output_logReg1_3"
 msgid "|SPSS_Output_logReg1_3|"
 msgstr "|SPSS_Output_logReg1_3|"
 
-#: ../../spss2jamovi/s2j_logReg.rst:137
+#: ../../spss2jamovi/s2j_logReg.rst:138
 msgid "SPSS_Output_logReg1_3"
 msgstr "SPSS_Output_logReg1_3"
 
@@ -3392,7 +3522,7 @@ msgstr "SPSS_Output_logReg1_3"
 msgid "|jamovi_Output_logReg1_4|"
 msgstr "|jamovi_Output_logReg1_4|"
 
-#: ../../spss2jamovi/s2j_logReg.rst:141
+#: ../../spss2jamovi/s2j_logReg.rst:142
 msgid "jamovi_Output_logReg1_4"
 msgstr "jamovi_Output_logReg1_4"
 
@@ -3466,6 +3596,18 @@ msgid ""
 "that Model 1 is the best model and should be selected)."
 msgstr ""
 
+#: ../../spss2jamovi/s2j_logReg.rst:111
+msgid ""
+"`SPSS output file containing the analyses "
+"<../_static/output/s2j_Output_SPSS_logReg.spv>`_"
+msgstr ""
+
+#: ../../spss2jamovi/s2j_logReg.rst:111
+msgid ""
+"`jamovi file containing the analyses "
+"<../_static/output/s2j_Output_jamovi_logReg.omv>`_"
+msgstr ""
+
 #: ../../spss2jamovi/s2j_nonParametric.rst:5
 #: ../../spss2jamovi/s2j_nonParametric2.rst:5
 #: ../../spss2jamovi/s2j_nonParametric3.rst:5
@@ -3498,7 +3640,7 @@ msgstr ""
 msgid "|SPSS_Menu_nonParametric1|"
 msgstr "|SPSS_Menu_nonParametric1|"
 
-#: ../../spss2jamovi/s2j_nonParametric.rst:84
+#: ../../spss2jamovi/s2j_nonParametric.rst:85
 msgid "SPSS_Menu_nonParametric1"
 msgstr "SPSS_Menu_nonParametric1"
 
@@ -3506,7 +3648,7 @@ msgstr "SPSS_Menu_nonParametric1"
 msgid "|jamovi_Menu_nonParametric1|"
 msgstr "|jamovi_Menu_nonParametric1|"
 
-#: ../../spss2jamovi/s2j_nonParametric.rst:85
+#: ../../spss2jamovi/s2j_nonParametric.rst:86
 msgid "jamovi_Menu_nonParametric1"
 msgstr "jamovi_Menu_nonParametric1"
 
@@ -3528,7 +3670,7 @@ msgstr ""
 msgid "|SPSS_Input_nonParametric1_1|"
 msgstr "|SPSS_Input_nonParametric1_1|"
 
-#: ../../spss2jamovi/s2j_nonParametric.rst:86
+#: ../../spss2jamovi/s2j_nonParametric.rst:87
 msgid "SPSS_Input_nonParametric1_1"
 msgstr "SPSS_Input_nonParametric1_1"
 
@@ -3536,7 +3678,7 @@ msgstr "SPSS_Input_nonParametric1_1"
 msgid "|jamovi_Input_nonParametric1|"
 msgstr "|jamovi_Input_nonParametric1|"
 
-#: ../../spss2jamovi/s2j_nonParametric.rst:88
+#: ../../spss2jamovi/s2j_nonParametric.rst:89
 msgid "jamovi_Input_nonParametric1"
 msgstr "jamovi_Input_nonParametric1"
 
@@ -3550,7 +3692,7 @@ msgstr ""
 msgid "|SPSS_Input_nonParametric1_2|"
 msgstr "|SPSS_Input_nonParametric1_2|"
 
-#: ../../spss2jamovi/s2j_nonParametric.rst:87
+#: ../../spss2jamovi/s2j_nonParametric.rst:88
 msgid "SPSS_Input_nonParametric1_2"
 msgstr "SPSS_Input_nonParametric1_2"
 
@@ -3566,7 +3708,7 @@ msgstr ""
 msgid "|SPSS_Output_nonParametric1_1|"
 msgstr "|SPSS_Output_nonParametric1_1|"
 
-#: ../../spss2jamovi/s2j_nonParametric.rst:89
+#: ../../spss2jamovi/s2j_nonParametric.rst:90
 msgid "SPSS_Output_nonParametric1_1"
 msgstr "SPSS_Output_nonParametric1_1"
 
@@ -3574,7 +3716,7 @@ msgstr "SPSS_Output_nonParametric1_1"
 msgid "|SPSS_Output_nonParametric1_2|"
 msgstr "|SPSS_Output_nonParametric1_2|"
 
-#: ../../spss2jamovi/s2j_nonParametric.rst:90
+#: ../../spss2jamovi/s2j_nonParametric.rst:91
 msgid "SPSS_Output_nonParametric1_2"
 msgstr "SPSS_Output_nonParametric1_2"
 
@@ -3582,7 +3724,7 @@ msgstr "SPSS_Output_nonParametric1_2"
 msgid "|SPSS_Output_nonParametric1_3|"
 msgstr "|SPSS_Output_nonParametric1_3|"
 
-#: ../../spss2jamovi/s2j_nonParametric.rst:91
+#: ../../spss2jamovi/s2j_nonParametric.rst:92
 msgid "SPSS_Output_nonParametric1_3"
 msgstr "SPSS_Output_nonParametric1_3"
 
@@ -3590,7 +3732,7 @@ msgstr "SPSS_Output_nonParametric1_3"
 msgid "|jamovi_Output_nonParametric1|"
 msgstr "|jamovi_Output_nonParametric1|"
 
-#: ../../spss2jamovi/s2j_nonParametric.rst:92
+#: ../../spss2jamovi/s2j_nonParametric.rst:93
 msgid "jamovi_Output_nonParametric1"
 msgstr "jamovi_Output_nonParametric1"
 
@@ -3630,6 +3772,18 @@ msgid ""
 "continuous one – the standard normal distribution) whereas SPSS doesn't."
 msgstr ""
 
+#: ../../spss2jamovi/s2j_nonParametric.rst:67
+msgid ""
+"`SPSS output file containing the analyses "
+"<../_static/output/s2j_Output_SPSS_nonParametric1.spv>`_"
+msgstr ""
+
+#: ../../spss2jamovi/s2j_nonParametric.rst:67
+msgid ""
+"`jamovi file with the analyses "
+"<../_static/output/s2j_Output_jamovi_nonParametric1.omv>`_"
+msgstr ""
+
 #: ../../spss2jamovi/s2j_nonParametric2.rst:7
 msgid ""
 "This comparison shows how a Wilcoxon signed-rank test is conducted in "
@@ -3657,7 +3811,7 @@ msgstr ""
 msgid "|SPSS_Menu_nonParametric2_1|"
 msgstr "|SPSS_Menu_nonParametric2_1|"
 
-#: ../../spss2jamovi/s2j_nonParametric2.rst:88
+#: ../../spss2jamovi/s2j_nonParametric2.rst:90
 msgid "SPSS_Menu_nonParametric2_1"
 msgstr "SPSS_Menu_nonParametric2_1"
 
@@ -3672,7 +3826,7 @@ msgstr ""
 msgid "|jamovi_Menu_nonParametric2_1|"
 msgstr "|jamovi_Menu_nonParametric2_1|"
 
-#: ../../spss2jamovi/s2j_nonParametric2.rst:90
+#: ../../spss2jamovi/s2j_nonParametric2.rst:92
 msgid "jamovi_Menu_nonParametric2_1"
 msgstr "jamovi_Menu_nonParametric2_1"
 
@@ -3680,7 +3834,7 @@ msgstr "jamovi_Menu_nonParametric2_1"
 msgid "|SPSS_Input_nonParametric2_1|"
 msgstr "|SPSS_Input_nonParametric2_1|"
 
-#: ../../spss2jamovi/s2j_nonParametric2.rst:95
+#: ../../spss2jamovi/s2j_nonParametric2.rst:97
 msgid "SPSS_Input_nonParametric2_1"
 msgstr "SPSS_Input_nonParametric2_1"
 
@@ -3688,7 +3842,7 @@ msgstr "SPSS_Input_nonParametric2_1"
 msgid "|jamovi_Menu_nonParametric2_2|"
 msgstr "|jamovi_Menu_nonParametric2_2|"
 
-#: ../../spss2jamovi/s2j_nonParametric2.rst:91
+#: ../../spss2jamovi/s2j_nonParametric2.rst:93
 msgid "jamovi_Menu_nonParametric2_2"
 msgstr "jamovi_Menu_nonParametric2_2"
 
@@ -3696,7 +3850,7 @@ msgstr "jamovi_Menu_nonParametric2_2"
 msgid "|jamovi_Menu_nonParametric2_3|"
 msgstr "|jamovi_Menu_nonParametric2_3|"
 
-#: ../../spss2jamovi/s2j_nonParametric2.rst:92
+#: ../../spss2jamovi/s2j_nonParametric2.rst:94
 msgid "jamovi_Menu_nonParametric2_3"
 msgstr "jamovi_Menu_nonParametric2_3"
 
@@ -3716,7 +3870,7 @@ msgstr ""
 msgid "|SPSS_Menu_nonParametric2_2|"
 msgstr "|SPSS_Menu_nonParametric2_2|"
 
-#: ../../spss2jamovi/s2j_nonParametric2.rst:89
+#: ../../spss2jamovi/s2j_nonParametric2.rst:91
 msgid "SPSS_Menu_nonParametric2_2"
 msgstr "SPSS_Menu_nonParametric2_2"
 
@@ -3724,7 +3878,7 @@ msgstr "SPSS_Menu_nonParametric2_2"
 msgid "|jamovi_Menu_nonParametric2_4|"
 msgstr "|jamovi_Menu_nonParametric2_4|"
 
-#: ../../spss2jamovi/s2j_nonParametric2.rst:93
+#: ../../spss2jamovi/s2j_nonParametric2.rst:95
 msgid "jamovi_Menu_nonParametric2_4"
 msgstr "jamovi_Menu_nonParametric2_4"
 
@@ -3732,7 +3886,7 @@ msgstr "jamovi_Menu_nonParametric2_4"
 msgid "|jamovi_Menu_nonParametric2_5|"
 msgstr "|jamovi_Menu_nonParametric2_5|"
 
-#: ../../spss2jamovi/s2j_nonParametric2.rst:94
+#: ../../spss2jamovi/s2j_nonParametric2.rst:96
 msgid "jamovi_Menu_nonParametric2_5"
 msgstr "jamovi_Menu_nonParametric2_5"
 
@@ -3754,7 +3908,7 @@ msgstr ""
 msgid "|SPSS_Input_nonParametric2_2|"
 msgstr "|SPSS_Input_nonParametric2_2|"
 
-#: ../../spss2jamovi/s2j_nonParametric2.rst:96
+#: ../../spss2jamovi/s2j_nonParametric2.rst:98
 msgid "SPSS_Input_nonParametric2_2"
 msgstr "SPSS_Input_nonParametric2_2"
 
@@ -3762,7 +3916,7 @@ msgstr "SPSS_Input_nonParametric2_2"
 msgid "|jamovi_Input_nonParametric2|"
 msgstr "|jamovi_Input_nonParametric2|"
 
-#: ../../spss2jamovi/s2j_nonParametric2.rst:98
+#: ../../spss2jamovi/s2j_nonParametric2.rst:100
 msgid "jamovi_Input_nonParametric2"
 msgstr "jamovi_Input_nonParametric2"
 
@@ -3776,7 +3930,7 @@ msgstr ""
 msgid "|SPSS_Input_nonParametric2_3|"
 msgstr "|SPSS_Input_nonParametric2_3|"
 
-#: ../../spss2jamovi/s2j_nonParametric2.rst:97
+#: ../../spss2jamovi/s2j_nonParametric2.rst:99
 msgid "SPSS_Input_nonParametric2_3"
 msgstr "SPSS_Input_nonParametric2_3"
 
@@ -3790,7 +3944,7 @@ msgstr ""
 msgid "|SPSS_Output_nonParametric2_1|"
 msgstr "|SPSS_Output_nonParametric2_1|"
 
-#: ../../spss2jamovi/s2j_nonParametric2.rst:99
+#: ../../spss2jamovi/s2j_nonParametric2.rst:101
 msgid "SPSS_Output_nonParametric2_1"
 msgstr "SPSS_Output_nonParametric2_1"
 
@@ -3798,7 +3952,7 @@ msgstr "SPSS_Output_nonParametric2_1"
 msgid "|SPSS_Output_nonParametric2_2|"
 msgstr "|SPSS_Output_nonParametric2_2|"
 
-#: ../../spss2jamovi/s2j_nonParametric2.rst:100
+#: ../../spss2jamovi/s2j_nonParametric2.rst:102
 msgid "SPSS_Output_nonParametric2_2"
 msgstr "SPSS_Output_nonParametric2_2"
 
@@ -3806,7 +3960,7 @@ msgstr "SPSS_Output_nonParametric2_2"
 msgid "|SPSS_Output_nonParametric2_3|"
 msgstr "|SPSS_Output_nonParametric2_3|"
 
-#: ../../spss2jamovi/s2j_nonParametric2.rst:101
+#: ../../spss2jamovi/s2j_nonParametric2.rst:103
 msgid "SPSS_Output_nonParametric2_3"
 msgstr "SPSS_Output_nonParametric2_3"
 
@@ -3814,7 +3968,7 @@ msgstr "SPSS_Output_nonParametric2_3"
 msgid "|SPSS_Output_nonParametric2_4|"
 msgstr "|SPSS_Output_nonParametric2_4|"
 
-#: ../../spss2jamovi/s2j_nonParametric2.rst:102
+#: ../../spss2jamovi/s2j_nonParametric2.rst:104
 msgid "SPSS_Output_nonParametric2_4"
 msgstr "SPSS_Output_nonParametric2_4"
 
@@ -3822,7 +3976,7 @@ msgstr "SPSS_Output_nonParametric2_4"
 msgid "|jamovi_Output_nonParametric2_1|"
 msgstr "|jamovi_Output_nonParametric2_1|"
 
-#: ../../spss2jamovi/s2j_nonParametric2.rst:103
+#: ../../spss2jamovi/s2j_nonParametric2.rst:105
 msgid "jamovi_Output_nonParametric2_1"
 msgstr "jamovi_Output_nonParametric2_1"
 
@@ -3830,7 +3984,7 @@ msgstr "jamovi_Output_nonParametric2_1"
 msgid "|jamovi_Output_nonParametric2_2|"
 msgstr "|jamovi_Output_nonParametric2_2|"
 
-#: ../../spss2jamovi/s2j_nonParametric2.rst:104
+#: ../../spss2jamovi/s2j_nonParametric2.rst:106
 msgid "jamovi_Output_nonParametric2_2"
 msgstr "jamovi_Output_nonParametric2_2"
 
@@ -3863,8 +4017,16 @@ msgstr ""
 
 #: ../../spss2jamovi/s2j_nonParametric2.rst:77
 msgid ""
-"`jamovi file with the analyses for Alcohol`_ `jamovi file with the "
-"analyses for Ecstasy`_"
+"`SPSS output file containing the analyses "
+"<../_static/output/s2j_Output_SPSS_nonParametric2.spv>`_"
+msgstr ""
+
+#: ../../spss2jamovi/s2j_nonParametric2.rst:77
+msgid ""
+"`jamovi file with the analyses for Alcohol "
+"<../_static/output/s2j_Output_jamovi_nonParametric2_1.omv>`_ `jamovi file"
+" with the analyses for Ecstasy "
+"<../_static/output/s2j_Output_jamovi_nonParametric2_2.omv>`_"
 msgstr ""
 
 #: ../../spss2jamovi/s2j_nonParametric3.rst:7
@@ -3893,7 +4055,7 @@ msgstr ""
 msgid "|SPSS_Menu_nonParametric3|"
 msgstr "|SPSS_Menu_nonParametric3|"
 
-#: ../../spss2jamovi/s2j_nonParametric3.rst:71
+#: ../../spss2jamovi/s2j_nonParametric3.rst:72
 msgid "SPSS_Menu_nonParametric3"
 msgstr "SPSS_Menu_nonParametric3"
 
@@ -3901,7 +4063,7 @@ msgstr "SPSS_Menu_nonParametric3"
 msgid "|jamovi_Menu_nonParametric3|"
 msgstr "|jamovi_Menu_nonParametric3|"
 
-#: ../../spss2jamovi/s2j_nonParametric3.rst:72
+#: ../../spss2jamovi/s2j_nonParametric3.rst:73
 msgid "jamovi_Menu_nonParametric3"
 msgstr "jamovi_Menu_nonParametric3"
 
@@ -3923,7 +4085,7 @@ msgstr ""
 msgid "|SPSS_Input_nonParametric3_1|"
 msgstr "|SPSS_Input_nonParametric3_1|"
 
-#: ../../spss2jamovi/s2j_nonParametric3.rst:73
+#: ../../spss2jamovi/s2j_nonParametric3.rst:74
 msgid "SPSS_Input_nonParametric3_1"
 msgstr "SPSS_Input_nonParametric3_1"
 
@@ -3931,7 +4093,7 @@ msgstr "SPSS_Input_nonParametric3_1"
 msgid "|jamovi_Input_nonParametric3|"
 msgstr "|jamovi_Input_nonParametric3|"
 
-#: ../../spss2jamovi/s2j_nonParametric3.rst:75
+#: ../../spss2jamovi/s2j_nonParametric3.rst:76
 msgid "jamovi_Input_nonParametric3"
 msgstr "jamovi_Input_nonParametric3"
 
@@ -3946,7 +4108,7 @@ msgstr ""
 msgid "|SPSS_Input_nonParametric3_2|"
 msgstr "|SPSS_Input_nonParametric3_2|"
 
-#: ../../spss2jamovi/s2j_nonParametric3.rst:74
+#: ../../spss2jamovi/s2j_nonParametric3.rst:75
 msgid "SPSS_Input_nonParametric3_2"
 msgstr "SPSS_Input_nonParametric3_2"
 
@@ -3960,7 +4122,7 @@ msgstr ""
 msgid "|SPSS_Output_nonParametric3_1|"
 msgstr "|SPSS_Output_nonParametric3_1|"
 
-#: ../../spss2jamovi/s2j_nonParametric3.rst:76
+#: ../../spss2jamovi/s2j_nonParametric3.rst:77
 msgid "SPSS_Output_nonParametric3_1"
 msgstr "SPSS_Output_nonParametric3_1"
 
@@ -3968,7 +4130,7 @@ msgstr "SPSS_Output_nonParametric3_1"
 msgid "|SPSS_Output_nonParametric3_2|"
 msgstr "|SPSS_Output_nonParametric3_2|"
 
-#: ../../spss2jamovi/s2j_nonParametric3.rst:77
+#: ../../spss2jamovi/s2j_nonParametric3.rst:78
 msgid "SPSS_Output_nonParametric3_2"
 msgstr "SPSS_Output_nonParametric3_2"
 
@@ -3976,7 +4138,7 @@ msgstr "SPSS_Output_nonParametric3_2"
 msgid "|SPSS_Output_nonParametric3_3|"
 msgstr "|SPSS_Output_nonParametric3_3|"
 
-#: ../../spss2jamovi/s2j_nonParametric3.rst:78
+#: ../../spss2jamovi/s2j_nonParametric3.rst:79
 msgid "SPSS_Output_nonParametric3_3"
 msgstr "SPSS_Output_nonParametric3_3"
 
@@ -3984,7 +4146,7 @@ msgstr "SPSS_Output_nonParametric3_3"
 msgid "|jamovi_Output_nonParametric3|"
 msgstr "|jamovi_Output_nonParametric3|"
 
-#: ../../spss2jamovi/s2j_nonParametric3.rst:79
+#: ../../spss2jamovi/s2j_nonParametric3.rst:80
 msgid "jamovi_Output_nonParametric3"
 msgstr "jamovi_Output_nonParametric3"
 
@@ -4018,6 +4180,18 @@ msgstr ""
 msgid ""
 "The numerical values from the Kruskal-Wallis test are the same in SPSS "
 "and jamovi: *H* = 8.66, *df* = 3, *p* = .034."
+msgstr ""
+
+#: ../../spss2jamovi/s2j_nonParametric3.rst:61
+msgid ""
+"`SPSS output file containing the analyses "
+"<../_static/output/s2j_Output_SPSS_nonParametric3.spv>`_"
+msgstr ""
+
+#: ../../spss2jamovi/s2j_nonParametric3.rst:61
+msgid ""
+"`jamovi file with the analyses "
+"<../_static/output/s2j_Output_jamovi_nonParametric3.omv>`_"
 msgstr ""
 
 #: ../../spss2jamovi/s2j_overview.rst:5
@@ -4080,7 +4254,7 @@ msgstr ""
 msgid "|SPSS_Menu_ttestIS1|"
 msgstr "|SPSS_Menu_ttestIS1|"
 
-#: ../../spss2jamovi/s2j_ttestIS.rst:67
+#: ../../spss2jamovi/s2j_ttestIS.rst:68
 msgid "SPSS_Menu_ttestIS1"
 msgstr "SPSS_Menu_ttestIS1"
 
@@ -4088,7 +4262,7 @@ msgstr "SPSS_Menu_ttestIS1"
 msgid "|jamovi_Menu_ttestIS1|"
 msgstr "|jamovi_Menu_ttestIS1|"
 
-#: ../../spss2jamovi/s2j_ttestIS.rst:68
+#: ../../spss2jamovi/s2j_ttestIS.rst:69
 msgid "jamovi_Menu_ttestIS1"
 msgstr "jamovi_Menu_ttestIS1"
 
@@ -4117,7 +4291,7 @@ msgstr ""
 msgid "|SPSS_Input_ttestIS1|"
 msgstr "|SPSS_Input_ttestIS1|"
 
-#: ../../spss2jamovi/s2j_ttestIS.rst:69
+#: ../../spss2jamovi/s2j_ttestIS.rst:70
 msgid "SPSS_Input_ttestIS1"
 msgstr "SPSS_Input_ttestIS1"
 
@@ -4125,7 +4299,7 @@ msgstr "SPSS_Input_ttestIS1"
 msgid "|jamovi_Input_ttestIS1|"
 msgstr "|jamovi_Input_ttestIS1|"
 
-#: ../../spss2jamovi/s2j_ttestIS.rst:70
+#: ../../spss2jamovi/s2j_ttestIS.rst:71
 msgid "jamovi_Input_ttestIS1"
 msgstr "jamovi_Input_ttestIS1"
 
@@ -4140,7 +4314,7 @@ msgstr ""
 msgid "|SPSS_Output_ttestIS1|"
 msgstr "|SPSS_Output_ttestIS1|"
 
-#: ../../spss2jamovi/s2j_ttestIS.rst:71
+#: ../../spss2jamovi/s2j_ttestIS.rst:72
 msgid "SPSS_Output_ttestIS1"
 msgstr "SPSS_Output_ttestIS1"
 
@@ -4148,7 +4322,7 @@ msgstr "SPSS_Output_ttestIS1"
 msgid "|jamovi_Output_ttestIS1|"
 msgstr "|jamovi_Output_ttestIS1|"
 
-#: ../../spss2jamovi/s2j_ttestIS.rst:72
+#: ../../spss2jamovi/s2j_ttestIS.rst:73
 msgid "jamovi_Output_ttestIS1"
 msgstr "jamovi_Output_ttestIS1"
 
@@ -4184,6 +4358,18 @@ msgstr ""
 msgid ""
 "The numerical values for the statistics are identical: *t* = -1.71, *df* "
 "= 22, *p* = 0.101."
+msgstr ""
+
+#: ../../spss2jamovi/s2j_ttestIS.rst:57
+msgid ""
+"`SPSS output file containing the analyses "
+"<../_static/output/s2j_Output_SPSS_ttestIS.spv>`_"
+msgstr ""
+
+#: ../../spss2jamovi/s2j_ttestIS.rst:57
+msgid ""
+"`jamovi file with the analyses "
+"<../_static/output/s2j_Output_jamovi_ttestIS.omv>`_"
 msgstr ""
 
 #: ../../spss2jamovi/s2j_ttestPS.rst:5 ../../spss2jamovi/s2j_ttestPS2.rst:5
@@ -4235,7 +4421,7 @@ msgstr ""
 msgid "|SPSS_Theory_ttestPS1|"
 msgstr "|SPSS_Theory_ttestPS1|"
 
-#: ../../spss2jamovi/s2j_ttestPS.rst:113
+#: ../../spss2jamovi/s2j_ttestPS.rst:115
 msgid "SPSS_Theory_ttestPS1"
 msgstr "SPSS_Theory_ttestPS1"
 
@@ -4243,7 +4429,7 @@ msgstr "SPSS_Theory_ttestPS1"
 msgid "|jamovi_Theory_ttestPS1|"
 msgstr "|jamovi_Theory_ttestPS1|"
 
-#: ../../spss2jamovi/s2j_ttestPS.rst:114
+#: ../../spss2jamovi/s2j_ttestPS.rst:116
 msgid "jamovi_Theory_ttestPS1"
 msgstr "jamovi_Theory_ttestPS1"
 
@@ -4261,7 +4447,7 @@ msgstr ""
 msgid "|SPSS_Theory_ttestPS2|"
 msgstr "|SPSS_Theory_ttestPS2|"
 
-#: ../../spss2jamovi/s2j_ttestPS.rst:115
+#: ../../spss2jamovi/s2j_ttestPS.rst:117
 msgid "SPSS_Theory_ttestPS2"
 msgstr "SPSS_Theory_ttestPS2"
 
@@ -4269,7 +4455,7 @@ msgstr "SPSS_Theory_ttestPS2"
 msgid "|jamovi_Theory_ttestPS2|"
 msgstr "|jamovi_Theory_ttestPS2|"
 
-#: ../../spss2jamovi/s2j_ttestPS.rst:116
+#: ../../spss2jamovi/s2j_ttestPS.rst:118
 msgid "jamovi_Theory_ttestPS2"
 msgstr "jamovi_Theory_ttestPS2"
 
@@ -4298,7 +4484,7 @@ msgstr ""
 msgid "|SPSS_Theory_ttestPS3|"
 msgstr "|SPSS_Theory_ttestPS3|"
 
-#: ../../spss2jamovi/s2j_ttestPS.rst:117
+#: ../../spss2jamovi/s2j_ttestPS.rst:119
 msgid "SPSS_Theory_ttestPS3"
 msgstr "SPSS_Theory_ttestPS3"
 
@@ -4306,7 +4492,7 @@ msgstr "SPSS_Theory_ttestPS3"
 msgid "|jamovi_Theory_ttestPS3|"
 msgstr "|jamovi_Theory_ttestPS3|"
 
-#: ../../spss2jamovi/s2j_ttestPS.rst:118
+#: ../../spss2jamovi/s2j_ttestPS.rst:120
 msgid "jamovi_Theory_ttestPS3"
 msgstr "jamovi_Theory_ttestPS3"
 
@@ -4328,7 +4514,7 @@ msgstr ""
 msgid "|SPSS_Theory_ttestPS4|"
 msgstr "|SPSS_Theory_ttestPS4|"
 
-#: ../../spss2jamovi/s2j_ttestPS.rst:119
+#: ../../spss2jamovi/s2j_ttestPS.rst:121
 msgid "SPSS_Theory_ttestPS4"
 msgstr "SPSS_Theory_ttestPS4"
 
@@ -4336,7 +4522,7 @@ msgstr "SPSS_Theory_ttestPS4"
 msgid "|jamovi_Theory_ttestPS4|"
 msgstr "|jamovi_Theory_ttestPS4|"
 
-#: ../../spss2jamovi/s2j_ttestPS.rst:120
+#: ../../spss2jamovi/s2j_ttestPS.rst:122
 msgid "jamovi_Theory_ttestPS4"
 msgstr "jamovi_Theory_ttestPS4"
 
@@ -4350,7 +4536,7 @@ msgstr ""
 msgid "|SPSS_Theory_ttestPS5|"
 msgstr "|SPSS_Theory_ttestPS5|"
 
-#: ../../spss2jamovi/s2j_ttestPS.rst:121
+#: ../../spss2jamovi/s2j_ttestPS.rst:123
 msgid "SPSS_Theory_ttestPS5"
 msgstr "SPSS_Theory_ttestPS5"
 
@@ -4358,7 +4544,7 @@ msgstr "SPSS_Theory_ttestPS5"
 msgid "|jamovi_Theory_ttestPS5|"
 msgstr "|jamovi_Theory_ttestPS5|"
 
-#: ../../spss2jamovi/s2j_ttestPS.rst:122
+#: ../../spss2jamovi/s2j_ttestPS.rst:124
 msgid "jamovi_Theory_ttestPS5"
 msgstr "jamovi_Theory_ttestPS5"
 
@@ -4390,7 +4576,7 @@ msgstr ""
 msgid "|SPSS_Theory_ttestPS6|"
 msgstr "|SPSS_Theory_ttestPS6|"
 
-#: ../../spss2jamovi/s2j_ttestPS.rst:123
+#: ../../spss2jamovi/s2j_ttestPS.rst:125
 msgid "SPSS_Theory_ttestPS6"
 msgstr "SPSS_Theory_ttestPS6"
 
@@ -4398,7 +4584,7 @@ msgstr "SPSS_Theory_ttestPS6"
 msgid "|jamovi_Theory_ttestPS6|"
 msgstr "|jamovi_Theory_ttestPS6|"
 
-#: ../../spss2jamovi/s2j_ttestPS.rst:124
+#: ../../spss2jamovi/s2j_ttestPS.rst:126
 msgid "jamovi_Theory_ttestPS6"
 msgstr "jamovi_Theory_ttestPS6"
 
@@ -4414,7 +4600,7 @@ msgstr ""
 msgid "|SPSS_Theory_ttestPS7|"
 msgstr "|SPSS_Theory_ttestPS7|"
 
-#: ../../spss2jamovi/s2j_ttestPS.rst:125
+#: ../../spss2jamovi/s2j_ttestPS.rst:127
 msgid "SPSS_Theory_ttestPS7"
 msgstr "SPSS_Theory_ttestPS7"
 
@@ -4422,7 +4608,7 @@ msgstr "SPSS_Theory_ttestPS7"
 msgid "|jamovi_Theory_ttestPS7|"
 msgstr "|jamovi_Theory_ttestPS7|"
 
-#: ../../spss2jamovi/s2j_ttestPS.rst:126
+#: ../../spss2jamovi/s2j_ttestPS.rst:128
 msgid "jamovi_Theory_ttestPS7"
 msgstr "jamovi_Theory_ttestPS7"
 
@@ -4430,7 +4616,7 @@ msgstr "jamovi_Theory_ttestPS7"
 msgid "|SPSS_Theory_ttestPS8|"
 msgstr "|SPSS_Theory_ttestPS8|"
 
-#: ../../spss2jamovi/s2j_ttestPS.rst:127
+#: ../../spss2jamovi/s2j_ttestPS.rst:129
 msgid "SPSS_Theory_ttestPS8"
 msgstr "SPSS_Theory_ttestPS8"
 
@@ -4438,7 +4624,7 @@ msgstr "SPSS_Theory_ttestPS8"
 msgid "|jamovi_Theory_ttestPS8|"
 msgstr "|jamovi_Theory_ttestPS8|"
 
-#: ../../spss2jamovi/s2j_ttestPS.rst:128
+#: ../../spss2jamovi/s2j_ttestPS.rst:130
 msgid "jamovi_Theory_ttestPS8"
 msgstr "jamovi_Theory_ttestPS8"
 
@@ -4492,7 +4678,7 @@ msgstr ""
 msgid "|SPSS_Theory_ttestPS9|"
 msgstr "|SPSS_Theory_ttestPS9|"
 
-#: ../../spss2jamovi/s2j_ttestPS.rst:129
+#: ../../spss2jamovi/s2j_ttestPS.rst:131
 msgid "SPSS_Theory_ttestPS9"
 msgstr "SPSS_Theory_ttestPS9"
 
@@ -4500,7 +4686,7 @@ msgstr "SPSS_Theory_ttestPS9"
 msgid "|jamovi_Theory_ttestPS9|"
 msgstr "|jamovi_Theory_ttestPS9|"
 
-#: ../../spss2jamovi/s2j_ttestPS.rst:130
+#: ../../spss2jamovi/s2j_ttestPS.rst:132
 msgid "jamovi_Theory_ttestPS9"
 msgstr "jamovi_Theory_ttestPS9"
 
@@ -4512,8 +4698,16 @@ msgstr ""
 
 #: ../../spss2jamovi/s2j_ttestPS.rst:96
 msgid ""
-"`SPSS data file containing the computed variables`_ `SPSS output file "
-"containing the analyses`_"
+"`SPSS data file containing the computed variables "
+"<../_static/output/s2j_Output_SPSS_ttestPS1.sav>`_ `SPSS output file "
+"containing the analyses "
+"<../_static/output/s2j_Output_SPSS_ttestPS1.spv>`_"
+msgstr ""
+
+#: ../../spss2jamovi/s2j_ttestPS.rst:96
+msgid ""
+"`jamovi file with the analyses "
+"<../_static/output/s2j_Output_jamovi_ttestPS1.omv>`_"
 msgstr ""
 
 #: ../../spss2jamovi/s2j_ttestPS2.rst:7
@@ -4546,7 +4740,7 @@ msgstr ""
 msgid "|SPSS_Menu_ttestPS1|"
 msgstr "|SPSS_Menu_ttestPS1|"
 
-#: ../../spss2jamovi/s2j_ttestPS2.rst:74
+#: ../../spss2jamovi/s2j_ttestPS2.rst:75
 msgid "SPSS_Menu_ttestPS1"
 msgstr "SPSS_Menu_ttestPS1"
 
@@ -4554,7 +4748,7 @@ msgstr "SPSS_Menu_ttestPS1"
 msgid "|jamovi_Menu_ttestPS1|"
 msgstr "|jamovi_Menu_ttestPS1|"
 
-#: ../../spss2jamovi/s2j_ttestPS2.rst:75
+#: ../../spss2jamovi/s2j_ttestPS2.rst:76
 msgid "jamovi_Menu_ttestPS1"
 msgstr "jamovi_Menu_ttestPS1"
 
@@ -4575,7 +4769,7 @@ msgstr ""
 msgid "|SPSS_Input_ttestPS1|"
 msgstr "|SPSS_Input_ttestPS1|"
 
-#: ../../spss2jamovi/s2j_ttestPS2.rst:76
+#: ../../spss2jamovi/s2j_ttestPS2.rst:77
 msgid "SPSS_Input_ttestPS1"
 msgstr "SPSS_Input_ttestPS1"
 
@@ -4583,7 +4777,7 @@ msgstr "SPSS_Input_ttestPS1"
 msgid "|jamovi_Input_ttestPS1|"
 msgstr "|jamovi_Input_ttestPS1|"
 
-#: ../../spss2jamovi/s2j_ttestPS2.rst:77
+#: ../../spss2jamovi/s2j_ttestPS2.rst:78
 msgid "jamovi_Input_ttestPS1"
 msgstr "jamovi_Input_ttestPS1"
 
@@ -4611,7 +4805,7 @@ msgstr ""
 msgid "|SPSS_Input_ttestPS2|"
 msgstr "|SPSS_Input_ttestPS2|"
 
-#: ../../spss2jamovi/s2j_ttestPS2.rst:78
+#: ../../spss2jamovi/s2j_ttestPS2.rst:79
 msgid "SPSS_Input_ttestPS2"
 msgstr "SPSS_Input_ttestPS2"
 
@@ -4619,7 +4813,7 @@ msgstr "SPSS_Input_ttestPS2"
 msgid "|jamovi_Input_ttestPS2|"
 msgstr "|jamovi_Input_ttestPS2|"
 
-#: ../../spss2jamovi/s2j_ttestPS2.rst:79
+#: ../../spss2jamovi/s2j_ttestPS2.rst:80
 msgid "jamovi_Input_ttestPS2"
 msgstr "jamovi_Input_ttestPS2"
 
@@ -4642,7 +4836,7 @@ msgstr ""
 msgid "|SPSS_Output_ttestPS1|"
 msgstr "|SPSS_Output_ttestPS1|"
 
-#: ../../spss2jamovi/s2j_ttestPS2.rst:80
+#: ../../spss2jamovi/s2j_ttestPS2.rst:81
 msgid "SPSS_Output_ttestPS1"
 msgstr "SPSS_Output_ttestPS1"
 
@@ -4650,7 +4844,7 @@ msgstr "SPSS_Output_ttestPS1"
 msgid "|jamovi_Output_ttestPS1|"
 msgstr "|jamovi_Output_ttestPS1|"
 
-#: ../../spss2jamovi/s2j_ttestPS2.rst:81
+#: ../../spss2jamovi/s2j_ttestPS2.rst:82
 msgid "jamovi_Output_ttestPS1"
 msgstr "jamovi_Output_ttestPS1"
 
@@ -4661,4 +4855,184 @@ msgid ""
 "``Analyses`` (tab) → ``Regression`` → ``Correlation Matrix`` and assign "
 "the variables ``No_Cloak`` and ``Cloak`` to the variable box."
 msgstr ""
+
+#: ../../spss2jamovi/s2j_ttestPS2.rst:64
+msgid ""
+"`SPSS output file containing the analyses "
+"<../_static/output/s2j_Output_SPSS_ttestPS2.spv>`_"
+msgstr ""
+
+#: ../../spss2jamovi/s2j_ttestPS2.rst:64
+msgid ""
+"`jamovi file with the analyses "
+"<../_static/output/s2j_Output_jamovi_ttestPS2.omv>`_"
+msgstr ""
+
+#~ msgid "`SPSS output file containing the analyses`_"
+#~ msgstr ""
+
+#~ msgid "`jamovi file containing the analyses`_"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`jamovi file with the analyses for "
+#~ "Alcohol`_ `jamovi file with the analyses"
+#~ " for Ecstasy`_"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`SPSS data file containing the computed"
+#~ " variables`_ `SPSS output file containing"
+#~ " the analyses`_"
+#~ msgstr ""
+
+#~ msgid "<../_static/output/s2j_Output_SPSS_ANCOVA1.spv>`_"
+#~ msgstr ""
+
+#~ msgid "<../_static/output/s2j_Output_jamovi_ANCOVA1.omv>`_"
+#~ msgstr ""
+
+#~ msgid "`SPSS output file containing the analyses"
+#~ msgstr ""
+
+#~ msgid "<../_static/output/s2j_Output_SPSS_ANCOVA2.spv>`_"
+#~ msgstr ""
+
+#~ msgid "`jamovi file containing the analyses"
+#~ msgstr ""
+
+#~ msgid "<../_static/output/s2j_Output_jamovi_ANCOVA2.omv>`_"
+#~ msgstr ""
+
+#~ msgid "<../_static/output/s2j_Output_SPSS_ANCOVA3.spv>`_"
+#~ msgstr ""
+
+#~ msgid "<../_static/output/s2j_Output_jamovi_ANCOVA3.omv>`_"
+#~ msgstr ""
+
+#~ msgid "<../_static/output/s2j_Output_SPSS_ANCOVA4.spv>`_"
+#~ msgstr ""
+
+#~ msgid "<../_static/output/s2j_Output_jamovi_ANCOVA4.omv>`_"
+#~ msgstr ""
+
+#~ msgid "<../_static/output/s2j_Output_SPSS_ANCOVA5.spv>`_"
+#~ msgstr ""
+
+#~ msgid "<../_static/output/s2j_Output_jamovi_ANCOVA5.omv>`_"
+#~ msgstr ""
+
+#~ msgid "<../_static/output/s2j_Output_SPSS_corr1.spv>`_"
+#~ msgstr ""
+
+#~ msgid "<../_static/output/s2j_Output_jamovi_corr1.omv>`_"
+#~ msgstr ""
+
+#~ msgid "<../_static/output/s2j_Output_SPSS_corr2.spv>`_"
+#~ msgstr ""
+
+#~ msgid "<../_static/output/s2j_Output_jamovi_corr2.omv>`_"
+#~ msgstr ""
+
+#~ msgid "<../_static/output/s2j_Output_SPSS_corr3.spv>`_"
+#~ msgstr ""
+
+#~ msgid "<../_static/output/s2j_Output_jamovi_corr3.omv>`_"
+#~ msgstr ""
+
+#~ msgid "<../_static/output/s2j_Output_SPSS_corr4.spv>`_"
+#~ msgstr ""
+
+#~ msgid "<../_static/output/s2j_Output_jamovi_corr4.omv>`_"
+#~ msgstr ""
+
+#~ msgid "<../_static/output/s2j_Output_SPSS_corr5.spv>`_"
+#~ msgstr ""
+
+#~ msgid "<../_static/output/s2j_Output_jamovi_corr5.omv>`_"
+#~ msgstr ""
+
+#~ msgid "<../_static/output/s2j_Output_SPSS_chi-square.spv>`_"
+#~ msgstr ""
+
+#~ msgid "<../_static/output/s2j_Output_jamovi_chi-square.omv>`_"
+#~ msgstr ""
+
+#~ msgid "<../_static/output/s2j_Output_SPSS_logLinear.spv>`_"
+#~ msgstr ""
+
+#~ msgid "<../_static/output/s2j_Output_jamovi_logLinear.omv>`_"
+#~ msgstr ""
+
+#~ msgid "<../_static/output/s2j_Output_SPSS_linReg1.spv>`_"
+#~ msgstr ""
+
+#~ msgid "<../_static/output/s2j_Output_jamovi_linReg1.omv>`_"
+#~ msgstr ""
+
+#~ msgid "<../_static/output/s2j_Output_SPSS_linReg2.spv>`_"
+#~ msgstr ""
+
+#~ msgid "<../_static/output/s2j_Output_jamovi_linReg2.omv>`_"
+#~ msgstr ""
+
+#~ msgid "<../_static/output/s2j_Output_SPSS_logReg.spv>`_"
+#~ msgstr ""
+
+#~ msgid "<../_static/output/s2j_Output_jamovi_logReg.omv>`_"
+#~ msgstr ""
+
+#~ msgid "<../_static/output/s2j_Output_SPSS_nonParametric1.spv>`_"
+#~ msgstr ""
+
+#~ msgid "`jamovi file with the analyses"
+#~ msgstr ""
+
+#~ msgid "<../_static/output/s2j_Output_jamovi_nonParametric1.omv>`_"
+#~ msgstr ""
+
+#~ msgid "<../_static/output/s2j_Output_SPSS_nonParametric2.spv>`_"
+#~ msgstr ""
+
+#~ msgid "`jamovi file with the analyses for Alcohol"
+#~ msgstr ""
+
+#~ msgid "<../_static/output/s2j_Output_jamovi_nonParametric2_1.omv>`_"
+#~ msgstr ""
+
+#~ msgid "`jamovi file with the analyses for Ecstasy"
+#~ msgstr ""
+
+#~ msgid "<../_static/output/s2j_Output_jamovi_nonParametric2_2.omv>`_"
+#~ msgstr ""
+
+#~ msgid "<../_static/output/s2j_Output_SPSS_nonParametric3.spv>`_"
+#~ msgstr ""
+
+#~ msgid "<../_static/output/s2j_Output_jamovi_nonParametric3.omv>`_"
+#~ msgstr ""
+
+#~ msgid "<../_static/output/s2j_Output_SPSS_ttestIS.spv>`_"
+#~ msgstr ""
+
+#~ msgid "<../_static/output/s2j_Output_jamovi_ttestIS.omv>`_"
+#~ msgstr ""
+
+#~ msgid "`SPSS data file containing the computed variables"
+#~ msgstr ""
+
+#~ msgid "<../_static/output/s2j_Output_SPSS_ttestPS1.sav>`_"
+#~ msgstr ""
+
+#~ msgid "<../_static/output/s2j_Output_SPSS_ttestPS1.spv>`_"
+#~ msgstr ""
+
+#~ msgid "<../_static/output/s2j_Output_jamovi_ttestPS1.omv>`_"
+#~ msgstr ""
+
+#~ msgid "<../_static/output/s2j_Output_SPSS_ttestPS2.spv>`_"
+#~ msgstr ""
+
+#~ msgid "<../_static/output/s2j_Output_jamovi_ttestPS2.omv>`_"
+#~ msgstr ""
 
