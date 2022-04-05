@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-05 12:33+0200\n"
+"POT-Creation-Date: 2022-04-05 13:00+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -662,7 +662,7 @@ msgid ""
 "jamovi appears much clearer than the one in SPSS. Here the results are "
 "presented horizontally, while the results in SPSS are presented "
 "vertically. In contrast to SPSS, jamovi only includes the following "
-"values: ``Estimate``, ``SE`, ``t`` and ``p``."
+"values: ``Estimate``, ``SE``, ``t`` and ``p``."
 msgstr ""
 
 #: ../../spss2jamovi/s2j_ANCOVA3.rst:61
@@ -4868,62 +4868,23 @@ msgid ""
 "<../_static/output/s2j_Output_jamovi_ttestPS2.omv>`_"
 msgstr ""
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#~ msgid ""
+#~ "jamovi does not include the values "
+#~ "for the ``Corrected Model``, ``Intercept``,"
+#~ " ``Total`` and ``Corrected Total`` in "
+#~ "its analysis of covariance. Apart from"
+#~ " this, the ANCOVA table follows the"
+#~ " same structure as in SPSS. The "
+#~ "tables for ``Estimated Marginal Means`` "
+#~ "are also identical in SPSS and "
+#~ "jamovi. The results from the contrast"
+#~ " analysis in jamovi appears much "
+#~ "clearer than the one in SPSS. Here"
+#~ " the results are presented horizontally,"
+#~ " while the results in SPSS are "
+#~ "presented vertically. In contrast to "
+#~ "SPSS, jamovi only includes the following"
+#~ " values: ``Estimate``, ``SE`, ``t`` and "
+#~ "``p``."
+#~ msgstr ""
 
