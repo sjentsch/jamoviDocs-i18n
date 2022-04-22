@@ -36,7 +36,7 @@ msgid ""
 "<../howto/howto_Install_modules>` Rj from the jamovi library. This will "
 "create a «R»-icon in the icon bar."
 msgstr ""
-"Først må du :doc:`installere modulen <.. /howto/howto_Install_modules>` Rj "
+"Først må du :doc:`installere modulen <../howto/howto_Install_modules>` Rj "
 "fra jamovi-biblioteket. Dette vil opprette et «R»-ikon på ikonlinjen."
 
 #: ../../jamovi2r/j2R_Rj.rst:12

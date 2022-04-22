@@ -1246,7 +1246,7 @@ msgid ""
 "linear regression is conducted in SPSS and jamovi."
 msgstr ""
 "Diejenigen, die bereits Erfahrung mit SPSS haben, können sich den :doc"
-":`Seite-an-Seite-Vergleich <.. /spss2jamovi/s2j_linReg>` mit der Durchfühung "
+":`Seite-an-Seite-Vergleich <../spss2jamovi/s2j_linReg>` mit der Durchfühung "
 "einer linearen Regression in SPSS und jamovi ansehen."
 
 #: ../../analyses/jg_42_regression-linear.rst
@@ -1380,7 +1380,7 @@ msgid ""
 "logistic regression is conducted in SPSS and jamovi."
 msgstr ""
 "Diejenigen, die bereits Erfahrung mit SPSS haben, können sich den :doc"
-":`Seite-an-Seite-Vergleich <.. /spss2jamovi/s2j_logReg>` mit der Durchfühung "
+":`Seite-an-Seite-Vergleich <../spss2jamovi/s2j_logReg>` mit der Durchfühung "
 "einer logistischen Regression in SPSS und jamovi ansehen."
 
 #: ../../analyses/jg_43_regression-logistic.rst

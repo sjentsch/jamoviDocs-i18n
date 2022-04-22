@@ -225,7 +225,7 @@ msgstr ""
 "En introduksjon til konseptet bak ANOVAen finnes i denne `videoen "
 "<https://www.youtube.com/embed/"
 "GcbMG6sizXs?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ av `Barton Poulson "
-"<https://datalab.cc/jamovi> `__."
+"<https://datalab.cc/jamovi>`__."
 
 #: ../../analyses/jg_00_overview.rst:74
 msgid "Correlation and regression"
@@ -268,7 +268,7 @@ msgstr ""
 "En introduksjon til konseptet bak regresjonsanalyser er framstilt i denne `"
 "videoen <https://www.youtube.com/embed/"
 "gRhVjKNWiUs?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ av `Barton Poulson "
-"<https://datalab.cc/jamovi> `__."
+"<https://datalab.cc/jamovi>`__."
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:5
 msgid "Descriptive analyses"
@@ -612,7 +612,7 @@ msgid ""
 " t-test for paired samples is conducted in SPSS and jamovi."
 msgstr ""
 "De som har erfaring med SPSS fra før kan ta en titt på :doc:`side-by-side-"
-"comparison <.. /spss2jamovi/s2j_ttestPS2>`. Det viser hvordan en paret t-"
+"comparison <../spss2jamovi/s2j_ttestPS2>`. Det viser hvordan en paret t-"
 "test gjennomføres i SPSS og jamovi."
 
 #: ../../analyses/jg_22_t-test-paired.rst
@@ -914,7 +914,7 @@ msgstr ""
 "En mer omfattende introduksjon til denne statistiske analysen gir den "
 "følgende `videoen <https://www.youtube.com/embed/"
 "TJoJTVgDyqY?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ av `Barton Poulson "
-"<https://datalab.cc/jamovi> `__."
+"<https://datalab.cc/jamovi>`__."
 
 #: ../../analyses/jg_32_anova-factorial.rst
 msgid ""
@@ -1045,7 +1045,7 @@ msgstr ""
 "En mer omfattende introduksjon til denne statistiske analysen gir den "
 "følgende `videoen <https://www.youtube.com/embed/"
 "m5JNwPgiMso?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ av `Barton Poulson "
-"<https://datalab.cc/jamovi> `__."
+"<https://datalab.cc/jamovi>`__."
 
 #: ../../analyses/jg_33_anova-rm.rst
 msgid ""
@@ -1222,7 +1222,7 @@ msgstr ""
 "En mer omfattende introduksjon til denne statistiske analysen gir den "
 "følgende `videoen <https://www.youtube.com/embed/"
 "TJoJTVgDyqY?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ av `Barton Poulson "
-"<https://datalab.cc/jamovi> `__."
+"<https://datalab.cc/jamovi>`__."
 
 #: ../../analyses/jg_42_regression-linear.rst
 msgid ""
