@@ -1,3 +1,17 @@
+# #-#-#-#-#  index.pot (jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016-2022, The section authors, The jamovi project, and Sebastian Jentschke (curating this documentation). This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
+# This file is distributed under the same license as the jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  index.po (jamovi )  #-#-#-#-#
+# #-#-#-#-#  index.pot (jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016-2022, The section authors, The jamovi project, and Sebastian Jentschke (curating this documentation). This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
+# This file is distributed under the same license as the jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  index.po (jamovi)  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2016-2022, The section authors, The jamovi project, and
 # Sebastian Jentschke (curating this documentation). This work is licensed
@@ -5,16 +19,38 @@
 # This file is distributed under the same license as the jamovi package.
 # Sebastian Jentschke <sebastian.jentschke@uib.no>, 2021.
 #
+#, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  index.pot (jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-23 19:39+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  index.po (jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  index.pot (jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-23 19:38+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  index.po (jamovi)  #-#-#-#-#\n"
 "Project-Id-Version:  jamovi\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2022-04-05 13:12+0200\n"
 "PO-Revision-Date: 2022-03-02 02:15+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
-"Language: de\n"
-"Language-Team: German "
-"<https://hosted.weblate.org/projects/jamovidocs/0_start/de/>\n"
+"Language-Team: German <https://hosted.weblate.org/projects/"
+"jamovidocs/0_start/de/>\n"
 "Plural-Forms: nplurals=2; plural=n != 1\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -43,14 +79,14 @@ msgstr "jamovi und andere Software"
 
 #: ../../index.rst:65
 msgid ""
-"Welcome to the documentation for `jamovi <https://www.jamovi.org>`__, a "
-"free and open statistical software to bridge the gap between researcher "
-"and statistician."
+"Welcome to the documentation for `jamovi <https://www.jamovi.org>`__, a free "
+"and open statistical software to bridge the gap between researcher and "
+"statistician."
 msgstr ""
-"Willkommen zur Dokumentation von `jamovi <https://www.jamovi.org>`__, "
-"einer kostenlosen und quelloffenen Statistiksoftware. jamovi möchte "
-"Wissenschaftlern einen einfachen Zugang zu komplexen statistischen "
-"Methoden bieten."
+"Willkommen zur Dokumentation von `jamovi <https://www.jamovi.org>`__, einer "
+"kostenlosen und quelloffenen Statistiksoftware. jamovi möchte "
+"Wissenschaftlern einen einfachen Zugang zu komplexen statistischen Methoden "
+"bieten."
 
 #: ../../index.rst:70
 msgid "Getting started"
@@ -61,8 +97,8 @@ msgid ""
 "The following topics should get you up and running with jamovi, with "
 "additional topics available from the menu to the left."
 msgstr ""
-"Die folgende Themenübersicht soll Ihnen den Einstieg in jamovi "
-"erleichtern. Weitere Themen finden Sie im Menü auf der linken Seite."
+"Die folgende Themenübersicht soll Ihnen den Einstieg in jamovi erleichtern. "
+"Weitere Themen finden Sie im Menü auf der linken Seite."
 
 #: ../../index.rst:74
 msgid ":doc:`usermanual/um_1_installation`"
@@ -91,17 +127,17 @@ msgstr ":doc:`usermanual/um_6_syntax_mode`"
 #: ../../index.rst:87
 msgid ""
 "The aim of the following section is to provide short, non-technical "
-"tutorials on how to conduct common statistical procedures in jamovi. The "
-":doc:`introduction <analyses/jg_00_overview>` gives an overview over the "
-"available analyses, or you can otherwise directly access specific "
-"analyses by following the links below."
+"tutorials on how to conduct common statistical procedures in jamovi. The :"
+"doc:`introduction <analyses/jg_00_overview>` gives an overview over the "
+"available analyses, or you can otherwise directly access specific analyses "
+"by following the links below."
 msgstr ""
-"Das Ziel des folgenden Abschnitts ist es, kurze, nicht-technische "
-"Tutorials zur Durchführung häufig genutzter statistischer Verfahren in "
-"jamovi zu bieten. Die :doc:`Einführung <analyses/jg_00_overview>` gibt "
-"einen umfangreicheren Überblick über die verfügbaren Analysen. Sie können"
-" aber auch direkt zu einer bestimmten Analysen gehen, indem Sie den unten"
-" stehenden Links folgen."
+"Das Ziel des folgenden Abschnitts ist es, kurze, nicht-technische Tutorials "
+"zur Durchführung häufig genutzter statistischer Verfahren in jamovi zu "
+"bieten. Die :doc:`Einführung <analyses/jg_00_overview>` gibt einen "
+"umfangreicheren Überblick über die verfügbaren Analysen. Sie können aber "
+"auch direkt zu einer bestimmten Analysen gehen, indem Sie den unten "
+"stehenden Links folgen."
 
 #: ../../index.rst:90
 msgid ":doc:`analyses/jg_11_descriptive-analyses`"
@@ -146,18 +182,17 @@ msgstr ":doc:`analyses/jg_43_regression-logistic`"
 #: ../../index.rst:113
 msgid ""
 "jamovi's functionality can easily be extended by creating specialized "
-"modules. It therefore calls for a community of developers to implement "
-"such additional analyses. The developer's hub describes how such modules "
-"can be created and provides additional information (API) and about "
-"options for elements of the jamovi UI used for those analyses."
+"modules. It therefore calls for a community of developers to implement such "
+"additional analyses. The developer's hub describes how such modules can be "
+"created and provides additional information (API) and about options for "
+"elements of the jamovi UI used for those analyses."
 msgstr ""
 "Die Funktionalität von jamovi lässt sich einfach durch Module für "
-"spezifische Analyses erweitern. jamovi braucht daher eine Gemeinschaft "
-"von Entwicklern, die bereit sind, solche zusätzlichen Analysen zu "
-"erstellen. Der *developer's hub* beschreibt, wie solche Module erstellt "
-"werden können und liefert zusätzliche Informationen (API) und Optionen "
-"für Elemente der jamovi-Benutzeroberfläche, die für solche Analysen "
-"verwendet werden können."
+"spezifische Analyses erweitern. jamovi braucht daher eine Gemeinschaft von "
+"Entwicklern, die bereit sind, solche zusätzlichen Analysen zu erstellen. Der "
+"*developer's hub* beschreibt, wie solche Module erstellt werden können und "
+"liefert zusätzliche Informationen (API) und Optionen für Elemente der jamovi-"
+"Benutzeroberfläche, die für solche Analysen verwendet werden können."
 
 #: ../../index.rst:117
 msgid ":doc:`developer/dh_overview`"
@@ -170,8 +205,3 @@ msgstr ":doc:`spss2jamovi/s2j_overview`"
 #: ../../index.rst:126
 msgid ":doc:`jamovi2r/j2R_overview`"
 msgstr ":doc:`jamovi2r/j2R_overview`"
-
-
-
-
-

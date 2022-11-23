@@ -1,3 +1,17 @@
+# #-#-#-#-#  jamovi2r.pot (jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016-2022, The section authors, The jamovi project, and Sebastian Jentschke (curating this documentation). This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
+# This file is distributed under the same license as the jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  jamovi2r.po (jamovi )  #-#-#-#-#
+# #-#-#-#-#  jamovi2r.pot (jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016-2022, The section authors, The jamovi project, and Sebastian Jentschke (curating this documentation). This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
+# This file is distributed under the same license as the jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  jamovi2r.po (jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2016-2022, The section authors, The jamovi project, and
 # Sebastian Jentschke (curating this documentation). This work is licensed
@@ -8,6 +22,28 @@
 #, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  jamovi2r.pot (jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-23 19:39+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  jamovi2r.po (jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  jamovi2r.pot (jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-23 19:38+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  jamovi2r.po (jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: jamovi \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-02 02:45+0100\n"
@@ -29,9 +65,8 @@ msgstr ""
 
 #: ../../jamovi2r/j2R_Rj.rst:10
 msgid ""
-"First you have to :doc:`install the module "
-"<../howto/howto_Install_modules>` Rj from the jamovi library. This will "
-"create a «R»-icon in the icon bar."
+"First you have to :doc:`install the module <../howto/howto_Install_modules>` "
+"Rj from the jamovi library. This will create a «R»-icon in the icon bar."
 msgstr ""
 
 #: ../../jamovi2r/j2R_Rj.rst:12
@@ -59,7 +94,8 @@ msgid "jamovi_Rj2"
 msgstr "jamovi_Rj2"
 
 #: ../../jamovi2r/j2R_Rj.rst:19
-msgid "This opens an input field on the left side where you can use R commands."
+msgid ""
+"This opens an input field on the left side where you can use R commands."
 msgstr ""
 
 #: ../../jamovi2r/j2R_Rj.rst:21
@@ -73,18 +109,18 @@ msgstr "jamovi_Rj3"
 #: ../../jamovi2r/j2R_Rj.rst:24
 msgid ""
 "You can access your dataset with the variable ``data``. The first line "
-"selects the first three columns of your dataset. Alternatively, you can "
-"use variable names as shown in the second line."
+"selects the first three columns of your dataset. Alternatively, you can use "
+"variable names as shown in the second line."
 msgstr ""
 
 #: ../../jamovi2r/j2R_Rj.rst:33
 msgid ""
-"Sometimes you may need a list of all your variables as a string (e.g., "
-"for using them in connection with functions in Computed variables). Of "
-"course, you can as well restrict the variables with the column indices as"
-" in the command above. Afterwards, you can just copy the output text and "
-"insert it, e.g., into a function for a computed variable: ``SUM([insert "
-"text you copied])``"
+"Sometimes you may need a list of all your variables as a string (e.g., for "
+"using them in connection with functions in Computed variables). Of course, "
+"you can as well restrict the variables with the column indices as in the "
+"command above. Afterwards, you can just copy the output text and insert it, "
+"e.g., into a function for a computed variable: ``SUM([insert text you "
+"copied])``"
 msgstr ""
 
 #: ../../jamovi2r/j2R_Rj.rst:43
@@ -97,11 +133,11 @@ msgstr ""
 #: ../../jamovi2r/j2R_Rj.rst:51
 msgid ""
 "It may take a bit of time to figure out how to use these functions, "
-"especially to discover, e.g., which format is required for the data "
-"matrices you use as input to functions (those may need to be converted to"
-" numbers with ``as.numeric()`` or to a list with ``list``). But once you "
-"managed that, you have unlimited access to (almost) any kind of "
-"statistical analysis you can imagine."
+"especially to discover, e.g., which format is required for the data matrices "
+"you use as input to functions (those may need to be converted to numbers "
+"with ``as.numeric()`` or to a list with ``list``). But once you managed "
+"that, you have unlimited access to (almost) any kind of statistical analysis "
+"you can imagine."
 msgstr ""
 
 #: ../../jamovi2r/j2R_Rj.rst:55
@@ -116,37 +152,35 @@ msgstr ""
 
 #: ../../jamovi2r/j2R_Rj.rst:64
 msgid ""
-"|stats|_ to get access to a wealth of statistical analyses (e.g., "
-"``stats::glm`` for fitting Generalized Linear Models or ``stats:kmeans`` "
-"for running k-means cluster analyses)"
+"|stats|_ to get access to a wealth of statistical analyses (e.g., ``stats::"
+"glm`` for fitting Generalized Linear Models or ``stats:kmeans`` for running "
+"k-means cluster analyses)"
 msgstr ""
 
 #: ../../jamovi2r/j2R_Rj.rst:66
 msgid ""
-"|lme4|_ to calculate Linear, Generalized Linear, and Nonlinear mixed "
-"modells"
+"|lme4|_ to calculate Linear, Generalized Linear, and Nonlinear mixed modells"
 msgstr ""
 
 #: ../../jamovi2r/j2R_Rj.rst:67
 msgid ""
-"|MASS|_ implements analyses from Venables og Ripley's famous book «Modern"
-" Applied Statistics with S» (which includes, e.e., linear discriminant "
+"|MASS|_ implements analyses from Venables og Ripley's famous book «Modern "
+"Applied Statistics with S» (which includes, e.e., linear discriminant "
 "analysis ``MASS::lda``)"
 msgstr ""
 
 #: ../../jamovi2r/j2R_Rj.rst:69
 msgid ""
 "|lavaan|_ to run a wide range of analyses with latent variables (incl. "
-"confirmatory factor analysis, structural equation modeling and latent "
-"growth curve models)"
+"confirmatory factor analysis, structural equation modeling and latent growth "
+"curve models)"
 msgstr ""
 
 #: ../../jamovi2r/j2R_Rj.rst:71
 msgid ""
 "|BayesFactor|_ to run several types of Bayes-analyses to complement your "
-"«classical» (frequentist) statistics (e.g. the Bayes-equivalent of the "
-"t-test; NB: it is of course easier to use the jamovi-module «jsq» for "
-"that)"
+"«classical» (frequentist) statistics (e.g. the Bayes-equivalent of the t-"
+"test; NB: it is of course easier to use the jamovi-module «jsq» for that)"
 msgstr ""
 
 #: ../../jamovi2r/j2R_Rj.rst:73
@@ -155,14 +189,14 @@ msgstr ""
 
 #: ../../jamovi2r/j2R_Rj.rst:74
 msgid ""
-"|ggplot2|_ to produce (almost) any type of fancy `figures "
-"<http://www.ggplot2-exts.org/gallery/>`__ you can imagine"
+"|ggplot2|_ to produce (almost) any type of fancy `figures <http://www."
+"ggplot2-exts.org/gallery/>`__ you can imagine"
 msgstr ""
 
 #: ../../jamovi2r/j2R_Rj.rst:75
 msgid ""
-"there are also several of Hadley Wickham's |tidyverse|_ libraries "
-"included, e.g., |dplyr|_, |stringr|_ or |tidyselect|_"
+"there are also several of Hadley Wickham's |tidyverse|_ libraries included, "
+"e.g., |dplyr|_, |stringr|_ or |tidyselect|_"
 msgstr ""
 
 #: ../../jamovi2r/j2R_Rj.rst:79
@@ -179,17 +213,17 @@ msgstr "jamovi_Rj4"
 
 #: ../../jamovi2r/j2R_Rj.rst:82
 msgid ""
-"Per default, Rj uses the R-installation that is included with jamovi. For"
-" most circumstances this will be sufficient (not the least because quite "
-"a wealth of libraries is included; see above). However, there might be "
-"occasions where you would like to use the R-installation on your "
-"computer; typically, if you want to use libraries that are not included "
-"in jamovi's R-version. To do this, click on the cogwheel symbol in the "
-"top-right corner of the Rj-input field. A window opens where you can set "
-"whether you would like to use jamovi's R version («jamovi R» in the "
-"dropdown box at the bottom) or your system's R version («System R»). "
-"Please note that this option this option is not available for certain "
-"system-and-R-version-combinations (e.g., R > 3.4 on Linux)."
+"Per default, Rj uses the R-installation that is included with jamovi. For "
+"most circumstances this will be sufficient (not the least because quite a "
+"wealth of libraries is included; see above). However, there might be "
+"occasions where you would like to use the R-installation on your computer; "
+"typically, if you want to use libraries that are not included in jamovi's R-"
+"version. To do this, click on the cogwheel symbol in the top-right corner of "
+"the Rj-input field. A window opens where you can set whether you would like "
+"to use jamovi's R version («jamovi R» in the dropdown box at the bottom) or "
+"your system's R version («System R»). Please note that this option this "
+"option is not available for certain system-and-R-version-combinations (e.g., "
+"R > 3.4 on Linux)."
 msgstr ""
 
 #: ../../jamovi2r/j2R_overview.rst:5
@@ -198,17 +232,16 @@ msgstr ""
 
 #: ../../jamovi2r/j2R_overview.rst:7
 msgid ""
-"There are a few ways to use jamovi and R together. The first is to use of"
-" the :doc:`Rj Editor <j2R_Rj>`, a module available from the jamovi "
-"library that allows executing R code from within jamovi."
+"There are a few ways to use jamovi and R together. The first is to use of "
+"the :doc:`Rj Editor <j2R_Rj>`, a module available from the jamovi library "
+"that allows executing R code from within jamovi."
 msgstr ""
 
 #: ../../jamovi2r/j2R_overview.rst:10
 msgid ""
-"Another is to use the :doc:`jmv R package <../jmv/jmv_overview>` which "
-"makes all the analyses included with jamovi available from an interactive"
-" R session (such as in RStudio). jamovi can also provide the equivalent R"
-" syntax for each analysis with :doc:`Syntax mode "
-"<../usermanual/um_6_syntax_mode>`."
+"Another is to use the :doc:`jmv R package <../jmv/jmv_overview>` which makes "
+"all the analyses included with jamovi available from an interactive R "
+"session (such as in RStudio). jamovi can also provide the equivalent R "
+"syntax for each analysis with :doc:`Syntax mode <../usermanual/"
+"um_6_syntax_mode>`."
 msgstr ""
-

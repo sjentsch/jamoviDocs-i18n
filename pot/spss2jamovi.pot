@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-05 13:12+0200\n"
+"POT-Creation-Date: 2022-11-23 19:39+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -139,9 +139,9 @@ msgstr ""
 
 #: ../../spss2jamovi/s2j_ANCOVA.rst:25
 msgid ""
-"Create a new block of independent variables using ``Model Builder``. Press ``"
-"+ Add New Block`` and move ``Low_Control`` and ``High_Control`` into ``Block "
-"2``."
+"Create a new block of independent variables using ``Model Builder``. Press "
+"``+ Add New Block`` and move ``Low_Control`` and ``High_Control`` into "
+"``Block 2``."
 msgstr ""
 
 #: ../../spss2jamovi/s2j_ANCOVA.rst:29
