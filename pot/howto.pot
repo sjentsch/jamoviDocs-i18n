@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-23 19:39+0100\n"
+"POT-Creation-Date: 2022-11-23 19:52+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -123,7 +123,7 @@ msgid ""
 "(just copy-and-paste it)."
 msgstr ""
 
-#: ../../howto/howto_Use_PROCESS.rst:71
+#: ../../howto/howto_Use_PROCESS.rst:69
 msgid ""
 "Once this is done, you may just write (or copy-and-paste if you own the e-"
 "book) the commands that are shown in the book. Please note that you have to "
@@ -134,7 +134,7 @@ msgid ""
 "the currently opened dataset in jamovi)."
 msgstr ""
 
-#: ../../howto/howto_Use_PROCESS.rst:83
+#: ../../howto/howto_Use_PROCESS.rst:81
 msgid ""
 "Please remember that you have to run the ``source…`` command again whenever "
 "you open a new dataset / a new jamovi session. If you want to run several "
