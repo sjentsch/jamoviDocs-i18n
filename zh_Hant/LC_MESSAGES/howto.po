@@ -1,0 +1,179 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016-2022, The section authors, The jamovi project, and Sebastian Jentschke (curating this documentation). This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
+# This file is distributed under the same license as the jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: jamovi\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-24 11:47+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: zh_Hant\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../howto/howto_Install_modules.rst:5
+msgid "Install modules in jamovi"
+msgstr ""
+
+#: ../../howto/howto_Install_modules.rst:8
+msgid ""
+"Click on the «+»-icon in the top-right corner to install modules from the "
+"jamovi library."
+msgstr ""
+
+#: ../../howto/howto_Install_modules.rst:9
+msgid "|jamovi_Modules1|"
+msgstr ""
+
+#: ../../howto/howto_Install_modules.rst:22
+msgid "jamovi_Modules1"
+msgstr ""
+
+#: ../../howto/howto_Install_modules.rst:11
+msgid "Choose the jamovi library from the menu that opens."
+msgstr ""
+
+#: ../../howto/howto_Install_modules.rst:12
+msgid "|jamovi_Modules2|"
+msgstr ""
+
+#: ../../howto/howto_Install_modules.rst:23
+msgid "jamovi_Modules2"
+msgstr ""
+
+#: ../../howto/howto_Install_modules.rst:17
+msgid ""
+"In the window that opens now, first click on «Available» (top-middle). Then "
+"go through the list with modules and click «INSTALL» at any module that you "
+"would like to use. Finally, close this window by clicking on the arrow "
+"pointing up (top-right corner)."
+msgstr ""
+
+#: ../../howto/howto_Install_modules.rst:18
+msgid "|jamovi_Modules3|"
+msgstr ""
+
+#: ../../howto/howto_Install_modules.rst:24
+msgid "jamovi_Modules3"
+msgstr ""
+
+#: ../../howto/howto_Use_PROCESS.rst:7
+msgid "Use the R-version of the PROCESS-macro from within jamovi"
+msgstr ""
+
+#: ../../howto/howto_Use_PROCESS.rst:9
+msgid ""
+"In preparation: You need to install Rj and to download the most recent "
+"version of the `PROCESS-macro <from http://processmacro.org/download."
+"html>`__\\ . Open the ZIP-file that you downloaded, go into the folder "
+"``PROCESS v... for R`` and extract the ``process.R``-file into your "
+"``Documents``-directory."
+msgstr ""
+
+#: ../../howto/howto_Use_PROCESS.rst:14
+msgid ""
+"Open a data file that you want to use for your analyses. Afterwards, open "
+"``Rj`` using the ``R``-symbol in the ``Analyses``-icon-bar (``Rj`` is a "
+"jamovi module; if you have not installed it yet, you may check :doc:`Install "
+"modules in jamovi <howto_Install_modules>`)."
+msgstr ""
+
+#: ../../howto/howto_Use_PROCESS.rst:19
+msgid ""
+"Now you are ready to write R-code inside jamovi. Run the following code in "
+"the ``Rj`` text box for commands. You may just copy-and-paste the following "
+"code."
+msgstr ""
+
+#: ../../howto/howto_Use_PROCESS.rst:22
+msgid "on Windows"
+msgstr ""
+
+#: ../../howto/howto_Use_PROCESS.rst:28
+msgid "on Mac and Linux"
+msgstr ""
+
+#: ../../howto/howto_Use_PROCESS.rst:34
+msgid ""
+"Run this code (``source…``) by pressing the green triangle. Please be "
+"patient, it might take a moment (up to a minute, depending on how fast your "
+"computer is). You should see an output like this"
+msgstr ""
+
+#: ../../howto/howto_Use_PROCESS.rst:51
+msgid ""
+"Afterwards, the PROCESS-macro is initialized and you can comment the line "
+"out (by putting a ``#`` at the start of the line) → ``# source(…``"
+msgstr ""
+
+#: ../../howto/howto_Use_PROCESS.rst:54
+msgid ""
+"Now you are set to run analyses. Please note that the :red:`PROCESS-macro "
+"for R uses a different random number generator than SPSS and SAS`\\ [#]_ and "
+"that therefore the :red:`bootstrapping confidence intervals for the Indirect "
+"effect(s) of X on Y are different` from what the output shown in the book. "
+"Furthermore, does the current version of the :red:`PROCESS-macro for R "
+"accept data only in numeric format`.\\ [#]_ Thus, factors must be converted "
+"to numeric form (e.g., ``0`` and ``1``) prior to their use in a PROCESS "
+"command. This can be done using the following command in ``Rj`` (just copy-"
+"and-paste it)."
+msgstr ""
+
+#: ../../howto/howto_Use_PROCESS.rst:69
+msgid ""
+"Once this is done, you may just write (or copy-and-paste if you own the e-"
+"book) the commands that are shown in the book. Please note that you have to "
+"change the name of the data set: in this example, taken from p. 188 of Hayes "
+"(2022), the dataset ``pmi`` is required (to download the `data sets <https://"
+"afhayes.com/public/hayes2022data.zip>`__). Thecommand in the book has to be "
+"adjusted by changing ``data = pmi`` into ``data = data`` (``data`` refers to "
+"the currently opened dataset in jamovi)."
+msgstr ""
+
+#: ../../howto/howto_Use_PROCESS.rst:81
+msgid ""
+"Please remember that you have to run the ``source…`` command again whenever "
+"you open a new dataset / a new jamovi session. If you want to run several "
+"analyses with the same dataset / within the same jamovi session, this is not "
+"required."
+msgstr ""
+
+#: ../../howto/howto_Use_PROCESS.rst:89
+msgid ""
+"“The default random number generator in R is diﬀerent than the default "
+"random number generator in SPSS and SAS. Thus, bootstrap confidence "
+"intervals generated by R will be diﬀerent than those produced by SPSS and "
+"SAS even when the same seed is used when estimating the same model using the "
+"same data.” (Hayes, 2022, p. 613)"
+msgstr ""
+
+#: ../../howto/howto_Use_PROCESS.rst:96
+msgid ""
+"“PROCESS for R accepts data only in numeric format. Thus, for example, if a "
+"variable named sex were coded M and F in the data, these alphabetic codes "
+"must be converted to numeric form (e.g., 0 and 1) prior to their use in a "
+"PROCESS command.” (Hayes, 2022, p. 612)"
+msgstr ""
+
+#: ../../howto/howto_overview.rst:5
+msgid "How to..."
+msgstr ""
+
+#: ../../howto/howto_overview.rst:7
+msgid ""
+"The aim of the following section is to clear and simple instructions on how "
+"to deal with common tasks within jamovi."
+msgstr ""
+
+#: ../../howto/howto_overview.rst:11
+msgid "jamovi's user interface"
+msgstr ""
+
+#: ../../howto/howto_overview.rst:20
+msgid "Analyses"
+msgstr ""
