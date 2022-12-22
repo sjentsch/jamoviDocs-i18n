@@ -265,8 +265,8 @@ msgstr ""
 #: ../../usermanual/um_4_spreadsheet.rst:12
 msgid ""
 "The most commonly used variables in jamovi are “Data Variables”, these "
-"variables simply contain data either loaded from a data file, or \"typed "
-"in\" by the user. Data variables can be one three data types:"
+"variables simply contain data either loaded from a data file, or \"typed in"
+"\" by the user. Data variables can be one three data types:"
 msgstr ""
 
 #: ../../usermanual/um_4_spreadsheet.rst:15
