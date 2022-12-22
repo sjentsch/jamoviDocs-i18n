@@ -3,15 +3,26 @@
 # This file is distributed under the same license as the jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+#, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  jamovi2r.pot (jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-22 12:29+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  jamovi2r.po (jamovi)  #-#-#-#-#\n"
 "Project-Id-Version: jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-11-24 11:47+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
-"Language: zh_Hant\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -32,11 +43,11 @@ msgstr ""
 
 #: ../../jamovi2r/j2R_Rj.rst:12
 msgid "|jamovi_Rj1|"
-msgstr ""
+msgstr "|jamovi_Rj1|"
 
 #: ../../jamovi2r/j2R_Rj.rst:93
 msgid "jamovi_Rj1"
-msgstr ""
+msgstr "jamovi_Rj1"
 
 #: ../../jamovi2r/j2R_Rj.rst:16
 msgid "Running R commands"
@@ -48,11 +59,11 @@ msgstr ""
 
 #: ../../jamovi2r/j2R_Rj.rst:21
 msgid "|jamovi_Rj2|"
-msgstr ""
+msgstr "|jamovi_Rj2|"
 
 #: ../../jamovi2r/j2R_Rj.rst:94
 msgid "jamovi_Rj2"
-msgstr ""
+msgstr "jamovi_Rj2"
 
 #: ../../jamovi2r/j2R_Rj.rst:19
 msgid ""
@@ -61,11 +72,11 @@ msgstr ""
 
 #: ../../jamovi2r/j2R_Rj.rst:21
 msgid "|jamovi_Rj3|"
-msgstr ""
+msgstr "|jamovi_Rj3|"
 
 #: ../../jamovi2r/j2R_Rj.rst:95
 msgid "jamovi_Rj3"
-msgstr ""
+msgstr "jamovi_Rj3"
 
 #: ../../jamovi2r/j2R_Rj.rst:24
 msgid ""
@@ -166,11 +177,11 @@ msgstr ""
 
 #: ../../jamovi2r/j2R_Rj.rst:82
 msgid "|jamovi_Rj4|"
-msgstr ""
+msgstr "|jamovi_Rj4|"
 
 #: ../../jamovi2r/j2R_Rj.rst:96
 msgid "jamovi_Rj4"
-msgstr ""
+msgstr "jamovi_Rj4"
 
 #: ../../jamovi2r/j2R_Rj.rst:82
 msgid ""

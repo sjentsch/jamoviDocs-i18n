@@ -3,15 +3,26 @@
 # This file is distributed under the same license as the jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+#, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  usermanual.pot (jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-22 12:29+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  usermanual.po (jamovi)  #-#-#-#-#\n"
 "Project-Id-Version: jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-11-24 11:47+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
-"Language: zh_Hant\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -146,11 +157,11 @@ msgstr ""
 
 #: ../../usermanual/um_2_first-steps.rst:9
 msgid "|screenshot|"
-msgstr ""
+msgstr "|screenshot|"
 
 #: ../../usermanual/um_2_first-steps.rst:47
 msgid "screenshot"
-msgstr ""
+msgstr "screenshot"
 
 #: ../../usermanual/um_2_first-steps.rst:11
 msgid ""
@@ -178,11 +189,11 @@ msgstr ""
 
 #: ../../usermanual/um_2_first-steps.rst:27
 msgid "|csv-data|"
-msgstr ""
+msgstr "|csv-data|"
 
 #: ../../usermanual/um_2_first-steps.rst:49
 msgid "csv-data"
-msgstr ""
+msgstr "csv-data"
 
 #: ../../usermanual/um_2_first-steps.rst:29
 msgid ""
@@ -265,8 +276,8 @@ msgstr ""
 #: ../../usermanual/um_4_spreadsheet.rst:12
 msgid ""
 "The most commonly used variables in jamovi are “Data Variables”, these "
-"variables simply contain data either loaded from a data file, or \"typed in"
-"\" by the user. Data variables can be one three data types:"
+"variables simply contain data either loaded from a data file, or \"typed "
+"in\" by the user. Data variables can be one three data types:"
 msgstr ""
 
 #: ../../usermanual/um_4_spreadsheet.rst:15
@@ -287,35 +298,35 @@ msgstr ""
 
 #: ../../usermanual/um_4_spreadsheet.rst:21
 msgid "|nominal|    ``Nominal``"
-msgstr ""
+msgstr "|nominal|    ``Nominal``"
 
 #: ../../usermanual/um_4_spreadsheet.rst:122
 msgid "nominal"
-msgstr ""
+msgstr "nominal"
 
 #: ../../usermanual/um_4_spreadsheet.rst:22
 msgid "|ordinal|    ``Ordinal``"
-msgstr ""
+msgstr "|ordinal|    ``Ordinal``"
 
 #: ../../usermanual/um_4_spreadsheet.rst:124
 msgid "ordinal"
-msgstr ""
+msgstr "ordinal"
 
 #: ../../usermanual/um_4_spreadsheet.rst:23
 msgid "|continuous| ``Continuous``"
-msgstr ""
+msgstr "|continuous| ``Continuous``"
 
 #: ../../usermanual/um_4_spreadsheet.rst:126
 msgid "continuous"
-msgstr ""
+msgstr "continuous"
 
 #: ../../usermanual/um_4_spreadsheet.rst:24
 msgid "|id|         ``ID``"
-msgstr ""
+msgstr "|id|         ``ID``"
 
 #: ../../usermanual/um_4_spreadsheet.rst:128
 msgid "id"
-msgstr ""
+msgstr "id"
 
 #: ../../usermanual/um_4_spreadsheet.rst:27
 msgid ""
