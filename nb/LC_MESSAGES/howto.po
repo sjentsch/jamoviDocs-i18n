@@ -13,19 +13,21 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 # #-#-#-#-#  howto.po (jamovi )  #-#-#-#-#
 # #-#-#-#-#  howto.po (jamovi)  #-#-#-#-#
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: \n"
+"Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2022-11-24 11:47+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2022-12-22 11:28+0000\n"
+"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/"
+"jamovidocs/3_howto/nb_NO/>\n"
+"Language: nb\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.15.1-dev\n"
 "Generated-By: Babel 2.11.0\n"
 
 #: ../../howto/howto_Install_modules.rst:5
@@ -82,7 +84,7 @@ msgstr "jamovi_Modules3"
 
 #: ../../howto/howto_Use_PROCESS.rst:7
 msgid "Use the R-version of the PROCESS-macro from within jamovi"
-msgstr ""
+msgstr "Bruk R-versjonen av PROCESS-makroen innenfor jamovi"
 
 #: ../../howto/howto_Use_PROCESS.rst:9
 msgid ""
@@ -92,6 +94,11 @@ msgid ""
 "v... for R`` and extract the ``process.R``-file into your ``Documents``-"
 "directory."
 msgstr ""
+"Forberedelse: Du må installere Rj og laste ned den nyeste versjonen av "
+"`PROCESS-macro <from http://processmacro.org/download.html>`__\\ . Åpne ZIP-"
+"filen du har lastet ned, gå inn i mappen ``PROCESS v... for R`` og "
+"ekstrahere ``prosessen. R``-fil til ``Documents``-mappen (eller "
+"``Dokumenter`` hvis mappenavn et på norsk)."
 
 #: ../../howto/howto_Use_PROCESS.rst:14
 msgid ""
@@ -100,6 +107,10 @@ msgid ""
 "jamovi module; if you have not installed it yet, you may check :doc:`Install "
 "modules in jamovi <howto_Install_modules>`)."
 msgstr ""
+"Åpne datafilen du vil bruke for analysene dine. Etterpå åpner du ``Rj`` ved "
+"å bruke ``R``-symbolet i ``Analyses``-mnybånd (``Rj`` er en jamovi-modul; "
+"hvis du ikke har installert den ennå, kan du sjekke :doc:`Installer moduler "
+"i jamovi <howto_Install_modules>`)."
 
 #: ../../howto/howto_Use_PROCESS.rst:19
 msgid ""
@@ -107,14 +118,17 @@ msgid ""
 "the ``Rj`` text box for commands. You may just copy-and-paste the following "
 "code."
 msgstr ""
+"Nå er du klar til å skrive R-kode innenfor jamovi. Kjør følgende kode i "
+"``Rj``-tekstboksen for kommandoer. Du kan bare kopiere og lime inn den "
+"følgende kommandoen."
 
 #: ../../howto/howto_Use_PROCESS.rst:22
 msgid "on Windows"
-msgstr ""
+msgstr "på Windows"
 
 #: ../../howto/howto_Use_PROCESS.rst:28
 msgid "on Mac and Linux"
-msgstr ""
+msgstr "på MacOS og Linux"
 
 #: ../../howto/howto_Use_PROCESS.rst:34
 msgid ""
@@ -122,12 +136,17 @@ msgid ""
 "patient, it might take a moment (up to a minute, depending on how fast your "
 "computer is). You should see an output like this"
 msgstr ""
+"Kjør denne koden (``source…``) ved å trykke på den grønne trekanten. Vær "
+"tålmodig, det kan ta et øyeblikk (opptil et minutt, avhengig av hvor rask "
+"datamaskinen din er). Du bør se en utgave som likner dette"
 
 #: ../../howto/howto_Use_PROCESS.rst:51
 msgid ""
 "Afterwards, the PROCESS-macro is initialized and you can comment the line "
 "out (by putting a ``#`` at the start of the line) → ``# source(…``"
 msgstr ""
+"Etterpå PROCESS-makroen er initialisert og du kan kommentere linjen ut (ved "
+"å sette en ``#`` på begynnelsen av linjen) → ``# source(…``"
 
 #: ../../howto/howto_Use_PROCESS.rst:54
 msgid ""
@@ -141,6 +160,15 @@ msgid ""
 "command. This can be done using the following command in ``Rj`` (just copy-"
 "and-paste it)."
 msgstr ""
+"Nå er du satt til å kjøre analyser. Vær oppmerksom på at :red:`PROCESS-"
+"makroen for R bruker en annen generator for tilfeldige tall (*random "
+"numbers*) for enn SPSS og SAS`\\ [#]_ og at derfor :red:`bootstrapping-"
+"konfidensintervallene for de(n) indirekte effekten(e) av X på Y er "
+"forskjellig fra det som vises i boken`. I tillegg aksepterer den nåværende "
+"versjonen av :red:`PROCESS-makroen for R data kun i numerisk format`.\\ [#]_ "
+"Derfor må faktorer konverteres til numerisk form (f.eks. ``0`` og ``1``) før "
+"de kan brukes i en PROCESS-kommando. Dette kan gjøres ved å bruke den "
+"følgende kommandoen i ``Rj`` (bare kopier og lim den inn)."
 
 #: ../../howto/howto_Use_PROCESS.rst:69
 msgid ""
@@ -152,6 +180,13 @@ msgid ""
 "adjusted by changing ``data = pmi`` into ``data = data`` (``data`` refers to "
 "the currently opened dataset in jamovi)."
 msgstr ""
+"Når dette er gjort, kan du bare skrive kommandoene slik som de vises i boken "
+"(eller kopiere og lime inn hvis du eier e-boken). Vær oppmerksom på at du må "
+"endre navnet på datasettet: i dette eksemplet, hentet fra s. 188 av Hayes "
+"(2022), er datasettet ``pmi`` nødvendig (for `å laste ned datasettene "
+"<https://afhayes.com/public/hayes2022data.zip>`__\\). Kommandoen i boken må "
+"justeres ved å endre ``data = pmi`` til ``data = data`` (``data`` refererer "
+"til det datasettet som er åpnet i jamovi)."
 
 #: ../../howto/howto_Use_PROCESS.rst:81
 msgid ""
@@ -160,6 +195,9 @@ msgid ""
 "analyses with the same dataset / within the same jamovi session, this is not "
 "required."
 msgstr ""
+"Husk at du må kjøre kommandoen ``source…`` igjen hver gang du åpner et nytt "
+"datasett / en ny jamovi-sesjon. Hvis du ønsker å kjøre flere analyser med "
+"samme datasett / innenfor samme jamovi-sesjon, er dette ikke nødvendig."
 
 #: ../../howto/howto_Use_PROCESS.rst:89
 msgid ""
@@ -169,6 +207,11 @@ msgid ""
 "SAS even when the same seed is used when estimating the same model using the "
 "same data.” (Hayes, 2022, p. 613)"
 msgstr ""
+"«Standardgeneratoren for tilfeldig tall i R er forskjellig fra generatoren i "
+"SPSS og SAS. Dermed vil bootstrap-konfidensintervaller generert av R være "
+"forskjellig fra de som genereres av SPSS og SAS, selv når det samme *random "
+"seed* brukes når man estimerer den samme modellen ved å bruke de samme "
+"dataene.» (Hayes, 2022, s. 613)"
 
 #: ../../howto/howto_Use_PROCESS.rst:96
 msgid ""
@@ -177,6 +220,10 @@ msgid ""
 "must be converted to numeric form (e.g., 0 and 1) prior to their use in a "
 "PROCESS command.” (Hayes, 2022, p. 612)"
 msgstr ""
+"«PROCESS for R aksepterer kun data i numerisk format. Således, for eksempel, "
+"hvis en variabel kalt kjønn ble kodet M og F i dataene, må disse alfabetiske "
+"kodene konverteres til numerisk form (f.eks. 0 og 1) før de brukes i en "
+"PROCESS-kommando.» (Hayes, 2022, s. 612)"
 
 #: ../../howto/howto_overview.rst:5
 msgid "How to..."
@@ -187,8 +234,8 @@ msgid ""
 "The aim of the following section is to clear and simple instructions on how "
 "to deal with common tasks within jamovi."
 msgstr ""
-"Målet med den følgende avsnitt er å gi klare og enkle instruksjoner om "
-"hvordan du kan håndtere vanlige oppgaver innenfor jamovi."
+"Målet med den følgende avsnitt er å gi enkle, praktiske instruksjoner om "
+"hvordan du kan håndtere oppgaver som trenges ofte når en bruker jamovi."
 
 #: ../../howto/howto_overview.rst:11
 msgid "jamovi's user interface"
@@ -196,4 +243,4 @@ msgstr "jamovis brukergrensesnitt"
 
 #: ../../howto/howto_overview.rst:20
 msgid "Analyses"
-msgstr ""
+msgstr "Analyser"
