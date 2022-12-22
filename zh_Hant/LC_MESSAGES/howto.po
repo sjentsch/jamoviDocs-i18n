@@ -69,10 +69,10 @@ msgstr ""
 #: ../../howto/howto_Use_PROCESS.rst:9
 msgid ""
 "In preparation: You need to install Rj and to download the most recent "
-"version of the `PROCESS-macro <from http://processmacro.org/download."
-"html>`__\\ . Open the ZIP-file that you downloaded, go into the folder "
-"``PROCESS v... for R`` and extract the ``process.R``-file into your "
-"``Documents``-directory."
+"version of the `PROCESS-macro <from http://processmacro.org/download.html>`__"
+"\\ . Open the ZIP-file that you downloaded, go into the folder ``PROCESS "
+"v... for R`` and extract the ``process.R``-file into your ``Documents``-"
+"directory."
 msgstr ""
 
 #: ../../howto/howto_Use_PROCESS.rst:14
