@@ -139,9 +139,9 @@ msgstr ""
 
 #: ../../spss2jamovi/s2j_ANCOVA.rst:25
 msgid ""
-"Create a new block of independent variables using ``Model Builder``. Press "
-"``+ Add New Block`` and move ``Low_Control`` and ``High_Control`` into "
-"``Block 2``."
+"Create a new block of independent variables using ``Model Builder``. Press ``"
+"+ Add New Block`` and move ``Low_Control`` and ``High_Control`` into ``Block "
+"2``."
 msgstr ""
 
 #: ../../spss2jamovi/s2j_ANCOVA.rst:29
