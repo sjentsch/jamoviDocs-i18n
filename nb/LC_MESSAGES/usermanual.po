@@ -1,107 +1,25 @@
-# #-#-#-#-#  usermanual.pot (jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2016-2022, The section authors, The jamovi project, and Sebastian Jentschke (curating this documentation). This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
-# This file is distributed under the same license as the jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
 # #-#-#-#-#  usermanual.po (jamovi )  #-#-#-#-#
 # #-#-#-#-#  usermanual.pot (jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2016-2022, The section authors, The jamovi project, and Sebastian Jentschke (curating this documentation). This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
-# This file is distributed under the same license as the jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  usermanual.po (jamovi)  #-#-#-#-#
-# #-#-#-#-#  usermanual.pot (jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2016-2022, The section authors, The jamovi project, and Sebastian Jentschke (curating this documentation). This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
-# This file is distributed under the same license as the jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  usermanual.po (jamovi)  #-#-#-#-#
-# #-#-#-#-#  usermanual.pot (jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2016-2022, The section authors, The jamovi project, and Sebastian Jentschke (curating this documentation). This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
-# This file is distributed under the same license as the jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  usermanual.po (jamovi)  #-#-#-#-#
-# #-#-#-#-#  usermanual.pot (jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2016-2022, The section authors, The jamovi project, and Sebastian Jentschke (curating this documentation). This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
-# This file is distributed under the same license as the jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  usermanual.po (jamovi )  #-#-#-#-#
-# #-#-#-#-#  usermanual.pot (jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2016-2022, The section authors, The jamovi project, and Sebastian Jentschke (curating this documentation). This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
-# This file is distributed under the same license as the jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  usermanual.po (jamovi )  #-#-#-#-#
-# #-#-#-#-#  usermanual.pot (jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2016-2022, The section authors, The jamovi project, and Sebastian Jentschke (curating this documentation). This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
-# This file is distributed under the same license as the jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  usermanual.po (jamovi )  #-#-#-#-#
-# #-#-#-#-#  usermanual.pot (jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2016-2022, The section authors, The jamovi project, and Sebastian Jentschke (curating this documentation). This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
-# This file is distributed under the same license as the jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  usermanual.po (jamovi )  #-#-#-#-#
-# #-#-#-#-#  usermanual.pot (jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2016-2022, The section authors, The jamovi project, and Sebastian Jentschke (curating this documentation). This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
-# This file is distributed under the same license as the jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  usermanual.po (jamovi)  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2016-2022, The section authors, The jamovi project, and
 # Sebastian Jentschke (curating this documentation). This work is licensed
 # under a Creative Commons Attribution-ShareAlike 4.0 International License
-# This file is distributed under the same license as the jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+# #-#-#-#-#  usermanual.po (jamovi)  #-#-#-#-#
+# #-#-#-#-#  usermanual.po (jamovi )  #-#-#-#-#
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jamovi\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-22 14:03+0100\n"
-"PO-Revision-Date: 2022-03-10 12:58+0000\n"
-"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
-"Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/"
-"jamovidocs/1_usermanual/nb_NO/>\n"
-"Language: \n"
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-02-02 22:03+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  usermanual.pot (jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  usermanual.po (jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  usermanual.pot (jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  usermanual.po (jamovi)  #-#-#-#-#\n"
-"#-#-#-#-#  usermanual.pot (jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  usermanual.po (jamovi)  #-#-#-#-#\n"
-"#-#-#-#-#  usermanual.pot (jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  usermanual.po (jamovi)  #-#-#-#-#\n"
-"#-#-#-#-#  usermanual.pot (jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  usermanual.po (jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  usermanual.pot (jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  usermanual.po (jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  usermanual.pot (jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  usermanual.po (jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  usermanual.pot (jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  usermanual.po (jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  usermanual.pot (jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  usermanual.po (jamovi)  #-#-#-#-#\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.12-dev\n"
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../usermanual/um_1_installation.rst:4
@@ -114,35 +32,36 @@ msgstr "Windows"
 
 #: ../../usermanual/um_1_installation.rst:10
 msgid ""
-"jamovi is available for Windows Vista (64-bit) and above. Installation on "
-"windows is quite straight-forward, and should be familiar to anyone who has "
-"installed software on Windows before. Download the latest version from the "
-"`download page <https://www.jamovi.org/download.html>`__, and double-click "
-"the icon."
+"jamovi is available for Windows Vista (64-bit) and above. Installation on"
+" windows is quite straight-forward, and should be familiar to anyone who "
+"has installed software on Windows before. Download the latest version "
+"from the `download page <https://www.jamovi.org/download.html>`__, and "
+"double-click the icon."
 msgstr ""
-"jamovi er tilgjengelig for Windows Vista (64-bit) og nyere. Installasjon på "
-"Windows er ganske enkel, og bør være kjent for alle som har installert "
-"programvare på Windows før. Last ned den nyeste versjonen fra "
-"`nedlastingssiden <https://www.jamovi.org/download.html>`__, og dobbeltklikk "
-"på ikonet."
+"jamovi er tilgjengelig for Windows Vista (64-bit) og nyere. Installasjon "
+"på Windows er ganske enkel, og bør være kjent for alle som har installert"
+" programvare på Windows før. Last ned den nyeste versjonen fra "
+"`nedlastingssiden <https://www.jamovi.org/download.html>`__, og "
+"dobbeltklikk på ikonet."
 
 #: ../../usermanual/um_1_installation.rst:14
 msgid ""
-"At some institutions (particularly universities), the “normal” approach to "
-"installing software is blocked by IT security policies. In this case, you "
-"can download our ``.zip``-version. To use this, simply download, unzip to a "
-"location on the computer, and naviagate to the bin folder. Double-clicking "
-"``jamovi.exe`` will begin jamovi. It’s possible that additional security "
-"restrictions prevent jamovi from working in this way, in which case it would "
-"be worth raising the issue with your IT staff."
+"At some institutions (particularly universities), the “normal” approach "
+"to installing software is blocked by IT security policies. In this case, "
+"you can download our ``.zip``-version. To use this, simply download, "
+"unzip to a location on the computer, and naviagate to the bin folder. "
+"Double-clicking ``jamovi.exe`` will begin jamovi. It’s possible that "
+"additional security restrictions prevent jamovi from working in this way,"
+" in which case it would be worth raising the issue with your IT staff."
 msgstr ""
-"Noen institusjoner (spesielt universiteter) blokkerer den «vanlige» måten å "
-"installere programvare ifm. IT-sikkerhetspolicyer. I dette tilfellet kan du "
-"laste ned ``.zip``-versjon. Etter nedlasting pakker du den ut til et sted på "
-"datamaskinen, og naviger til bin-mappen. Hvis du dobbeltklikker på ``jamovi."
-"exe`` starter jamovi. Det er fremdeles mulig at ytterligere "
-"sikkerhetsbegrensninger hindrer jamovi i å fungere på denne måten, i så fall "
-"vil er du nødt å ta opp problemet med IT-avdelingen."
+"Noen institusjoner (spesielt universiteter) blokkerer den «vanlige» måten"
+" å installere programvare ifm. IT-sikkerhetspolicyer. I dette tilfellet "
+"kan du laste ned ``.zip``-versjon. Etter nedlasting pakker du den ut til "
+"et sted på datamaskinen, og naviger til bin-mappen. Hvis du "
+"dobbeltklikker på ``jamovi.exe`` starter jamovi. Det er fremdeles mulig "
+"at ytterligere sikkerhetsbegrensninger hindrer jamovi i å fungere på "
+"denne måten, i så fall vil er du nødt å ta opp problemet med IT-"
+"avdelingen."
 
 #: ../../usermanual/um_1_installation.rst:21
 msgid "macOS"
@@ -150,32 +69,33 @@ msgstr "macOS"
 
 #: ../../usermanual/um_1_installation.rst:23
 msgid ""
-"jamovi is available for macOS 10.9+ (Mavericks and newer). To install it, "
-"download the ``.dmg``-file from our `download page <https://www.jamovi.org/"
-"download.html>`__, and double-click the downloaded file. This will present "
-"you with a “file view”, and you can install jamovi by “dragging-and-"
-"dropping” the jamovi application to the Applications folder (in the usual "
-"way). After this, jamovi will appear in your applications, and can be "
-"started like any other installed application."
+"jamovi is available for macOS 10.9+ (Mavericks and newer). To install it,"
+" download the ``.dmg``-file from our `download page "
+"<https://www.jamovi.org/download.html>`__, and double-click the "
+"downloaded file. This will present you with a “file view”, and you can "
+"install jamovi by “dragging-and-dropping” the jamovi application to the "
+"Applications folder (in the usual way). After this, jamovi will appear in"
+" your applications, and can be started like any other installed "
+"application."
 msgstr ""
 "jamovi er tilgjengelig for macOS 10.9+ (Mavericks og nyere). For å "
 "installere programmen, last ned ``.dmg``-filen fra vår `nedlastingsside "
-"<https://www.jamovi.org/download.html>`__, og dobbeltklikk på den nedlastede "
-"filen. Dette vil presentere deg med en «filvisning|, hvor du kan installere "
-"jamovi ved å «dra og slippe» jamovi-applikasjonen til Programmer-mappen "
-"(slik som du gjør ved installasjon av andre programmer). Etter dette vil "
-"jamovi vises blant applikasjonene dine, og kan startes som alle andre "
-"installerte applikasjoner."
+"<https://www.jamovi.org/download.html>`__, og dobbeltklikk på den "
+"nedlastede filen. Dette vil presentere deg med en «filvisning|, hvor du "
+"kan installere jamovi ved å «dra og slippe» jamovi-applikasjonen til "
+"Programmer-mappen (slik som du gjør ved installasjon av andre "
+"programmer). Etter dette vil jamovi vises blant applikasjonene dine, og "
+"kan startes som alle andre installerte applikasjoner."
 
 #: ../../usermanual/um_1_installation.rst:28
 msgid ""
-"jamovi for macOS has an auto-update mechanism, and can alert you to when new "
-"versions are available. You can update your version of jamovi from the app "
-"menu (☰; at the top right of the window)."
+"jamovi for macOS has an auto-update mechanism, and can alert you to when "
+"new versions are available. You can update your version of jamovi from "
+"the app menu (☰; at the top right of the window)."
 msgstr ""
-"jamovi for macOS har en mekanisme for automatisk oppdatering, og kan varsle "
-"deg om når nye versjoner er tilgjengelige. Du kan oppdatere din versjon av "
-"jamovi fra appmenyen (☰; øverst til høyre i vinduet)."
+"jamovi for macOS har en mekanisme for automatisk oppdatering, og kan "
+"varsle deg om når nye versjoner er tilgjengelige. Du kan oppdatere din "
+"versjon av jamovi fra appmenyen (☰; øverst til høyre i vinduet)."
 
 #: ../../usermanual/um_1_installation.rst:33
 msgid "Linux and Chromebooks"
@@ -184,35 +104,36 @@ msgstr "Linux og Chromebooker"
 #: ../../usermanual/um_1_installation.rst:35
 msgid ""
 "jamovi is currently available for Linux, (for all ‘flatpak participating "
-"linux distributions’ – which is most of them), and Chromebooks, from flathub."
+"linux distributions’ – which is most of them), and Chromebooks, from "
+"flathub."
 msgstr ""
 "jamovi er tilgjengelig for Linux (for alle distribusjoner som støtter "
 "«flatpak» - dvs. nesten alle), og Chromebooks, via flathub."
 
 #: ../../usermanual/um_1_installation.rst:37
 msgid ""
-"**Note**: Some Chromebooks experience a blank screen issue when starting up "
-"jamovi. If you encounter this, there are instructions on how to fix this a "
-"little :ref:`further down<blank-screen-on-chromebooks>`."
+"**Note**: Some Chromebooks experience a blank screen issue when starting "
+"up jamovi. If you encounter this, there are instructions on how to fix "
+"this a little :ref:`further down<blank-screen-on-chromebooks>`."
 msgstr ""
 "**Merk**: Noen Chromebook-enheter viser et blank skjerm når du starter "
-"jamovi. Hvis du opplever dette problemet, finner du instruksjoner om hvordan "
-"du fikser dette litt :ref:`lenger ned<blank-screen-on-chromebooks>`."
+"jamovi. Hvis du opplever dette problemet, finner du instruksjoner om "
+"hvordan du fikser dette litt :ref:`lenger ned<blank-screen-on-"
+"chromebooks>`."
 
 #: ../../usermanual/um_1_installation.rst:40
 msgid ""
-"If you’re new to flatpak/flathub, you’ll need to follow the setup guide on "
-"`our flathub page <https://flathub.org/apps/details/org.jamovi.jamovi>`__."
+"If you’re new to flatpak/flathub, you’ll need to follow the setup guide "
+"on `our flathub page "
+"<https://flathub.org/apps/details/org.jamovi.jamovi>`__."
 msgstr ""
 "Hvis du ikke har brukt flatpak/flathub før, bør du følge "
-"installasjonsveiledningen på `flathub-siden vår <https://flathub.org/apps/"
-"details/org.jamovi.jamovi>`__."
+"installasjonsveiledningen på `flathub-siden vår "
+"<https://flathub.org/apps/details/org.jamovi.jamovi>`__."
 
 #: ../../usermanual/um_1_installation.rst:42
-msgid ""
-"If you’re an old hand at flatpak, you can install jamovi with the command:"
-msgstr ""
-"Hvis du har erfaring med flatpak, kan du installere jamovi med kommandoen:"
+msgid "If you’re an old hand at flatpak, you can install jamovi with the command:"
+msgstr "Hvis du har erfaring med flatpak, kan du installere jamovi med kommandoen:"
 
 #: ../../usermanual/um_1_installation.rst:48
 msgid "and later, you can update your version of jamovi with:"
@@ -224,21 +145,21 @@ msgstr "Tekst i diagrammer på linux ser merkelig ut"
 
 #: ../../usermanual/um_1_installation.rst:58
 msgid ""
-"On some linux machines, the flatpak font cache is not up-to-date, resulting "
-"in plots in jamovi not displaying text correctly. To remedy this, you can "
-"run the following command at the terminal:"
+"On some linux machines, the flatpak font cache is not up-to-date, "
+"resulting in plots in jamovi not displaying text correctly. To remedy "
+"this, you can run the following command at the terminal:"
 msgstr ""
 "På noen linux-maskiner er flatpak-fontbufferen ikke oppdatert. Det kan "
-"resultere i at diagrammer i jamovi ikke viser teksten riktig. For å avhjelpe "
-"dette kan du bruke følgende kommando i terminalen:"
+"resultere i at diagrammer i jamovi ikke viser teksten riktig. For å "
+"avhjelpe dette kan du bruke følgende kommando i terminalen:"
 
 #: ../../usermanual/um_1_installation.rst:65
 msgid ""
 "This appears to be an issue with flatpaks, and we’re working with the "
 "flatpak community to get to the bottom of it."
 msgstr ""
-"Dette ser ut til å være et generelt problem med flatpaks, og vi jobber med "
-"flatpak-samfunnet for å finne en løsning for dette problemet."
+"Dette ser ut til å være et generelt problem med flatpaks, og vi jobber "
+"med flatpak-samfunnet for å finne en løsning for dette problemet."
 
 #: ../../usermanual/um_1_installation.rst:71
 msgid "Blank screen at startup on Chromebooks"
@@ -247,19 +168,19 @@ msgstr "Tom skjerm ved oppstart på Chromebook"
 #: ../../usermanual/um_1_installation.rst:73
 msgid ""
 "Some Chromebooks experience a blank screen when starting up jamovi. The "
-"cause of this issue is not completely clear at this time, however it can be "
-"fixed by disabling “Crostini GPU support”."
+"cause of this issue is not completely clear at this time, however it can "
+"be fixed by disabling “Crostini GPU support”."
 msgstr ""
 "Noen Chromebook-enheter opplever en tom skjerm når du starter jamovi. "
-"Årsaken til dette problemet er ikke helt klart på dette tidspunktet, men det "
-"kan løses ved å deaktivere «Crostini GPU-støtte»."
+"Årsaken til dette problemet er ikke helt klart på dette tidspunktet, men "
+"det kan løses ved å deaktivere «Crostini GPU-støtte»."
 
 #: ../../usermanual/um_1_installation.rst:76
 msgid ""
-"Enter ``chrome://flags/`` into the ChromeOS address bar. This will bring up "
-"“Experiments”. Search for ``Crostini GPU Support`` and set it to disabled. "
-"After restarting your Chromebook the issue will be fixed (special thanks to "
-"`@mulderc <https://github.com/mulderc>`__)."
+"Enter ``chrome://flags/`` into the ChromeOS address bar. This will bring "
+"up “Experiments”. Search for ``Crostini GPU Support`` and set it to "
+"disabled. After restarting your Chromebook the issue will be fixed "
+"(special thanks to `@mulderc <https://github.com/mulderc>`__)."
 msgstr ""
 "Skriv inn ``chrome://flags/`` i ChromeOS-adresselinjen. Dette vil få opp "
 "«Eksperimenter». Søk etter ``Crostini GPU Support`` og sett den til "
@@ -275,8 +196,8 @@ msgid ""
 "When first starting jamovi, you will be presented with a user interface "
 "which looks something like this."
 msgstr ""
-"Når du først starter jamovi, vil du bli presentert med et brukergrensesnitt "
-"som ser omtrent slik ut."
+"Når du først starter jamovi, vil du bli presentert med et "
+"brukergrensesnitt som ser omtrent slik ut."
 
 #: ../../usermanual/um_2_first-steps.rst:9
 msgid "|screenshot|"
@@ -288,37 +209,39 @@ msgstr "screenshot"
 
 #: ../../usermanual/um_2_first-steps.rst:11
 msgid ""
-"To the left is the spreadsheet view, and to the right is where the results "
-"of statistical tests appear. Down the middle is a bar separating these two "
-"regions, and this can be dragged to the left or the right to change their "
-"sizes."
+"To the left is the spreadsheet view, and to the right is where the "
+"results of statistical tests appear. Down the middle is a bar separating "
+"these two regions, and this can be dragged to the left or the right to "
+"change their sizes."
 msgstr ""
 "Til venstre er regnearkvisningen, og til høyre vises resultatene av "
 "statistiske tester. Nedover midten er en stolpe som skiller disse to "
-"områdene, og dette kan dras til venstre eller høyre for å endre størrelsen."
+"områdene, og dette kan dras til venstre eller høyre for å endre "
+"størrelsen."
 
 #: ../../usermanual/um_2_first-steps.rst:16
 msgid ""
-"It is possible to simply begin typing values into the jamovi spreadsheet as "
-"you would any other spreadsheet software."
+"It is possible to simply begin typing values into the jamovi spreadsheet "
+"as you would any other spreadsheet software."
 msgstr ""
-"Det er mulig å bare begynne å skrive inn verdier i jamovi-regnearket som du "
-"ville gjort med annen regnearkprogramvare."
+"Det er mulig å bare begynne å skrive inn verdier i jamovi-regnearket som "
+"du ville gjort med annen regnearkprogramvare."
 
 #: ../../usermanual/um_2_first-steps.rst:19
 msgid ""
 "Alternatively, existing data sets in a range of formats (CSV, Excel, "
 "LibreOffice, R, SPSS, Stata, SAS, etc.) can be opened in jamovi. "
-"Additionally, there are a number of example data sets available in jamovi. "
-"To open a file, select the file menu (☰, at the top left hand corner of "
-"jamovi), select ``Open`` and then ``Data library`` or ``This PC``, depending "
-"on whether you want to open an example, or a file stored on your computer."
+"Additionally, there are a number of example data sets available in "
+"jamovi. To open a file, select the file menu (☰, at the top left hand "
+"corner of jamovi), select ``Open`` and then ``Data library`` or ``This "
+"PC``, depending on whether you want to open an example, or a file stored "
+"on your computer."
 msgstr ""
 "Alternativt kan eksisterende datasett i en rekke formater (CSV, Excel, "
-"LibreOffice, R, SPSS, Stata, SAS, etc.) åpnes i jamovi. I tillegg finnes det "
-"en rekke eksempeldatasett. Hvis du vil åpne en fil, velger du filmenyen (☰ "
-"øverst til venstre i jamovi), deretter Åpne og Denne PCen eller "
-"Databibliotek, avhengig av om du vil åpne en fil som er lagret på "
+"LibreOffice, R, SPSS, Stata, SAS, etc.) åpnes i jamovi. I tillegg finnes "
+"det en rekke eksempeldatasett. Hvis du vil åpne en fil, velger du "
+"filmenyen (☰ øverst til venstre i jamovi), deretter Åpne og Denne PCen "
+"eller Databibliotek, avhengig av om du vil åpne en fil som er lagret på "
 "datamaskinen eller et eksempel."
 
 #: ../../usermanual/um_2_first-steps.rst:27
@@ -332,38 +255,39 @@ msgstr "csv-data"
 #: ../../usermanual/um_2_first-steps.rst:29
 msgid ""
 "A very common format for exchanging data is using files with “comma- "
-"separated values” (.csv or .txt). Given that these data are stored as simple "
-"text file using commas (or \";\", \"|\", etc.) to separate values nearly any "
-"software package can read and write them (and you to can take a look using "
-"any text editor). An example is shown in the figure. The first line contains "
-"the variable names and any other line afterwards a measurement point "
-"(typically a person where data were acquired from). If you have your data in "
-"a spreadsheet program (e.g., Excel), you can create a CSV-file from your "
-"data by selecting ``File`` → ``Save as...`` and choose ``Comma delimited`` "
-"in the drop-down menu close to the ``Save as``-button. Thereafter, you may "
-"open the CSV-file in jamovi."
+"separated values” (.csv or .txt). Given that these data are stored as "
+"simple text file using commas (or \";\", \"|\", etc.) to separate values "
+"nearly any software package can read and write them (and you to can take "
+"a look using any text editor). An example is shown in the figure. The "
+"first line contains the variable names and any other line afterwards a "
+"measurement point (typically a person where data were acquired from). If "
+"you have your data in a spreadsheet program (e.g., Excel), you can create"
+" a CSV-file from your data by selecting ``File`` → ``Save as...`` and "
+"choose ``Comma delimited`` in the drop-down menu close to the ``Save "
+"as``-button. Thereafter, you may open the CSV-file in jamovi."
 msgstr ""
 "Et svært vanlig format for utveksling av data er å bruke filer med "
-"\"kommadelte verdier\" (.csv eller .txt). Gitt at disse dataene lagres som "
-"enkel tekstfil ved hjelp av kommaer (eller \";\", \"|\", etc.) for å skille "
-"verdier nesten alle programvarepakker kan lese og skrive dem (og du kan ta "
-"en titt ved hjelp av tekstredigeringsprogrammer). Et eksempel vises i "
-"figuren. Den første linjen inneholder variabelnavnene og en hvilken som "
-"helst annen linje etterpå et målepunkt (vanligvis en person der data ble "
-"hentet fra). Hvis du har dataene dine i et regnearkprogram (for eksempel "
-"Excel), kan du opprette en CSV-fil fra dataene dine ved å velge ''Fil'' → "
-"''Lagre som...'' og velg ''Kommadelt'' i rullegardinmenyen nær ''Lagre som'-"
-"knappen. Deretter kan du åpne CSV-filen i jamovi."
+"\"kommadelte verdier\" (.csv eller .txt). Gitt at disse dataene lagres "
+"som enkel tekstfil ved hjelp av kommaer (eller \";\", \"|\", etc.) for å "
+"skille verdier nesten alle programvarepakker kan lese og skrive dem (og "
+"du kan ta en titt ved hjelp av tekstredigeringsprogrammer). Et eksempel "
+"vises i figuren. Den første linjen inneholder variabelnavnene og en "
+"hvilken som helst annen linje etterpå et målepunkt (vanligvis en person "
+"der data ble hentet fra). Hvis du har dataene dine i et regnearkprogram "
+"(for eksempel Excel), kan du opprette en CSV-fil fra dataene dine ved å "
+"velge ''Fil'' → ''Lagre som...'' og velg ''Kommadelt'' i "
+"rullegardinmenyen nær ''Lagre som'-knappen. Deretter kan du åpne CSV-"
+"filen i jamovi."
 
 #: ../../usermanual/um_2_first-steps.rst:41
 msgid ""
-"In the unlikely event that jamovi does not open a file correctly, file an "
-"issue (bug report) in the GitHub `issue tracker <https://github.com/jamovi/"
-"jamovi/issues>`__."
+"In the unlikely event that jamovi does not open a file correctly, file an"
+" issue (bug report) in the GitHub `issue tracker "
+"<https://github.com/jamovi/jamovi/issues>`__."
 msgstr ""
 "I det usannsynlige tilfellet at jamovi ikke åpner en fil riktig, kan du "
-"sende inn et problem (feilrapport) i 'issue tracker <https://github.com/"
-"jamovi/jamovi/issues>'__ på GitHub."
+"sende inn et problem (feilrapport) i 'issue tracker "
+"<https://github.com/jamovi/jamovi/issues>'__ på GitHub."
 
 #: ../../usermanual/um_3_analyses.rst:4
 msgid "Analyses"
@@ -371,65 +295,76 @@ msgstr "Analyser"
 
 #: ../../usermanual/um_3_analyses.rst:6
 msgid ""
-"Analyses can be selected from the analyses ribbon or menu along the top. "
-"Selecting an analysis will present an “options panel” for that particular "
-"analysis, allowing you to assign different variables to different parts of "
-"the analysis, and select different options. At the same time, the results "
-"for the analysis will appear in the right “results panel”, and will update "
-"as you make changes to the options."
+"Analyses can be selected from the ``Analyses`` ribbon along the top. "
+"Selecting an analysis will present an “options panel” for that particular"
+" analysis, allowing you to assign different variables to different parts "
+"of the analysis, and select different options. At the same time, the "
+"results for the analysis will appear in the right “results panel”, and "
+"will update as you make changes to the options."
 msgstr ""
-"Analyser kan velges fra «Analyser»-ribbon-menyet (øverste linje i jamovi-"
-"vinduet). Hvis du velger en analyse, vises et inngave-\"panel\" for den "
-"analysen du har valgt, slik at du kan tilordne forskjellige variabler til "
+"Analyser kan velges fra ``Analyser``-ribbon-menyet (øverste linje i "
+"jamovi-vinduet). Hvis du velger en analyse, vises et «inngave-panel» for den "
+"analysen du har valgt, hvor du kan tilordne forskjellige variabler til "
 "forskjellige funksjoner av analysen (f.eks. avhengige variable) og velge "
-"forskjellige opsjoner hvordan analysen bør gjennomføres (f.eks. hvilke "
+"forskjellige opsjoner for hvordan analysen bør gjennomføres (f.eks. hvilke "
 "forutsetningene for analysen bør testes). Samtidig vil resultatene for "
-"analysen vises i høyre \"resultatpanel\", og vil oppdateres når du gjør "
+"analysen vises i høyre «resultatpanel», og vil oppdateres når du gjør "
 "endringer i opsjonene."
 
-#: ../../usermanual/um_3_analyses.rst:10
+#: ../../usermanual/um_3_analyses.rst:13
 msgid ""
-"When you have the analysis set up correctly, you can dismiss the analysis "
-"options by clicking the arrow to the top right of the options panel. If you "
-"wish to return to these options, you can click on the results that were "
-"produced. In this way, you can return to any analysis that you (or say, a "
-"colleague) created earlier."
+"When you have the analysis set up correctly, you can dismiss the analysis"
+" options by clicking the arrow to the top right of the options panel. If "
+"you wish to return to these options, you can click on the results that "
+"were produced. In this way, you can return to any analysis that you (or "
+"say, a colleague) created earlier."
 msgstr ""
 "Når du har konfigurert analysen riktig, kan du lukke inngave-panelen for "
-"denne analysen ved å klikke pilen øverst til høyre i alternativpanelet. Hvis "
-"du ønsker å gå tilbake til inngave-panelen, kan du klikke på resultatene. På "
-"denne måten kan du gå tilbake til alle analyser du (eller en kollega) har "
-"opprettet tidligere."
+"denne analysen ved å klikke pilen øverst til høyre i alternativpanelet. "
+"Hvis du ønsker å gå tilbake til inngave-panelen, kan du klikke på "
+"resultatene. På denne måten kan du gå tilbake til alle analyser du (eller"
+" en kollega) har opprettet tidligere."
 
-#: ../../usermanual/um_3_analyses.rst:14
+#: ../../usermanual/um_3_analyses.rst:19
 msgid ""
-"If you decide you no longer need a particular analysis, you can remove it "
-"with the results context menu. Right-clicking on the analysis results will "
-"bring up a menu, and by selecting ``Analysis``, and then ``Remove``, the "
-"analysis can be removed."
+"If you decide you no longer need a particular analysis, you can remove it"
+" with the results context menu. Right-clicking on the analysis results "
+"will bring up a menu, and by selecting ``Analysis``, and then ``Remove``,"
+" the analysis can be removed."
 msgstr ""
-"Hvis du bestemmer deg for at du ikke lenger trenger en bestemt analyse, kan "
-"du fjerne den med hurtigmenyen for resultater. Høyreklikk på "
+"Hvis du bestemmer deg for at du ikke lenger trenger en bestemt analyse, "
+"kan du fjerne den med hurtigmenyen for resultater. Høyreklikk på "
 "analyseresultatene vil få opp en meny, og ved å velge ``Analyse``, og "
 "deretter ``Fjern``, kan analysen fjernes."
 
-#: ../../usermanual/um_3_analyses.rst:22
+#: ../../usermanual/um_3_analyses.rst:28
 msgid ""
-"jamovi produces nice APA formatted tables, and attractive plots. It is often "
-"useful to be able to copy and paste these, perhaps into a Word document, or "
-"into an email to a colleague. To copy results, right click on the object of "
-"interest, and from the menu select exactly what you want to copy. The menu "
-"allows you to choose to copy, say only the image, or the entire analysis. "
-"Selecting copy, copies the content to the clipboard, and can be pasted into "
-"the other program in the usual way."
+"You can head to the entries under “Analyses” in the menu on the right-"
+"hand side for a series of short, non-technical tutorials on how to "
+"conduct common statistical procedures in jamovi. The :doc:`introduction "
+"<../analyses/jg_00_overview>` gives an overview over the available "
+"analyses, or you can otherwise directly access specific analyses by "
+"selecting them from the menu on the right-hand side."
 msgstr ""
-"jamovi produserer attraktive APA-formaterte tabeller og diagrammer. Å kunne "
-"kopiere og lime inn disse, kanskje i et tekstdokument eller i en e-post til "
-"en kollega, er ofte svært nyttige. Hvis du vil kopiere resultater, "
-"høyreklikker du objektet du er interessert i, og i kontekstmenyen velger du "
-"hvilke deler du vil kopiere. Menyen lar deg velge å kopiere, bare et diagram "
-"eller hele analysen. Etter du har gjort valg, kopieres det valgte innholdet "
-"til utklippstavlen, og det kan limes inn i andre programmer på vanlig måte."
+
+#: ../../usermanual/um_3_analyses.rst:35
+msgid ""
+"jamovi produces nice APA formatted tables, and attractive plots. It is "
+"often useful to be able to copy and paste these, perhaps into a Word "
+"document, or into an email to a colleague. To copy results, right click "
+"on the object of interest, and from the menu select exactly what you want"
+" to copy. The menu allows you to choose to copy, say only the image, or "
+"the entire analysis. Selecting copy, copies the content to the clipboard,"
+" and can be pasted into the other program in the usual way."
+msgstr ""
+"jamovi produserer attraktive APA-formaterte tabeller og diagrammer. Å "
+"kunne kopiere og lime inn disse, kanskje i et tekstdokument eller i en "
+"e-post til en kollega, er ofte svært nyttige. Hvis du vil kopiere "
+"resultater, høyreklikker du objektet du er interessert i, og i "
+"kontekstmenyen velger du hvilke deler du vil kopiere. Menyen lar deg "
+"velge å kopiere, bare et diagram eller hele analysen. Etter du har gjort "
+"valg, kopieres det valgte innholdet til utklippstavlen, og det kan limes "
+"inn i andre programmer på vanlig måte."
 
 #: ../../usermanual/um_4_spreadsheet.rst:4
 msgid "The Spreadsheet"
@@ -440,92 +375,92 @@ msgid ""
 "In jamovi, data is represented in a spreadsheet, with each column "
 "representing a “variable”."
 msgstr ""
-"I jamovi representeres data i et regneark, der hver kolonne representerer en "
-"«variabel»."
+"I jamovi representeres data i et regneark, der hver kolonne representerer"
+" en «variabel»."
 
-#: ../../usermanual/um_4_spreadsheet.rst:10
+#: ../../usermanual/um_4_spreadsheet.rst:11
 msgid "Data Variables"
 msgstr "Datavariabler"
 
-#: ../../usermanual/um_4_spreadsheet.rst:12
+#: ../../usermanual/um_4_spreadsheet.rst:13
 msgid ""
 "The most commonly used variables in jamovi are “Data Variables”, these "
-"variables simply contain data either loaded from a data file, or \"typed in"
-"\" by the user. Data variables can be one three data types:"
+"variables simply contain data either loaded from a data file, or “typed "
+"in” by the user. Data variables can be one three data types:"
 msgstr ""
 "De mest brukte variablene i jamovi er «Datavariabler». Disse variablene "
-"inneholder data som enten lastes inn fra en datafil, eller «skrevet inn» av "
-"brukeren. Datavariabler kan være én av tre datatyper:"
+"inneholder data som enten lastes inn fra en datafil, eller «skrevet inn» "
+"av brukeren. Datavariabler kan være én av tre datatyper:"
 
-#: ../../usermanual/um_4_spreadsheet.rst:15
+#: ../../usermanual/um_4_spreadsheet.rst:17
 msgid "``Integer``"
 msgstr "``Integer``"
 
-#: ../../usermanual/um_4_spreadsheet.rst:16
+#: ../../usermanual/um_4_spreadsheet.rst:18
 msgid "``Decimal``"
 msgstr "``Decimal``"
 
-#: ../../usermanual/um_4_spreadsheet.rst:17
+#: ../../usermanual/um_4_spreadsheet.rst:19
 msgid "``Text``"
 msgstr "``Text``"
 
-#: ../../usermanual/um_4_spreadsheet.rst:19
+#: ../../usermanual/um_4_spreadsheet.rst:21
 msgid "and one of four measure types:"
 msgstr "og en av fire målenivåer:"
 
-#: ../../usermanual/um_4_spreadsheet.rst:21
+#: ../../usermanual/um_4_spreadsheet.rst:23
 msgid "|nominal|    ``Nominal``"
 msgstr "|nominal|    ``Nominal``"
 
-#: ../../usermanual/um_4_spreadsheet.rst:122
+#: ../../usermanual/um_4_spreadsheet.rst:439
 msgid "nominal"
 msgstr "nominal"
 
-#: ../../usermanual/um_4_spreadsheet.rst:22
+#: ../../usermanual/um_4_spreadsheet.rst:24
 msgid "|ordinal|    ``Ordinal``"
 msgstr "|ordinal|    ``Ordinal``"
 
-#: ../../usermanual/um_4_spreadsheet.rst:124
+#: ../../usermanual/um_4_spreadsheet.rst:441
 msgid "ordinal"
 msgstr "ordinal"
 
-#: ../../usermanual/um_4_spreadsheet.rst:23
+#: ../../usermanual/um_4_spreadsheet.rst:25
 msgid "|continuous| ``Continuous``"
 msgstr "|continuous| ``Continuous``"
 
-#: ../../usermanual/um_4_spreadsheet.rst:126
+#: ../../usermanual/um_4_spreadsheet.rst:443
 msgid "continuous"
 msgstr "continuous"
 
-#: ../../usermanual/um_4_spreadsheet.rst:24
+#: ../../usermanual/um_4_spreadsheet.rst:26
 msgid "|id|         ``ID``"
 msgstr "|id|         ``ID``"
 
-#: ../../usermanual/um_4_spreadsheet.rst:128
+#: ../../usermanual/um_4_spreadsheet.rst:445
 msgid "id"
 msgstr "id"
 
-#: ../../usermanual/um_4_spreadsheet.rst:27
+#: ../../usermanual/um_4_spreadsheet.rst:29
 msgid ""
 "The measure types are designated by the symbol in the header of the "
-"variable’s column. Note that some combinations of data-type and measure-type "
-"don’t make sense, and jamovi won’t let you choose these."
+"variable’s column. Note that some combinations of data-type and measure-"
+"type don’t make sense, and jamovi won’t let you choose these."
 msgstr ""
-"Målenivåne er angitt med symbolet i overskriften til variabelens kolonne. "
-"Merk at noen kombinasjoner av datatype og måletype ikke gir mening, og "
+"Målenivåne er angitt med symbolet i overskriften til variabelens kolonne."
+" Merk at noen kombinasjoner av datatype og måletype ikke gir mening, og "
 "jamovi lar deg ikke velge disse."
 
-#: ../../usermanual/um_4_spreadsheet.rst:30
+#: ../../usermanual/um_4_spreadsheet.rst:33
 msgid ""
 "``Nominal`` and ``Ordinal`` are, predictably, for nominal and ordinal "
 "variables. ``Continuous`` is for variables with numeric values which are "
-"considered to be *Interval* or *Ratio* scales (Equivalent to ``Scale`` in "
-"SPSS). The ``ID`` measure type is, unlike the others, unique to jamovi. It’s "
-"intended for variables that contain identifiers that you would almost never "
-"want to analyse. For example, a persons name, or a participant ID. The "
-"advantage of IDs, is that jamovi does not need to maintain a list of levels "
-"internally, which can improve performance when interacting with very large "
-"data sets."
+"considered to be *Interval* or *Ratio* scales (Equivalent to ``Scale`` in"
+" SPSS). The ``ID`` measure type is, unlike the others, unique to jamovi. "
+"It’s intended for variables that contain identifiers that you would "
+"almost never want to analyse. For example, a persons name, or a "
+"participant ID. The advantage of IDs, is that jamovi does not need to "
+"maintain a list of levels internally, which can improve performance when "
+"interacting with very large data sets."
 msgstr ""
 "``Nominal`` og ``Ordinal`` er for nominale og ordinale variabler. "
 "``Continuous`` er for variabler med numeriske verdier som anses å være "
@@ -536,180 +471,588 @@ msgstr ""
 "trenger å opprettholde en liste over nivåer internt. Det kan forbedre "
 "prosesseringshastighet når du bruker svært store datasett."
 
-#: ../../usermanual/um_4_spreadsheet.rst:35
+#: ../../usermanual/um_4_spreadsheet.rst:43
 msgid ""
-"When starting with a blank spreadsheet and typing values in, the data and "
-"measure types will change automatically depending on the data you enter. "
-"This is a good way to get a feel for which variable types go with which "
-"sorts of data. Similarly, when opening a data file, jamovi will infer the "
-"variable type from the data in each column. In both cases, this automatic "
-"approach may not be correct, and it may be necessary to manually specify the "
-"data and measure type with the variable editor."
+"When starting with a blank spreadsheet and typing values in, the data and"
+" measure types will change automatically depending on the data you enter."
+" This is a good way to get a feel for which variable types go with which "
+"sorts of data. Similarly, when opening a data file, jamovi will infer the"
+" variable type from the data in each column. In both cases, this "
+"automatic approach may not be correct, and it may be necessary to "
+"manually specify the data and measure type with the variable editor."
 msgstr ""
 "Når du starter med et tomt regneark og skriver inn verdier, så endres "
-"dataene og målenivåene automatisk avhengig av dataene du skriver inn. Dette "
-"er en god måte å få en følelse av hvilke målenivåer brukes med hvilken slags "
-"data. På samme måte vil jamovi bestemme målenivået fra dataene i hver "
-"kolonne når du åpner en datafil. I begge tilfeller kan det hende at den "
-"automatiske tilnærmingen ikke er riktig, og det kan være nødvendig å manuelt "
-"angi data- og målenivå med å redigere variabelen."
+"dataene og målenivåene automatisk avhengig av dataene du skriver inn. "
+"Dette er en god måte å få en følelse av hvilke målenivåer brukes med "
+"hvilken slags data. På samme måte vil jamovi bestemme målenivået fra "
+"dataene i hver kolonne når du åpner en datafil. I begge tilfeller kan det"
+" hende at den automatiske tilnærmingen ikke er riktig, og det kan være "
+"nødvendig å manuelt angi data- og målenivå med å redigere variabelen."
 
-#: ../../usermanual/um_4_spreadsheet.rst:40
+#: ../../usermanual/um_4_spreadsheet.rst:51
 msgid ""
-"The variable editor can be invoked by selecting ``Setup`` from the ``Data`` "
-"tab, double-clicking on the column header, or by pressing ``F3``. The "
-"variable editor allows you to change the name of the variable, and (for data "
-"variables) the data type, the measure type, the order of the levels, and the "
-"label displayed for each level. The variable editor can be dismissed by "
-"clicking the close arrow, or by pressing ``F3`` again."
+"The variable editor can be invoked by selecting ``Setup`` from the "
+"``Data`` tab, double-clicking on the column header, or by pressing "
+"``F3``. The variable editor allows you to change the name of the "
+"variable, and (for data variables) the data type, the measure type, the "
+"order of the levels, and the label displayed for each level. The variable"
+" editor can be dismissed by clicking the close arrow, or by pressing "
+"``F3`` again."
 msgstr ""
 "Variabelredigering kan startes ved å velge ``Setup`` fra ``Data``-fanen, "
 "dobbeltklikke på kolonneoverskriften eller ved å trykke ``F3``. "
 "Variabelredigering lar deg endre navnet på variabelen, og (for "
 "datavariabler) datatypen, målenivå, rekkefølgen på nivåene / trinnene og "
-"beskrivelse som vises for hvert nivå. Variabelredigering kan lukkes ved å "
-"klikke på lukkepilen eller ved å trykke ``F3`` på nytt."
+"beskrivelse som vises for hvert nivå. Variabelredigering kan lukkes ved å"
+" klikke på lukkepilen eller ved å trykke ``F3`` på nytt."
 
-#: ../../usermanual/um_4_spreadsheet.rst:50
+#: ../../usermanual/um_4_spreadsheet.rst:63
 msgid ""
-"New variables can be inserted or appended to the data set using the ``Add`` "
-"button from the data ribbon. The ``Add`` button also allows the addition of "
-"*Computed variables*."
+"New variables can be inserted or appended to the data set using the "
+"``Add`` button from the data ribbon. The ``Add`` button also allows the "
+"addition of *Computed variables*."
 msgstr ""
-"Nye variabler kan settes inn eller legges til datasettet ved å bruke ``Add``-"
-"knappen fra ``Data``-fanen. ``Add``-knappen lar også legge til *Beregnede "
-"variabler*."
+"Nye variabler kan settes inn eller legges til datasettet ved å bruke "
+"``Add``-knappen fra ``Data``-fanen. ``Add``-knappen lar også legge til "
+"*Beregnede variabler*."
 
-#: ../../usermanual/um_4_spreadsheet.rst:55
+#: ../../usermanual/um_4_spreadsheet.rst:69
 msgid "Computed Variables"
 msgstr "Beregnede variabler"
 
-#: ../../usermanual/um_4_spreadsheet.rst:57
+#: ../../usermanual/um_4_spreadsheet.rst:71
 msgid ""
 "Computed Variables are those which take their value by performing a "
-"computation on other Variables. Computed Variables can be used for a range "
-"of purposes, including log transforms, z-scores, sum-scores, negative "
-"scoring and means."
+"computation on other Variables. Computed Variables can be used for a "
+"range of purposes, including log transforms, z-scores, sum-scores, "
+"negative scoring and means."
 msgstr ""
-"Beregnede variabler er variabler som tar verdien ved å utføre en beregning "
-"basert på andre variabler. Beregnede variabler kan brukes til en rekke "
-"formål, inkludert logaritmiske transformasjoner, z-transformasjoner, "
-"poengsummer, inversjon av skalaitems, gjennomsnitter, osv."
+"Beregnede variabler er variabler som tar verdien ved å utføre en "
+"beregning basert på andre variabler. Beregnede variabler kan brukes til "
+"en rekke formål, inkludert logaritmiske transformasjoner, "
+"z-transformasjoner, poengsummer, inversjon av skalaitems, gjennomsnitter,"
+" osv."
 
-#: ../../usermanual/um_4_spreadsheet.rst:60
+#: ../../usermanual/um_4_spreadsheet.rst:76
 msgid ""
 "*Computed variable*\\ s can be added to the data set, with the ``Add`` "
-"button available on the data tab. This will produce a formula box where you "
-"can specify the formula. The usual arithmetic operators are available. Some "
-"examples of formulas are:"
+"button available on the data tab. This will produce a formula box where "
+"you can specify the formula. The usual arithmetic operators are "
+"available. Some examples of formulas are:"
 msgstr ""
-"*Beregnede variabler* kan legges til datasettet, med ``Legg til``-knappen "
-"tilgjengelig på ``Data``-fanen. Dette vil produsere en inngavefelt hvor du "
-"kan spesifisere formelen. I tillegg er de vanlige aritmetiske operatorene "
-"tilgjengelige. Noen eksempler på formler er:"
+"*Beregnede variabler* kan legges til datasettet, med ``Legg til``-knappen"
+" tilgjengelig på ``Data``-fanen. Dette vil produsere en inngavefelt hvor "
+"du kan spesifisere formelen. I tillegg er de vanlige aritmetiske "
+"operatorene tilgjengelige. Noen eksempler på formler er:"
 
-#: ../../usermanual/um_4_spreadsheet.rst:72
+#: ../../usermanual/um_4_spreadsheet.rst:90
 msgid ""
 "In order, these are the sum of A and B, a log (base 10) transform of "
-"``len``, the mean of ``A`` and ``B``, and the z-score of ``dose`` (twice)."
+"``len``, the mean of ``A`` and ``B``, and the z-score of ``dose`` "
+"(twice)."
 msgstr ""
-"I rekkefølge er disse summen av A og B, en logaritmisk transformasjon (med "
-"basis 10) av ``len``, gjennomsnittet av ``A`` og ``B``, og z-transformasjon "
-"for ``dose`` (med to forskjellige beregningsmåter)."
+"I rekkefølge er disse summen av A og B, en logaritmisk transformasjon "
+"(med basis 10) av ``len``, gjennomsnittet av ``A`` og ``B``, og "
+"z-transformasjon for ``dose`` (med to forskjellige beregningsmåter)."
 
-#: ../../usermanual/um_4_spreadsheet.rst:74
+#: ../../usermanual/um_4_spreadsheet.rst:93
 msgid "There are many more functions available."
 msgstr "Det er mange flere funksjoner tilgjengelig."
 
-#: ../../usermanual/um_4_spreadsheet.rst:78
+#: ../../usermanual/um_4_spreadsheet.rst:97
 msgid "``V``-functions"
 msgstr "``V``-funksjoner"
 
-#: ../../usermanual/um_4_spreadsheet.rst:80
+#: ../../usermanual/um_4_spreadsheet.rst:99
 msgid ""
 "A number of functions appear in pairs, one prefixed with a ``V`` and the "
 "other not. ``V`` functions perform their calculation on a variable *as a "
-"whole*, where as non-``V`` functions perform their calculation row by row. "
-"For example, ``MEAN(A, B)`` will produce the mean of ``A`` and ``B`` for "
-"each row. Whereas ``VMEAN(A)`` gives the mean of *all* the values in ``A``."
+"whole*, where as non-``V`` functions perform their calculation row by "
+"row. For example, ``MEAN(A, B)`` will produce the mean of ``A`` and ``B``"
+" for each row. Whereas ``VMEAN(A)`` gives the mean of *all* the values in"
+" ``A``."
 msgstr ""
 "En rekke funksjoner kommer i par, den ene prefikset med en ``V`` og den "
-"andre ikke. ``V``-funksjoner utfører sin beregning på en variabel *som en "
-"helhet*, mens ikke-``V``-funksjoner utfører sin beregning rad for rad. For "
-"eksempel vil ``MEAN(A, B)`` produsere gjennomsnittet av ``A`` og ``B`` for "
-"hver rad mens ``VMEAN(A)`` gir gjennomsnittet av *alle* verdiene i ``A``."
+"andre ikke. ``V``-funksjoner utfører sin beregning på en variabel *som en"
+" helhet*, mens ikke-``V``-funksjoner utfører sin beregning rad for rad. "
+"For eksempel vil ``MEAN(A, B)`` produsere gjennomsnittet av ``A`` og "
+"``B`` for hver rad mens ``VMEAN(A)`` gir gjennomsnittet av *alle* "
+"verdiene i ``A``."
 
-#: ../../usermanual/um_4_spreadsheet.rst:84
+#: ../../usermanual/um_4_spreadsheet.rst:105
 msgid ""
 "Additionally ``V`` functions support a ``group_by`` argument. When a "
-"``group_by`` variable is specified, a separate value is calculated for each "
-"level of the ``group_by`` variable. In the following example:"
+"``group_by`` variable is specified, a separate value is calculated for "
+"each level of the ``group_by`` variable. In the following example:"
 msgstr ""
 "I tillegg støtter ``V``-funksjoner et ``group_by``-argument. Når en "
 "``group_by``-variabel er spesifisert, beregnes det en separat verdi for "
 "hvert nivå av ``group_by``-variabelen. I følgende eksempel:"
 
-#: ../../usermanual/um_4_spreadsheet.rst:92
+#: ../../usermanual/um_4_spreadsheet.rst:114
 msgid ""
-"A separate mean is calculated for each level of ``dose``, and each value in "
-"the computed variable will be the mean corresponding to it’s row’s value of "
-"``dose``."
+"A separate mean is calculated for each level of ``dose``, and each value "
+"in the computed variable will be the mean corresponding to it’s row’s "
+"value of ``dose``."
 msgstr ""
-"Et separat gjennomsnitt beregnes for hvert nivå av ``dose``, og hver verdi i "
-"den beregnede variabelen vil være gjennomsnittet som tilsvarer radens verdi "
-"av ``dose``."
+"Et separat gjennomsnitt beregnes for hvert nivå av ``dose``, og hver "
+"verdi i den beregnede variabelen vil være gjennomsnittet som tilsvarer "
+"radens verdi av ``dose``."
 
-#: ../../usermanual/um_4_spreadsheet.rst:97
-msgid "Recoded Variables"
-msgstr "Omkoderte variabler"
+#: ../../usermanual/um_4_spreadsheet.rst:120
+msgid "Transformed (Recoded) Variables"
+msgstr "Transformerte (omkoderte) variabler"
 
-#: ../../usermanual/um_4_spreadsheet.rst:99
+#: ../../usermanual/um_4_spreadsheet.rst:122
 msgid ""
-"Transformed and recoded variables are also available. See this `blog post "
-"<https://blog.jamovi.org/2018/10/23/transforming-variables.html>`__ for "
-"details."
+"While computed variables are great for a lot of operations (e.g., "
+"calculating sum scores, generating data, etc.), they can be a bit tedious"
+" to use when you want to recode or transform multiple variables (e.g., "
+"when reverse-scoring multiple responses in a survey data set). "
+"“Transformed variables” allow you to easily recode existing variables and"
+" apply transforms across many variables at once."
 msgstr ""
-"jamovi også tillater å lage transformerte og omkoderte variabler. Se dette "
-"`blogginnlegget <https://blog.jamovi.org/2018/10/23/transforming-variables."
-"html>`__ (på Engelsk) for mer omfattende informasjon."
 
-#: ../../usermanual/um_4_spreadsheet.rst:103
+#: ../../usermanual/um_4_spreadsheet.rst:130
+msgid "**Creating transformed variables**"
+msgstr ""
+
+#: ../../usermanual/um_4_spreadsheet.rst:136
+msgid ""
+"When transforming or recoding variables in jamovi, a second “transformed "
+"variable” is created for the original “source variable”. This way, you "
+"will always have access to the original, untransformed data if need be. "
+"To transform a variable, first select the column(s) you would like to "
+"transform. You can select a block of columns by clicking on the first "
+"column header in the block and then clicking on the last column header in"
+" the block while holding the shift key. Alternatively, you can select / "
+"deselect individual columns by clicking on the column headers while "
+"holding down the Ctrl / Cmd key. Once selected, you can either select "
+"``Transform`` from the data tab, or right click and choose ``Transform`` "
+"from the menu."
+msgstr ""
+
+#: ../../usermanual/um_4_spreadsheet.rst:147
+msgid ""
+"Either right-click on one of the selected variables, and click "
+"``Transform...``:"
+msgstr ""
+
+#: ../../usermanual/um_4_spreadsheet.rst:150
+msgid "|um_transform_create1|"
+msgstr "|um_transform_create1|"
+
+#: ../../usermanual/um_4_spreadsheet.rst:448
+msgid "um_transform_create1"
+msgstr "um_transform_create1"
+
+#: ../../usermanual/um_4_spreadsheet.rst:152
+msgid "or head to the ``Data``-ribbon, and click ``Transform:``"
+msgstr ""
+
+#: ../../usermanual/um_4_spreadsheet.rst:154
+msgid "|um_transform_create2|"
+msgstr "|um_transform_create2|"
+
+#: ../../usermanual/um_4_spreadsheet.rst:449
+msgid "um_transform_create2"
+msgstr "um_transform_create2"
+
+#: ../../usermanual/um_4_spreadsheet.rst:156
+msgid ""
+"This constructs a second “transformed variable” for each column that was "
+"selected. In the following example, we only had a single variable "
+"selected, so we’re only setting up the transform for one variable (called"
+" score - log), but there’s no reason we can’t do more in one go."
+msgstr ""
+
+#: ../../usermanual/um_4_spreadsheet.rst:161
+msgid "|um_transform_create3|"
+msgstr "|um_transform_create3|"
+
+#: ../../usermanual/um_4_spreadsheet.rst:450
+msgid "um_transform_create3"
+msgstr "um_transform_create3"
+
+#: ../../usermanual/um_4_spreadsheet.rst:163
+msgid ""
+"As can be seen in the figure above, each transformed variable has a "
+"“source variable”, representing the original untransformed variable, and "
+"a transform, representing rules to transform the source variable into the"
+" transformed variable. After a transform has been created, it’s available"
+" from the list and can be shared easily across multiple transformed "
+"variables."
+msgstr ""
+
+#: ../../usermanual/um_4_spreadsheet.rst:170
+msgid ""
+"If you don’t yet have the appropriate transform defined, you can select "
+"``Create new transform...`` from the list."
+msgstr ""
+
+#: ../../usermanual/um_4_spreadsheet.rst:174
+msgid "**Create a new transformation**"
+msgstr ""
+
+#: ../../usermanual/um_4_spreadsheet.rst:176
+msgid ""
+"After clicking ``Create new transform...`` the transform editor slides "
+"into view:"
+msgstr ""
+
+#: ../../usermanual/um_4_spreadsheet.rst:179
+msgid "|um_transform_edit1|"
+msgstr "|um_transform_edit1|"
+
+#: ../../usermanual/um_4_spreadsheet.rst:451
+msgid "um_transform_edit1"
+msgstr "um_transform_edit1"
+
+#: ../../usermanual/um_4_spreadsheet.rst:181
+msgid "The transform editor contains these elements."
+msgstr ""
+
+#: ../../usermanual/um_4_spreadsheet.rst:183
+msgid "*Name*: The name for the transformation."
+msgstr ""
+
+#: ../../usermanual/um_4_spreadsheet.rst:185
+msgid ""
+"*Description*: Space for you to provide a description of the "
+"transformation so you (and others) know what it does."
+msgstr ""
+
+#: ../../usermanual/um_4_spreadsheet.rst:188
+msgid ""
+"*Variable suffix* (optional): Here, you can define the default name "
+"formatting for the transformed variable. By default, the variable suffix "
+"will be appended to the source variable name with a dash (-) in between. "
+"However, you can override this behavior by using an three dots (...), "
+"which will be replaced by the variable name. For instance, if you "
+"transform a variable called Q1, you could use variable suffixes to apply "
+"the following naming schemes (if left empty, the transformation name is "
+"used as the variable suffix):"
+msgstr ""
+
+#: ../../usermanual/um_4_spreadsheet.rst:197
+msgid ""
+"``log``        → ``Q1 - log`` ``..._log``  → ``Q1_log`` ``log(...)`` → "
+"``log(Q1)``"
+msgstr ""
+
+#: ../../usermanual/um_4_spreadsheet.rst:201
+msgid ""
+"*Transformation*: This section contains the rules and formulas for the "
+"transformation. You can use all the same functions that are available in "
+"computed variables, and to refer to the values in the source column (so "
+"you can transform them), you can use the special ``$source`` keyword. If "
+"you want to recode a variable into multiple groups, it’s easiest to use "
+"multiple conditions. To add additional conditions (i.e., if-statements), "
+"you click on the ``Add recode condition`` button:"
+msgstr ""
+
+#: ../../usermanual/um_4_spreadsheet.rst:213
+msgid ""
+"*Used by*: Indicates how many variables are using this particular "
+"transformation. If you click on the number it will list these variables."
+msgstr ""
+
+#: ../../usermanual/um_4_spreadsheet.rst:216
+msgid ""
+"*Measure type*: By default the measure type is set to Auto, which will "
+"infer the measure type automatically from the transformation. However, if"
+" Auto doesn’t infer the measure type correctly, you can override it over "
+"here."
+msgstr ""
+
+#: ../../usermanual/um_4_spreadsheet.rst:222
+msgid "**Example 1: Reverse scoring of items**"
+msgstr ""
+
+#: ../../usermanual/um_4_spreadsheet.rst:224
+msgid ""
+"Survey data often contains one or more items whose values need to be "
+"reversed before analyzing them. For example, we might be measuring "
+"extraversion with the questions “I like to go to parties”, “I love being "
+"around people”, and “I prefer to keep to myself”. Clearly a person "
+"responding 6 (strongly agree) to this last question shouldn’t be "
+"considered an extravert, and so 6 should be treated as 1, 5 as 2, 1 as 6,"
+" etc. To reverse score these items, we can just use the following simple "
+"transform:"
+msgstr ""
+
+#: ../../usermanual/um_4_spreadsheet.rst:232
+msgid "|um_transform_ex1|"
+msgstr "|um_transform_ex1|"
+
+#: ../../usermanual/um_4_spreadsheet.rst:452
+msgid "um_transform_ex1"
+msgstr "um_transform_ex1"
+
+#: ../../usermanual/um_4_spreadsheet.rst:234
+msgid ""
+"You can explore this transform by `downloading "
+"<../_static/output/um_transform_ex1.omv>` and opening the file "
+"``transform_ex1`` in jamovi."
+msgstr ""
+
+#: ../../usermanual/um_4_spreadsheet.rst:239
+msgid "**Example 2: Recoding continuous variables into categories**"
+msgstr ""
+
+#: ../../usermanual/um_4_spreadsheet.rst:241
+msgid ""
+"In a lot of data sets people want to recode their continuous scores into "
+"categories. For example, we may want to classify people, based on their "
+"0-100% test scores into one of three groups, ``Pass``, ``Resit`` and "
+"``Fail``."
+msgstr ""
+
+#: ../../usermanual/um_4_spreadsheet.rst:246
+msgid "|um_transform_ex2|"
+msgstr "|um_transform_ex2|"
+
+#: ../../usermanual/um_4_spreadsheet.rst:453
+msgid "um_transform_ex2"
+msgstr "um_transform_ex2"
+
+#: ../../usermanual/um_4_spreadsheet.rst:248
+msgid ""
+"Note that the conditions are executed in order, and that only the first "
+"rule that matches the case is applied to that case. So this "
+"transformation basically says that if the source variable has a value "
+"below 50, the value will be ``Fail``, if the source variable has a value "
+"between 50 and 60, the value will be ``Resit``, and if the source "
+"variable has a value above 60, the value will be ``Pass``. If you’d like "
+"an example data set to play around with, you can `download "
+"<../_static/output/um_transform_ex2.omv>` and use ``transform_ex2.omv``."
+msgstr ""
+
+#: ../../usermanual/um_4_spreadsheet.rst:258
+msgid "**Example 3: Replacing missing values**"
+msgstr ""
+
+#: ../../usermanual/um_4_spreadsheet.rst:260
+msgid ""
+"Now, let’s say your data set has a lot of missing values and removing the"
+" participants with missing values will end up in a severe loss of "
+"participants. There are a number of ways to deal with missing data, of "
+"which imputation is quite common. One pretty straightforward imputation "
+"method replaces the missing values with the variable mean (i.e., mean "
+"substitution). Although there are a bunch of problems associated with "
+"mean substitution and you should probably never do it, it does make for a"
+" neat demonstration..."
+msgstr ""
+
+#: ../../usermanual/um_4_spreadsheet.rst:269
+msgid "|um_transform_ex3|"
+msgstr "|um_transform_ex3|"
+
+#: ../../usermanual/um_4_spreadsheet.rst:454
+msgid "um_transform_ex3"
+msgstr "um_transform_ex3"
+
+#: ../../usermanual/um_4_spreadsheet.rst:271
+msgid ""
+"Note that jamovi has borrowed NA from R to denote missing values. Don’t "
+"have a good data set handy? You can try it out yourself by `downloading "
+"<../_static/output/um_transform_ex3.omv>` and opening the "
+"``transform_ex3.omv`` data set."
+msgstr ""
+
+#: ../../usermanual/um_4_spreadsheet.rst:278
 msgid "Filters"
 msgstr "Filtre"
 
-#: ../../usermanual/um_4_spreadsheet.rst:105
+#: ../../usermanual/um_4_spreadsheet.rst:280
 msgid ""
-"Filters in jamovi allow you to filter out rows that you don’t want included "
-"in your analysis. For example, you might want to only include people’s "
-"survey responses if they explicitly consented to having their data used, or "
-"you might want to exclude all left-handed people, or perhaps people who "
-"score “below chance” in an experimental task. In some cases you just want to "
-"exclude extreme scores, for example those that score more than 3 standard "
-"deviations from the mean."
+"Filters in jamovi allow you to filter out rows that you don’t want "
+"included in your analysis. For example, you might want to only include "
+"people’s survey responses if they explicitly consented to having their "
+"data used, or you might want to exclude all left-handed people, or "
+"perhaps people who score “below chance” in an experimental task. In some "
+"cases you just want to exclude extreme scores, for example those that "
+"score more than 3 standard deviations from the mean."
 msgstr ""
-"Filtre i jamovi lar deg filtrere ut rader du ikke vil ha med i analysen din. "
-"For eksempel vil du kanskje ekskludere undersøkelsessvar fra deltakerne som "
-"ikke eksplisitt samtykket til å buke dataene deres, eller du vil ekskludere "
-"alle venstrehendte personer, eller personer som skårer «under tillfallsnivå» "
-"i en eksperimentell oppgave. I noen tilfeller vil du bare ekskludere "
-"ekstreme skårer, for eksempel de som skårer mer enn 3 standardavvik fra "
-"gjennomsnittet."
+"Filtre i jamovi lar deg filtrere ut rader du ikke vil ha med i analysen "
+"din. For eksempel vil du kanskje ekskludere undersøkelsessvar fra "
+"deltakerne som ikke eksplisitt samtykket til å buke dataene deres, eller "
+"du vil ekskludere alle venstrehendte personer, eller personer som skårer "
+"«under tillfallsnivå» i en eksperimentell oppgave. I noen tilfeller vil "
+"du bare ekskludere ekstreme skårer, for eksempel de som skårer mer enn 3 "
+"standardavvik fra gjennomsnittet."
 
-#: ../../usermanual/um_4_spreadsheet.rst:110
+#: ../../usermanual/um_4_spreadsheet.rst:288
 msgid ""
 "The filters in jamovi are build on top of jamovi’s *computed variable* "
-"formula system, which allows the building of arbitrarily complex formulas."
+"formula system, which allows the building of arbitrarily complex "
+"formulas."
 msgstr ""
-"Filtrene i jamovi er bygget på jamovis *beregnede variabel*-formelsystem. "
-"Det gjør det mulig å bygge svært komplekse formler."
+"Filtrene i jamovi er bygget på jamovis *beregnede variabel*-formelsystem."
+" Det gjør det mulig å bygge svært komplekse formler."
 
-#: ../../usermanual/um_4_spreadsheet.rst:112
-msgid ""
-"More details about filters are covered in this `blog post <https://blog."
-"jamovi.org/2018/04/25/jamovi-filters.html>`__"
+#: ../../usermanual/um_4_spreadsheet.rst:291
+msgid "**Row filters**"
 msgstr ""
-"Flere detaljer om filtre er dekket i dette `blogginnlegget <https://blog."
-"jamovi.org/2018/04/25/jamovi-filters.html>`__ (på Engelsk)."
+
+#: ../../usermanual/um_4_spreadsheet.rst:293
+msgid ""
+"jamovi filters are demonstrated using the ``Tooth Growth`` data set which"
+" is included with jamovi (``☰`` → ``Open`` → ``Data Library``). Select "
+"the ``Filters button`` from the ``Data`` ribbon. This opens the filter "
+"view and creates a new filter called ``Filter 1``."
+msgstr ""
+
+#: ../../usermanual/um_4_spreadsheet.rst:302
+msgid ""
+"In the short video, we specify a filter to exclude the 9th row. Perhaps "
+"we know that the 9th participant was someone just testing the survey "
+"system, and not a proper participant (``Tooth Growth`` is actually about "
+"the length of guinea pig teeth, so perhaps we know that the 9th "
+"participant was a rabbit). We can simply exclude them with the formula:"
+msgstr ""
+
+#: ../../usermanual/um_4_spreadsheet.rst:312
+msgid ""
+"In this expression the ``!=`` means ‘does not equal’. If you’ve ever used"
+" a programming language like R this should be very familiar. Filters in "
+"jamovi exclude the rows for which the formula is not true. in this case, "
+"the expression ``ROW() != 9`` is true for all rows except the 9th row. "
+"When we apply this filter, the tick in the ``Filter 1`` column of the 9th"
+" row changes to a cross, and the whole row greys out. If we were to run "
+"an analysis now, it would run as though the 9th row wasn’t there. "
+"Similarly, if we already had run some analyses, they would re-run and the"
+" results would update to values not using the 9th row."
+msgstr ""
+
+#: ../../usermanual/um_4_spreadsheet.rst:322
+msgid ""
+"Typically, we would like to have more complex filters than this! The "
+"``Tooth Growth`` example contains the length of teeth from guinea pigs "
+"(the ``len`` column) fed different dosages (the ``dose`` column) of "
+"supplements: vitamin C or orange juice (recorded in the ``supp`` column "
+"as ``VC`` and ``OJ``). Let’s assume that we’re interested in the effect "
+"of dosage on tooth length. We might run an ANOVA with ``len`` as the "
+"dependent variable, and ``dose`` as the grouping variable. But let’s say "
+"that we’re only interested in the effects of vitamin C, and not of orange"
+" juice. Then, we can use the formula:"
+msgstr ""
+
+#: ../../usermanual/um_4_spreadsheet.rst:335
+msgid ""
+"In fact we can specify this formula in addition to the ``ROW() != 9`` "
+"formula if we like. We can add it as another expression to ``Filter 1`` "
+"(by clicking the small ``+`` beside the first formula), or we can add it "
+"as an additional filter (by selecting the large ``+`` to the left of the "
+"filters dialog box). As we’ll see, adding an expression to an existing "
+"filter does not provide exactly the same behaviour as creating a separate"
+" filter. In this case however, it doesn’t make a difference, so we’ll "
+"just add it to the existing filter. This additional expression comes to "
+"be represented with its own column as well, and by looking at the ticks "
+"and crosses, we can see which filter or expression is responsible for "
+"excluding each row."
+msgstr ""
+
+#: ../../usermanual/um_4_spreadsheet.rst:346
+msgid ""
+"But let’s say we want to exclude from the analysis all the tooth lengths "
+"that were more than 1.5 standard deviations from the mean. To do this, "
+"we’d take a z-score, and check that it falls between -1.5 and 1.5. we "
+"could use one of the following formulas (this second formula is a great "
+"way to demonstrate to students what a z-score is):"
+msgstr ""
+
+#: ../../usermanual/um_4_spreadsheet.rst:357
+msgid ""
+"There are a lot of functions available in jamovi, and you can see them by"
+" clicking the small *f*\\ :sub:`x` beside the formula box."
+msgstr ""
+
+#: ../../usermanual/um_4_spreadsheet.rst:360
+msgid ""
+"Now let’s add this z-score formula to a separate filter by clicking the "
+"large ``+`` to the left of the filters, and adding it to ``Filter 2``."
+msgstr ""
+
+#: ../../usermanual/um_4_spreadsheet.rst:367
+msgid ""
+"With multiple filters, the filtered rows cascade from one filter into the"
+" next. So only the rows allowed through by ``Filter 1`` are used in the "
+"calculations for ``Filter 2``. In this case, the mean and standard "
+"deviation for the z-score will be based only on the vitamin C rows (and "
+"also not on row 9). In contrast, if we’d specified our ``Z()`` filter as "
+"an additional expression in ``Filter 1``, then the mean and standard "
+"deviation for the z-score would be based on the entire dataset. In this "
+"way you can specify arbitrarily complex rules for when a row should be "
+"included in analyses or not (but you should pre-register your rules).\\ "
+"[#]_"
+msgstr ""
+
+#: ../../usermanual/um_4_spreadsheet.rst:378
+msgid "**Column filters**"
+msgstr ""
+
+#: ../../usermanual/um_4_spreadsheet.rst:380
+msgid ""
+"Whereas row filters are applied to the data set as a whole, sometimes you"
+" want to just filter individual columns. Column filters come in handy "
+"when you want to filter some rows for some analyses, but not for all. "
+"This is achieved with the computed variable system. With the computed "
+"variables we create a copy of an existing column, but with the unwanted "
+"values excluded."
+msgstr ""
+
+#: ../../usermanual/um_4_spreadsheet.rst:386
+msgid ""
+"In the Tooth Growth example, we might want to analyse the doses of 500 "
+"and 1000, and 1000 and 2000 separately. To do this we create a new column"
+" for each subset. So in our example, we can select the dose column in the"
+" jamovi spreadsheet, and then select the Compute button from the data "
+"tab. This creates a new column to the right called dose (2), and same as "
+"the filters, we can enter a formula. in this case we’ll enter one of the "
+"formulas below (the do the same, the second is perhaps easier to "
+"understand):"
+msgstr ""
+
+#: ../../usermanual/um_4_spreadsheet.rst:399
+msgid ""
+"The first argument to the ``FILTER()`` function (in this example dose) is"
+" what values to use in the computed column. The second argument is the "
+"condition; when this condition isn’t satisfied, the value comes across "
+"blank (or as a “missing value” if you prefer). So with this formula, the "
+"``dose (2)`` column contains all the ``500`` and ``1000`` values, but the"
+" ``2000`` values are not there."
+msgstr ""
+
+#: ../../usermanual/um_4_spreadsheet.rst:406
+msgid ""
+"We might also change the name of the column to something more "
+"descriptive, like ``dose 5,10``. Similarly we can create a column ``dose "
+"10,20`` with the formula ``FILTER(dose, dose != 500)``. Now we can run "
+"two separate ANOVAs (or t-tests) using ``len`` as the dependent variable,"
+" and ``dose 5,10`` as one grouping variable in the first analysis, and "
+"``dose 10,20`` in the other. In this way we can use different filters for"
+" different analyses. Contrast this with row filters which are applied to "
+"*all* the analyses."
+msgstr ""
+
+#: ../../usermanual/um_4_spreadsheet.rst:419
+msgid ""
+"It may also have occurred to you, that with ``FILTER()`` we can do what "
+"might be called a “poor man’s split variables”: You can create splits "
+"using ``FILTER()``. For example, we could split ``len`` into two new "
+"columns ``len_VC`` and ``len_OJ`` with the functions ``FILTER(len, supp "
+"== 'VC')`` and ``FILTER(len, supp == 'OJ')`` respectively. This results "
+"in two separate columns which can be analysed side-by-side."
+msgstr ""
+
+#: ../../usermanual/um_4_spreadsheet.rst:432
+msgid ""
+"Pre-registration is a solution to `p-hacking "
+"<https://en.wikipedia.org/wiki/Data_dredging>`_, not deliberately making "
+"software difficult to use! Don’t p-hacking. Your p-hacking harms more "
+"people than you may assume."
+msgstr ""
 
 #: ../../usermanual/um_5_updating_data.rst:4
 msgid "Updating data"
@@ -717,69 +1060,68 @@ msgstr "Oppdater data"
 
 #: ../../usermanual/um_5_updating_data.rst:6
 msgid ""
-"Once a data set is set up with filters, computed variables, transforms and "
-"analyses, sometimes you may want to update the data. This may be for a "
-"number of reasons – It might be that you have a new data set, that you want "
-"to apply the analyses you performed earlier to it, or you may be conducting "
-"an experiment where you’re tesing a number of participants, and you now have "
-"an additional participant’s data to analyse. By importing into an existing "
-"data set you can re-run your analyses without having to re-perform all of "
-"your data cleaning and analysis steps (making your jamovi files behave a bit "
-"like scripts)."
+"Once a data set is set up with filters, computed variables, transforms "
+"and analyses, sometimes you may want to update the data. This may be for "
+"a number of reasons – It might be that you have a new data set, that you "
+"want to apply the analyses you performed earlier to it, or you may be "
+"conducting an experiment where you’re tesing a number of participants, "
+"and you now have an additional participant’s data to analyse. By "
+"importing into an existing data set you can re-run your analyses without "
+"having to re-perform all of your data cleaning and analysis steps (making"
+" your jamovi files behave a bit like scripts)."
 msgstr ""
 "Når et datasett er satt opp med filtre, beregnede variabler, "
-"transformeringer og analyser, kan det av og til være nødvendig å oppdatere "
-"dataene. Dette kan har flere grunner: Det kan være at du har et nytt "
-"datasett hvor du vil bruke analysene du utførte tidligere, eller du kan "
-"utføre et eksperiment hvor du få data fra en eller flere ekstra deltakere "
-"som du ønsker å analysere. Ved å importere til et eksisterende datasett kan "
-"du kjøre analysene på nytt uten å måtte utføre alle trinnene for datarensing "
-"og -analyse på nytt (jamovi-filene dine dermed oppfører seg litt som en "
-"skript)."
+"transformeringer og analyser, kan det av og til være nødvendig å "
+"oppdatere dataene. Dette kan har flere grunner: Det kan være at du har et"
+" nytt datasett hvor du vil bruke analysene du utførte tidligere, eller du"
+" kan utføre et eksperiment hvor du få data fra en eller flere ekstra "
+"deltakere som du ønsker å analysere. Ved å importere til et eksisterende "
+"datasett kan du kjøre analysene på nytt uten å måtte utføre alle trinnene"
+" for datarensing og -analyse på nytt (jamovi-filene dine dermed oppfører "
+"seg litt som en skript)."
 
 #: ../../usermanual/um_5_updating_data.rst:16
 msgid ""
-"For a video introduction to import and templates in jamovi, see this `blog "
-"post <https://blog.jamovi.org/2019/03/27/import.html>`__."
+"A summary of how to import multiple file and how to use templates in "
+"jamovi is provided in this `video introduction "
+"<https://youtu.be/u1K47yLEMbc>`__ (in English)."
 msgstr ""
-"For en videointroduksjon til import av data i jamovi og jamovi-maler "
-"(*templates*), du kan se på dette `blogginnlegget <https://blog.jamovi."
-"org/2019/03/27/import.html>`__ (på Engelsk)."
 
-#: ../../usermanual/um_5_updating_data.rst:21
+#: ../../usermanual/um_5_updating_data.rst:22
 msgid "Single-file Import"
 msgstr "Import av én fil"
 
-#: ../../usermanual/um_5_updating_data.rst:23
+#: ../../usermanual/um_5_updating_data.rst:24
 msgid ""
-"Import is available from the file menu (☰) at the top left of jamovi. When "
-"you import a file into an existing data set, the following operations are "
-"performed:"
+"Import is available from the file menu (☰) at the top left of jamovi. "
+"When you import a file into an existing data set, the following "
+"operations are performed:"
 msgstr ""
-"Import er tilgjengelig fra filmenyen (☰) øverst til venstre i jamovi. Når du "
-"importerer en fil til et eksisterende datasett, utføres følgende operasjoner:"
+"Import er tilgjengelig fra filmenyen (☰) øverst til venstre i jamovi. Når"
+" du importerer en fil til et eksisterende datasett, utføres følgende "
+"operasjoner:"
 
-#: ../../usermanual/um_5_updating_data.rst:27
+#: ../../usermanual/um_5_updating_data.rst:28
 msgid "All the rows of the existing data set are deleted."
 msgstr "Alle radene i det eksisterende datasettet slettes."
 
-#: ../../usermanual/um_5_updating_data.rst:28
+#: ../../usermanual/um_5_updating_data.rst:29
 msgid ""
-"All the (original) names of the existing columns are matched to the names of "
-"the columns from the new data set."
+"All the (original) names of the existing columns are matched to the names"
+" of the columns from the new data set."
 msgstr ""
 "Alle (opprinnelige) navn på de eksisterende kolonnene er sammenliknet og "
 "forbundet med navnene på kolonnene fra det nye datasettet."
 
-#: ../../usermanual/um_5_updating_data.rst:30
+#: ../../usermanual/um_5_updating_data.rst:31
 msgid ""
-"The new values are imported to the existing columns, *keeping* the data and "
-"measure types from the existing data set."
+"The new values are imported to the existing columns, *keeping* the data "
+"and measure types from the existing data set."
 msgstr ""
-"De nye verdiene importeres til de eksisterende kolonnene, ved å *beholde* "
-"dataene og målenivåene fra det eksisterende datasettet."
+"De nye verdiene importeres til de eksisterende kolonnene, ved å *beholde*"
+" dataene og målenivåene fra det eksisterende datasettet."
 
-#: ../../usermanual/um_5_updating_data.rst:32
+#: ../../usermanual/um_5_updating_data.rst:33
 msgid ""
 "The new columns which did not match names in the original data set are "
 "appended to the right of the data set."
@@ -787,7 +1129,7 @@ msgstr ""
 "De nye kolonnene som ikke samsvarte med navnene i det opprinnelige "
 "datasettet er lagt til til høyre for det opprinnelige datasettet."
 
-#: ../../usermanual/um_5_updating_data.rst:35
+#: ../../usermanual/um_5_updating_data.rst:36
 msgid ""
 "If no new column matches the column names in the existing data set, then "
 "those columns are left blank."
@@ -795,151 +1137,283 @@ msgstr ""
 "Hvis ingen ny kolonne samsvarer med kolonnenavnene i det eksisterende "
 "datasettet, blir disse kolonnene tomme."
 
-#: ../../usermanual/um_5_updating_data.rst:38
+#: ../../usermanual/um_5_updating_data.rst:39
 msgid ""
-"Following a file import, all the filters, computed variables, transforms and "
-"analyses update."
+"Following a file import, all the filters, computed variables, transforms "
+"and analyses update."
 msgstr ""
 "Etter en filimport oppdateres alle filtre, beregnede variabler, "
 "transformasjoner og analyser."
 
-#: ../../usermanual/um_5_updating_data.rst:43
+#: ../../usermanual/um_5_updating_data.rst:44
 msgid "Multi-file Import"
 msgstr "Import av flere filer"
 
-#: ../../usermanual/um_5_updating_data.rst:45
+#: ../../usermanual/um_5_updating_data.rst:46
 msgid ""
 "It is also possible to import multiple files at once. This can be useful "
 "when you are combining multiple data sets, for example, where each file "
-"represents a participant. The process is the same as the single-file import "
-"detailed above, except that you select multiple files when performing the "
-"import. You can do this by holding down control or shift when selecting data "
-"files, or with the “multi-select” button at the top of the import dialog."
+"represents a participant. The process is the same as the single-file "
+"import detailed above, except that you select multiple files when "
+"performing the import. You can do this by holding down control or shift "
+"when selecting data files, or with the “multi-select” button (three lines"
+" preceded by tick marks) at the top of the import dialog."
 msgstr ""
-"Det er også mulig å importere flere filer samtidig. Dette kan være nyttig "
-"når du kombinerer flere datasett, for eksempel der hver fil representerer en "
-"deltaker. Prosessen er den samme som enkeltfilimporten beskrevet før, "
-"bortsett fra at du velger flere filer når du utfører importen. Du kan gjøre "
-"dette ved å holde nede Ctrl- eller skift-tatsen når du velger datafiler, "
-"eller med «flervalgs»-knappen øverst i importdialogen."
+"Det er også mulig å importere flere filer samtidig. Dette kan være nyttig når"
+" du kombinerer flere datasett, for eksempel der hver fil representerer en "
+"deltaker. Prosessen er den samme som enkeltfilimporten beskrevet før, bortsett"
+" fra at du velger flere filer når du utfører importen. Du kan gjøre dette "
+"enten ved å holde nede Ctrl- eller skift-tatsen når du velger datafiler, eller"
+" med «flervalgs»-knappen (tre linjer innledet med avkrysninger) øverst i "
+"importdialogen."
 
-#: ../../usermanual/um_5_updating_data.rst:52
+#: ../../usermanual/um_5_updating_data.rst:54
 msgid ""
-"When importing multiple files like this, they are combined vertically with "
-"the rows of the second file appearing below the first, the rows of the third "
-"file appearing below the second, and so on. An additional column called "
-"``source`` is created detailing which file each row has come from. This can "
-"be useful when you need to “split-by” or “group-by” each participant. This "
-"column can be particularly useful to use with the ``group_by`` argument to "
-"``V``-functions described above."
+"When importing multiple files like this, they are combined vertically "
+"with the rows of the second file appearing below the first, the rows of "
+"the third file appearing below the second, and so on. An additional "
+"column called ``source`` is created detailing which file each row has "
+"come from. This can be useful when you need to “split-by” or “group-by” "
+"each participant. This column can be particularly useful to use with the "
+"``group_by`` argument to ``V``-functions described above."
 msgstr ""
 "Når du importerer flere filer, kombineres de vertikalt med radene i den "
-"andre filen som vises under den første, radene i den tredje filen som vises "
-"under den andre, og så videre. En ekstra kolonne kalt ``kilde`` opprettes og "
-"viser hvilken fil hver rad kommer fra. Dette kan være nyttig når du trenger "
-"å ``split by`` eller ``group by`` hver deltaker. Denne kolonnen kan derfor "
-"være spesielt nyttig å bruke med argumentet ``group_by`` til ``V``-"
-"funksjonene beskrevet før."
+"andre filen som vises under den første, radene i den tredje filen som "
+"vises under den andre, og så videre. En ekstra kolonne kalt ``kilde`` "
+"opprettes og viser hvilken fil hver rad kommer fra. Dette kan være nyttig"
+" når du trenger å ``split by`` eller ``group by`` hver deltaker. Denne "
+"kolonnen kan derfor være spesielt nyttig å bruke med argumentet "
+"``group_by`` til ``V``-funksjonene beskrevet før."
 
-#: ../../usermanual/um_5_updating_data.rst:60
+#: ../../usermanual/um_5_updating_data.rst:62
 msgid "At present, there is no way to combine files horizontally in jamovi."
 msgstr "For tiden er det ingen måte å kombinere filer horisontalt i jamovi."
 
-#: ../../usermanual/um_5_updating_data.rst:64
+#: ../../usermanual/um_5_updating_data.rst:66
 msgid "Templates"
 msgstr "Maler (*templates*)"
 
-#: ../../usermanual/um_5_updating_data.rst:66
+#: ../../usermanual/um_5_updating_data.rst:68
 msgid ""
-"Templates in jamovi are special data sets that are analagous to script files "
-"in more traditional statistical environments. They are a way to specify data "
-"types, computations, filters, transforms, and analyses in advance. Once the "
-"data becomes available, it can be imported into the template, and the "
-"template will update accordingly. The nice thing about jamovi templates is "
-"that they are entirely specified with the familiar user interface, and do "
-"not require working with a “syntax” or code."
+"Templates in jamovi are special data sets that are analagous to script "
+"files in more traditional statistical environments. They are a way to "
+"specify data types, computations, filters, transforms, and analyses in "
+"advance. Once the data becomes available, it can be imported into the "
+"template, and the template will update accordingly. The nice thing about "
+"jamovi templates is that they are entirely specified with the familiar "
+"user interface, and do not require working with a “syntax” or code."
 msgstr ""
-"Maler i jamovi er spesielle datasett som er analog for skript-filer i andre "
-"statistiske programpakker. De er en måte å spesifisere datatyper, "
-"beregninger, filtre, transformeringer og analyser på forhånd. Når dataene "
-"blir tilgjengelige, kan de importeres til malen, og beregninger og analysene "
-"oppdateres automatisk. Det fine med jamovi-maler er at de er helt "
-"spesifisert med det kjente brukergrensesnittet, og krever ikke å jobbe med "
-"en «syntaks» eller kode."
+"Maler i jamovi er spesielle datasett som er analog for skript-filer i "
+"andre statistiske programpakker. De er en måte å spesifisere datatyper, "
+"beregninger, filtre, transformeringer og analyser på forhånd. Når dataene"
+" blir tilgjengelige, kan de importeres til malen, og beregninger og "
+"analysene oppdateres automatisk. Det fine med jamovi-maler er at de er "
+"helt spesifisert med det kjente brukergrensesnittet, og krever ikke å "
+"jobbe med en «syntaks» eller kode."
 
-#: ../../usermanual/um_5_updating_data.rst:74
+#: ../../usermanual/um_5_updating_data.rst:76
 msgid ""
-"To save a data set as a template, select ``Export`` from the file menu, and "
-"select ``jamovi template (.omt)`` from the file type box. When opening a "
-"template, you’ll see it contains columns but no rows, and that all the "
-"analysis results are blank. To use the template, import a new data set (or "
-"data sets) using the file import described above. The data will update, "
-"followed by the filters, computed variables, and finally the analysis "
-"results."
+"To save a data set as a template, select ``Export`` from the file menu, "
+"and select ``jamovi template (.omt)`` from the file type box. When "
+"opening a template, you’ll see it contains columns but no rows, and that "
+"all the analysis results are blank. To use the template, import a new "
+"data set (or data sets) using the file import described above. The data "
+"will update, followed by the filters, computed variables, and finally the"
+" analysis results."
 msgstr ""
-"For å lagre et datasett som en mal, velg ``Export`` fra filmenyen, og velg "
-"``jamovi template (.omt)`` fra filtypeboksen. Når du åpner en mal, vil du se "
-"at den inneholder kolonner, men ingen rader, og at alle analyseresultatene "
-"er tomme. For å bruke malen, importer et nytt datasett (eller datasett) ved "
-"å bruke filimporten som beskrevet før. Dataene vil oppdateres, etterfulgt av "
-"filtrene, beregnede variabler og til slutt analyseresultatene."
+"For å lagre et datasett som en mal, velg ``Export`` fra filmenyen, og "
+"velg ``jamovi template (.omt)`` fra filtypeboksen. Når du åpner en mal, "
+"vil du se at den inneholder kolonner, men ingen rader, og at alle "
+"analyseresultatene er tomme. For å bruke malen, importer et nytt datasett"
+" (eller datasett) ved å bruke filimporten som beskrevet før. Dataene vil "
+"oppdateres, etterfulgt av filtrene, beregnede variabler og til slutt "
+"analyseresultatene."
 
-#: ../../usermanual/um_5_updating_data.rst:82
+#: ../../usermanual/um_5_updating_data.rst:84
 msgid ""
-"jamovi templates are also a great way to provide analyses to less capable "
-"students or colleagues."
+"jamovi templates are also a great way to provide analyses to less capable"
+" students or colleagues."
 msgstr ""
 "jamovi-maler er også idealt for å forberede analyser for studenter eller "
 "kolleger som har mindre omfattende kunnskap om statistiske analyser."
 
 #: ../../usermanual/um_6_syntax_mode.rst:4
+msgid "Combining jamovi and R"
+msgstr ""
+
+#: ../../usermanual/um_6_syntax_mode.rst:7
 msgid "Syntax Mode"
 msgstr "Syntaksmodus"
 
-#: ../../usermanual/um_6_syntax_mode.rst:6
+#: ../../usermanual/um_6_syntax_mode.rst:9
 msgid ""
 "jamovi also provides an “R Syntax Mode”, in this mode, jamovi produces "
-"equivalent R code for each analysis. To change to syntax mode, select the "
-"application menu (⋮) at the top right of jamovi, and check the ``Syntax "
-"mode`` checkbox there. It is possible to leave syntax mode by clicking this "
-"a second time."
+"equivalent R code for each analysis. To change to syntax mode, select the"
+" application menu (⋮) at the top right of jamovi, and check the ``Syntax "
+"mode`` checkbox there. It is possible to leave syntax mode by clicking "
+"this a second time."
 msgstr ""
-"jamovi tilbyr også en «R Syntax Mode». I denne modusen produserer jamovi R-"
-"kode for hver analyse. For å bytte til syntaksmodus, velg programmenyen (⋮) "
-"øverst til høyre i jamovi, og merk av for ``Syntax mode`` der. Det er mulig "
-"å gå ut av syntaksmodus ved å klikke av markeringen."
+"jamovi tilbyr også en «R Syntax Mode». I denne modusen produserer jamovi "
+"R-kode for hver analyse. For å bytte til syntaksmodus, velg programmenyen"
+" (⋮) øverst til høyre i jamovi, og merk av for ``Syntax mode`` der. Det "
+"er mulig å gå ut av syntaksmodus ved å klikke av markeringen."
 
-#: ../../usermanual/um_6_syntax_mode.rst:10
+#: ../../usermanual/um_6_syntax_mode.rst:15
 msgid ""
-"In syntax mode, analyses continue to operate as before, but now they produce "
-"R syntax, and “ASCII output” like an R session. Like all results objects in "
-"jamovi, you can right click on these items (including the R syntax) and copy "
-"and paste them, for example, into an R session."
+"In syntax mode, analyses continue to operate as before, but now they "
+"produce R syntax. Like all results objects in jamovi, you can right click"
+" on these items (including the R syntax) and copy and paste them, for "
+"example, into an R session."
 msgstr ""
-"I syntaksmodus fortsetter analyser å fungere som før, men nå produserer de R-"
-"syntaks og «ASCII-utgave» (tekstmodus) som en R-sesjon. Som alle "
-"resultatobjekter i jamovi, kan du høyreklikke på disse elementene (inkludert "
-"R-syntaksen) og kopiere og lime dem inn, for eksempel i en R-sesjon."
+"I syntaksmodus fortsetter analyser å fungere som før, men nå produserer de "
+"R-syntaks. Som alle resultatobjekter i jamovi, kan du høyreklikke på disse "
+"elementene (inkludert R-syntaksen) og kopiere og lime dem inn, for eksempel "
+"i en R-sesjon."
 
-#: ../../usermanual/um_6_syntax_mode.rst:18
+#: ../../usermanual/um_6_syntax_mode.rst:25
 msgid ""
-"At present, the provided R syntax does not include the data import step, and "
-"this must be performed manually. There are many resources explaining how to "
-"import data into R, and we recommend you take a look at these (most analyses "
-"in jamovi require data as a data frame)."
+"At present, the provided R syntax does not include the data import step, "
+"and this must be performed manually. The easiest way of reading and "
+"writing jamovi data files in R is the |jmvReadWrite| R package. "
+"Alternatively, the |jmvconnect| R-package permits you to access data sets"
+" that you have opened in your jamovi session from R."
 msgstr ""
-"For øyeblikket inkluderer ikke den oppgitte R-syntaksen trinnet for "
-"dataimport, og dette må utføres manuelt. Det er mange ressurser som "
-"forklarer hvordan du importerer data til R, og vi anbefaler at du tar en "
-"titt på disse (de fleste analyser i jamovi krever data som en ``data "
-"frame``)."
 
-#: ../../usermanual/um_6_syntax_mode.rst:21
-msgid ""
-"Another R feature that may be of interest is the `Rj Editor <https://blog."
-"jamovi.org/2018/07/30/rj.html>`__, which allows you to use R code to analyse "
-"data directly in jamovi."
+#: ../../usermanual/um_6_syntax_mode.rst:33
+msgid "``Rj`` Editor"
 msgstr ""
-"En annen interessante funksjon er 'Rj Editor <https://blog.jamovi."
-"org/2018/07/30/rj.html>'__, som lar deg bruke R-kode til å analysere data "
-"direkte i jamovi."
+
+#: ../../usermanual/um_6_syntax_mode.rst:35
+msgid ""
+"The ``Rj Editor`` allows you to use ``R`` code to analyse data directly "
+"in jamovi, and make use of your favourite R packages from within jamovi. "
+"``Rj`` is a module for jamovi (see :doc:`../howto/howto_Install_modules`)"
+" that allows you to use the R programming language to analyse data from "
+"within jamovi."
+msgstr ""
+
+#: ../../usermanual/um_6_syntax_mode.rst:41
+msgid "|um_Rj1|"
+msgstr "|um_Rj1|"
+
+#: ../../usermanual/um_6_syntax_mode.rst:165
+msgid "um_Rj1"
+msgstr "um_Rj1"
+
+#: ../../usermanual/um_6_syntax_mode.rst:43
+msgid ""
+"There are many reasons you might want to do this; there are a lot of "
+"analyses available in R packages that haven’t (yet) been made available "
+"as jamovi modules, and ``Rj`` allows you to make use of these analyses "
+"from within jamovi. Additionally, you can make use of loops and if-"
+"statements, allowing (among other things) conditional analyses and "
+"simulation studies."
+msgstr ""
+
+#: ../../usermanual/um_6_syntax_mode.rst:49
+msgid ""
+"For some, using R in a spreadsheet will be an ideal place to begin "
+"learning ``R``. For others, it can be an easy way to share R analyses "
+"with less technically savvy colleagues (and some people just prefer to "
+"code)."
+msgstr ""
+
+#: ../../usermanual/um_6_syntax_mode.rst:53
+msgid ""
+"To run an R analysis, select ``Rj Editor`` from the ``R``-icon in the "
+"``Analyses`` ribbon. This will bring up the editor for entering your "
+"``R`` code. The data set you have opened in jamovi is available to you as"
+" a data frame, simply as ``data``. To get started, you might like to run "
+"``descriptives`` on it."
+msgstr ""
+
+#: ../../usermanual/um_6_syntax_mode.rst:59
+msgid "|um_Rj2|"
+msgstr "|um_Rj2|"
+
+#: ../../usermanual/um_6_syntax_mode.rst:166
+msgid "um_Rj2"
+msgstr "um_Rj2"
+
+#: ../../usermanual/um_6_syntax_mode.rst:61
+msgid "Or if you prefer the ``dplyr`` approach, you could go:"
+msgstr ""
+
+#: ../../usermanual/um_6_syntax_mode.rst:71
+msgid ""
+"You’ll notice as you’re entering this code, ``Rj`` auto-suggests function"
+" names. To run the code, click on the green triangle or press Control + "
+"Shift + Enter (or ⌘ + Shift + Enter if you’re on a Mac). jamovi will run "
+"the ``R`` code and the results will appear in the results panel like "
+"other analyses. You can continue to make changes to the code, and then "
+"run it again."
+msgstr ""
+
+#: ../../usermanual/um_6_syntax_mode.rst:78
+msgid ""
+"By default, ``Rj`` makes use of the version of ``R`` bundled with jamovi."
+" This includes many packages (``jmv`` and all it’s `dependencies "
+"<https://cran.r-project.org/package=jmv>`_\\ ), and will be sufficient "
+"for many people, but if you need to make use of additional ``R`` packages"
+" then you’ll need to make use of the ``System R`` version. If you select "
+"⚙ (at the top right of the code box), you’ll see an option to change the "
+"``R version`` used. The ``System R`` version uses the version of ``R`` "
+"you have installed on your system. This has the advantage that your ``R``"
+" code now has access to all of the packages you have installed for that "
+"version of ``R``. The last thing you will need is to have the "
+"|jmvconnect| R package installed in the R library on your system. This "
+"package allows the ``R`` version on your system to access the jamovi data"
+" sets. You can install it in ``R`` with:"
+msgstr ""
+
+#: ../../usermanual/um_6_syntax_mode.rst:96
+msgid ""
+"Once this is done, moving from the ``jamovi R`` to the ``System R`` "
+"should be seamless."
+msgstr ""
+
+#: ../../usermanual/um_6_syntax_mode.rst:99
+msgid ""
+"It’s worth remembering that sharing jamovi files with colleagues becomes "
+"a bit more complicated when you make use of the ``System R`` version. If "
+"they want to make changes and re-run your analyses, they will need to "
+"have the same R packages installed – that’s the price of flexibility!"
+msgstr ""
+
+#: ../../usermanual/um_6_syntax_mode.rst:104
+msgid ""
+"When ``Rj`` runs ``R`` code, by default it makes the whole data set "
+"available as a data frame called ``data``. However, it’s likely that your"
+" analysis only makes use of a few columns, and doesn’t need the whole "
+"data set. You can limit the columns made available to the analysis by "
+"including a special comment at the top of your script, of the form:"
+msgstr ""
+
+#: ../../usermanual/um_6_syntax_mode.rst:118
+msgid ""
+"In this instance, only the named columns will appear in the data data "
+"frame. This can speed the analysis up, particularly if you are working "
+"with large data sets. Additionally, this lets jamovi know that the "
+"analysis is only using these columns, and the analysis will not need to "
+"be re-run if changes are made to other columns."
+msgstr ""
+
+#: ../../usermanual/um_6_syntax_mode.rst:124
+msgid ""
+"There may be times where you’ll want to transition to an R session for "
+"analysing a data set. This is where the |jmvconnect| R package comes in "
+"handy. |jmvconnect| let’s you read the data sets from a running jamovi "
+"instance into an R session. It has two functions: ``what()`` lists the "
+"available data sets, and ``read()`` reads them. For example, you might "
+"use:"
+msgstr ""
+
+#: ../../usermanual/um_6_syntax_mode.rst:143
+msgid "and then read the data set with either of these two commands:"
+msgstr ""
+
+#: ../../usermanual/um_6_syntax_mode.rst:150
+msgid ""
+"Rj, |jmvconnect| and |jmvReadWrite| make is easy to access R from jamovi,"
+" and jamovi from R."
+msgstr ""
