@@ -1,5 +1,40 @@
 # #-#-#-#-#  usermanual.pot (jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016-2022, The section authors, The jamovi project, and Sebastian Jentschke (curating this documentation). This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
+# This file is distributed under the same license as the jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  usermanual.po (jamovi )  #-#-#-#-#
+# #-#-#-#-#  usermanual.pot (jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016-2022, The section authors, The jamovi project, and Sebastian Jentschke (curating this documentation). This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
+# This file is distributed under the same license as the jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  usermanual.po (jamovi )  #-#-#-#-#
+# #-#-#-#-#  usermanual.pot (jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016-2022, The section authors, The jamovi project, and Sebastian Jentschke (curating this documentation). This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
+# This file is distributed under the same license as the jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  usermanual.po (jamovi )  #-#-#-#-#
+# #-#-#-#-#  usermanual.pot (jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016-2022, The section authors, The jamovi project, and Sebastian Jentschke (curating this documentation). This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
+# This file is distributed under the same license as the jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  usermanual.po (jamovi )  #-#-#-#-#
+# #-#-#-#-#  usermanual.pot (jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016-2022, The section authors, The jamovi project, and Sebastian Jentschke (curating this documentation). This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
+# This file is distributed under the same license as the jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  usermanual.po (PROJECT VERSION)  #-#-#-#-#
+# #-#-#-#-#  usermanual.pot (jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2016-2022, The section authors, The jamovi project, and
 # Sebastian Jentschke (curating this documentation). This work is licensed
 # under a Creative Commons Attribution-ShareAlike 4.0 International License
@@ -14,15 +49,69 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PROJECT VERSION\n"
+"#-#-#-#-#  usermanual.pot (jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-02-02 22:03+0100\n"
+"POT-Creation-Date: 2023-02-03 13:22+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  usermanual.po (jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  usermanual.pot (jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-02-03 13:20+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  usermanual.po (jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  usermanual.pot (jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-02-03 13:01+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  usermanual.po (jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  usermanual.pot (jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-02-03 12:55+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  usermanual.po (jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  usermanual.pot (jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-02-03 11:20+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  usermanual.po (PROJECT VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-02-03 11:18+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
 
@@ -1006,15 +1095,15 @@ msgid ""
 "students or colleagues."
 msgstr ""
 
-#: ../../usermanual/um_6_syntax_mode.rst:4
+#: ../../usermanual/um_6_jamovi_and_R.rst:4
 msgid "Combining jamovi and R"
 msgstr ""
 
-#: ../../usermanual/um_6_syntax_mode.rst:7
+#: ../../usermanual/um_6_jamovi_and_R.rst:7
 msgid "Syntax Mode"
 msgstr ""
 
-#: ../../usermanual/um_6_syntax_mode.rst:9
+#: ../../usermanual/um_6_jamovi_and_R.rst:9
 msgid ""
 "jamovi also provides an “R Syntax Mode”, in this mode, jamovi produces "
 "equivalent R code for each analysis. To change to syntax mode, select the "
@@ -1023,15 +1112,16 @@ msgid ""
 "a second time."
 msgstr ""
 
-#: ../../usermanual/um_6_syntax_mode.rst:15
+#: ../../usermanual/um_6_jamovi_and_R.rst:15
 msgid ""
 "In syntax mode, analyses continue to operate as before, but now they produce "
 "R syntax. Like all results objects in jamovi, you can right click on these "
 "items (including the R syntax) and copy and paste them, for example, into an "
-"R session."
+"R session. All the analyses that are included with jamovi are available "
+"within an R session through the :doc:`jmv R package <../jmv/jmv_overview>`."
 msgstr ""
 
-#: ../../usermanual/um_6_syntax_mode.rst:25
+#: ../../usermanual/um_6_jamovi_and_R.rst:30
 msgid ""
 "At present, the provided R syntax does not include the data import step, and "
 "this must be performed manually. The easiest way of reading and writing "
@@ -1040,11 +1130,11 @@ msgid ""
 "in your jamovi session from R."
 msgstr ""
 
-#: ../../usermanual/um_6_syntax_mode.rst:33
+#: ../../usermanual/um_6_jamovi_and_R.rst:39
 msgid "``Rj`` Editor"
 msgstr ""
 
-#: ../../usermanual/um_6_syntax_mode.rst:35
+#: ../../usermanual/um_6_jamovi_and_R.rst:41
 msgid ""
 "The ``Rj Editor`` allows you to use ``R`` code to analyse data directly in "
 "jamovi, and make use of your favourite R packages from within jamovi. ``Rj`` "
@@ -1053,15 +1143,15 @@ msgid ""
 "jamovi."
 msgstr ""
 
-#: ../../usermanual/um_6_syntax_mode.rst:41
+#: ../../usermanual/um_6_jamovi_and_R.rst:47
 msgid "|um_Rj1|"
 msgstr "|um_Rj1|"
 
-#: ../../usermanual/um_6_syntax_mode.rst:165
+#: ../../usermanual/um_6_jamovi_and_R.rst:171
 msgid "um_Rj1"
 msgstr "um_Rj1"
 
-#: ../../usermanual/um_6_syntax_mode.rst:43
+#: ../../usermanual/um_6_jamovi_and_R.rst:49
 msgid ""
 "There are many reasons you might want to do this; there are a lot of "
 "analyses available in R packages that haven’t (yet) been made available as "
@@ -1070,14 +1160,14 @@ msgid ""
 "allowing (among other things) conditional analyses and simulation studies."
 msgstr ""
 
-#: ../../usermanual/um_6_syntax_mode.rst:49
+#: ../../usermanual/um_6_jamovi_and_R.rst:55
 msgid ""
 "For some, using R in a spreadsheet will be an ideal place to begin learning "
 "``R``. For others, it can be an easy way to share R analyses with less "
 "technically savvy colleagues (and some people just prefer to code)."
 msgstr ""
 
-#: ../../usermanual/um_6_syntax_mode.rst:53
+#: ../../usermanual/um_6_jamovi_and_R.rst:59
 msgid ""
 "To run an R analysis, select ``Rj Editor`` from the ``R``-icon in the "
 "``Analyses`` ribbon. This will bring up the editor for entering your ``R`` "
@@ -1086,19 +1176,19 @@ msgid ""
 "``descriptives`` on it."
 msgstr ""
 
-#: ../../usermanual/um_6_syntax_mode.rst:59
+#: ../../usermanual/um_6_jamovi_and_R.rst:65
 msgid "|um_Rj2|"
 msgstr "|um_Rj2|"
 
-#: ../../usermanual/um_6_syntax_mode.rst:166
+#: ../../usermanual/um_6_jamovi_and_R.rst:172
 msgid "um_Rj2"
 msgstr "um_Rj2"
 
-#: ../../usermanual/um_6_syntax_mode.rst:61
+#: ../../usermanual/um_6_jamovi_and_R.rst:67
 msgid "Or if you prefer the ``dplyr`` approach, you could go:"
 msgstr ""
 
-#: ../../usermanual/um_6_syntax_mode.rst:71
+#: ../../usermanual/um_6_jamovi_and_R.rst:77
 msgid ""
 "You’ll notice as you’re entering this code, ``Rj`` auto-suggests function "
 "names. To run the code, click on the green triangle or press Control + Shift "
@@ -1107,7 +1197,7 @@ msgid ""
 "You can continue to make changes to the code, and then run it again."
 msgstr ""
 
-#: ../../usermanual/um_6_syntax_mode.rst:78
+#: ../../usermanual/um_6_jamovi_and_R.rst:84
 msgid ""
 "By default, ``Rj`` makes use of the version of ``R`` bundled with jamovi. "
 "This includes many packages (``jmv`` and all it’s `dependencies <https://"
@@ -1123,13 +1213,13 @@ msgid ""
 "system to access the jamovi data sets. You can install it in ``R`` with:"
 msgstr ""
 
-#: ../../usermanual/um_6_syntax_mode.rst:96
+#: ../../usermanual/um_6_jamovi_and_R.rst:102
 msgid ""
 "Once this is done, moving from the ``jamovi R`` to the ``System R`` should "
 "be seamless."
 msgstr ""
 
-#: ../../usermanual/um_6_syntax_mode.rst:99
+#: ../../usermanual/um_6_jamovi_and_R.rst:105
 msgid ""
 "It’s worth remembering that sharing jamovi files with colleagues becomes a "
 "bit more complicated when you make use of the ``System R`` version. If they "
@@ -1137,7 +1227,7 @@ msgid ""
 "same R packages installed – that’s the price of flexibility!"
 msgstr ""
 
-#: ../../usermanual/um_6_syntax_mode.rst:104
+#: ../../usermanual/um_6_jamovi_and_R.rst:110
 msgid ""
 "When ``Rj`` runs ``R`` code, by default it makes the whole data set "
 "available as a data frame called ``data``. However, it’s likely that your "
@@ -1146,7 +1236,7 @@ msgid ""
 "special comment at the top of your script, of the form:"
 msgstr ""
 
-#: ../../usermanual/um_6_syntax_mode.rst:118
+#: ../../usermanual/um_6_jamovi_and_R.rst:124
 msgid ""
 "In this instance, only the named columns will appear in the data data frame. "
 "This can speed the analysis up, particularly if you are working with large "
@@ -1155,7 +1245,7 @@ msgid ""
 "are made to other columns."
 msgstr ""
 
-#: ../../usermanual/um_6_syntax_mode.rst:124
+#: ../../usermanual/um_6_jamovi_and_R.rst:130
 msgid ""
 "There may be times where you’ll want to transition to an R session for "
 "analysing a data set. This is where the |jmvconnect| R package comes in "
@@ -1164,11 +1254,11 @@ msgid ""
 "available data sets, and ``read()`` reads them. For example, you might use:"
 msgstr ""
 
-#: ../../usermanual/um_6_syntax_mode.rst:143
+#: ../../usermanual/um_6_jamovi_and_R.rst:149
 msgid "and then read the data set with either of these two commands:"
 msgstr ""
 
-#: ../../usermanual/um_6_syntax_mode.rst:150
+#: ../../usermanual/um_6_jamovi_and_R.rst:156
 msgid ""
 "Rj, |jmvconnect| and |jmvReadWrite| make is easy to access R from jamovi, "
 "and jamovi from R."
