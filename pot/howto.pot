@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-02-03 13:22+0100\n"
+"POT-Creation-Date: 2023-02-06 14:00+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -25,7 +25,7 @@ msgstr ""
 msgid "|Outliers_Filter_Shortcut|"
 msgstr "|Outliers_Filter_Shortcut|"
 
-#: ../../howto/howto_Filtering_data.rst:79
+#: ../../howto/howto_Filtering_data.rst:90
 msgid "Outliers_Filter_Shortcut"
 msgstr "Outliers_Filter_Shortcut"
 
@@ -58,15 +58,18 @@ msgstr ""
 #: ../../howto/howto_Filtering_data.rst:19
 msgid ""
 "based upon z-scores (the absolute value should be larger 3.3; this equals to "
-"a probability of 0.1% = 1 / 1000)"
-msgstr ""
-
-#: ../../howto/howto_Filtering_data.rst:21
-msgid "based upon the IQR (like in a box plot)"
+"a probability of 0.1% = 1 / 1000; based upon a standard normal distribution "
+"~ parametric)"
 msgstr ""
 
 #: ../../howto/howto_Filtering_data.rst:22
-msgid "based on the Mahalanobis distance (multivariate)"
+msgid ""
+"based upon the IQR (like in a box plot; based upon ranks and quantiles ~ non-"
+"parametric)"
+msgstr ""
+
+#: ../../howto/howto_Filtering_data.rst:24
+msgid "based on the Mahalanobis distance (multivariate outliers)"
 msgstr ""
 
 #: ../../howto/howto_Filtering_data.rst:0
@@ -81,15 +84,15 @@ msgid ""
 "you can either use an function-based selection; the functions below filter "
 "out lines based on either the z-scores (first line), the interquartile range "
 "(IQR, second line) or by excluding certain rows / row numbers (e.g., based "
-"upon the output from the calculation of the Mahalanobis distance below; "
-"third line):"
+"upon the output from the calculation of the Mahalanobis distance further "
+"below; third line):"
 msgstr ""
 
-#: ../../howto/howto_Filtering_data.rst:40
+#: ../../howto/howto_Filtering_data.rst:48
 msgid "|Outliers_Filter_Settings|"
 msgstr "|Outliers_Filter_Settings|"
 
-#: ../../howto/howto_Filtering_data.rst:80
+#: ../../howto/howto_Filtering_data.rst:91
 msgid "Outliers_Filter_Settings"
 msgstr "Outliers_Filter_Settings"
 
@@ -118,9 +121,11 @@ msgstr ""
 
 #: ../../howto/howto_Filtering_data.rst:0
 msgid ""
-"you can also de-select cases by excluding the respective row numbers in the "
-"dataset (visually checking the outliers in the box-plots under "
-"``Descriptives``, ensure that the tick box ``Label outliers`` is set)"
+"instead of using the second line (``MAXABSIQR``) you could also de-select "
+"cases by excluding their respective row numbers in the dataset (as in the "
+"third line; you would then visually check the outliers in the box-plots "
+"under ``Descriptives``, ensuring that the tick box ``Label outliers`` is set "
+"and exclude the row numbers that are marked as outliers)"
 msgstr ""
 
 #: ../../howto/howto_Install_modules.rst:5

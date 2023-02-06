@@ -1,101 +1,17 @@
 # #-#-#-#-#  howto.pot (jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2016-2022, The section authors, The jamovi project, and Sebastian Jentschke (curating this documentation). This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
-# This file is distributed under the same license as the jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  howto.po (jamovi )  #-#-#-#-#
-# #-#-#-#-#  howto.pot (jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2016-2022, The section authors, The jamovi project, and Sebastian Jentschke (curating this documentation). This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
-# This file is distributed under the same license as the jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  howto.po (jamovi )  #-#-#-#-#
-# #-#-#-#-#  howto.pot (jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2016-2022, The section authors, The jamovi project, and Sebastian Jentschke (curating this documentation). This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
-# This file is distributed under the same license as the jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  howto.po (jamovi )  #-#-#-#-#
-# #-#-#-#-#  howto.pot (jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2016-2022, The section authors, The jamovi project, and Sebastian Jentschke (curating this documentation). This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
-# This file is distributed under the same license as the jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  howto.po (jamovi )  #-#-#-#-#
-# #-#-#-#-#  howto.pot (jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2016-2022, The section authors, The jamovi project, and Sebastian Jentschke (curating this documentation). This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
-# This file is distributed under the same license as the jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  howto.po (jamovi )  #-#-#-#-#
-# #-#-#-#-#  howto.pot (jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2016-2022, The section authors, The jamovi project, and Sebastian Jentschke (curating this documentation). This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
-# This file is distributed under the same license as the jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  howto.po (PROJECT VERSION)  #-#-#-#-#
-# #-#-#-#-#  howto.pot (jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2016-2022, The section authors, The jamovi project, and Sebastian Jentschke (curating this documentation). This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
-# This file is distributed under the same license as the jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  howto.po (jamovi )  #-#-#-#-#
-# #-#-#-#-#  howto.pot (jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2016-2022, The section authors, The jamovi project, and Sebastian Jentschke (curating this documentation). This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
-# This file is distributed under the same license as the jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  howto.po (PROJECT VERSION)  #-#-#-#-#
-# #-#-#-#-#  howto.pot (jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2016-2022, The section authors, The jamovi project, and Sebastian Jentschke (curating this documentation). This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
-# This file is distributed under the same license as the jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  howto.po (jamovi )  #-#-#-#-#
-# #-#-#-#-#  howto.pot (jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2016-2022, The section authors, The jamovi project, and Sebastian Jentschke (curating this documentation). This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
-# This file is distributed under the same license as the jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  howto.po (PROJECT VERSION)  #-#-#-#-#
-# #-#-#-#-#  howto.pot (jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2016-2022, The section authors, The jamovi project, and Sebastian Jentschke (curating this documentation). This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
-# This file is distributed under the same license as the jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  howto.po (PROJECT VERSION)  #-#-#-#-#
-# #-#-#-#-#  howto.pot (jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2016-2022, The section authors, The jamovi project, and Sebastian Jentschke (curating this documentation). This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
-# This file is distributed under the same license as the jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  howto.po (PROJECT VERSION)  #-#-#-#-#
-# #-#-#-#-#  howto.pot (jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2016-2022, The section authors, The jamovi project, and
 # Sebastian Jentschke (curating this documentation). This work is licensed
 # under a Creative Commons Attribution-ShareAlike 4.0 International License
 # This file is distributed under the same license as the jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 #
 # #-#-#-#-#  howto.po (PROJECT VERSION)  #-#-#-#-#
+# #-#-#-#-#  howto.po (jamovi )  #-#-#-#-#
 # Copyright (C) 2016-2022, The section authors, The jamovi project, and
 # Sebastian Jentschke (curating this documentation). This work is licensed
 # under a Creative Commons Attribution-ShareAlike 4.0 International License
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
-# #-#-#-#-#  howto.po (jamovi )  #-#-#-#-#
 # #-#-#-#-#  howto.po (jamovi)  #-#-#-#-#
 # Zhou Nan <zhounan@nfschina.com>, 2021.
 # shun wang <shuonwang@gmail.com>, 2021.
@@ -103,146 +19,127 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-02-03 13:22+0100\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-02-06 14:00+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  howto.pot (jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  howto.po (jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  howto.pot (jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  howto.po (jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  howto.pot (jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  howto.po (jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  howto.pot (jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  howto.po (jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  howto.pot (jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  howto.po (jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  howto.pot (jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  howto.po (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  howto.pot (jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  howto.po (jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  howto.pot (jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  howto.po (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  howto.pot (jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  howto.po (jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  howto.pot (jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  howto.po (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  howto.pot (jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  howto.po (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  howto.pot (jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  howto.po (PROJECT VERSION)  #-#-#-#-#\n"
-"Generated-By: Babel 2.11.0\n"
+"Generated-By: Babel 2.9.1\n"
 
 #: ../../howto/howto_Filtering_data.rst:5
 msgid ""
-"How do I identify outliers and filter them out from being used in analyses?"
+"How do I identify outliers and filter them out from being used in "
+"analyses?"
 msgstr ""
 
 #: ../../howto/howto_Filtering_data.rst:7
 msgid "|Outliers_Filter_Shortcut|"
 msgstr "|Outliers_Filter_Shortcut|"
 
-#: ../../howto/howto_Filtering_data.rst:79
+#: ../../howto/howto_Filtering_data.rst:90
 msgid "Outliers_Filter_Shortcut"
 msgstr "Outliers_Filter_Shortcut"
 
-#: ../../howto/howto_Filtering_data.rst:0
+#: ../../howto/howto_Filtering_data.rst
 msgid ""
-"open the ``Data`` tab and select ``Filter`` (either by using the symbol in "
-"the icon bar or the one in the bottom-left corner of the jamovi window)"
+"open the ``Data`` tab and select ``Filter`` (either by using the symbol "
+"in the icon bar or the one in the bottom-left corner of the jamovi "
+"window)"
 msgstr ""
 
-#: ../../howto/howto_Filtering_data.rst:0
-msgid ""
-"in order to access functions, press the ``fx`` icon in the filter settings"
+#: ../../howto/howto_Filtering_data.rst
+msgid "in order to access functions, press the ``fx`` icon in the filter settings"
 msgstr ""
 
-#: ../../howto/howto_Filtering_data.rst:0
+#: ../../howto/howto_Filtering_data.rst
 msgid ""
-"there also is a switch where you can activate or deactivate the filter (see "
-"the comment in red below)"
+"there also is a switch where you can activate or deactivate the filter "
+"(see the comment in red below)"
 msgstr ""
 
-#: ../../howto/howto_Filtering_data.rst:0
+#: ../../howto/howto_Filtering_data.rst
 msgid ""
-"you close the filter settings by pressing the arrow in the top-right corner"
+"you close the filter settings by pressing the arrow in the top-right "
+"corner"
 msgstr ""
 
-#: ../../howto/howto_Filtering_data.rst:0
+#: ../../howto/howto_Filtering_data.rst
 msgid "there are three large approaches, to exclude outliers:"
 msgstr ""
 
 #: ../../howto/howto_Filtering_data.rst:19
 msgid ""
-"based upon z-scores (the absolute value should be larger 3.3; this equals to "
-"a probability of 0.1% = 1 / 1000)"
-msgstr ""
-
-#: ../../howto/howto_Filtering_data.rst:21
-msgid "based upon the IQR (like in a box plot)"
+"based upon z-scores (the absolute value should be larger 3.3; this equals"
+" to a probability of 0.1% = 1 / 1000; based upon a standard normal "
+"distribution ~ parametric)"
 msgstr ""
 
 #: ../../howto/howto_Filtering_data.rst:22
-msgid "based on the Mahalanobis distance (multivariate)"
-msgstr ""
-
-#: ../../howto/howto_Filtering_data.rst:0
 msgid ""
-"for 1. and 2., there exist functions in jamovi (see next bullet points), for "
-"3. you have to use R-code (decribed two bullet point below); for 2. you "
-"could also do it visually (three bullet points below)"
+"based upon the IQR (like in a box plot; based upon ranks and quantiles ~ "
+"non-parametric)"
 msgstr ""
 
-#: ../../howto/howto_Filtering_data.rst:0
+#: ../../howto/howto_Filtering_data.rst:24
+msgid "based on the Mahalanobis distance (multivariate outliers)"
+msgstr ""
+
+#: ../../howto/howto_Filtering_data.rst
 msgid ""
-"you can either use an function-based selection; the functions below filter "
-"out lines based on either the z-scores (first line), the interquartile range "
-"(IQR, second line) or by excluding certain rows / row numbers (e.g., based "
-"upon the output from the calculation of the Mahalanobis distance below; "
-"third line):"
+"for 1. and 2., there exist functions in jamovi (see next bullet points), "
+"for 3. you have to use R-code (decribed two bullet point below); for 2. "
+"you could also do it visually (three bullet points below)"
 msgstr ""
 
-#: ../../howto/howto_Filtering_data.rst:40
+#: ../../howto/howto_Filtering_data.rst
+msgid ""
+"you can either use an function-based selection; the functions below "
+"filter out lines based on either the z-scores (first line), the "
+"interquartile range (IQR, second line) or by excluding certain rows / row"
+" numbers (e.g., based upon the output from the calculation of the "
+"Mahalanobis distance further below; third line):"
+msgstr ""
+
+#: ../../howto/howto_Filtering_data.rst:48
 msgid "|Outliers_Filter_Settings|"
 msgstr "|Outliers_Filter_Settings|"
 
-#: ../../howto/howto_Filtering_data.rst:80
+#: ../../howto/howto_Filtering_data.rst:91
 msgid "Outliers_Filter_Settings"
 msgstr "Outliers_Filter_Settings"
 
-#: ../../howto/howto_Filtering_data.rst:0
+#: ../../howto/howto_Filtering_data.rst
 msgid ""
 "the following code example detects multivariate outliers based upon the "
 "Mahalanobis distance (remember to adjust the variable names in VL)"
 msgstr ""
 
-#: ../../howto/howto_Filtering_data.rst:0
-msgid ""
-"the output from the ``R``-code tells you which lines you should de-select"
+#: ../../howto/howto_Filtering_data.rst
+msgid "the output from the ``R``-code tells you which lines you should de-select"
 msgstr ""
 
-#: ../../howto/howto_Filtering_data.rst:0
+#: ../../howto/howto_Filtering_data.rst
 msgid ""
-"you use the scripts within the `Rj editor <jamovi-module_Rj>`__, just copy-"
-"and-paste them and run them by hitting the ►-button (the little green "
-"triangle)"
+"you use the scripts within the `Rj editor <jamovi-module_Rj>`__, just "
+"copy-and-paste them and run them by hitting the ►-button (the little "
+"green triangle)"
 msgstr ""
 
-#: ../../howto/howto_Filtering_data.rst:0
-msgid ""
-"the filter conditions can then be combined using boolean ``and`` / ``or``:"
+#: ../../howto/howto_Filtering_data.rst
+msgid "the filter conditions can then be combined using boolean ``and`` / ``or``:"
 msgstr ""
 
-#: ../../howto/howto_Filtering_data.rst:0
+#: ../../howto/howto_Filtering_data.rst
 msgid ""
-"you can also de-select cases by excluding the respective row numbers in the "
-"dataset (visually checking the outliers in the box-plots under "
-"``Descriptives``, ensure that the tick box ``Label outliers`` is set)"
+"instead of using the second line (``MAXABSIQR``) you could also de-select"
+" cases by excluding their respective row numbers in the dataset (as in "
+"the third line; you would then visually check the outliers in the box-"
+"plots under ``Descriptives``, ensuring that the tick box ``Label "
+"outliers`` is set and exclude the row numbers that are marked as "
+"outliers)"
 msgstr ""
 
 #: ../../howto/howto_Install_modules.rst:5
@@ -251,8 +148,8 @@ msgstr "在 jamovi 中安装模块"
 
 #: ../../howto/howto_Install_modules.rst:8
 msgid ""
-"Click on the «+»-icon in the top-right corner to install modules from the "
-"jamovi library."
+"Click on the «+»-icon in the top-right corner to install modules from the"
+" jamovi library."
 msgstr "单击右上角的 \"+\" 图标来安装 jamovi 库中的模块。"
 
 #: ../../howto/howto_Install_modules.rst:9
@@ -277,14 +174,13 @@ msgstr "jamovi_Modules2"
 
 #: ../../howto/howto_Install_modules.rst:17
 msgid ""
-"In the window that opens now, first click on «Available» (top-middle). Then "
-"go through the list with modules and click «INSTALL» at any module that you "
-"would like to use. Finally, close this window by clicking on the arrow "
-"pointing up (top-right corner)."
+"In the window that opens now, first click on «Available» (top-middle). "
+"Then go through the list with modules and click «INSTALL» at any module "
+"that you would like to use. Finally, close this window by clicking on the"
+" arrow pointing up (top-right corner)."
 msgstr ""
-"在打开的窗口中，首先点击 \"Available\" (顶部中间)。然后浏览包含模块的列表，并"
-"在您想要使用的任何模块上单击\"INSTALL\"。最后，通过单击向上的箭头（右上角）来"
-"关闭这个窗口。"
+"在打开的窗口中，首先点击 \"Available\" "
+"(顶部中间)。然后浏览包含模块的列表，并在您想要使用的任何模块上单击\"INSTALL\"。最后，通过单击向上的箭头（右上角）来关闭这个窗口。"
 
 #: ../../howto/howto_Install_modules.rst:18
 msgid "|jamovi_Modules3|"
@@ -301,25 +197,25 @@ msgstr ""
 #: ../../howto/howto_Use_PROCESS.rst:9
 msgid ""
 "In preparation: You need to install Rj and to download the most recent "
-"version of the `PROCESS-macro <from http://processmacro.org/download.html>`__"
-"\\ . Open the ZIP-file that you downloaded, go into the folder ``PROCESS "
-"v... for R`` and extract the ``process.R``-file into your ``Documents``-"
-"directory."
+"version of the `PROCESS-macro <from "
+"http://processmacro.org/download.html>`__\\ . Open the ZIP-file that you "
+"downloaded, go into the folder ``PROCESS v... for R`` and extract the "
+"``process.R``-file into your ``Documents``-directory."
 msgstr ""
 
 #: ../../howto/howto_Use_PROCESS.rst:14
 msgid ""
-"Open a data file that you want to use for your analyses. Afterwards, open "
-"``Rj`` using the ``R``-symbol in the ``Analyses``-icon-bar (``Rj`` is a "
-"jamovi module; if you have not installed it yet, you may check :doc:`Install "
-"modules in jamovi <howto_Install_modules>`)."
+"Open a data file that you want to use for your analyses. Afterwards, open"
+" ``Rj`` using the ``R``-symbol in the ``Analyses``-icon-bar (``Rj`` is a "
+"jamovi module; if you have not installed it yet, you may check "
+":doc:`Install modules in jamovi <howto_Install_modules>`)."
 msgstr ""
 
 #: ../../howto/howto_Use_PROCESS.rst:19
 msgid ""
-"Now you are ready to write R-code inside jamovi. Run the following code in "
-"the ``Rj`` text box for commands. You may just copy-and-paste the following "
-"code."
+"Now you are ready to write R-code inside jamovi. Run the following code "
+"in the ``Rj`` text box for commands. You may just copy-and-paste the "
+"following code."
 msgstr ""
 
 #: ../../howto/howto_Use_PROCESS.rst:22
@@ -333,63 +229,63 @@ msgstr ""
 #: ../../howto/howto_Use_PROCESS.rst:34
 msgid ""
 "Run this code (``source…``) by pressing the green triangle. Please be "
-"patient, it might take a moment (up to a minute, depending on how fast your "
-"computer is). You should see an output like this"
+"patient, it might take a moment (up to a minute, depending on how fast "
+"your computer is). You should see an output like this"
 msgstr ""
 
 #: ../../howto/howto_Use_PROCESS.rst:51
 msgid ""
-"Afterwards, the PROCESS-macro is initialized and you can comment the line "
-"out (by putting a ``#`` at the start of the line) → ``# source(…``"
+"Afterwards, the PROCESS-macro is initialized and you can comment the line"
+" out (by putting a ``#`` at the start of the line) → ``# source(…``"
 msgstr ""
 
 #: ../../howto/howto_Use_PROCESS.rst:54
 msgid ""
-"Now you are set to run analyses. Please note that the :red:`PROCESS-macro "
-"for R uses a different random number generator than SPSS and SAS`\\ [#]_ and "
-"that therefore the :red:`bootstrapping confidence intervals for the Indirect "
-"effect(s) of X on Y are different` from what the output shown in the book. "
-"Furthermore, does the current version of the :red:`PROCESS-macro for R "
-"accept data only in numeric format`.\\ [#]_ Thus, factors must be converted "
-"to numeric form (e.g., ``0`` and ``1``) prior to their use in a PROCESS "
-"command. This can be done using the following command in ``Rj`` (just copy-"
-"and-paste it)."
+"Now you are set to run analyses. Please note that the :red:`PROCESS-macro"
+" for R uses a different random number generator than SPSS and SAS`\\ [#]_"
+" and that therefore the :red:`bootstrapping confidence intervals for the "
+"Indirect effect(s) of X on Y are different` from what the output shown in"
+" the book. Furthermore, does the current version of the :red:`PROCESS-"
+"macro for R accept data only in numeric format`.\\ [#]_ Thus, factors "
+"must be converted to numeric form (e.g., ``0`` and ``1``) prior to their "
+"use in a PROCESS command. This can be done using the following command in"
+" ``Rj`` (just copy-and-paste it)."
 msgstr ""
 
 #: ../../howto/howto_Use_PROCESS.rst:69
 msgid ""
-"Once this is done, you may just write (or copy-and-paste if you own the e-"
-"book) the commands that are shown in the book. Please note that you have to "
-"change the name of the data set: in this example, taken from p. 188 of Hayes "
-"(2022), the dataset ``pmi`` is required (to download the `data sets <https://"
-"afhayes.com/public/hayes2022data.zip>`__). Thecommand in the book has to be "
-"adjusted by changing ``data = pmi`` into ``data = data`` (``data`` refers to "
-"the currently opened dataset in jamovi)."
+"Once this is done, you may just write (or copy-and-paste if you own the "
+"e-book) the commands that are shown in the book. Please note that you "
+"have to change the name of the data set: in this example, taken from p. "
+"188 of Hayes (2022), the dataset ``pmi`` is required (to download the "
+"`data sets <https://afhayes.com/public/hayes2022data.zip>`__). Thecommand"
+" in the book has to be adjusted by changing ``data = pmi`` into ``data = "
+"data`` (``data`` refers to the currently opened dataset in jamovi)."
 msgstr ""
 
 #: ../../howto/howto_Use_PROCESS.rst:81
 msgid ""
-"Please remember that you have to run the ``source…`` command again whenever "
-"you open a new dataset / a new jamovi session. If you want to run several "
-"analyses with the same dataset / within the same jamovi session, this is not "
-"required."
+"Please remember that you have to run the ``source…`` command again "
+"whenever you open a new dataset / a new jamovi session. If you want to "
+"run several analyses with the same dataset / within the same jamovi "
+"session, this is not required."
 msgstr ""
 
 #: ../../howto/howto_Use_PROCESS.rst:89
 msgid ""
 "“The default random number generator in R is diﬀerent than the default "
 "random number generator in SPSS and SAS. Thus, bootstrap confidence "
-"intervals generated by R will be diﬀerent than those produced by SPSS and "
-"SAS even when the same seed is used when estimating the same model using the "
-"same data.” (Hayes, 2022, p. 613)"
+"intervals generated by R will be diﬀerent than those produced by SPSS and"
+" SAS even when the same seed is used when estimating the same model using"
+" the same data.” (Hayes, 2022, p. 613)"
 msgstr ""
 
 #: ../../howto/howto_Use_PROCESS.rst:96
 msgid ""
-"“PROCESS for R accepts data only in numeric format. Thus, for example, if a "
-"variable named sex were coded M and F in the data, these alphabetic codes "
-"must be converted to numeric form (e.g., 0 and 1) prior to their use in a "
-"PROCESS command.” (Hayes, 2022, p. 612)"
+"“PROCESS for R accepts data only in numeric format. Thus, for example, if"
+" a variable named sex were coded M and F in the data, these alphabetic "
+"codes must be converted to numeric form (e.g., 0 and 1) prior to their "
+"use in a PROCESS command.” (Hayes, 2022, p. 612)"
 msgstr ""
 
 #: ../../howto/howto_overview.rst:5
@@ -398,8 +294,8 @@ msgstr ""
 
 #: ../../howto/howto_overview.rst:7
 msgid ""
-"The aim of the following section is to clear and simple instructions on how "
-"to deal with common tasks within jamovi."
+"The aim of the following section is to clear and simple instructions on "
+"how to deal with common tasks within jamovi."
 msgstr ""
 
 #: ../../howto/howto_overview.rst:11
@@ -409,3 +305,38 @@ msgstr ""
 #: ../../howto/howto_overview.rst:20
 msgid "Analyses"
 msgstr ""
+
+#~ msgid ""
+#~ "based upon z-scores (the absolute value"
+#~ " should be larger 3.3; this equals"
+#~ " to a probability of 0.1% = 1"
+#~ " / 1000)"
+#~ msgstr ""
+
+#~ msgid "based upon the IQR (like in a box plot)"
+#~ msgstr ""
+
+#~ msgid "based on the Mahalanobis distance (multivariate)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "you can either use an function-"
+#~ "based selection; the functions below "
+#~ "filter out lines based on either "
+#~ "the z-scores (first line), the "
+#~ "interquartile range (IQR, second line) "
+#~ "or by excluding certain rows / row"
+#~ " numbers (e.g., based upon the output"
+#~ " from the calculation of the "
+#~ "Mahalanobis distance below; third line):"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "you can also de-select cases by"
+#~ " excluding the respective row numbers "
+#~ "in the dataset (visually checking the"
+#~ " outliers in the box-plots under "
+#~ "``Descriptives``, ensure that the tick "
+#~ "box ``Label outliers`` is set)"
+#~ msgstr ""
+
