@@ -1,0 +1,163 @@
+# #-#-#-#-#  index.pot (jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016-2022, The section authors, The jamovi project, and Sebastian Jentschke (curating this documentation). This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
+# This file is distributed under the same license as the jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  index.po (PROJECT VERSION)  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016-2022, The section authors, The jamovi project, and
+# Sebastian Jentschke (curating this documentation). This work is licensed
+# under a Creative Commons Attribution-ShareAlike 4.0 International License
+# This file is distributed under the same license as the jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"#-#-#-#-#  index.pot (jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-02 16:00+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  index.po (PROJECT VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-03-02 15:57+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.3\n"
+
+#: ../../index.rst:12
+msgid "Getting Started"
+msgstr ""
+
+#: ../../index.rst:23
+msgid "Analyses"
+msgstr ""
+
+#: ../../index.rst:40
+msgid "How to..."
+msgstr ""
+
+#: ../../index.rst:47
+msgid "jamovi-modules"
+msgstr ""
+
+#: ../../index.rst:54
+msgid "From SPSS to jamovi"
+msgstr ""
+
+#: ../../index.rst:64
+msgid ""
+"Welcome to the documentation for `jamovi <https://www.jamovi.org>`__, a free "
+"and open statistical software to bridge the gap between researcher and "
+"statistician."
+msgstr ""
+
+#: ../../index.rst:68
+msgid ""
+"Before we begin, a brief remark on how to use this web page. The content is "
+"available in different languages. To change the language, please head to the "
+"“jamovi documentation” roll-up menu (in the bottom-left corner) and click on "
+"it. A larger menu unfolds where you can select the language you would like "
+"to read the documentation in. So far, only a few languages are translated "
+"completely, but you are very welcome to contribute to a `translation into "
+"your language <https://hosted.weblate.org/projects/jamovidocs/>`__."
+msgstr ""
+
+#: ../../index.rst:78
+msgid "Getting started"
+msgstr ""
+
+#: ../../index.rst:80
+msgid ""
+"The following topics should get you up and running with jamovi, with "
+"additional topics available from the menu to the left."
+msgstr ""
+
+#: ../../index.rst:83
+msgid ":doc:`usermanual/um_1_installation`"
+msgstr ":doc:`usermanual/um_1_installation`"
+
+#: ../../index.rst:84
+msgid ":doc:`usermanual/um_2_first-steps`"
+msgstr ":doc:`usermanual/um_2_first-steps`"
+
+#: ../../index.rst:85
+msgid ":doc:`usermanual/um_3_analyses`"
+msgstr ":doc:`usermanual/um_3_analyses`"
+
+#: ../../index.rst:86
+msgid ":doc:`usermanual/um_4_spreadsheet`"
+msgstr ":doc:`usermanual/um_4_spreadsheet`"
+
+#: ../../index.rst:87
+msgid ":doc:`usermanual/um_5_updating_data`"
+msgstr ":doc:`usermanual/um_5_updating_data`"
+
+#: ../../index.rst:88
+msgid ":doc:`usermanual/um_6_jamovi_and_R`"
+msgstr ":doc:`usermanual/um_6_jamovi_and_R`"
+
+#: ../../index.rst:90
+msgid ""
+"You can find further topics in the menu on the right-hand side: step-for-"
+"step instructions for conducting common analyses (“Analyses”), brief "
+"instructions how to deal with common tasks (“How to...”), information "
+"regarding how to get started with developing modules to extend the function "
+"of jamovi (“jamovi-modules”), and information for users of other statistics "
+"software packages (“jamovi and other software”) aiming to help with the "
+"transition from SPSS, as well as with how to use jamovi and R together."
+msgstr ""
+
+#~ msgid ":doc:`usermanual/um_6_syntax_mode`"
+#~ msgstr ":doc:`usermanual/um_6_syntax_mode`"
+
+#~ msgid ":doc:`analyses/jg_11_descriptive-analyses`"
+#~ msgstr ":doc:`analyses/jg_11_descriptive-analyses`"
+
+#~ msgid ":doc:`analyses/jg_21_t-test-independent`"
+#~ msgstr ":doc:`analyses/jg_21_t-test-independent`"
+
+#~ msgid ":doc:`analyses/jg_22_t-test-paired`"
+#~ msgstr ":doc:`analyses/jg_22_t-test-paired`"
+
+#~ msgid ":doc:`analyses/jg_23_t-test-onesample`"
+#~ msgstr ":doc:`analyses/jg_23_t-test-onesample`"
+
+#~ msgid ":doc:`analyses/jg_31_unianova`"
+#~ msgstr ":doc:`analyses/jg_31_unianova`"
+
+#~ msgid ":doc:`analyses/jg_32_anova-factorial`"
+#~ msgstr ":doc:`analyses/jg_32_anova-factorial`"
+
+#~ msgid ":doc:`analyses/jg_33_anova-rm`"
+#~ msgstr ":doc:`analyses/jg_33_anova-rm`"
+
+#~ msgid ":doc:`analyses/jg_34_anova-mixed`"
+#~ msgstr ":doc:`analyses/jg_34_anova-mixed`"
+
+#~ msgid ":doc:`analyses/jg_42_regression-linear`"
+#~ msgstr ":doc:`analyses/jg_42_regression-linear`"
+
+#~ msgid ":doc:`analyses/jg_43_regression-logistic`"
+#~ msgstr ":doc:`analyses/jg_43_regression-logistic`"
+
+#~ msgid ":doc:`developer/dh_overview`"
+#~ msgstr ":doc:`developer/dh_overview`"
+
+#~ msgid ":doc:`spss2jamovi/s2j_overview`"
+#~ msgstr ":doc:`spss2jamovi/s2j_overview`"
+
+#~ msgid ":doc:`jamovi2r/j2R_overview`"
+#~ msgstr ":doc:`jamovi2r/j2R_overview`"
