@@ -4,7 +4,57 @@
 # This file is distributed under the same license as the jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+# #-#-#-#-#  index.po (jamovi )  #-#-#-#-#
+# #-#-#-#-#  index.pot (jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016-2022, The section authors, The jamovi project, and Sebastian Jentschke (curating this documentation). This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
+# This file is distributed under the same license as the jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 # #-#-#-#-#  index.po (PROJECT VERSION)  #-#-#-#-#
+# #-#-#-#-#  index.pot (jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016-2022, The section authors, The jamovi project, and Sebastian Jentschke (curating this documentation). This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
+# This file is distributed under the same license as the jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  index.po (PROJECT VERSION)  #-#-#-#-#
+# #-#-#-#-#  index.pot (jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016-2022, The section authors, The jamovi project, and Sebastian Jentschke (curating this documentation). This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
+# This file is distributed under the same license as the jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  index.po (jamovi )  #-#-#-#-#
+# #-#-#-#-#  index.pot (jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016-2022, The section authors, The jamovi project, and Sebastian Jentschke (curating this documentation). This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
+# This file is distributed under the same license as the jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  index.po (jamovi )  #-#-#-#-#
+# #-#-#-#-#  index.pot (jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016-2022, The section authors, The jamovi project, and Sebastian Jentschke (curating this documentation). This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
+# This file is distributed under the same license as the jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  index.po (jamovi )  #-#-#-#-#
+# #-#-#-#-#  index.pot (jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016-2022, The section authors, The jamovi project, and Sebastian Jentschke (curating this documentation). This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
+# This file is distributed under the same license as the jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  index.po (jamovi )  #-#-#-#-#
+# #-#-#-#-#  index.pot (jamovi )  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016-2022, The section authors, The jamovi project, and Sebastian Jentschke (curating this documentation). This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
+# This file is distributed under the same license as the jamovi package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# #-#-#-#-#  index.po (PROJECT VERSION)  #-#-#-#-#
+# #-#-#-#-#  index.pot (jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2016-2022, The section authors, The jamovi project, and
 # Sebastian Jentschke (curating this documentation). This work is licensed
@@ -12,6 +62,11 @@
 # This file is distributed under the same license as the jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 #
+# #-#-#-#-#  index.po (PROJECT VERSION)  #-#-#-#-#
+# Copyright (C) 2016-2022, The section authors, The jamovi project, and
+# Sebastian Jentschke (curating this documentation). This work is licensed
+# under a Creative Commons Attribution-ShareAlike 4.0 International License
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 #, fuzzy
 msgid ""
 msgstr ""
@@ -25,17 +80,41 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  index.po (PROJECT VERSION)  #-#-#-#-#\n"
-"Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"#-#-#-#-#  index.po (jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  index.pot (jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: jamovi \n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-03-02 15:57+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  index.po (PROJECT VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-02-06 14:00+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.3\n"
+"#-#-#-#-#  index.pot (jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  index.po (PROJECT VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  index.pot (jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  index.po (jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  index.pot (jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  index.po (jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  index.pot (jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  index.po (jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  index.pot (jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  index.po (jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  index.pot (jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  index.po (PROJECT VERSION)  #-#-#-#-#\n"
+"Generated-By: Babel 2.9.1\n"
 
 #: ../../index.rst:12
 msgid "Getting Started"
@@ -120,9 +199,6 @@ msgid ""
 "transition from SPSS, as well as with how to use jamovi and R together."
 msgstr ""
 
-#~ msgid ":doc:`usermanual/um_6_syntax_mode`"
-#~ msgstr ":doc:`usermanual/um_6_syntax_mode`"
-
 #~ msgid ":doc:`analyses/jg_11_descriptive-analyses`"
 #~ msgstr ":doc:`analyses/jg_11_descriptive-analyses`"
 
@@ -161,3 +237,6 @@ msgstr ""
 
 #~ msgid ":doc:`jamovi2r/j2R_overview`"
 #~ msgstr ":doc:`jamovi2r/j2R_overview`"
+
+#~ msgid ":doc:`usermanual/um_6_syntax_mode`"
+#~ msgstr ":doc:`usermanual/um_6_syntax_mode`"

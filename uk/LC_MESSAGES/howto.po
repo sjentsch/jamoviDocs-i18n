@@ -14,46 +14,18 @@
 # #-#-#-#-#  howto.po (PROJECT VERSION)  #-#-#-#-#
 # #-#-#-#-#  howto.pot (jamovi )  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2016-2022, The section authors, The jamovi project, and Sebastian Jentschke (curating this documentation). This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
-# This file is distributed under the same license as the jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  howto.po (jamovi )  #-#-#-#-#
-# #-#-#-#-#  howto.pot (jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2016-2022, The section authors, The jamovi project, and Sebastian Jentschke (curating this documentation). This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
-# This file is distributed under the same license as the jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  howto.po (PROJECT VERSION)  #-#-#-#-#
-# #-#-#-#-#  howto.pot (jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2016-2022, The section authors, The jamovi project, and Sebastian Jentschke (curating this documentation). This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
-# This file is distributed under the same license as the jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  howto.po (PROJECT VERSION)  #-#-#-#-#
-# #-#-#-#-#  howto.pot (jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2016-2022, The section authors, The jamovi project, and Sebastian Jentschke (curating this documentation). This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
-# This file is distributed under the same license as the jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-# #-#-#-#-#  howto.po (PROJECT VERSION)  #-#-#-#-#
-# #-#-#-#-#  howto.pot (jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2016-2022, The section authors, The jamovi project, and
 # Sebastian Jentschke (curating this documentation). This work is licensed
 # under a Creative Commons Attribution-ShareAlike 4.0 International License
 # This file is distributed under the same license as the jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 #
 # #-#-#-#-#  howto.po (PROJECT VERSION)  #-#-#-#-#
+# #-#-#-#-#  howto.po (jamovi )  #-#-#-#-#
 # Copyright (C) 2016-2022, The section authors, The jamovi project, and
 # Sebastian Jentschke (curating this documentation). This work is licensed
 # under a Creative Commons Attribution-ShareAlike 4.0 International License
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
-# #-#-#-#-#  howto.po (jamovi )  #-#-#-#-#
 #, fuzzy
 msgid ""
 msgstr ""
@@ -81,22 +53,15 @@ msgstr ""
 "#-#-#-#-#  howto.po (PROJECT VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-22 14:03+0100\n"
+"POT-Creation-Date: 2023-02-06 14:00+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  howto.pot (jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  howto.po (jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  howto.pot (jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  howto.po (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  howto.pot (jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  howto.po (PROJECT VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  howto.pot (jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  howto.po (PROJECT VERSION)  #-#-#-#-#\n"
-"Generated-By: Babel 2.11.0\n"
+"Generated-By: Babel 2.9.1\n"
 
 #: ../../howto/howto_Filtering_data.rst:5
 msgid ""
