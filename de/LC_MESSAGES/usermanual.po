@@ -1,16 +1,18 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-03-02 16:46+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2024-04-11 17:01+0000\n"
+"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"Language-Team: German <https://hosted.weblate.org/projects/jamovidocs/"
+"1_usermanual/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.5-dev\n"
 "Generated-By: Babel 2.9.1\n"
 
 #: ../../usermanual/um_1_installation.rst:4
@@ -350,6 +352,12 @@ msgid ""
 "otherwise directly access specific analyses by selecting them from the menu "
 "on the right-hand side."
 msgstr ""
+"In den Einträgen unter \"Analysen\" im Menü auf der rechten Seite finden Sie "
+"eine Reihe von kurzen, nicht-technischen Anleitungen, wie Sie gängige "
+"statistische Verfahren in jamovi durchführen können. Die :doc:`Einführung "
+"<../analyses/jg_00_overview>` gibt einen Überblick über die verfügbaren "
+"Analysen, ansonsten können Sie direkt auf bestimmte Analysen zugreifen, "
+"indem Sie sie aus dem Menü auf der rechten Seite auswählen."
 
 #: ../../usermanual/um_3_analyses.rst:35
 msgid ""
@@ -626,10 +634,16 @@ msgid ""
 "variables” allow you to easily recode existing variables and apply "
 "transforms across many variables at once."
 msgstr ""
+"Während sich berechnete Variablen für viele Operationen eignen (z. B. "
+"Berechnung von Summenwerten, Generierung von Daten usw.), kann es etwas "
+"mühsam sein, wenn Sie mehrere Variablen neu kodieren oder transformieren "
+"möchten (z. B. beim Invertieren von Items in einem Umfragedatensatz). Mit „"
+"transformierten Variablen“ können Sie vorhandene Variablen einfach "
+"umkodieren und Transformationen auf viele Variablen gleichzeitig anwenden."
 
 #: ../../usermanual/um_4_spreadsheet.rst:130
 msgid "**Creating transformed variables**"
-msgstr ""
+msgstr "**Erstellen von transformierten Variablen**"
 
 #: ../../usermanual/um_4_spreadsheet.rst:136
 msgid ""
@@ -644,12 +658,27 @@ msgid ""
 "Ctrl / Cmd key. Once selected, you can either select ``Transform`` from the "
 "data tab, or right click and choose ``Transform`` from the menu."
 msgstr ""
+"Beim Transformieren oder Umkodieren von Variablen in jamovi wird eine „"
+"transformierte Variable“ für die ursprüngliche „Quellvariable“ erstellt. Auf "
+"diese Weise haben Sie bei Bedarf immer Zugriff auf die ursprünglichen, "
+"untransformierten Daten. Um eine Variable zu transformieren, wählen Sie "
+"zunächst die Variable(n) aus, die Sie transformieren möchten. Sie können "
+"einen Block mit mehreren Variablen auswählen, indem Sie auf die Kopfzeile / "
+"Überschrift der ersten Variable des Blocks klicken und dann bei gedrückter "
+"Umschalttaste auf die letzte Überschrift der letzten Variable im Block "
+"klicken. Alternativ können Sie einzelne Spalten auswählen bzw. die Auswahl "
+"aufheben, indem Sie bei gedrückter Strg- bzw. Befehlstaste auf die "
+"Spaltenüberschriften klicken. Nach der Auswahl können Sie entweder "
+"``Transformieren`` in der Registerkarte „Daten“ auswählen oder mit der "
+"rechten Maustaste klicken und ``Transformieren`` aus dem Menü wählen."
 
 #: ../../usermanual/um_4_spreadsheet.rst:147
 msgid ""
 "Either right-click on one of the selected variables, and click ``Transform..."
 "``:"
 msgstr ""
+"Klicken Sie entweder mit der rechten Maustaste auf eine der ausgewählten "
+"Variablen, und klicken Sie auf ``Transformieren...``:"
 
 #: ../../usermanual/um_4_spreadsheet.rst:150
 msgid "|um_transform_create1|"
@@ -662,6 +691,7 @@ msgstr "um_transform_create1"
 #: ../../usermanual/um_4_spreadsheet.rst:152
 msgid "or head to the ``Data``-ribbon, and click ``Transform:``"
 msgstr ""
+"oder gehen Sie zum ``Daten``-Tab und klicken Sie auf ``Transformieren:``"
 
 #: ../../usermanual/um_4_spreadsheet.rst:154
 msgid "|um_transform_create2|"
@@ -678,6 +708,11 @@ msgid ""
 "so we’re only setting up the transform for one variable (called score - "
 "log), but there’s no reason we can’t do more in one go."
 msgstr ""
+"Dadurch wird für jede ausgewählte Spalte eine zweite „transformierte "
+"Variable“ erstellt. Im folgenden Beispiel wurde nur eine einzige Variable "
+"ausgewählt, so dass wir die Transformation nur für eine Variable (mit dem "
+"Namen score - log) einrichten, aber es gibt keinen Grund, warum wir nicht "
+"mehrere Variablen in einem Durchgang transformieren können."
 
 #: ../../usermanual/um_4_spreadsheet.rst:161
 msgid "|um_transform_create3|"
@@ -695,22 +730,32 @@ msgid ""
 "transformed variable. After a transform has been created, it’s available "
 "from the list and can be shared easily across multiple transformed variables."
 msgstr ""
+"Wie in der obigen Abbildung zu sehen ist, hat jede transformierte Variable "
+"eine „Quellvariable“, welche die ursprüngliche, nicht transformierte "
+"Variable repräsentiert, und eine Transformation, welche die Regeln zur "
+"Umwandlung der Quellvariable in die transformierte Variable enthält. Nachdem "
+"eine Transformation erstellt wurde, steht sie in der Liste zur Verfügung und "
+"kann problemlos für andere zu transformierende Variablen verwendet werden."
 
 #: ../../usermanual/um_4_spreadsheet.rst:170
 msgid ""
 "If you don’t yet have the appropriate transform defined, you can select "
 "``Create new transform...`` from the list."
 msgstr ""
+"Wenn Sie die entsprechende Transformation noch nicht definiert haben, können "
+"Sie ``Neue Transformation erstellen...`` aus der Liste auswählen."
 
 #: ../../usermanual/um_4_spreadsheet.rst:174
 msgid "**Create a new transformation**"
-msgstr ""
+msgstr "**Eine neue Transformation erstellen**"
 
 #: ../../usermanual/um_4_spreadsheet.rst:176
 msgid ""
 "After clicking ``Create new transform...`` the transform editor slides into "
 "view:"
 msgstr ""
+"Durch einen Klick auf ``Neue Transformation erstellen...`` wird der "
+"Transformationseditor eingeblendet:"
 
 #: ../../usermanual/um_4_spreadsheet.rst:179
 msgid "|um_transform_edit1|"
@@ -722,17 +767,19 @@ msgstr "um_transform_edit1"
 
 #: ../../usermanual/um_4_spreadsheet.rst:181
 msgid "The transform editor contains these elements."
-msgstr ""
+msgstr "Der Transformationseditor enthält diese Elemente."
 
 #: ../../usermanual/um_4_spreadsheet.rst:183
 msgid "*Name*: The name for the transformation."
-msgstr ""
+msgstr "*Name*: Der Name für die Transformation."
 
 #: ../../usermanual/um_4_spreadsheet.rst:185
 msgid ""
 "*Description*: Space for you to provide a description of the transformation "
 "so you (and others) know what it does."
 msgstr ""
+"*Beschreibung*: Hier können Sie eine Beschreibung der Transformation "
+"angeben, damit Sie (und andere) wissen, was sie bewirkt."
 
 #: ../../usermanual/um_4_spreadsheet.rst:188
 msgid ""
@@ -745,12 +792,23 @@ msgid ""
 "naming schemes (if left empty, the transformation name is used as the "
 "variable suffix):"
 msgstr ""
+"*Variablensuffix* (optional): Hier können Sie die Standard-"
+"Namensformatierung für die transformierte Variable festlegen. Standardmäßig "
+"wird das Variablensuffix an den Namen der Quellvariablen angehängt, mit "
+"einem Bindestrich (-) dazwischen. Sie können dieses Verhalten jedoch außer "
+"Kraft setzen, indem Sie drei Punkte (...) verwenden, die dann durch den "
+"Variablennamen ersetzt werden. Wenn Sie beispielsweise eine Variable mit dem "
+"Namen Q1 transformieren, können Sie Variablensuffixe verwenden, um die "
+"folgenden Benennungsschemata anzuwenden (wenn Sie nichts eingeben, wird der "
+"Transformationsname als Variablensuffix verwendet):"
 
 #: ../../usermanual/um_4_spreadsheet.rst:197
 msgid ""
 "``log``        → ``Q1 - log`` ``..._log``  → ``Q1_log`` ``log(...)`` → "
 "``log(Q1)``"
 msgstr ""
+"``log``        → ``Q1 - log`` ``..._log``  → ``Q1_log`` ``log(...)`` → "
+"``log(Q1)``"
 
 #: ../../usermanual/um_4_spreadsheet.rst:201
 msgid ""
@@ -762,6 +820,14 @@ msgid ""
 "conditions. To add additional conditions (i.e., if-statements), you click on "
 "the ``Add recode condition`` button:"
 msgstr ""
+"*Transformation*: Dieser Abschnitt enthält die Regeln und Formeln für die "
+"Transformation. Sie können alle Funktionen verwenden, die für berechnete "
+"Variablen zur Verfügung stehen. Um auf die Werte in der Ausgangsspalte zu "
+"verweisen (damit Sie diese umwandeln können), können Sie das spezielle "
+"Schlüsselwort ``$source`` verwenden. Wenn Sie eine Variable in mehrere "
+"Gruppen umkodieren wollen, ist es am einfachsten, mehrere Bedingungen zu "
+"verwenden. Um zusätzliche Bedingungen (d. h. Wenn-Anweisungen) hinzuzufügen, "
+"klicken Sie auf die Schaltfläche ``Umkodierungsbedingung hinzufügen``:"
 
 #: ../../usermanual/um_4_spreadsheet.rst:213
 msgid ""
