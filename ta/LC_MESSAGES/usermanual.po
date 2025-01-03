@@ -8,21 +8,24 @@ msgstr ""
 "Project-Id-Version: jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-03-02 16:46+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-01-03 08:04+0000\n"
+"Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/jamovidocs/"
+"1_usermanual/ta/>\n"
 "Language: ta\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10-dev\n"
 
 #: ../../usermanual/um_1_installation.rst:4
 msgid "Installation"
-msgstr ""
+msgstr "நிறுவல்"
 
 #: ../../usermanual/um_1_installation.rst:8
 msgid "Windows"
-msgstr ""
+msgstr "சாளரங்கள்"
 
 #: ../../usermanual/um_1_installation.rst:10
 msgid ""
@@ -32,6 +35,10 @@ msgid ""
 "`download page <https://www.jamovi.org/download.html>`__, and double-click "
 "the icon."
 msgstr ""
+"சாளரங்கள் விச்டா (64-பிட்) மற்றும் அதற்கு மேல் சாமோவி கிடைக்கிறது. சாளரங்களில் நிறுவல் "
+"மிகவும் நேராக முன்னோக்கி உள்ளது, மேலும் இதற்கு முன்பு சாளரங்களில் மென்பொருளை நிறுவிய "
+"எவருக்கும் தெரிந்திருக்க வேண்டும். `பதிவிறக்கப் பக்கத்திலிருந்து அண்மைக் கால பதிப்பைப் "
+"பதிவிறக்கவும்"
 
 #: ../../usermanual/um_1_installation.rst:14
 msgid ""
@@ -43,10 +50,17 @@ msgid ""
 "restrictions prevent jamovi from working in this way, in which case it would "
 "be worth raising the issue with your IT staff."
 msgstr ""
+"சில நிறுவனங்களில் (குறிப்பாக பல்கலைக்கழகங்கள்), மென்பொருளை நிறுவுவதற்கான “இயல்பான” "
+"அணுகுமுறை செய்தி தொழில்நுட்ப பாதுகாப்புக் கொள்கைகளால் தடுக்கப்படுகிறது. இந்த விசயத்தில், "
+"நீங்கள் எங்கள் `` .zip`- பதவியைப் பதிவிறக்கலாம். இதைப் பயன்படுத்த, வெறுமனே பதிவிறக்குங்கள்"
+", கணினியில் ஒரு இருப்பிடத்திற்கு அன்சிப், மற்றும் பின் கோப்புறைக்கு நாவியாகேட். `` "
+"Jamovi.exe`` இரட்டை சொடுக்கு செய்வது சாமோவியைத் தொடங்கும். கூடுதல் பாதுகாப்பு "
+"கட்டுப்பாடுகள் சாமோவி இந்த வழியில் செயல்படுவதைத் தடுக்கக்கூடும், இந்த விசயத்தில் உங்கள் "
+"செய்தி தொழில்நுட்ப ஊழியர்களுடனான பிரச்சினையை எழுப்புவது மதிப்பு."
 
 #: ../../usermanual/um_1_installation.rst:21
 msgid "macOS"
-msgstr ""
+msgstr "மேகோச்"
 
 #: ../../usermanual/um_1_installation.rst:23
 msgid ""
@@ -58,6 +72,13 @@ msgid ""
 "way). After this, jamovi will appear in your applications, and can be "
 "started like any other installed application."
 msgstr ""
+"மேகோச் 10.9+ (மேவரிக்ச் மற்றும் புதியது) க்கு சாமோவி கிடைக்கிறது. இதை நிறுவ, எங்கள் "
+"`பதிவிறக்கப் பக்கத்திலிருந்து` .dmg``-கோப்பைப் பதிவிறக்கி <https://www.jamovi.org/"
+"download.html> __ __ __ மற்றும் பதிவிறக்கம் செய்யப்பட்ட கோப்பை இருமுறை சொடுக்கு "
+"செய்யவும். இது உங்களுக்கு “கோப்புக் காட்சி” வழங்கும், மேலும் சாமோவி பயன்பாட்டை பயன்பாடுகள் "
+"கோப்புறையில் (வழக்கமான வழியில்) “இழுத்துச் செல்வதன் மூலம்” சாமோவியை நிறுவலாம். இதற்குப் "
+"பிறகு, உங்கள் பயன்பாடுகளில் சாமோவி தோன்றும், மேலும் நிறுவப்பட்ட வேறு எந்த பயன்பாட்டையும் "
+"போல தொடங்கலாம்."
 
 #: ../../usermanual/um_1_installation.rst:28
 msgid ""
@@ -65,16 +86,21 @@ msgid ""
 "versions are available. You can update your version of jamovi from the app "
 "menu (☰; at the top right of the window)."
 msgstr ""
+"MACOS க்கான சாமோவி ஒரு ஆட்டோ-புதுப்பிப்பு பொறிமுறையைக் கொண்டுள்ளது, மேலும் புதிய "
+"பதிப்புகள் கிடைக்கும்போது உங்களை எச்சரிக்கலாம். பயன்பாட்டு மெனுவிலிருந்து சாமோவியின் "
+"பதிப்பை நீங்கள் புதுப்பிக்கலாம் (☰; சாளரத்தின் மேல் வலதுபுறத்தில்)."
 
 #: ../../usermanual/um_1_installation.rst:33
 msgid "Linux and Chromebooks"
-msgstr ""
+msgstr "லினக்ச் மற்றும் Chromebooks"
 
 #: ../../usermanual/um_1_installation.rst:35
 msgid ""
 "jamovi is currently available for Linux, (for all ‘flatpak participating "
 "linux distributions’ – which is most of them), and Chromebooks, from flathub."
 msgstr ""
+"சாமோவி தற்போது லினக்சுக்கு கிடைக்கிறது, (அனைத்து ‘பிளாட்பாக் பங்கேற்கும் லினக்ச் "
+"விநியோகங்களுக்கும்’ - அவற்றில் பெரும்பாலானவை) மற்றும் பிளாத்தப்பில் இருந்து Chromebooks."
 
 #: ../../usermanual/um_1_installation.rst:37
 msgid ""
@@ -82,25 +108,31 @@ msgid ""
 "jamovi. If you encounter this, there are instructions on how to fix this a "
 "little :ref:`further down<blank-screen-on-chromebooks>`."
 msgstr ""
+"** குறிப்பு **: சமோவியைத் தொடங்கும்போது சில Chromebooks ஒரு வெற்று திரை சிக்கலை "
+"அனுபவிக்கின்றன. இதை நீங்கள் சந்தித்தால், இதை எவ்வாறு கொஞ்சம் சரிசெய்வது என்பதற்கான "
+"வழிமுறைகள் உள்ளன: குறிப்பு: `மேலும் கீழே <வெற்று-திரை-ஆன்-சோம்புக்ச்>`."
 
 #: ../../usermanual/um_1_installation.rst:40
 msgid ""
 "If you’re new to flatpak/flathub, you’ll need to follow the setup guide on "
 "`our flathub page <https://flathub.org/apps/details/org.jamovi.jamovi>`__."
 msgstr ""
+"நீங்கள் பிளாட்பாக்/பிளாட்டப்பிற்கு புதியவர் என்றால், `எங்கள் பிளாட்டப் பக்கத்தில் உள்ள அமைவு "
+"வழிகாட்டியைப் பின்பற்ற வேண்டும் <https://flathub.org/apps/details/"
+"org.jamovi.jamovi> __. __."
 
 #: ../../usermanual/um_1_installation.rst:42
 msgid ""
 "If you’re an old hand at flatpak, you can install jamovi with the command:"
-msgstr ""
+msgstr "நீங்கள் பிளாட்பேக்கில் பழைய கை என்றால், கட்டளையுடன் சாமோவியை நிறுவலாம்:"
 
 #: ../../usermanual/um_1_installation.rst:48
 msgid "and later, you can update your version of jamovi with:"
-msgstr ""
+msgstr "பின்னர், சாமோவியின் உங்கள் பதிப்பை நீங்கள் புதுப்பிக்கலாம்:"
 
 #: ../../usermanual/um_1_installation.rst:56
 msgid "Text not appearing in plots under linux"
-msgstr ""
+msgstr "லினக்சின் கீழ் அடுக்குகளில் உரை தோன்றவில்லை"
 
 #: ../../usermanual/um_1_installation.rst:58
 msgid ""
@@ -108,16 +140,21 @@ msgid ""
 "in plots in jamovi not displaying text correctly. To remedy this, you can "
 "run the following command at the terminal:"
 msgstr ""
+"சில லினக்ச் இயந்திரங்களில், பிளாட்பாக் எழுத்துரு தற்காலிக சேமிப்பு புதுப்பித்த நிலையில் "
+"இல்லை, இதன் விளைவாக சாமோவியில் அடுக்குகள் உரையை சரியாகக் காட்டாது. இதை சரிசெய்ய, நீங்கள்"
+" முனையத்தில் பின்வரும் கட்டளையை இயக்கலாம்:"
 
 #: ../../usermanual/um_1_installation.rst:65
 msgid ""
 "This appears to be an issue with flatpaks, and we’re working with the "
 "flatpak community to get to the bottom of it."
 msgstr ""
+"இது பிளாட்பாக்சுடன் ஒரு சிக்கலாகத் தோன்றுகிறது, மேலும் அதன் அடிப்பகுதிக்குச் செல்ல நாங்கள் "
+"பிளாட்பாக் சமூகத்துடன் இணைந்து பணியாற்றி வருகிறோம்."
 
 #: ../../usermanual/um_1_installation.rst:71
 msgid "Blank screen at startup on Chromebooks"
-msgstr ""
+msgstr "Chromebooks இல் தொடக்கத்தில் வெற்று திரை"
 
 #: ../../usermanual/um_1_installation.rst:73
 msgid ""
@@ -125,6 +162,9 @@ msgid ""
 "cause of this issue is not completely clear at this time, however it can be "
 "fixed by disabling “Crostini GPU support”."
 msgstr ""
+"சாமோவியைத் தொடங்கும்போது சில Chromebooks ஒரு வெற்று திரையை அனுபவிக்கின்றன. இந்த "
+"நேரத்தில் இந்த சிக்கலுக்கான காரணம் முற்றிலும் தெளிவாக இல்லை, இருப்பினும் “குரோச்டினி சி.பீ"
+". ஆதரவை” முடக்குவதன் மூலம் இதை சரிசெய்ய முடியும்."
 
 #: ../../usermanual/um_1_installation.rst:76
 msgid ""
@@ -133,24 +173,30 @@ msgid ""
 "After restarting your Chromebook the issue will be fixed (special thanks to "
 "`@mulderc <https://github.com/mulderc>`__)."
 msgstr ""
+"Chromeos முகவரி பட்டியில் `` Chrome: // கொடிகள்/`` உள்ளிடவும். இது “சோதனைகளை” "
+"கொண்டு வரும். `` க்ரோச்டினி சி.பீ.யு ஆதரவைத் தேடி அதை முடக்குவதற்கு அமைக்கவும். உங்கள் "
+"Chromebook ஐ மறுதொடக்கம் செய்த பிறகு, சிக்கல் சரி செய்யப்படும் (`mullderc <https://"
+"github.com/mulderc> ____) க்கு சிறப்பு நன்றி."
 
 #: ../../usermanual/um_2_first-steps.rst:4
 msgid "First steps in jamovi"
-msgstr ""
+msgstr "சாமோவியில் முதல் படிகள்"
 
 #: ../../usermanual/um_2_first-steps.rst:6
 msgid ""
 "When first starting jamovi, you will be presented with a user interface "
 "which looks something like this."
 msgstr ""
+"முதலில் சாமோவியைத் தொடங்கும்போது, உங்களுக்கு ஒரு பயனர் இடைமுகம் வழங்கப்படும், இது "
+"இதுபோன்றதாகத் தெரிகிறது."
 
 #: ../../usermanual/um_2_first-steps.rst:9
 msgid "|screenshot|"
-msgstr ""
+msgstr "| திரைக்காட்சி |"
 
 #: ../../usermanual/um_2_first-steps.rst:47
 msgid "screenshot"
-msgstr ""
+msgstr "திரைக்காட்சி"
 
 #: ../../usermanual/um_2_first-steps.rst:11
 msgid ""
@@ -159,12 +205,17 @@ msgid ""
 "regions, and this can be dragged to the left or the right to change their "
 "sizes."
 msgstr ""
+"இடதுபுறத்தில் விரிதாள் பார்வை உள்ளது, வலதுபுறம் புள்ளிவிவர சோதனைகளின் முடிவுகள் தோன்றும்"
+". இந்த இரண்டு பிராந்தியங்களையும் பிரிக்கும் ஒரு பட்டியில் நடுத்தரத்திற்கு கீழே உள்ளது, "
+"மேலும் இது அவற்றின் அளவுகளை மாற்ற இடது அல்லது வலதுபுறத்தில் இழுக்கப்படலாம்."
 
 #: ../../usermanual/um_2_first-steps.rst:16
 msgid ""
 "It is possible to simply begin typing values into the jamovi spreadsheet as "
 "you would any other spreadsheet software."
 msgstr ""
+"நீங்கள் வேறு எந்த விரிதாள் மென்பொருளையும் போலவே சாமோவி விரிதாளில் மதிப்புகளைத் தட்டச்சு "
+"செய்யத் தொடங்கலாம்."
 
 #: ../../usermanual/um_2_first-steps.rst:19
 msgid ""
@@ -175,14 +226,21 @@ msgid ""
 "jamovi), select ``Open`` and then ``Data library`` or ``This PC``, depending "
 "on whether you want to open an example, or a file stored on your computer."
 msgstr ""
+"மாற்றாக, தற்போதுள்ள தரவுத் தொகுப்புகள் பலவிதமான வடிவங்களில் (சி.எச்.வி, எக்செல், "
+"லிப்ரேஃபிச், ஆர், எச்.பி.எச்.எச், ச்டேட்டா, எச்.ஏ.எச் போன்றவை) சமோவியில் திறக்கப்படலாம். "
+"கூடுதலாக, சாமோவியில் பல எடுத்துக்காட்டு தரவுத் தொகுப்புகள் உள்ளன. ஒரு கோப்பைத் திறக்க, "
+"கோப்பு மெனுவைத் தேர்ந்தெடுக்கவும் (☰, சமோவியின் மேல் இடது மூலையில்), `` திறந்திருக்கும்``"
+" என்பதைத் தேர்ந்தெடுத்து, பின்னர் `` தரவு நூலகம்`` அல்லது `` இந்த பிசி`` என்பதைத் "
+"தேர்ந்தெடுத்து, நீங்கள் விரும்புகிறீர்களா என்பதைப் பொறுத்து ஒரு எடுத்துக்காட்டு அல்லது உங்கள் "
+"கணினியில் சேமிக்கப்பட்ட கோப்பைத் திறக்கவும்."
 
 #: ../../usermanual/um_2_first-steps.rst:27
 msgid "|csv-data|"
-msgstr ""
+msgstr "| CSV-DATA |"
 
 #: ../../usermanual/um_2_first-steps.rst:49
 msgid "csv-data"
-msgstr ""
+msgstr "CSV-DATA"
 
 #: ../../usermanual/um_2_first-steps.rst:29
 msgid ""
@@ -198,6 +256,14 @@ msgid ""
 "in the drop-down menu close to the ``Save as``-button. Thereafter, you may "
 "open the CSV-file in jamovi."
 msgstr ""
+"தரவைப் பரிமாறிக் கொள்வதற்கான மிகவும் பொதுவான வடிவம் “கமா-பிரிக்கப்பட்ட மதிப்புகள்” ("
+".csv அல்லது .txt) உடன் கோப்புகளைப் பயன்படுத்துகிறது. இந்தத் தரவுகள் கம்மாக்களைப் "
+"பயன்படுத்தி எளிய உரை கோப்பாக சேமிக்கப்படுகின்றன (அல்லது \";\", \"|\" . ஒரு "
+"எடுத்துக்காட்டு படத்தில் காட்டப்பட்டுள்ளது. முதல் வரியில் மாறி பெயர்கள் மற்றும் வேறு எந்த "
+"வரியும் ஒரு அளவீட்டு புள்ளியைக் கொண்டுள்ளது (பொதுவாக தரவு பெறப்பட்ட ஒரு நபர்). ஒரு "
+"விரிதாள் நிரலில் (எ.கா., எக்செல்) உங்கள் தரவு இருந்தால், `` கோப்பு` `` `சேமிக்கவும் ...`"
+" `மற்றும்` `கமா பிரிக்கப்பட்ட`` கீழ்தோன்றும் பட்டியலில் `` சேமிக்கவும். அதன்பிறகு, நீங்கள் "
+"சாமோவியில் CSV-FILE ஐ திறக்கலாம்."
 
 #: ../../usermanual/um_2_first-steps.rst:41
 msgid ""
@@ -205,6 +271,9 @@ msgid ""
 "issue (bug report) in the GitHub `issue tracker <https://github.com/jamovi/"
 "jamovi/issues>`__."
 msgstr ""
+"சாமோவி ஒரு கோப்பை சரியாக திறக்காத சாத்தியமில்லாத நிகழ்வில், கிட்அப்பில் ஒரு சிக்கலை "
+"(பிழை அறிக்கை) தாக்கல் செய்யுங்கள் `வெளியீடு டிராக்கர் <https://github.com/jamovi/"
+"jamovi/issues> __."
 
 #: ../../usermanual/um_3_analyses.rst:4
 msgid "Analyses"
@@ -219,6 +288,12 @@ msgid ""
 "for the analysis will appear in the right “results panel”, and will update "
 "as you make changes to the options."
 msgstr ""
+"மேலே உள்ள `` அனலீச்`` நாடாவிலிருந்து பகுப்பாய்வுகளைத் தேர்ந்தெடுக்கலாம். ஒரு பகுப்பாய்வைத் "
+"தேர்ந்தெடுப்பது அந்த குறிப்பிட்ட பகுப்பாய்விற்கான “விருப்பங்கள் குழு” ஐ வழங்கும், இது "
+"பகுப்பாய்வின் வெவ்வேறு பகுதிகளுக்கு வெவ்வேறு மாறிகளை ஒதுக்க அனுமதிக்கிறது, மேலும் "
+"வெவ்வேறு விருப்பங்களைத் தேர்ந்தெடுக்கவும். அதே நேரத்தில், பகுப்பாய்விற்கான முடிவுகள் சரியா"
+"ன “முடிவுகள் குழு” இல் தோன்றும், மேலும் நீங்கள் விருப்பங்களில் மாற்றங்களைச் செய்யும்போது "
+"புதுப்பிக்கப்படும்."
 
 #: ../../usermanual/um_3_analyses.rst:13
 msgid ""
@@ -228,6 +303,11 @@ msgid ""
 "produced. In this way, you can return to any analysis that you (or say, a "
 "colleague) created earlier."
 msgstr ""
+"நீங்கள் பகுப்பாய்வு சரியாக அமைக்கும்போது, விருப்பங்கள் குழுவின் மேல் வலதுபுறத்தில் "
+"அம்புக்குறியைக் சொடுக்கு செய்வதன் மூலம் பகுப்பாய்வு விருப்பங்களை நிராகரிக்கலாம். இந்த "
+"விருப்பங்களுக்குத் திரும்ப விரும்பினால், தயாரிக்கப்பட்ட முடிவுகளைக் சொடுக்கு செய்யலாம். இந்"
+"த வழியில், நீங்கள் முன்னர் உருவாக்கிய எந்தவொரு பகுப்பாய்விற்கும் (அல்லது ஒரு தம ஊழியர்) "
+"திரும்பலாம்."
 
 #: ../../usermanual/um_3_analyses.rst:19
 msgid ""
@@ -236,6 +316,10 @@ msgid ""
 "bring up a menu, and by selecting ``Analysis``, and then ``Remove``, the "
 "analysis can be removed."
 msgstr ""
+"உங்களுக்கு இனி ஒரு குறிப்பிட்ட பகுப்பாய்வு தேவையில்லை என்று நீங்கள் முடிவு செய்தால், அதை "
+"முடிவு சூழல் மெனுவுடன் அகற்றலாம். பகுப்பாய்வு முடிவுகளில் வலது சொடுக்கு செய்வது ஒரு "
+"மெனுவைக் கொண்டுவரும், மேலும் `` பகுப்பாய்வு`` என்பதைத் தேர்ந்தெடுப்பதன் மூலம், பின்னர் `` "
+"அகற்று``, பகுப்பாய்வை அகற்றலாம்."
 
 #: ../../usermanual/um_3_analyses.rst:28
 msgid ""
@@ -246,6 +330,12 @@ msgid ""
 "otherwise directly access specific analyses by selecting them from the menu "
 "on the right-hand side."
 msgstr ""
+"சாமோவியில் பொதுவான புள்ளிவிவர நடைமுறைகளை எவ்வாறு நடத்துவது என்பது குறித்த குறுகிய, "
+"தொழில்நுட்பமற்ற பயிற்சிகளுக்கு வலது புறத்தில் உள்ள பட்டியலில் உள்ள “பகுப்பாய்வுகளின்” கீழ் "
+"உள்ளீடுகளுக்கு நீங்கள் செல்லலாம். தி: டாக்: `அறிமுகம் <../ பகுப்பாய்வு/jg_00_overview>` "
+"கிடைக்கக்கூடிய பகுப்பாய்வுகளைப் பற்றிய ஒரு கண்ணோட்டத்தை அளிக்கிறது, அல்லது வலது புறத்தில் "
+"உள்ள மெனுவிலிருந்து அவற்றைத் தேர்ந்தெடுப்பதன் மூலம் குறிப்பிட்ட பகுப்பாய்வுகளை நேரடியாக "
+"அணுகலாம்."
 
 #: ../../usermanual/um_3_analyses.rst:35
 msgid ""
@@ -257,20 +347,29 @@ msgid ""
 "Selecting copy, copies the content to the clipboard, and can be pasted into "
 "the other program in the usual way."
 msgstr ""
+"சாமோவி நல்ல APA வடிவமைக்கப்பட்ட அட்டவணைகள் மற்றும் கவர்ச்சிகரமான அடுக்குகளை "
+"உருவாக்குகிறார். இவற்றை ஒரு சொல் ஆவணமாக அல்லது தம ஊழியருக்கு மின்னஞ்சலில் நகலெடுத்து "
+"ஒட்டுவது பெரும்பாலும் பயனுள்ளதாக இருக்கும். முடிவுகளை நகலெடுக்க, ஆர்வமுள்ள பொருளை வலது"
+" சொடுக்கு செய்து, மெனுவிலிருந்து நீங்கள் நகலெடுக்க விரும்புவதைத் தேர்ந்தெடுக்கவும். பட்டியல்"
+" உங்களை நகலெடுக்கவும், படத்தை மட்டும் சொல்லவோ அல்லது முழு பகுப்பாய்விலோ தேர்வு செய்ய "
+"அனுமதிக்கிறது. நகலைத் தேர்ந்தெடுப்பது, உள்ளடக்கத்தை இடைநிலைப்பலகைக்கு நகலெடுக்கிறது, "
+"மேலும் வழக்கமான வழியில் மற்ற நிரலில் ஒட்டலாம்."
 
 #: ../../usermanual/um_4_spreadsheet.rst:4
 msgid "The Spreadsheet"
-msgstr ""
+msgstr "விரிதாள்"
 
 #: ../../usermanual/um_4_spreadsheet.rst:6
 msgid ""
 "In jamovi, data is represented in a spreadsheet, with each column "
 "representing a “variable”."
 msgstr ""
+"சாமோவியில், தரவு ஒரு விரிதாளில் குறிப்பிடப்படுகிறது, ஒவ்வொரு நெடுவரிசையும் “மாறி” "
+"என்பதைக் குறிக்கும்."
 
 #: ../../usermanual/um_4_spreadsheet.rst:11
 msgid "Data Variables"
-msgstr ""
+msgstr "தரவு மாறிகள்"
 
 #: ../../usermanual/um_4_spreadsheet.rst:13
 msgid ""
@@ -278,54 +377,57 @@ msgid ""
 "variables simply contain data either loaded from a data file, or “typed in” "
 "by the user. Data variables can be one three data types:"
 msgstr ""
+"சாமோவியில் பொதுவாகப் பயன்படுத்தப்படும் மாறிகள் “தரவு மாறிகள்” ஆகும், இந்த மாறிகள் தரவுக் "
+"கோப்பிலிருந்து ஏற்றப்பட்ட தரவைக் கொண்டிருக்கின்றன, அல்லது பயனரால் “தட்டச்சு செய்யப்பட்டுள்ளன”"
+". தரவு மாறிகள் ஒரு மூன்று தரவு வகைகளாக இருக்கலாம்:"
 
 #: ../../usermanual/um_4_spreadsheet.rst:17
 msgid "``Integer``"
-msgstr ""
+msgstr "`` முழு எண்``"
 
 #: ../../usermanual/um_4_spreadsheet.rst:18
 msgid "``Decimal``"
-msgstr ""
+msgstr "`` தசம``"
 
 #: ../../usermanual/um_4_spreadsheet.rst:19
 msgid "``Text``"
-msgstr ""
+msgstr "`` உரை``"
 
 #: ../../usermanual/um_4_spreadsheet.rst:21
 msgid "and one of four measure types:"
-msgstr ""
+msgstr "மற்றும் நான்கு அளவீட்டு வகைகளில் ஒன்று:"
 
 #: ../../usermanual/um_4_spreadsheet.rst:23
 msgid "|nominal|    ``Nominal``"
-msgstr ""
+msgstr "| பெயரளவு | `` பெயரளவு``"
 
 #: ../../usermanual/um_4_spreadsheet.rst:439
 msgid "nominal"
-msgstr ""
+msgstr "பெயரளவு"
 
 #: ../../usermanual/um_4_spreadsheet.rst:24
 msgid "|ordinal|    ``Ordinal``"
-msgstr ""
+msgstr "| ஆர்டினல் | `` ஆர்டினல்``"
 
 #: ../../usermanual/um_4_spreadsheet.rst:441
 msgid "ordinal"
-msgstr ""
+msgstr "சாதாரண"
 
 #: ../../usermanual/um_4_spreadsheet.rst:25
 msgid "|continuous| ``Continuous``"
-msgstr ""
+msgstr "| தொடர்ச்சியான | `` தொடர்ச்சியான``"
 
 #: ../../usermanual/um_4_spreadsheet.rst:443
 msgid "continuous"
-msgstr ""
+msgstr "தொடர்ச்சியான"
 
 #: ../../usermanual/um_4_spreadsheet.rst:26
 msgid "|id|         ``ID``"
-msgstr ""
+msgstr "| ஐடி | `` ஐடி``"
 
 #: ../../usermanual/um_4_spreadsheet.rst:445
 msgid "id"
-msgstr ""
+msgstr "ஐடி"
 
 #: ../../usermanual/um_4_spreadsheet.rst:29
 msgid ""
@@ -333,6 +435,9 @@ msgid ""
 "variable’s column. Note that some combinations of data-type and measure-type "
 "don’t make sense, and jamovi won’t let you choose these."
 msgstr ""
+"அளவீட்டு வகைகள் மாறியின் நெடுவரிசையின் தலைப்பில் உள்ள சின்னத்தால் நியமிக்கப்படுகின்றன. தரவு"
+" வகை மற்றும் அளவீட்டு வகைகளின் சில சேர்க்கைகள் அர்த்தமல்ல என்பதை நினைவில் கொள்க, மேலும் "
+"இவற்றை தேர்வு செய்ய சாமோவி உங்களை அனுமதிக்க மாட்டார்."
 
 #: ../../usermanual/um_4_spreadsheet.rst:33
 msgid ""
@@ -346,6 +451,15 @@ msgid ""
 "internally, which can improve performance when interacting with very large "
 "data sets."
 msgstr ""
+"`` பெயரளவு`` மற்றும் `` ஆர்டினல்`` ஆகியவை பெயரளவு மற்றும் சாதாரண மாறிகளுக்கு "
+"கணிக்கத்தக்கவை. `` தொடர்ச்சியானது`` என்பது எண் மதிப்புகளைக் கொண்ட மாறிகள் * இடைவெளி * "
+"அல்லது * விகிதம் * அளவீடுகளாகக் கருதப்படுகிறது (SPSS இல் `` அளவுகோல்` க்கு சமம்). `` "
+"ஐடி`` அளவீட்டு வகை, மற்றவர்களைப் போலல்லாமல், சாமோவிக்கு தனித்துவமானது. இது நீங்கள் "
+"ஒருபோதும் பகுப்பாய்வு செய்ய விரும்பாத அடையாளங்காட்டிகளைக் கொண்ட மாறிகளுக்காக "
+"வடிவமைக்கப்பட்டுள்ளது. எடுத்துக்காட்டாக, ஒரு நபரின் பெயர், அல்லது பங்கேற்பாளர் ஐடி. "
+"ஐடிகளின் நன்மை என்னவென்றால், சாமோவிக்கு உள்நாட்டில் நிலைகளின் பட்டியலை பராமரிக்க "
+"தேவையில்லை, இது மிகப் பெரிய தரவுத் தொகுப்புகளுடன் தொடர்பு கொள்ளும்போது செயல்திறனை "
+"மேம்படுத்த முடியும்."
 
 #: ../../usermanual/um_4_spreadsheet.rst:43
 msgid ""
@@ -357,6 +471,13 @@ msgid ""
 "approach may not be correct, and it may be necessary to manually specify the "
 "data and measure type with the variable editor."
 msgstr ""
+"வெற்று விரிதாளுடன் தொடங்கி மதிப்புகளைத் தட்டச்சு செய்யும் போது, நீங்கள் உள்ளிட்ட தரவைப் "
+"பொறுத்து தரவு மற்றும் அளவீட்டு வகைகள் தானாக மாறும். எந்த வகையான தரவை எந்த மாறுபட்ட "
+"வகைகள் செல்கின்றன என்பதற்கான உணர்வைப் பெற இது ஒரு சிறந்த வழியாகும். இதேபோல், தரவுக் "
+"கோப்பைத் திறக்கும்போது, ஒவ்வொரு நெடுவரிசையிலும் உள்ள தரவுகளிலிருந்து மாறி வகையை சமோவி"
+" ஊகிக்கும். இரண்டு நிகழ்வுகளிலும், இந்த தானியங்கி அணுகுமுறை சரியாக இருக்காது, மேலும் "
+"தரவை கைமுறையாகக் குறிப்பிடுவது மற்றும் மாறி எடிட்டருடன் அளவீட்டு வகையை அளவிடுவது "
+"அவசியமாக இருக்கலாம்."
 
 #: ../../usermanual/um_4_spreadsheet.rst:51
 msgid ""
@@ -367,6 +488,12 @@ msgid ""
 "label displayed for each level. The variable editor can be dismissed by "
 "clicking the close arrow, or by pressing ``F3`` again."
 msgstr ""
+"`` தரவு`` தாவலில் இருந்து `` அமைவு` என்பதைத் தேர்ந்தெடுப்பதன் மூலமும், நெடுவரிசை "
+"தலைப்பில் இருமுறை சொடுக்கு செய்வதன் மூலமோ அல்லது `` F3`` ஐ அழுத்துவதன் மூலமோ மாறி "
+"எடிட்டரை செயல்படுத்தலாம். மாறி எடிட்டர் மாறியின் பெயரை மாற்ற உங்களை அனுமதிக்கிறது, "
+"மற்றும் (தரவு மாறிகளுக்கு) தரவு வகை, அளவீட்டு வகை, நிலைகளின் வரிசை மற்றும் ஒவ்வொரு "
+"நிலைக்கும் காட்டப்படும் சிட்டை. நெருங்கிய அம்புக்குறியைக் சொடுக்கு செய்வதன் மூலம் அல்லது "
+"மீண்டும் `` F3`` ஐ அழுத்துவதன் மூலம் மாறி எடிட்டரை நிராகரிக்கலாம்."
 
 #: ../../usermanual/um_4_spreadsheet.rst:63
 msgid ""
@@ -374,10 +501,13 @@ msgid ""
 "button from the data ribbon. The ``Add`` button also allows the addition of "
 "*Computed variables*."
 msgstr ""
+"தரவு நாடாவிலிருந்து `` சேர்` பொத்தானைப் பயன்படுத்தி புதிய மாறிகள் தரவு தொகுப்பில் "
+"செருகப்படலாம் அல்லது சேர்க்கப்படலாம். `` சேர்` பொத்தானை *கணக்கிடப்பட்ட மாறிகள் *சேர்க்க "
+"அனுமதிக்கிறது."
 
 #: ../../usermanual/um_4_spreadsheet.rst:69
 msgid "Computed Variables"
-msgstr ""
+msgstr "கணக்கிடப்பட்ட மாறிகள்"
 
 #: ../../usermanual/um_4_spreadsheet.rst:71
 msgid ""
@@ -386,6 +516,9 @@ msgid ""
 "of purposes, including log transforms, z-scores, sum-scores, negative "
 "scoring and means."
 msgstr ""
+"கணக்கிடப்பட்ட மாறிகள் மற்ற மாறிகள் மீது ஒரு கணக்கீட்டைச் செய்வதன் மூலம் அவற்றின் மதிப்பை "
+"எடுத்துக்கொள்கின்றன. கணக்கிடப்பட்ட மாறிகள் பதிவு மாற்றங்கள், இசட்-ச்கோர்ச், சம்-ச்கோர்ச், "
+"எதிர்மறை மதிப்பெண் மற்றும் வழிமுறைகள் உள்ளிட்ட பல நோக்கங்களுக்காக பயன்படுத்தப்படலாம்."
 
 #: ../../usermanual/um_4_spreadsheet.rst:76
 msgid ""
@@ -394,20 +527,26 @@ msgid ""
 "can specify the formula. The usual arithmetic operators are available. Some "
 "examples of formulas are:"
 msgstr ""
+"*தரவு தொகுப்பில் கிடைக்கும் `` சேர்` பொத்தானைக் கொண்டு, கணக்கிடப்பட்ட மாறி*\\ கள் தரவு "
+"தொகுப்பில் சேர்க்கப்படலாம். இது ஒரு சூத்திர பெட்டியை உருவாக்கும், அங்கு நீங்கள் சூத்திரத்தைக் "
+"குறிப்பிடலாம். வழக்கமான எண்கணித ஆபரேட்டர்கள் கிடைக்கின்றன. சூத்திரங்களின் சில "
+"எடுத்துக்காட்டுகள்:"
 
 #: ../../usermanual/um_4_spreadsheet.rst:90
 msgid ""
 "In order, these are the sum of A and B, a log (base 10) transform of "
 "``len``, the mean of ``A`` and ``B``, and the z-score of ``dose`` (twice)."
 msgstr ""
+"வரிசையில், இவை A மற்றும் B இன் தொகை, `` len``, `` a` மற்றும் `` b`` ஆகியவற்றின் "
+"சராசரி (அடிப்படை 10) உருமாற்றம், மற்றும் `` டோசின் z- மதிப்பெண் `` (இரண்டு முறை)."
 
 #: ../../usermanual/um_4_spreadsheet.rst:93
 msgid "There are many more functions available."
-msgstr ""
+msgstr "இன்னும் பல செயல்பாடுகள் உள்ளன."
 
 #: ../../usermanual/um_4_spreadsheet.rst:97
 msgid "``V``-functions"
-msgstr ""
+msgstr "`` V`` செயல்பாடுகள்"
 
 #: ../../usermanual/um_4_spreadsheet.rst:99
 msgid ""
@@ -417,6 +556,11 @@ msgid ""
 "For example, ``MEAN(A, B)`` will produce the mean of ``A`` and ``B`` for "
 "each row. Whereas ``VMEAN(A)`` gives the mean of *all* the values in ``A``."
 msgstr ""
+"பல செயல்பாடுகள் சோடிகளாகத் தோன்றும், ஒன்று `` v`` உடன் முன்னொட்டு, மற்றொன்று இல்லை. `` "
+"V`` செயல்பாடுகள் அவற்றின் கணக்கீட்டை ஒரு மாறியில் *ஒட்டுமொத்தமாக *செய்கின்றன, அங்கு ``v`` "
+"செயல்பாடுகள் அவற்றின் கணக்கீட்டு வரிசையை வரிசையில் செய்கின்றன. எடுத்துக்காட்டாக, `` சராசரி"
+" (அ, பி) `` ஒவ்வொரு வரிசையிலும் `` அ` மற்றும் `பி`` ஆகியவற்றின் சராசரியை உருவாக்கும்"
+". அதேசமயம் `` vmean (a) `` அனைத்து * மதிப்புகளின் சராசரியையும் `` a`` தருகிறது."
 
 #: ../../usermanual/um_4_spreadsheet.rst:105
 msgid ""
@@ -424,6 +568,9 @@ msgid ""
 "``group_by`` variable is specified, a separate value is calculated for each "
 "level of the ``group_by`` variable. In the following example:"
 msgstr ""
+"கூடுதலாக `` வி`` செயல்பாடுகள் ஒரு `` குழு_பிபி`` வாதத்தை ஆதரிக்கின்றன. ஒரு `` "
+"குழு_பிபி`` மாறி குறிப்பிடப்படும்போது, `` குழு_பிபி`` மாறியின் ஒவ்வொரு நிலைக்கும் "
+"ஒரு தனி மதிப்பு கணக்கிடப்படுகிறது. பின்வரும் எடுத்துக்காட்டில்:"
 
 #: ../../usermanual/um_4_spreadsheet.rst:114
 msgid ""
@@ -431,10 +578,12 @@ msgid ""
 "the computed variable will be the mean corresponding to it’s row’s value of "
 "``dose``."
 msgstr ""
+"`` டோச்`` இன் ஒவ்வொரு மட்டத்திற்கும் ஒரு தனி சராசரி கணக்கிடப்படுகிறது, மேலும் கணக்கிடப்பட்"
+"ட மாறியில் உள்ள ஒவ்வொரு மதிப்பும் அதன் வரிசையின் மதிப்புக்கு ஒத்த சராசரி `` டோச்``."
 
 #: ../../usermanual/um_4_spreadsheet.rst:120
 msgid "Transformed (Recoded) Variables"
-msgstr ""
+msgstr "மாற்றப்பட்ட (மறுவடிவமைப்பு) மாறிகள்"
 
 #: ../../usermanual/um_4_spreadsheet.rst:122
 msgid ""
@@ -445,10 +594,16 @@ msgid ""
 "variables” allow you to easily recode existing variables and apply "
 "transforms across many variables at once."
 msgstr ""
+"கணக்கிடப்பட்ட மாறிகள் நிறைய செயல்பாடுகளுக்கு சிறந்தவை என்றாலும் (எ.கா., தொகை "
+"மதிப்பெண்களைக் கணக்கிடுதல், தரவை உருவாக்குதல் போன்றவை), நீங்கள் பல மாறிகளை மறுசீரமைக்கவோ "
+"அல்லது மாற்றவோ விரும்பும்போது பயன்படுத்த சற்று சிரமமாக இருக்கும் (எ.கா., பல பதில்களை "
+"தலைகீழாக மாற்றும் போது ஒரு கணக்கெடுப்பு தரவு தொகுப்பில்). “மாற்றப்பட்ட மாறிகள்” ஏற்கனவே "
+"இருக்கும் மாறிகளை எளிதில் மீண்டும் வரையவும், ஒரே நேரத்தில் பல மாறிகள் முழுவதும் "
+"மாற்றங்களைப் பயன்படுத்தவும் உங்களை அனுமதிக்கிறது."
 
 #: ../../usermanual/um_4_spreadsheet.rst:130
 msgid "**Creating transformed variables**"
-msgstr ""
+msgstr "** மாற்றப்பட்ட மாறிகளை உருவாக்குதல் **"
 
 #: ../../usermanual/um_4_spreadsheet.rst:136
 msgid ""
@@ -463,32 +618,44 @@ msgid ""
 "Ctrl / Cmd key. Once selected, you can either select ``Transform`` from the "
 "data tab, or right click and choose ``Transform`` from the menu."
 msgstr ""
+"சாமோவியில் மாறிகளை மாற்றும்போது அல்லது மறுசீரமைக்கும்போது, அசல் “மூல மாறி” க்கு "
+"இரண்டாவது “மாற்றப்பட்ட மாறி” உருவாக்கப்படுகிறது. இந்த வழியில், தேவைப்பட்டால் அசல், "
+"மாற்றப்படாத தரவை நீங்கள் எப்போதும் அணுகுவீர்கள். மாறியை மாற்ற, முதலில் நீங்கள் மாற்ற விரும்பும்"
+" நெடுவரிசையை (களை) தேர்ந்தெடுக்கவும். தொகுதியில் முதல் நெடுவரிசை தலைப்பைக் சொடுக்கு "
+"செய்து, சிப்ட் விசையை வைத்திருக்கும் போது தொகுதியில் கடைசி நெடுவரிசை தலைப்பைக் சொடுக்கு"
+" செய்வதன் மூலம் நெடுவரிசைகளின் தொகுதியைத் தேர்ந்தெடுக்கலாம். மாற்றாக, கட்டுப்பாடு / CMD "
+"விசையை கீழே வைத்திருக்கும் போது நெடுவரிசை தலைப்புகளைக் சொடுக்கு செய்வதன் மூலம் தனிப்பட்ட "
+"நெடுவரிசைகளைத் தேர்ந்தெடுக்கலாம் / தேர்வு செய்யலாம். தேர்ந்தெடுக்கப்பட்டதும், தரவு தாவலில் "
+"இருந்து `` உருமாற்றம்` என்பதைத் தேர்ந்தெடுத்து அல்லது வலது சொடுக்கு செய்து மெனுவிலிருந்து"
+" `` உருமாற்றம்` என்பதைத் தேர்வு செய்யலாம்."
 
 #: ../../usermanual/um_4_spreadsheet.rst:147
 msgid ""
 "Either right-click on one of the selected variables, and click ``Transform..."
 "``:"
 msgstr ""
+"தேர்ந்தெடுக்கப்பட்ட மாறிகளில் ஒன்றில் வலது சொடுக்கு செய்து, `` உருமாற்றம் ... ``:"
 
 #: ../../usermanual/um_4_spreadsheet.rst:150
 msgid "|um_transform_create1|"
-msgstr ""
+msgstr "| um_transform_create1 |"
 
 #: ../../usermanual/um_4_spreadsheet.rst:448
 msgid "um_transform_create1"
-msgstr ""
+msgstr "UM_TRANSFORM_CREATE1"
 
 #: ../../usermanual/um_4_spreadsheet.rst:152
 msgid "or head to the ``Data``-ribbon, and click ``Transform:``"
 msgstr ""
+"அல்லது `` தரவு``-ரிப்பனுக்குச் சென்று, `` உருமாற்றம்: `` என்பதைக் சொடுக்கு செய்க"
 
 #: ../../usermanual/um_4_spreadsheet.rst:154
 msgid "|um_transform_create2|"
-msgstr ""
+msgstr "| um_transform_create2 |"
 
 #: ../../usermanual/um_4_spreadsheet.rst:449
 msgid "um_transform_create2"
-msgstr ""
+msgstr "um_transform_create2"
 
 #: ../../usermanual/um_4_spreadsheet.rst:156
 msgid ""
@@ -497,14 +664,19 @@ msgid ""
 "so we’re only setting up the transform for one variable (called score - "
 "log), but there’s no reason we can’t do more in one go."
 msgstr ""
+"இது தேர்ந்தெடுக்கப்பட்ட ஒவ்வொரு நெடுவரிசைக்கும் இரண்டாவது “மாற்றப்பட்ட மாறி” ஐ "
+"உருவாக்குகிறது. பின்வரும் எடுத்துக்காட்டில், எங்களிடம் ஒற்றை மாறி மட்டுமே "
+"தேர்ந்தெடுக்கப்பட்டது, எனவே நாங்கள் ஒரு மாறிக்கு (மதிப்பெண் - பதிவு என அழைக்கப்படுபவை) "
+"மாற்றத்தை மட்டுமே அமைக்கிறோம், ஆனால் ஒரே நேரத்தில் எங்களால் அதிகம் செய்ய முடியாது என்பதற்கு"
+" எந்த காரணமும் இல்லை."
 
 #: ../../usermanual/um_4_spreadsheet.rst:161
 msgid "|um_transform_create3|"
-msgstr ""
+msgstr "| um_transform_create3 |"
 
 #: ../../usermanual/um_4_spreadsheet.rst:450
 msgid "um_transform_create3"
-msgstr ""
+msgstr "um_transform_create3"
 
 #: ../../usermanual/um_4_spreadsheet.rst:163
 msgid ""
@@ -514,44 +686,55 @@ msgid ""
 "transformed variable. After a transform has been created, it’s available "
 "from the list and can be shared easily across multiple transformed variables."
 msgstr ""
+"மேலே உள்ள படத்தில் காணப்படுவது போல, ஒவ்வொரு மாற்றப்பட்ட மாறியும் ஒரு “மூல மாறி” உள்ளது"
+", இது அசல் மாற்றப்படாத மாறியைக் குறிக்கிறது, மற்றும் ஒரு உருமாற்றம், மூல மாறியை "
+"மாற்றப்பட்ட மாறியாக மாற்றுவதற்கான விதிகளைக் குறிக்கிறது. ஒரு உருமாற்றம் உருவாக்கப்பட்ட "
+"பிறகு, இது பட்டியலிலிருந்து கிடைக்கிறது, மேலும் பல மாற்றப்பட்ட மாறிகள் முழுவதும் "
+"எளிதாகப் பகிரலாம்."
 
 #: ../../usermanual/um_4_spreadsheet.rst:170
 msgid ""
 "If you don’t yet have the appropriate transform defined, you can select "
 "``Create new transform...`` from the list."
 msgstr ""
+"உங்களிடம் இன்னும் பொருத்தமான உருமாற்றம் வரையறுக்கப்படவில்லை என்றால், நீங்கள் புதிய "
+"உருமாற்றத்தை உருவாக்குங்கள் ... `` பட்டியலிலிருந்து தேர்ந்தெடுக்கலாம்."
 
 #: ../../usermanual/um_4_spreadsheet.rst:174
 msgid "**Create a new transformation**"
-msgstr ""
+msgstr "** ஒரு புதிய மாற்றத்தை உருவாக்கவும் **"
 
 #: ../../usermanual/um_4_spreadsheet.rst:176
 msgid ""
 "After clicking ``Create new transform...`` the transform editor slides into "
 "view:"
 msgstr ""
+"`` புதிய உருமாற்றத்தை உருவாக்குங்கள் ... `` டிரான்ச்ஃபார்ம் எடிட்டர் பார்வைக்கு "
+"சறுக்குகிறது:"
 
 #: ../../usermanual/um_4_spreadsheet.rst:179
 msgid "|um_transform_edit1|"
-msgstr ""
+msgstr "| Um_transform_edit1"
 
 #: ../../usermanual/um_4_spreadsheet.rst:451
 msgid "um_transform_edit1"
-msgstr ""
+msgstr "UM_TRANSFORM_EDIT1"
 
 #: ../../usermanual/um_4_spreadsheet.rst:181
 msgid "The transform editor contains these elements."
-msgstr ""
+msgstr "உருமாற்ற எடிட்டரில் இந்த கூறுகள் உள்ளன."
 
 #: ../../usermanual/um_4_spreadsheet.rst:183
 msgid "*Name*: The name for the transformation."
-msgstr ""
+msgstr "*பெயர்*: மாற்றத்திற்கான பெயர்."
 
 #: ../../usermanual/um_4_spreadsheet.rst:185
 msgid ""
 "*Description*: Space for you to provide a description of the transformation "
 "so you (and others) know what it does."
 msgstr ""
+"*விளக்கம்*: மாற்றத்தின் விளக்கத்தை நீங்கள் வழங்குவதற்கான இடம், எனவே அது என்ன செய்கிறது என்பதை"
+" நீங்கள் (மற்றவர்கள்) அறிவீர்கள்."
 
 #: ../../usermanual/um_4_spreadsheet.rst:188
 msgid ""
