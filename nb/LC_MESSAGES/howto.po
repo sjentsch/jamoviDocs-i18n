@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2023-03-02 16:46+0100\n"
-"PO-Revision-Date: 2025-02-17 12:01+0000\n"
+"PO-Revision-Date: 2025-02-17 14:48+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/"
 "jamovidocs/3_howto/nb_NO/>\n"
@@ -19,6 +19,7 @@ msgstr ""
 msgid ""
 "How do I identify outliers and filter them out from being used in analyses?"
 msgstr ""
+"Hvordan identifiserer jeg ekstremverdier og filtrerer dem ut fra analysene?"
 
 #: ../../howto/howto_Filtering_data.rst:7
 msgid "|Outliers_Filter_Shortcut|"
@@ -33,26 +34,33 @@ msgid ""
 "open the ``Data`` tab and select ``Filter`` (either by using the symbol in "
 "the icon bar or the one in the bottom-left corner of the jamovi window)"
 msgstr ""
+"åpne ``Data``-fanen og velg ``Filter`` (enten ved å bruke symbolet i "
+"ikonlinjen eller symbolet i nederste venstre hjørne av jamovi-vinduet)"
 
 #: ../../howto/howto_Filtering_data.rst:0
 msgid ""
 "in order to access functions, press the ``fx`` icon in the filter settings"
 msgstr ""
+"for å få tilgang til funksjoner, trykk på ikonet ``fx`` i "
+"filterinnstillingene"
 
 #: ../../howto/howto_Filtering_data.rst:0
 msgid ""
 "there also is a switch where you can activate or deactivate the filter (see "
 "the comment in red below)"
 msgstr ""
+"det finnes også en bryter hvor du kan aktivere eller deaktivere filteret (se "
+"kommentaren i rødt nedenfor)"
 
 #: ../../howto/howto_Filtering_data.rst:0
 msgid ""
 "you close the filter settings by pressing the arrow in the top-right corner"
 msgstr ""
+"du lukker filterinnstillingene ved å trykke på pilen i øverste høyre hjørne"
 
 #: ../../howto/howto_Filtering_data.rst:0
 msgid "there are three large approaches, to exclude outliers:"
-msgstr ""
+msgstr "det eksisterer tre store tilnærminger for å utelukke ekstremverdier:"
 
 #: ../../howto/howto_Filtering_data.rst:19
 msgid ""
@@ -60,16 +68,21 @@ msgid ""
 "a probability of 0.1% = 1 / 1000; based upon a standard normal distribution "
 "~ parametric)"
 msgstr ""
+"basert på z-skårer (absoluttverdien bør være større enn 3,3; dette tilsvarer "
+"en sannsynlighet på 0,1 % = 1 / 1000; basert på en standard normalfordeling ~"
+" parametrisk)"
 
 #: ../../howto/howto_Filtering_data.rst:22
 msgid ""
 "based upon the IQR (like in a box plot; based upon ranks and quantiles ~ non-"
 "parametric)"
 msgstr ""
+"basert på IQR (som i et boksplott; basert på rangeringer og kvantiler ~ ikke-"
+"parametrisk)"
 
 #: ../../howto/howto_Filtering_data.rst:24
 msgid "based on the Mahalanobis distance (multivariate outliers)"
-msgstr ""
+msgstr "basert på Mahalanobis-distansen (multivariate ekstremverdier)"
 
 #: ../../howto/howto_Filtering_data.rst:0
 msgid ""
@@ -77,6 +90,9 @@ msgid ""
 "3. you have to use R-code (decribed two bullet point below); for 2. you "
 "could also do it visually (three bullet points below)"
 msgstr ""
+"for 1. og 2. finnes det funksjoner i jamovi (se neste kulepunkt), for 3. må "
+"du bruke R-kode (beskrevet to kulepunkt nedenfor); for 2. kan du også gjøre "
+"det visuelt (tre kulepunkt nedenfor)"
 
 #: ../../howto/howto_Filtering_data.rst:0
 msgid ""
@@ -86,6 +102,11 @@ msgid ""
 "upon the output from the calculation of the Mahalanobis distance further "
 "below; third line):"
 msgstr ""
+"du kan enten bruke et funksjonsbasert utvalg; funksjonene nedenfor filtrerer "
+"ut linjer basert på enten z-skårene (første linje), det interkvartilavstand ("
+"IQR, andre linje) eller ved å ekskludere visse rader / radtall (f.eks. "
+"basert på resultatet fra beregningen av Mahalanobis-distansen lenger nede; "
+"tredje linje):"
 
 #: ../../howto/howto_Filtering_data.rst:48
 msgid "|Outliers_Filter_Settings|"
@@ -100,11 +121,13 @@ msgid ""
 "the following code example detects multivariate outliers based upon the "
 "Mahalanobis distance (remember to adjust the variable names in VL)"
 msgstr ""
+"de følgende kodeeksemplene oppdager multivariate ekstremverdier basert på "
+"Mahalanobis-distansen (husk å tilpasse variabelnavnene i VL)"
 
 #: ../../howto/howto_Filtering_data.rst:0
 msgid ""
 "the output from the ``R``-code tells you which lines you should de-select"
-msgstr ""
+msgstr "utgaven fra ``R``-koden forteller deg hvilke linjer du bør velge bort"
 
 #: ../../howto/howto_Filtering_data.rst:0
 msgid ""
@@ -112,11 +135,16 @@ msgid ""
 "and-paste them and run them by hitting the ►-button (the little green "
 "triangle)"
 msgstr ""
+"du bruker skriptene i `Rj-editoren <jamovi-module_Rj>`__ ved å bare kopiere "
+"dem og lim dem inn, kjør dem ved å trykke på ►-knappen (den lille grønne "
+"trekanten)"
 
 #: ../../howto/howto_Filtering_data.rst:0
 msgid ""
 "the filter conditions can then be combined using boolean ``and`` / ``or``:"
 msgstr ""
+"filterbetingelsene kan kombineres ved hjelp av de booleanske uttrykene "
+"``and`` / ``or``:"
 
 #: ../../howto/howto_Filtering_data.rst:0
 msgid ""
@@ -126,6 +154,11 @@ msgid ""
 "under ``Descriptives``, ensuring that the tick box ``Label outliers`` is set "
 "and exclude the row numbers that are marked as outliers)"
 msgstr ""
+"i stedet for å bruke den andre linjen (``MAXABSIQR``) kan du også velge bort "
+"tilfeller ved å ekskludere deres respektive radnumre i datasettet (som i den "
+"tredje linjen; du vil da visuelt sjekke ekstremverdiene i boksplottene under "
+"``Descriptives``, sørg for at avmerkingsboksen ``Label outliers`` er satt og "
+"ekskludere radnumrene som er merket som ekstremverdier)"
 
 #: ../../howto/howto_Install_modules.rst:5
 msgid "Install modules in jamovi"
