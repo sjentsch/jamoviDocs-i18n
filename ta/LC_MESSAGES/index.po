@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: jamovi\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2023-03-02 16:46+0100\n"
-"PO-Revision-Date: 2025-01-03 08:04+0000\n"
-"Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
+"PO-Revision-Date: 2025-02-17 13:37+0000\n"
+"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: Tamil <https://hosted.weblate.org/projects/jamovidocs/0_start/"
 "ta/>\n"
 "Language: ta\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10-dev\n"
+"X-Generator: Weblate 5.10.1-dev\n"
 
 #: ../../index.rst:12
 msgid "Getting Started"
@@ -45,7 +45,7 @@ msgid ""
 "and open statistical software to bridge the gap between researcher and "
 "statistician."
 msgstr ""
-"`சமோவி <https://www.jamovi.org> __, ஆராய்ச்சியாளருக்கும் புள்ளிவிவர நிபுணருக்கும் "
+"`சமோவி <https://www.jamovi.org>`__, ஆராய்ச்சியாளருக்கும் புள்ளிவிவர நிபுணருக்கும் "
 "இடையிலான இடைவெளியைக் குறைக்க இலவச மற்றும் திறந்த புள்ளிவிவர மென்பொருளுக்கான "
 "ஆவணங்களுக்கு வருக."
 
@@ -64,8 +64,7 @@ msgstr ""
 " “சாமோவி ஆவணம்” ரோல்-அப் மெனுவுக்கு (கீழ்-இடது மூலையில்) சென்று அதைக் சொடுக்கு செய்க. "
 "நீங்கள் ஆவணங்களை படிக்க விரும்பும் மொழியைத் தேர்ந்தெடுக்கக்கூடிய ஒரு பெரிய பட்டியல் "
 "வெளிவருகிறது. இதுவரை, ஒரு சில மொழிகள் மட்டுமே முழுமையாக மொழிபெயர்க்கப்பட்டுள்ளன, "
-"ஆனால் உங்கள் மொழியில் <https: // ஓச்டுக்கு மொழிபெயர்ப்புக்கு பங்களிக்க உங்களை மிகவும் "
-"வரவேற்கிறோம் .wellate.org/projects/Jamovidocs/> `__."
+"ஆனால் உங்கள் மொழியில் <https://hosted.weblate.org/projects/jamovidocs/>`__."
 
 #: ../../index.rst:78
 msgid "Getting started"
@@ -81,7 +80,7 @@ msgstr ""
 
 #: ../../index.rst:83
 msgid ":doc:`usermanual/um_1_installation`"
-msgstr ": டாக்: `பயனர் கையேடு/உம் _1_ நிறுவல்`"
+msgstr ":doc:`usermanual/um_1_installation`"
 
 #: ../../index.rst:84
 msgid ":doc:`usermanual/um_2_first-steps`"
@@ -89,11 +88,11 @@ msgstr ":doc:`usermanual/um_2_first-steps`"
 
 #: ../../index.rst:85
 msgid ":doc:`usermanual/um_3_analyses`"
-msgstr ": டாக்: `பயனர் கையேடு/UM_3_ பகுப்பாய்வு`"
+msgstr ":doc:`usermanual/um_3_analyses`"
 
 #: ../../index.rst:86
 msgid ":doc:`usermanual/um_4_spreadsheet`"
-msgstr ": டாக்: `பயனர் கையேடு/உம் 4 விரிதாள்`"
+msgstr ":doc:`usermanual/um_4_spreadsheet`"
 
 #: ../../index.rst:87
 msgid ":doc:`usermanual/um_5_updating_data`"
@@ -101,7 +100,7 @@ msgstr ":doc:`usermanual/um_5_updating_data`"
 
 #: ../../index.rst:88
 msgid ":doc:`usermanual/um_6_jamovi_and_R`"
-msgstr ": டாக்: `பயனர் கையேடு/_6_ சாமோவி மற்றும் ஆர்`"
+msgstr ":doc:`usermanual/um_6_jamovi_and_R`"
 
 #: ../../index.rst:90
 msgid ""
