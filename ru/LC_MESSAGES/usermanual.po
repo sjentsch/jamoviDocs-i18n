@@ -1,26 +1,45 @@
-# #-#-#-#-#  usermanual.pot (jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2016-2022, The section authors, The jamovi project, and Sebastian Jentschke (curating this documentation). This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
-# This file is distributed under the same license as the jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
 #, fuzzy
 msgid ""
 msgstr ""
-"#-#-#-#-#  usermanual.pot (jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-02 16:46+0100\n"
+"POT-Creation-Date: 2025-03-16 16:14+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  usermanual.po (jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-02 16:46+0100\n"
+"POT-Creation-Date: 2025-03-16 16:12+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-16 16:10+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-16 16:04+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-16 16:02+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -28,16 +47,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-02 16:46+0100\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-03-16 16:00+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.9.1\n"
+"Generated-By: Babel 2.17.0\n"
 
 #: ../../usermanual/um_1_installation.rst:4
 msgid "Installation"
@@ -265,7 +283,7 @@ msgid ""
 "You can head to the entries under “Analyses” in the menu on the right-hand "
 "side for a series of short, non-technical tutorials on how to conduct common "
 "statistical procedures in jamovi. The :doc:`introduction <../analyses/"
-"jg_00_overview>` gives an overview over the available analyses, or you can "
+"jg_overview>` gives an overview over the available analyses, or you can "
 "otherwise directly access specific analyses by selecting them from the menu "
 "on the right-hand side."
 msgstr ""
@@ -1023,20 +1041,27 @@ msgstr ""
 msgid "Combining jamovi and R"
 msgstr ""
 
-#: ../../usermanual/um_6_jamovi_and_R.rst:7
+#: ../../usermanual/um_6_jamovi_and_R.rst:6
+msgid ""
+"A huge advantage of jamovi is that it is not only built on top of the R "
+"statistical language, it also makes it also very easy to access R from "
+"jamovi, and jamovi from R. The syntax mode, ``Rj``, |jmvconnect| and |"
+"jmvReadWrite| help you to achieve that."
+msgstr ""
+
+#: ../../usermanual/um_6_jamovi_and_R.rst:12
 msgid "Syntax Mode"
 msgstr ""
 
-#: ../../usermanual/um_6_jamovi_and_R.rst:9
+#: ../../usermanual/um_6_jamovi_and_R.rst:14
 msgid ""
-"jamovi also provides an “R Syntax Mode”, in this mode, jamovi produces "
-"equivalent R code for each analysis. To change to syntax mode, select the "
-"application menu (⋮) at the top right of jamovi, and check the ``Syntax "
-"mode`` checkbox there. It is possible to leave syntax mode by clicking this "
-"a second time."
+"jamovi provides an “R Syntax Mode”, in this mode, jamovi produces equivalent "
+"R code for each analysis. To change to syntax mode, select the application "
+"menu (⋮) at the top right of jamovi, and check the ``Syntax mode`` checkbox "
+"there. It is possible to leave syntax mode by clicking this a second time."
 msgstr ""
 
-#: ../../usermanual/um_6_jamovi_and_R.rst:15
+#: ../../usermanual/um_6_jamovi_and_R.rst:19
 msgid ""
 "In syntax mode, analyses continue to operate as before, but now they produce "
 "R syntax. Like all results objects in jamovi, you can right click on these "
@@ -1045,20 +1070,20 @@ msgid ""
 "within an R session through the :doc:`jmv R package <../jmv/jmv_overview>`."
 msgstr ""
 
-#: ../../usermanual/um_6_jamovi_and_R.rst:30
+#: ../../usermanual/um_6_jamovi_and_R.rst:34
 msgid ""
-"At present, the provided R syntax does not include the data import step, and "
-"this must be performed manually. The easiest way of reading and writing "
-"jamovi data files in R is the |jmvReadWrite| R package. Alternatively, the |"
-"jmvconnect| R-package permits you to access data sets that you have opened "
-"in your jamovi session from R."
+"The provided R syntax does not include the data import step, but this can be "
+"easily achieved by using the R packages |jmvconnect|_ and |jmvReadWrite|_ "
+"(explained in more detail below). |jmvReadWrite|_ enables you to read and "
+"write jamovi data files (.omv) in R, |jmvconnect|_ permits you to access "
+"data sets that you have opened in your jamovi session from R."
 msgstr ""
 
-#: ../../usermanual/um_6_jamovi_and_R.rst:39
+#: ../../usermanual/um_6_jamovi_and_R.rst:43
 msgid "``Rj`` Editor"
 msgstr ""
 
-#: ../../usermanual/um_6_jamovi_and_R.rst:41
+#: ../../usermanual/um_6_jamovi_and_R.rst:45
 msgid ""
 "The ``Rj Editor`` allows you to use ``R`` code to analyse data directly in "
 "jamovi, and make use of your favourite R packages from within jamovi. ``Rj`` "
@@ -1067,15 +1092,15 @@ msgid ""
 "jamovi."
 msgstr ""
 
-#: ../../usermanual/um_6_jamovi_and_R.rst:47
+#: ../../usermanual/um_6_jamovi_and_R.rst:51
 msgid "|um_Rj1|"
 msgstr "|um_Rj1|"
 
-#: ../../usermanual/um_6_jamovi_and_R.rst:171
+#: ../../usermanual/um_6_jamovi_and_R.rst:265
 msgid "um_Rj1"
 msgstr "um_Rj1"
 
-#: ../../usermanual/um_6_jamovi_and_R.rst:49
+#: ../../usermanual/um_6_jamovi_and_R.rst:53
 msgid ""
 "There are many reasons you might want to do this; there are a lot of "
 "analyses available in R packages that haven’t (yet) been made available as "
@@ -1084,14 +1109,14 @@ msgid ""
 "allowing (among other things) conditional analyses and simulation studies."
 msgstr ""
 
-#: ../../usermanual/um_6_jamovi_and_R.rst:55
+#: ../../usermanual/um_6_jamovi_and_R.rst:59
 msgid ""
 "For some, using R in a spreadsheet will be an ideal place to begin learning "
 "``R``. For others, it can be an easy way to share R analyses with less "
 "technically savvy colleagues (and some people just prefer to code)."
 msgstr ""
 
-#: ../../usermanual/um_6_jamovi_and_R.rst:59
+#: ../../usermanual/um_6_jamovi_and_R.rst:63
 msgid ""
 "To run an R analysis, select ``Rj Editor`` from the ``R``-icon in the "
 "``Analyses`` ribbon. This will bring up the editor for entering your ``R`` "
@@ -1100,19 +1125,19 @@ msgid ""
 "``descriptives`` on it."
 msgstr ""
 
-#: ../../usermanual/um_6_jamovi_and_R.rst:65
+#: ../../usermanual/um_6_jamovi_and_R.rst:69
 msgid "|um_Rj2|"
 msgstr "|um_Rj2|"
 
-#: ../../usermanual/um_6_jamovi_and_R.rst:172
+#: ../../usermanual/um_6_jamovi_and_R.rst:266
 msgid "um_Rj2"
 msgstr "um_Rj2"
 
-#: ../../usermanual/um_6_jamovi_and_R.rst:67
+#: ../../usermanual/um_6_jamovi_and_R.rst:71
 msgid "Or if you prefer the ``dplyr`` approach, you could go:"
 msgstr ""
 
-#: ../../usermanual/um_6_jamovi_and_R.rst:77
+#: ../../usermanual/um_6_jamovi_and_R.rst:81
 msgid ""
 "You’ll notice as you’re entering this code, ``Rj`` auto-suggests function "
 "names. To run the code, click on the green triangle or press Control + Shift "
@@ -1121,29 +1146,38 @@ msgid ""
 "You can continue to make changes to the code, and then run it again."
 msgstr ""
 
-#: ../../usermanual/um_6_jamovi_and_R.rst:84
+#: ../../usermanual/um_6_jamovi_and_R.rst:88
 msgid ""
 "By default, ``Rj`` makes use of the version of ``R`` bundled with jamovi. "
-"This includes many packages (``jmv`` and all it’s `dependencies <https://"
-"cran.r-project.org/package=jmv>`_\\ ), and will be sufficient for many "
-"people, but if you need to make use of additional ``R`` packages then you’ll "
-"need to make use of the ``System R`` version. If you select ⚙ (at the top "
-"right of the code box), you’ll see an option to change the ``R version`` "
-"used. The ``System R`` version uses the version of ``R`` you have installed "
-"on your system. This has the advantage that your ``R`` code now has access "
-"to all of the packages you have installed for that version of ``R``. The "
-"last thing you will need is to have the |jmvconnect| R package installed in "
-"the R library on your system. This package allows the ``R`` version on your "
-"system to access the jamovi data sets. You can install it in ``R`` with:"
+"This includes many packages (|jmv|_ and all it’s dependencies), and will be "
+"sufficient for many people, but if you need to make use of additional R "
+"packages then you’ll need to make use of the ``System R`` version. If you "
+"select ⚙ (at the top right of the code box), you’ll see an option to change "
+"the ``R version`` used. The ``System R`` version uses the version of ``R`` "
+"you have installed on your system. This has the advantage that your ``R`` "
+"code now has access to all of the packages you have installed for that "
+"version of ``R``. The last thing you will need is to have the |jmvconnect|_ "
+"R package installed in the R library on your system."
+msgstr ""
+
+#: ../../usermanual/um_6_jamovi_and_R.rst:100
+msgid "``jmvconnect`` R package"
 msgstr ""
 
 #: ../../usermanual/um_6_jamovi_and_R.rst:102
+msgid ""
+"The |jmvconnect|_ R package allows the ``R`` version on your system to "
+"access the data sets that you opened in jamovi. You can install it in ``R`` "
+"with:"
+msgstr ""
+
+#: ../../usermanual/um_6_jamovi_and_R.rst:109
 msgid ""
 "Once this is done, moving from the ``jamovi R`` to the ``System R`` should "
 "be seamless."
 msgstr ""
 
-#: ../../usermanual/um_6_jamovi_and_R.rst:105
+#: ../../usermanual/um_6_jamovi_and_R.rst:112
 msgid ""
 "It’s worth remembering that sharing jamovi files with colleagues becomes a "
 "bit more complicated when you make use of the ``System R`` version. If they "
@@ -1151,7 +1185,7 @@ msgid ""
 "same R packages installed – that’s the price of flexibility!"
 msgstr ""
 
-#: ../../usermanual/um_6_jamovi_and_R.rst:110
+#: ../../usermanual/um_6_jamovi_and_R.rst:117
 msgid ""
 "When ``Rj`` runs ``R`` code, by default it makes the whole data set "
 "available as a data frame called ``data``. However, it’s likely that your "
@@ -1160,7 +1194,7 @@ msgid ""
 "special comment at the top of your script, of the form:"
 msgstr ""
 
-#: ../../usermanual/um_6_jamovi_and_R.rst:124
+#: ../../usermanual/um_6_jamovi_and_R.rst:131
 msgid ""
 "In this instance, only the named columns will appear in the data data frame. "
 "This can speed the analysis up, particularly if you are working with large "
@@ -1169,21 +1203,67 @@ msgid ""
 "are made to other columns."
 msgstr ""
 
-#: ../../usermanual/um_6_jamovi_and_R.rst:130
+#: ../../usermanual/um_6_jamovi_and_R.rst:137
 msgid ""
 "There may be times where you’ll want to transition to an R session for "
-"analysing a data set. This is where the |jmvconnect| R package comes in "
-"handy. |jmvconnect| let’s you read the data sets from a running jamovi "
+"analysing a data set. This is where the |jmvconnect|_ R package comes in "
+"handy. |jmvconnect|_ lets you read the data sets from a running jamovi "
 "instance into an R session. It has two functions: ``what()`` lists the "
 "available data sets, and ``read()`` reads them. For example, you might use:"
 msgstr ""
 
-#: ../../usermanual/um_6_jamovi_and_R.rst:149
+#: ../../usermanual/um_6_jamovi_and_R.rst:156
 msgid "and then read the data set with either of these two commands:"
 msgstr ""
 
-#: ../../usermanual/um_6_jamovi_and_R.rst:156
+#: ../../usermanual/um_6_jamovi_and_R.rst:165
+msgid "``jmvReadWrite`` R package"
+msgstr ""
+
+#: ../../usermanual/um_6_jamovi_and_R.rst:167
 msgid ""
-"Rj, |jmvconnect| and |jmvReadWrite| make is easy to access R from jamovi, "
-"and jamovi from R."
+"The |jmvReadWrite|_ R package reads and writes jamovi-data-files (.omv) in "
+"``R``. It can be installed with:"
+msgstr ""
+
+#: ../../usermanual/um_6_jamovi_and_R.rst:175
+msgid ""
+"A typical use case would be if you wanted to process a large number of "
+"result files (e.g., CSV-files from several participants in an experiment or "
+"with responses from different questionnaires). Wrangling data is often "
+"easiest achieved in R. Once you have assembled your dataset from these "
+"files, you can write it using the ``write_omv()``-function."
+msgstr ""
+
+#: ../../usermanual/um_6_jamovi_and_R.rst:190
+msgid ""
+"Likewise does the ``read_omv``-function permit you to read jamovi-data-files "
+"into ``R``. Another typical use case would be reading a data file, doing "
+"manipulations that currently are not possible in jamovi, and then writing "
+"back the resulting modified file (in the jamovi file format)."
+msgstr ""
+
+#: ../../usermanual/um_6_jamovi_and_R.rst:206
+msgid ""
+"There is a couple of helper functions implemented in |jmvReadWrite|_. They "
+"enable operations such as re-arranging the columns / variables of a data set "
+"(``arrange_cols_omv``), mass-converting a data files into the jamovi file "
+"format (``convert_to_omv``; e.g. from a statistics software that you used "
+"earlier), converting data files from long to wide format (``long2wide_omv``) "
+"and from wide to long format (``wide2long_omv``), adding variables from "
+"several data sets (``merge_cols_omv``), adding cases from several data sets "
+"(``merge_rows_omv``), or sort a data set after one or more variables "
+"(``sort_omv``)."
+msgstr ""
+
+#: ../../usermanual/um_6_jamovi_and_R.rst:216
+msgid ""
+"Another possible use case for ``read_omv`` is the creation of R markdown "
+"files using the results of your jamovi analyses. The ``getSyn``-parameter "
+"determines whether the syntax of the analyses contained in the file is "
+"extracted. For running the syntax, the |jmv|_ R package needs to be "
+"installed. If you would like to work with the results afterwards, it is "
+"recommended that you assign them to a variable (see the second ``eval`` "
+"below). Tables from the results can be converted into a data frame with the "
+"function ``asDF`` (e.g., ``result$main$asDF``)."
 msgstr ""

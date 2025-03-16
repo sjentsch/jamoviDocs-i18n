@@ -1,26 +1,45 @@
-# #-#-#-#-#  howto.pot (jamovi )  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2016-2022, The section authors, The jamovi project, and Sebastian Jentschke (curating this documentation). This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
-# This file is distributed under the same license as the jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
 #, fuzzy
 msgid ""
 msgstr ""
-"#-#-#-#-#  howto.pot (jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-02 16:46+0100\n"
+"POT-Creation-Date: 2025-03-16 16:14+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  howto.po (jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-02 16:46+0100\n"
+"POT-Creation-Date: 2025-03-16 16:12+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-16 16:10+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-16 16:04+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-16 16:02+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -28,16 +47,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-02 16:46+0100\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-03-16 16:00+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: sl\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.9.1\n"
+"Generated-By: Babel 2.17.0\n"
 
 #: ../../howto/howto_Filtering_data.rst:5
 msgid ""
@@ -52,29 +70,29 @@ msgstr "|Outliers_Filter_Shortcut|"
 msgid "Outliers_Filter_Shortcut"
 msgstr "Outliers_Filter_Shortcut"
 
-#: ../../howto/howto_Filtering_data.rst:0
+#: ../../howto/howto_Filtering_data.rst:0 ../../howto/howto_Filtering_data.rst
 msgid ""
 "open the ``Data`` tab and select ``Filter`` (either by using the symbol in "
 "the icon bar or the one in the bottom-left corner of the jamovi window)"
 msgstr ""
 
-#: ../../howto/howto_Filtering_data.rst:0
+#: ../../howto/howto_Filtering_data.rst:0 ../../howto/howto_Filtering_data.rst
 msgid ""
 "in order to access functions, press the ``fx`` icon in the filter settings"
 msgstr ""
 
-#: ../../howto/howto_Filtering_data.rst:0
+#: ../../howto/howto_Filtering_data.rst:0 ../../howto/howto_Filtering_data.rst
 msgid ""
 "there also is a switch where you can activate or deactivate the filter (see "
 "the comment in red below)"
 msgstr ""
 
-#: ../../howto/howto_Filtering_data.rst:0
+#: ../../howto/howto_Filtering_data.rst:0 ../../howto/howto_Filtering_data.rst
 msgid ""
 "you close the filter settings by pressing the arrow in the top-right corner"
 msgstr ""
 
-#: ../../howto/howto_Filtering_data.rst:0
+#: ../../howto/howto_Filtering_data.rst:0 ../../howto/howto_Filtering_data.rst
 msgid "there are three large approaches, to exclude outliers:"
 msgstr ""
 
@@ -95,14 +113,14 @@ msgstr ""
 msgid "based on the Mahalanobis distance (multivariate outliers)"
 msgstr ""
 
-#: ../../howto/howto_Filtering_data.rst:0
+#: ../../howto/howto_Filtering_data.rst:0 ../../howto/howto_Filtering_data.rst
 msgid ""
 "for 1. and 2., there exist functions in jamovi (see next bullet points), for "
 "3. you have to use R-code (decribed two bullet point below); for 2. you "
 "could also do it visually (three bullet points below)"
 msgstr ""
 
-#: ../../howto/howto_Filtering_data.rst:0
+#: ../../howto/howto_Filtering_data.rst:0 ../../howto/howto_Filtering_data.rst
 msgid ""
 "you can either use an function-based selection; the functions below filter "
 "out lines based on either the z-scores (first line), the interquartile range "
@@ -119,30 +137,30 @@ msgstr "|Outliers_Filter_Settings|"
 msgid "Outliers_Filter_Settings"
 msgstr "Outliers_Filter_Settings"
 
-#: ../../howto/howto_Filtering_data.rst:0
+#: ../../howto/howto_Filtering_data.rst:0 ../../howto/howto_Filtering_data.rst
 msgid ""
 "the following code example detects multivariate outliers based upon the "
 "Mahalanobis distance (remember to adjust the variable names in VL)"
 msgstr ""
 
-#: ../../howto/howto_Filtering_data.rst:0
+#: ../../howto/howto_Filtering_data.rst:0 ../../howto/howto_Filtering_data.rst
 msgid ""
 "the output from the ``R``-code tells you which lines you should de-select"
 msgstr ""
 
-#: ../../howto/howto_Filtering_data.rst:0
+#: ../../howto/howto_Filtering_data.rst:0 ../../howto/howto_Filtering_data.rst
 msgid ""
 "you use the scripts within the `Rj editor <jamovi-module_Rj>`__, just copy-"
 "and-paste them and run them by hitting the ►-button (the little green "
 "triangle)"
 msgstr ""
 
-#: ../../howto/howto_Filtering_data.rst:0
+#: ../../howto/howto_Filtering_data.rst:0 ../../howto/howto_Filtering_data.rst
 msgid ""
 "the filter conditions can then be combined using boolean ``and`` / ``or``:"
 msgstr ""
 
-#: ../../howto/howto_Filtering_data.rst:0
+#: ../../howto/howto_Filtering_data.rst:0 ../../howto/howto_Filtering_data.rst
 msgid ""
 "instead of using the second line (``MAXABSIQR``) you could also de-select "
 "cases by excluding their respective row numbers in the dataset (as in the "
@@ -295,10 +313,6 @@ msgid ""
 "PROCESS command.” (Hayes, 2022, p. 612)"
 msgstr ""
 
-#: ../../howto/howto_overview.rst:5
-msgid "How to..."
-msgstr "Kako..."
-
 #: ../../howto/howto_overview.rst:7
 msgid ""
 "The aim of the following section is to clear and simple instructions on how "
@@ -306,9 +320,12 @@ msgid ""
 msgstr ""
 
 #: ../../howto/howto_overview.rst:11
-msgid "jamovi's user interface"
+msgid "jamovi user interface"
 msgstr ""
 
-#: ../../howto/howto_overview.rst:20
+#: ../../howto/howto_overview.rst:21
 msgid "Analyses"
 msgstr ""
+
+#~ msgid "How to..."
+#~ msgstr "Kako..."

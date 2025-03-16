@@ -1,46 +1,52 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2016-2022, The section authors, The jamovi project, and Sebastian Jentschke (curating this documentation). This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
-# This file is distributed under the same license as the jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
 #, fuzzy
 msgid ""
 msgstr ""
-"#-#-#-#-#  howto.pot (jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-02 16:46+0100\n"
+"POT-Creation-Date: 2025-03-16 16:14+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  howto.po (jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  howto.pot (jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-02 16:46+0100\n"
+"POT-Creation-Date: 2025-03-16 16:12+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  howto.po (jamovi)  #-#-#-#-#\n"
-"Project-Id-Version: jamovi\n"
-"Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
-"POT-Creation-Date: 2023-03-02 16:46+0100\n"
-"PO-Revision-Date: 2025-01-03 10:01+0000\n"
-"Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
-"Language-Team: Tamil <https://hosted.weblate.org/projects/jamovidocs/3_howto/"
-"ta/>\n"
-"Language: ta\n"
+"Project-Id-Version: jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-16 16:10+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10-dev\n"
+"Project-Id-Version: jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-16 16:04+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-03-16 16:02+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
 
 #: ../../howto/howto_Filtering_data.rst:5
 msgid ""
@@ -57,7 +63,7 @@ msgstr "|Outliers_Filter_Shortcut|"
 msgid "Outliers_Filter_Shortcut"
 msgstr "Outliers_Filter_Shortcut"
 
-#: ../../howto/howto_Filtering_data.rst:0
+#: ../../howto/howto_Filtering_data.rst
 msgid ""
 "open the ``Data`` tab and select ``Filter`` (either by using the symbol in "
 "the icon bar or the one in the bottom-left corner of the jamovi window)"
@@ -66,12 +72,12 @@ msgstr ""
 "சின்னத்தைப் பயன்படுத்துவதன் மூலம் அல்லது சாமோவி சாளரத்தின் கீழ்-இடது மூலையில் ஒன்றைப் "
 "பயன்படுத்துவதன் மூலம்)"
 
-#: ../../howto/howto_Filtering_data.rst:0
+#: ../../howto/howto_Filtering_data.rst
 msgid ""
 "in order to access functions, press the ``fx`` icon in the filter settings"
 msgstr "செயல்பாடுகளை அணுக, வடிகட்டி அமைப்புகளில் `` fx`` ஐகானை அழுத்தவும்"
 
-#: ../../howto/howto_Filtering_data.rst:0
+#: ../../howto/howto_Filtering_data.rst
 msgid ""
 "there also is a switch where you can activate or deactivate the filter (see "
 "the comment in red below)"
@@ -79,13 +85,13 @@ msgstr ""
 "வடிகட்டியை நீங்கள் செயல்படுத்த அல்லது செயலிழக்கச் செய்யக்கூடிய ஒரு சுவிட்சும் உள்ளது (கீழே "
 "உள்ள கருத்தை கீழே காண்க)"
 
-#: ../../howto/howto_Filtering_data.rst:0
+#: ../../howto/howto_Filtering_data.rst
 msgid ""
 "you close the filter settings by pressing the arrow in the top-right corner"
 msgstr ""
 "மேல்-வலது மூலையில் அம்புக்குறியை அழுத்துவதன் மூலம் வடிகட்டி அமைப்புகளை மூடுகிறீர்கள்"
 
-#: ../../howto/howto_Filtering_data.rst:0
+#: ../../howto/howto_Filtering_data.rst
 msgid "there are three large approaches, to exclude outliers:"
 msgstr "வெளிநாட்டினரை விலக்க மூன்று பெரிய அணுகுமுறைகள் உள்ளன:"
 
@@ -111,7 +117,7 @@ msgstr ""
 msgid "based on the Mahalanobis distance (multivariate outliers)"
 msgstr "மஆலனோபிச் தூரத்தின் அடிப்படையில் (பன்முக வெளிநாட்டவர்கள்)"
 
-#: ../../howto/howto_Filtering_data.rst:0
+#: ../../howto/howto_Filtering_data.rst
 msgid ""
 "for 1. and 2., there exist functions in jamovi (see next bullet points), for "
 "3. you have to use R-code (decribed two bullet point below); for 2. you "
@@ -121,7 +127,7 @@ msgstr ""
 "3 க்கு. நீங்கள் R-குறியீட்டைப் பயன்படுத்த வேண்டும் (கீழே இரண்டு புல்லட் புள்ளியை குறைத்தது); "
 "2 க்கு. நீங்கள் அதை பார்வைக்கு செய்யலாம் (கீழே மூன்று புல்லட் புள்ளிகள்)"
 
-#: ../../howto/howto_Filtering_data.rst:0
+#: ../../howto/howto_Filtering_data.rst
 msgid ""
 "you can either use an function-based selection; the functions below filter "
 "out lines based on either the z-scores (first line), the interquartile range "
@@ -141,7 +147,7 @@ msgstr "|Outliers_Filter_Settings|"
 msgid "Outliers_Filter_Settings"
 msgstr "Outliers_Filter_Settings"
 
-#: ../../howto/howto_Filtering_data.rst:0
+#: ../../howto/howto_Filtering_data.rst
 msgid ""
 "the following code example detects multivariate outliers based upon the "
 "Mahalanobis distance (remember to adjust the variable names in VL)"
@@ -149,14 +155,14 @@ msgstr ""
 "பின்வரும் குறியீடு எடுத்துக்காட்டு மஅலானோபிச் தூரத்தின் அடிப்படையில் பன்முக "
 "வெளியீட்டாளர்களைக் கண்டறிகிறது (வி.எல் இல் மாறி பெயர்களை சரிசெய்ய நினைவில் கொள்ளுங்கள்)"
 
-#: ../../howto/howto_Filtering_data.rst:0
+#: ../../howto/howto_Filtering_data.rst
 msgid ""
 "the output from the ``R``-code tells you which lines you should de-select"
 msgstr ""
 "`` r``-குறியீட்டிலிருந்து வெளியீடு நீங்கள் எந்த வரிகளைத் தேர்ந்தெடுக்க வேண்டும் என்பதை "
 "உங்களுக்குக் கூறுகிறது"
 
-#: ../../howto/howto_Filtering_data.rst:0
+#: ../../howto/howto_Filtering_data.rst
 msgid ""
 "you use the scripts within the `Rj editor <jamovi-module_Rj>`__, just copy-"
 "and-paste them and run them by hitting the ►-button (the little green "
@@ -166,12 +172,12 @@ msgstr ""
 "பயன்படுத்துகிறீர்கள், அவற்றை நகலெடுத்து ஒட்டவும், ►-பட்டனை (சிறிய பச்சை முக்கோணம்) தாக்கி "
 "அவற்றை இயக்கவும்"
 
-#: ../../howto/howto_Filtering_data.rst:0
+#: ../../howto/howto_Filtering_data.rst
 msgid ""
 "the filter conditions can then be combined using boolean ``and`` / ``or``:"
 msgstr "வடிகட்டி நிலைமைகளை பூலியன் `` மற்றும்`` / `அல்லது`` ஐப் பயன்படுத்தி இணைக்கலாம்:"
 
-#: ../../howto/howto_Filtering_data.rst:0
+#: ../../howto/howto_Filtering_data.rst
 msgid ""
 "instead of using the second line (``MAXABSIQR``) you could also de-select "
 "cases by excluding their respective row numbers in the dataset (as in the "
@@ -379,10 +385,6 @@ msgstr ""
 "குறியீடுகள் ஒரு செயல்முறை கட்டளையில் பயன்படுத்தப்படுவதற்கு முன்பு எண் வடிவமாக (எ.கா., 0 "
 "மற்றும் 1) மாற்றப்பட வேண்டும். ” (ஏய்ச், 2022, பக். 612)"
 
-#: ../../howto/howto_overview.rst:5
-msgid "How to..."
-msgstr ""
-
 #: ../../howto/howto_overview.rst:7
 msgid ""
 "The aim of the following section is to clear and simple instructions on how "
@@ -392,9 +394,12 @@ msgstr ""
 "வழிமுறைகளை பின்வரும் பிரிவின் நோக்கம்."
 
 #: ../../howto/howto_overview.rst:11
-msgid "jamovi's user interface"
-msgstr "சமோவியின் பயனர் இடைமுகம்"
+msgid "jamovi user interface"
+msgstr ""
 
-#: ../../howto/howto_overview.rst:20
+#: ../../howto/howto_overview.rst:21
 msgid "Analyses"
 msgstr ""
+
+#~ msgid "jamovi's user interface"
+#~ msgstr "சமோவியின் பயனர் இடைமுகம்"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-02 16:46+0100\n"
+"POT-Creation-Date: 2025-03-16 16:14+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -272,10 +272,6 @@ msgid ""
 "PROCESS command.” (Hayes, 2022, p. 612)"
 msgstr ""
 
-#: ../../howto/howto_overview.rst:5
-msgid "How to..."
-msgstr ""
-
 #: ../../howto/howto_overview.rst:7
 msgid ""
 "The aim of the following section is to clear and simple instructions on how "
@@ -283,9 +279,9 @@ msgid ""
 msgstr ""
 
 #: ../../howto/howto_overview.rst:11
-msgid "jamovi's user interface"
+msgid "jamovi user interface"
 msgstr ""
 
-#: ../../howto/howto_overview.rst:20
+#: ../../howto/howto_overview.rst:21
 msgid "Analyses"
 msgstr ""

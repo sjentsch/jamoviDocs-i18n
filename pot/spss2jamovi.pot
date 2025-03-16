@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-02 16:46+0100\n"
+"POT-Creation-Date: 2025-03-16 16:14+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -484,7 +484,6 @@ msgid "|SPSS_Menu_ANCOVA3|"
 msgstr "|SPSS_Menu_ANCOVA3|"
 
 #: ../../spss2jamovi/s2j_ANCOVA3.rst:89
-#: ../../spss2jamovi/s2j_frequencies.rst:104
 msgid "SPSS_Menu_ANCOVA3"
 msgstr "SPSS_Menu_ANCOVA3"
 

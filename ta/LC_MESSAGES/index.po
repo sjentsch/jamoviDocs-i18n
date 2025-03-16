@@ -1,68 +1,74 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2016-2022, The section authors, The jamovi project, and Sebastian Jentschke (curating this documentation). This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
-# This file is distributed under the same license as the jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
 #, fuzzy
 msgid ""
 msgstr ""
-"#-#-#-#-#  index.pot (jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-02 16:46+0100\n"
+"POT-Creation-Date: 2025-03-16 16:14+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  index.po (jamovi )  #-#-#-#-#\n"
-"#-#-#-#-#  index.pot (jamovi )  #-#-#-#-#\n"
 "Project-Id-Version: jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-02 16:46+0100\n"
+"POT-Creation-Date: 2025-03-16 16:12+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  index.po (jamovi)  #-#-#-#-#\n"
-"Project-Id-Version: jamovi\n"
-"Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
-"POT-Creation-Date: 2023-03-02 16:46+0100\n"
-"PO-Revision-Date: 2025-02-17 13:37+0000\n"
-"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
-"Language-Team: Tamil <https://hosted.weblate.org/projects/jamovidocs/0_start/"
-"ta/>\n"
-"Language: ta\n"
+"Project-Id-Version: jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-16 16:10+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10.1-dev\n"
+"Project-Id-Version: jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-16 16:04+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-03-16 16:02+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
 
-#: ../../index.rst:12
+#: ../../index.rst:13
 msgid "Getting Started"
 msgstr "தொடங்குதல்"
 
-#: ../../index.rst:23
+#: ../../index.rst:25
 msgid "Analyses"
 msgstr "பகுப்பாய்வு"
 
-#: ../../index.rst:40
+#: ../../index.rst:33
 msgid "How to..."
 msgstr "எப்படி ..."
 
-#: ../../index.rst:47
-msgid "jamovi-modules"
-msgstr "சாமோவி-தொகுதிகள்"
+#: ../../index.rst:40
+msgid "Developer hub"
+msgstr ""
 
-#: ../../index.rst:54
+#: ../../index.rst:47
 msgid "From SPSS to jamovi"
 msgstr "SPSS முதல் சமோவி வரை"
 
-#: ../../index.rst:64
+#: ../../index.rst:58
 msgid ""
 "Welcome to the documentation for `jamovi <https://www.jamovi.org>`__, a free "
 "and open statistical software to bridge the gap between researcher and "
@@ -72,7 +78,7 @@ msgstr ""
 "இடையிலான இடைவெளியைக் குறைக்க இலவச மற்றும் திறந்த புள்ளிவிவர மென்பொருளுக்கான "
 "ஆவணங்களுக்கு வருக."
 
-#: ../../index.rst:68
+#: ../../index.rst:62
 msgid ""
 "Before we begin, a brief remark on how to use this web page. The content is "
 "available in different languages. To change the language, please head to the "
@@ -90,11 +96,11 @@ msgstr ""
 "மொழிபெயர்க்கப்பட்டுள்ளன, ஆனால் உங்கள் மொழியில் <https://hosted.weblate.org/projects/"
 "jamovidocs/>`__."
 
-#: ../../index.rst:78
+#: ../../index.rst:72
 msgid "Getting started"
 msgstr "தொடங்குதல்"
 
-#: ../../index.rst:80
+#: ../../index.rst:74
 msgid ""
 "The following topics should get you up and running with jamovi, with "
 "additional topics available from the menu to the left."
@@ -102,44 +108,57 @@ msgstr ""
 "மெனுவிலிருந்து இடதுபுறமாக கூடுதல் தலைப்புகள் கிடைக்கக்கூடிய, பின்வரும் தலைப்புகள் "
 "சாமோவியுடன் உங்களை எழுப்பி இயங்க வேண்டும்."
 
-#: ../../index.rst:83
+#: ../../index.rst:77
 msgid ":doc:`usermanual/um_1_installation`"
 msgstr ":doc:`usermanual/um_1_installation`"
 
-#: ../../index.rst:84
+#: ../../index.rst:78
 msgid ":doc:`usermanual/um_2_first-steps`"
 msgstr ":doc:`usermanual/um_2_first-steps`"
 
-#: ../../index.rst:85
+#: ../../index.rst:79
 msgid ":doc:`usermanual/um_3_analyses`"
 msgstr ":doc:`usermanual/um_3_analyses`"
 
-#: ../../index.rst:86
+#: ../../index.rst:80
 msgid ":doc:`usermanual/um_4_spreadsheet`"
 msgstr ":doc:`usermanual/um_4_spreadsheet`"
 
-#: ../../index.rst:87
+#: ../../index.rst:81
 msgid ":doc:`usermanual/um_5_updating_data`"
 msgstr ":doc:`usermanual/um_5_updating_data`"
 
-#: ../../index.rst:88
+#: ../../index.rst:82
 msgid ":doc:`usermanual/um_6_jamovi_and_R`"
 msgstr ":doc:`usermanual/um_6_jamovi_and_R`"
 
-#: ../../index.rst:90
+#: ../../index.rst:84
 msgid ""
 "You can find further topics in the menu on the right-hand side: step-for-"
 "step instructions for conducting common analyses (“Analyses”), brief "
 "instructions how to deal with common tasks (“How to...”), information "
 "regarding how to get started with developing modules to extend the function "
-"of jamovi (“jamovi-modules”), and information for users of other statistics "
-"software packages (“jamovi and other software”) aiming to help with the "
-"transition from SPSS, as well as with how to use jamovi and R together."
+"of jamovi (“Developers Hub”), and information aiming to ease the transition "
+"from SPSS (“From SPSS to jamovi”)."
 msgstr ""
-"வலது புறத்தில் உள்ள பட்டியலில் மேலதிக தலைப்புகளை நீங்கள் காணலாம்: பொதுவான பகுப்பாய்வுகளை "
-"நடத்துவதற்கான படி-படி வழிமுறைகள் (“பகுப்பாய்வுகள்”), சுருக்கமான வழிமுறைகள் பொதுவான "
-"பணிகளை எவ்வாறு கையாள்வது (“எப்படி ...”), செய்தி சாமோவியின் செயல்பாட்டை (“சாமோவி-"
-"மோட்யூல்ச்”) நீட்டிக்க வளரும் தொகுதிகள் மற்றும் பிற புள்ளிவிவர மென்பொருள் தொகுப்புகளைப் "
-"பயன்படுத்துபவர்களுக்கான தகவல்கள் (“சமோவி மற்றும் பிற மென்பொருள்கள்”) எச்.பி.எச்."
-"எச்சிலிருந்து மாற்றுவதற்கு உதவுவதை நோக்கமாகக் கொண்டுள்ளன. சமோவி மற்றும் ஆர் ஆகியவற்றை "
-"எவ்வாறு பயன்படுத்துவது என்பது போல."
+
+#~ msgid "jamovi-modules"
+#~ msgstr "சாமோவி-தொகுதிகள்"
+
+#~ msgid ""
+#~ "You can find further topics in the menu on the right-hand side: step-for-"
+#~ "step instructions for conducting common analyses (“Analyses”), brief "
+#~ "instructions how to deal with common tasks (“How to...”), information "
+#~ "regarding how to get started with developing modules to extend the "
+#~ "function of jamovi (“jamovi-modules”), and information for users of other "
+#~ "statistics software packages (“jamovi and other software”) aiming to help "
+#~ "with the transition from SPSS, as well as with how to use jamovi and R "
+#~ "together."
+#~ msgstr ""
+#~ "வலது புறத்தில் உள்ள பட்டியலில் மேலதிக தலைப்புகளை நீங்கள் காணலாம்: பொதுவான "
+#~ "பகுப்பாய்வுகளை நடத்துவதற்கான படி-படி வழிமுறைகள் (“பகுப்பாய்வுகள்”), சுருக்கமான "
+#~ "வழிமுறைகள் பொதுவான பணிகளை எவ்வாறு கையாள்வது (“எப்படி ...”), செய்தி சாமோவியின் "
+#~ "செயல்பாட்டை (“சாமோவி-மோட்யூல்ச்”) நீட்டிக்க வளரும் தொகுதிகள் மற்றும் பிற புள்ளிவிவர "
+#~ "மென்பொருள் தொகுப்புகளைப் பயன்படுத்துபவர்களுக்கான தகவல்கள் (“சமோவி மற்றும் பிற "
+#~ "மென்பொருள்கள்”) எச்.பி.எச்.எச்சிலிருந்து மாற்றுவதற்கு உதவுவதை நோக்கமாகக் கொண்டுள்ளன. "
+#~ "சமோவி மற்றும் ஆர் ஆகியவற்றை எவ்வாறு பயன்படுத்துவது என்பது போல."

@@ -3,260 +3,59 @@ msgid ""
 msgstr ""
 "Project-Id-Version: jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-02 16:46+0100\n"
+"POT-Creation-Date: 2025-03-16 16:14+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version:  jamovi\n"
+"Project-Id-Version: jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-02 16:46+0100\n"
-"PO-Revision-Date: 2022-03-02 02:39+0000\n"
-"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
-"Language-Team: Spanish <https://hosted.weblate.org/projects/"
-"jamovidocs/2_analyses/es/>\n"
-"Language: es\n"
+"POT-Creation-Date: 2025-03-16 16:12+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-16 16:10+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-16 16:04+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-16 16:02+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-03-16 16:00+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1\n"
-"Generated-By: Babel 2.9.1\n"
-
-#: ../../analyses/jg_00_overview.rst:5
-msgid "Analyses: Introduction"
-msgstr "Análisis: Introducción"
-
-#: ../../analyses/jg_00_overview.rst:7
-msgid ""
-"The aim of the following section is to provide short, non-technical "
-"tutorials on how to conduct common statistical procedures in jamovi, and was "
-"originally created by Jonas Rafi under the name jamovi guide. However, this "
-"is only intended as a brief overview. For a more in-depth treatment of these "
-"analyses, we'd recommend you take a look at the many `community resources "
-"<https://www.jamovi.org/community.html>`__ available."
-msgstr ""
-"El objetivo de la siguiente sección es proveer tutoriales cortos, no "
-"técnicos, de cómo realizar procedimientos estadísticos comunes en jamovi. "
-"Fue creado originalmente por Jonas Rafi bajo el nombre de Guía jamovi. Sin "
-"embargo, ha sido pensado como una introducción, no como un recurso que "
-"provea una introducción profunda a los antecedentes de dichos "
-"procedimientos. Para quienes deseen eso, hay una gran cantidad de otros "
-"recursos. Algunos de dichos recursos están listados al final de las páginas "
-"que introducen al análisis individual en la caja \"recurso de la Comunidad\"."
-
-#: ../../analyses/jg_00_overview.rst:13
-msgid "A Note On Measurement Types"
-msgstr ""
-
-#: ../../analyses/jg_00_overview.rst:15
-msgid ""
-"The following documentation describes each of the analyses, and describes "
-"the variable measure types required. For example, it might explain that a "
-"particular analysis requires a continuous |continuous| dependent variable, "
-"and a nominal |nominal| grouping variable. However it's possible that the "
-"columns in your data set, for a number of different reasons, aren't set up "
-"with the correct measure types (as indicated in the column header). You can "
-"adjust the measure type of columns using the variable editor, however (for "
-"the most part) these measure types are really just a guide and don't need to "
-"be set correctly. If you assign a |continuous| continuous variable to an "
-"analysis expecting a |nominal| nominal one, the analysis will simply treat "
-"the variable as nominal."
-msgstr ""
-
-#: ../../analyses/jg_00_overview.rst:94
-#: ../../analyses/jg_21_t-test-independent.rst:56
-#: ../../analyses/jg_22_t-test-paired.rst:56
-#: ../../analyses/jg_23_t-test-onesample.rst:54
-#: ../../analyses/jg_31_unianova.rst:53
-#: ../../analyses/jg_32_anova-factorial.rst:50
-#: ../../analyses/jg_33_anova-rm.rst:61 ../../analyses/jg_34_anova-mixed.rst:60
-#: ../../analyses/jg_42_regression-linear.rst:55
-#: ../../analyses/jg_43_regression-logistic.rst:62
-msgid "continuous"
-msgstr "continuous"
-
-#: ../../analyses/jg_00_overview.rst:92
-#: ../../analyses/jg_21_t-test-independent.rst:54
-#: ../../analyses/jg_31_unianova.rst:51
-#: ../../analyses/jg_32_anova-factorial.rst:48
-#: ../../analyses/jg_34_anova-mixed.rst:58
-#: ../../analyses/jg_43_regression-logistic.rst:58
-msgid "nominal"
-msgstr "nominal"
-
-#: ../../analyses/jg_00_overview.rst:21
-msgid ""
-"All this to say, if the documentation says that a particular measure type is "
-"required, the data simply needs to be the correct 'shape', and you can save "
-"yourself the labour of setting the measure types correctly if you don't want "
-"to."
-msgstr ""
-
-#: ../../analyses/jg_00_overview.rst:26
-msgid "Descriptives"
-msgstr ""
-
-#: ../../analyses/jg_00_overview.rst:28
-msgid ":doc:`jg_11_descriptive-analyses`"
-msgstr ":doc:`jg_11_descriptive-analyses`"
-
-#: ../../analyses/jg_00_overview.rst:32
-msgid "t-tests"
-msgstr "Pruebas T"
-
-#: ../../analyses/jg_00_overview.rst:34
-msgid ""
-"The t-test is used to test whether the mean value in a normally distributed "
-"data set deviates significantly from a null hypothesis (which assumes that "
-"there is no difference)."
-msgstr ""
-"La prueba t se utiliza para comprobar si la media de un conjunto de datos "
-"con distribución normal se desvía significativamente de una hipótesis nula "
-"(que supone que no hay diferencias)."
-
-#: ../../analyses/jg_00_overview.rst:37
-msgid "There are three types of t-tests:"
-msgstr "Hay tres tipos de pruebas t:"
-
-#: ../../analyses/jg_00_overview.rst:39
-msgid ":doc:`jg_21_t-test-independent`"
-msgstr ":doc:`jg_21_t-test-independent`"
-
-#: ../../analyses/jg_00_overview.rst:40
-msgid ":doc:`jg_22_t-test-paired`"
-msgstr ":doc:`jg_22_t-test-paired`"
-
-#: ../../analyses/jg_00_overview.rst:41
-msgid ":doc:`jg_23_t-test-onesample`"
-msgstr ":doc:`jg_23_t-test-onesample`"
-
-#: ../../analyses/jg_00_overview.rst:43 ../../analyses/jg_00_overview.rst:66
-#: ../../analyses/jg_00_overview.rst:84
-#: ../../analyses/jg_21_t-test-independent.rst:42
-msgid "Community resources"
-msgstr "Recursos de la Comunidad"
-
-#: ../../analyses/jg_00_overview.rst:0
-msgid ""
-"A more comprehensive introduction into the concept is presented in this "
-"`video <https://www.youtube.com/embed/mb7KCLYEis8?"
-"list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ by `Barton Poulson <https://"
-"datalab.cc/jamovi>`__."
-msgstr ""
-"Una introducción más completa al concepto se presenta en este `vídeo "
-"<https://www.youtube.com/embed/mb7KCLYEis8?"
-"list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ de `Barton Poulson <https://"
-"datalab.cc/jamovi>`__."
-
-#: ../../analyses/jg_00_overview.rst:50
-msgid "Analyses of Variance (ANOVA)"
-msgstr "Análisis de la Varianza (ANOVA)"
-
-#: ../../analyses/jg_00_overview.rst:52
-msgid ""
-"The Analysis of variance (ANOVA) is a statistical method that examines how "
-"the impact of one or more factors affects an outcome (dependent) variable. "
-"These factors are the predictor variables and are categorical. Typically, "
-"such factors reflect an experimental manipulation (e.g. with or without "
-"treatment), but a factor can also represent groups for whose influence one "
-"would like to control (e.g. gender: men or women). The analysis of variance "
-"is based on a concept similar to that of the t-test, but it goes beyond "
-"that, in that factors can have several levels (t-tests only allow two) and "
-"in that several factors can be examined simultaneously."
-msgstr ""
-"El análisis de la varianza (ANOVA) es un método estadístico que examina cómo "
-"el impacto de uno o más factores afecta a una variable de resultado "
-"(dependiente). Estos factores son las variables predictoras y son "
-"categóricas. Normalmente, estos factores reflejan una manipulación "
-"experimental (por ejemplo, con o sin tratamiento), pero un factor también "
-"puede representar grupos cuya influencia uno podría desear controlar (por "
-"ejemplo, el género: hombres o mujeres). El análisis de la varianza se basa "
-"en un concepto similar al de la prueba t, pero va más allá, en el sentido de "
-"que los factores pueden tener varios niveles (las pruebas t sólo permiten "
-"dos) y en que se pueden examinar varios factores simultáneamente."
-
-#: ../../analyses/jg_00_overview.rst:58
-msgid ""
-"There are different types of analysis of variance, which differ in the "
-"number of factors examined - one or more factors - or whether they compare "
-"between people or within a person - repeated measurements:"
-msgstr ""
-"Existen diferentes tipos de análisis de la varianza, que difieren en el "
-"número de factores examinados -uno o más factores- o en si se comparan entre "
-"personas o dentro de una persona -medidas repetidas-:"
-
-#: ../../analyses/jg_00_overview.rst:61
-msgid ":doc:`jg_31_unianova`"
-msgstr ":doc:`jg_31_unianova`"
-
-#: ../../analyses/jg_00_overview.rst:62
-msgid ":doc:`jg_32_anova-factorial`"
-msgstr ":doc:`jg_32_anova-factorial`"
-
-#: ../../analyses/jg_00_overview.rst:63
-msgid ":doc:`jg_33_anova-rm`"
-msgstr ":doc:`jg_33_anova-rm`"
-
-#: ../../analyses/jg_00_overview.rst:64
-msgid ":doc:`jg_34_anova-mixed`"
-msgstr ":doc:`jg_34_anova-mixed`"
-
-#: ../../analyses/jg_00_overview.rst:0
-msgid ""
-"An introduction into the concept of an ANOVA is presented in this `video "
-"<https://www.youtube.com/embed/GcbMG6sizXs?"
-"list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ by `Barton Poulson <https://"
-"datalab.cc/jamovi>`__."
-msgstr ""
-"Una introducción en el concepto del ANOVA se presenta en este `video "
-"<https://www.youtube.com/embed/GcbMG6sizXs?"
-"list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ por `Barton Poulson <https://"
-"datalab.cc/jamovi>`__."
-
-#: ../../analyses/jg_00_overview.rst:74
-msgid "Correlation and regression"
-msgstr "Correlación y regresión"
-
-#: ../../analyses/jg_00_overview.rst:76
-msgid ""
-"Correlation and regression analyses are statistical methods for assessing "
-"the relationships between a dependent / outcome variable and one or more "
-"independent / predictor variables. While the *correlation* analysis examines "
-"the *relationship* between one predictor and one outcome variable, "
-"*regression* analysis mainly focuses on *prediction* (how well can one or "
-"more variables predict another (outcome) variable). Often, a distinction is "
-"made between linear and non-linear (e.g., logistic regression)."
-msgstr ""
-"Los análisis de correlación y regresión son métodos estadísticos para "
-"evaluar las relaciones entre una variable dependiente/de resultado y una o "
-"más variables independientes/de predicción. Mientras que el análisis de "
-"*correlación* examina la *relación* entre un predictor y una variable de "
-"resultado, el análisis de *regresión* se centra principalmente en la "
-"*predicción* (en qué medida pueden una o más variables predecir otra "
-"variable (de resultado)). A menudo se distingue entre lineal y no lineal "
-"(por ejemplo, regresión logística)."
-
-#: ../../analyses/jg_00_overview.rst:81
-msgid ":doc:`jg_42_regression-linear`"
-msgstr ":doc:`jg_42_regression-linear`"
-
-#: ../../analyses/jg_00_overview.rst:82
-msgid ":doc:`jg_43_regression-logistic`"
-msgstr ":doc:`jg_43_regression-logistic`"
-
-#: ../../analyses/jg_00_overview.rst:0
-msgid ""
-"An introduction into the concept of regression analyses is presented in this "
-"`video <https://www.youtube.com/embed/gRhVjKNWiUs?"
-"list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ by `Barton Poulson <https://"
-"datalab.cc/jamovi>`__."
-msgstr ""
-"Una introducción al concepto del análisis de regresión se presenta en este "
-"`video <https://www.youtube.com/embed/gRhVjKNWiUs?"
-"list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ por `Barton Poulson <https://"
-"datalab.cc/jamovi>`__."
+"Generated-By: Babel 2.17.0\n"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:5
 msgid "Descriptive analyses"
@@ -267,6 +66,7 @@ msgid "How to perform descriptive analyses and create graphs in jamovi:"
 msgstr ""
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:0
+#: ../../analyses/jg_11_descriptive-analyses.rst
 msgid "Select ``Analyses`` → ``Exploration`` → ``Descriptives``."
 msgstr ""
 
@@ -279,6 +79,7 @@ msgid "select_descriptives"
 msgstr "select_descriptives"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:0
+#: ../../analyses/jg_11_descriptive-analyses.rst
 msgid ""
 "Drag and drop the variables you want descriptive analyses for to "
 "``Variables``."
@@ -292,7 +93,7 @@ msgstr "|add_var_descriptives|"
 msgid "add_var_descriptives"
 msgstr "add_var_descriptives"
 
-#: ../../analyses/jg_11_descriptive-analyses.rst:0
+#: ../../analyses/jg_11_descriptive-analyses.rst
 msgid ""
 "The result is shown in the right panel. Right-click on the output to save or "
 "copy it."
@@ -309,6 +110,7 @@ msgid "output_descriptives"
 msgstr "output_descriptives"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:0
+#: ../../analyses/jg_11_descriptive-analyses.rst
 msgid ""
 "To split your descriptive analyses on a categorical variable (e.g. to "
 "separate by gender), move that variable to ``Split by``."
@@ -323,6 +125,7 @@ msgid "add_var_descriptives_groupby"
 msgstr "add_var_descriptives_groupby"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:0
+#: ../../analyses/jg_11_descriptive-analyses.rst
 msgid "This changes how the output looks like:"
 msgstr ""
 
@@ -335,6 +138,7 @@ msgid "output_descriptives_groupby"
 msgstr "output_descriptives_groupby"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:0
+#: ../../analyses/jg_11_descriptive-analyses.rst
 msgid "Click the ``Statistics`` tab to see more alternatives."
 msgstr ""
 
@@ -346,7 +150,7 @@ msgstr "|select_descriptives_statistics|"
 msgid "select_descriptives_statistics"
 msgstr "select_descriptives_statistics"
 
-#: ../../analyses/jg_11_descriptive-analyses.rst:0
+#: ../../analyses/jg_11_descriptive-analyses.rst
 msgid ""
 "To create a plot based on the above choices, click the ``Plots`` tab and "
 "tick the box of your desired plot. If you would like to identify outliers "
@@ -378,7 +182,7 @@ msgstr "select_descriptives_plots"
 msgid "Further help from the community resources"
 msgstr ""
 
-#: ../../analyses/jg_11_descriptive-analyses.rst:0
+#: ../../analyses/jg_11_descriptive-analyses.rst
 msgid ""
 "If you would like to have these concepts explained in a different way, "
 "please have a look at this `introductory video <https://www.youtube.com/"
@@ -390,7 +194,7 @@ msgstr ""
 "list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ de `Barton Poulson <https://"
 "datalab.cc/jamovi>`__."
 
-#: ../../analyses/jg_11_descriptive-analyses.rst:0
+#: ../../analyses/jg_11_descriptive-analyses.rst
 msgid ""
 "For those, aiming to stretch even further to an in-depth introduction, you "
 "can read the respective chapter in the “Learning statistics with jamovi” "
@@ -415,10 +219,31 @@ msgid "How to perform an independent samples t-test in jamovi:"
 msgstr ""
 
 #: ../../analyses/jg_21_t-test-independent.rst:0
+#: ../../analyses/jg_21_t-test-independent.rst
 msgid ""
 "You need at least one |continuous| continuous dependent variable, and a |"
 "nominal| grouping variable with two levels (e.g. treatment / control)."
 msgstr ""
+
+#: ../../analyses/jg_21_t-test-independent.rst:56
+#: ../../analyses/jg_22_t-test-paired.rst:56
+#: ../../analyses/jg_23_t-test-onesample.rst:54
+#: ../../analyses/jg_31_unianova.rst:53
+#: ../../analyses/jg_32_anova-factorial.rst:50
+#: ../../analyses/jg_33_anova-rm.rst:61 ../../analyses/jg_34_anova-mixed.rst:60
+#: ../../analyses/jg_42_regression-linear.rst:55
+#: ../../analyses/jg_overview.rst:133
+msgid "continuous"
+msgstr "continuous"
+
+#: ../../analyses/jg_21_t-test-independent.rst:54
+#: ../../analyses/jg_31_unianova.rst:51
+#: ../../analyses/jg_32_anova-factorial.rst:48
+#: ../../analyses/jg_34_anova-mixed.rst:58
+#: ../../analyses/jg_43_regression-logistic.rst:58
+#: ../../analyses/jg_overview.rst:131
+msgid "nominal"
+msgstr "nominal"
 
 #: ../../analyses/jg_21_t-test-independent.rst:0
 #: ../../analyses/jg_22_t-test-paired.rst:0
@@ -428,6 +253,13 @@ msgstr ""
 #: ../../analyses/jg_33_anova-rm.rst:0 ../../analyses/jg_34_anova-mixed.rst:0
 #: ../../analyses/jg_42_regression-linear.rst:0
 #: ../../analyses/jg_43_regression-logistic.rst:0
+#: ../../analyses/jg_21_t-test-independent.rst
+#: ../../analyses/jg_22_t-test-paired.rst
+#: ../../analyses/jg_23_t-test-onesample.rst ../../analyses/jg_31_unianova.rst
+#: ../../analyses/jg_32_anova-factorial.rst ../../analyses/jg_33_anova-rm.rst
+#: ../../analyses/jg_34_anova-mixed.rst
+#: ../../analyses/jg_42_regression-linear.rst
+#: ../../analyses/jg_43_regression-logistic.rst
 msgid "A correct setup should look similar to this:"
 msgstr ""
 
@@ -440,6 +272,7 @@ msgid "data_format_ttest_independent"
 msgstr "data_format_ttest_independent"
 
 #: ../../analyses/jg_21_t-test-independent.rst:0
+#: ../../analyses/jg_21_t-test-independent.rst
 msgid "Select ``Analyses`` → ``T-Tests`` → ``Independent Samples T-Test``."
 msgstr ""
 
@@ -451,7 +284,7 @@ msgstr "|select_ttest_independent|"
 msgid "select_ttest_independent"
 msgstr "select_ttest_independent"
 
-#: ../../analyses/jg_21_t-test-independent.rst:0
+#: ../../analyses/jg_21_t-test-independent.rst
 msgid ""
 "Drag and drop your outcome variable to ``Dependent Variables`` and your "
 "grouping variable to ``Grouping Variable``."
@@ -469,6 +302,9 @@ msgstr "add_var_ttest_independent"
 #: ../../analyses/jg_21_t-test-independent.rst:0
 #: ../../analyses/jg_22_t-test-paired.rst:0
 #: ../../analyses/jg_23_t-test-onesample.rst:0
+#: ../../analyses/jg_21_t-test-independent.rst
+#: ../../analyses/jg_22_t-test-paired.rst
+#: ../../analyses/jg_23_t-test-onesample.rst
 msgid "The result is shown in the right panel."
 msgstr ""
 
@@ -481,13 +317,20 @@ msgid "output_ttest_independent"
 msgstr "output_ttest_independent"
 
 #: ../../analyses/jg_21_t-test-independent.rst:0
+#: ../../analyses/jg_21_t-test-independent.rst
 msgid ""
 "Those who have previous experience with SPSS may want to have a look at the :"
 "doc:`side-by-side-comparison <../spss2jamovi/s2j_ttestIS>` of how a t-test "
 "for independent samples is conducted in SPSS and jamovi."
 msgstr ""
 
-#: ../../analyses/jg_21_t-test-independent.rst:0
+#: ../../analyses/jg_21_t-test-independent.rst:42
+#: ../../analyses/jg_overview.rst:61 ../../analyses/jg_overview.rst:96
+#: ../../analyses/jg_overview.rst:123
+msgid "Community resources"
+msgstr "Recursos de la Comunidad"
+
+#: ../../analyses/jg_21_t-test-independent.rst
 msgid ""
 "This `video <https://www.youtube.com/embed/SM-DN9dpPd4?"
 "list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ by `Barton Poulson <https://"
@@ -499,6 +342,7 @@ msgstr ""
 "datalab.cc/jamovi>`__ da una introducción más comprensible a esta prueba."
 
 #: ../../analyses/jg_21_t-test-independent.rst:0
+#: ../../analyses/jg_21_t-test-independent.rst
 msgid ""
 "For those, aiming to stretch even further to an in-depth introduction, you "
 "can read the respective section in the “Learning statistics with jamovi” "
@@ -517,6 +361,7 @@ msgid "How to perform a paired samples t-test in jamovi:"
 msgstr ""
 
 #: ../../analyses/jg_22_t-test-paired.rst:0
+#: ../../analyses/jg_22_t-test-paired.rst
 msgid ""
 "You need two |continuous| continuous variables, with each row representing a "
 "subject. i.e. the pair of values taken from each row represent paired "
@@ -532,6 +377,7 @@ msgid "data_format_ttest_paired"
 msgstr "data_format_ttest_paired"
 
 #: ../../analyses/jg_22_t-test-paired.rst:0
+#: ../../analyses/jg_22_t-test-paired.rst
 msgid "Select ``Analyses`` → ``T-Tests`` → ``Paired Samples T-Test``."
 msgstr ""
 
@@ -544,6 +390,7 @@ msgid "select_ttest_paired"
 msgstr "select_ttest_paired"
 
 #: ../../analyses/jg_22_t-test-paired.rst:0
+#: ../../analyses/jg_22_t-test-paired.rst
 msgid ""
 "Drag and drop your two variables to ``Paired Variables`` (you can drag these "
 "one at a time, or select both variables in a pair by holding down the Ctrl-"
@@ -567,6 +414,7 @@ msgid "output_ttest_paired"
 msgstr "output_ttest_paired"
 
 #: ../../analyses/jg_22_t-test-paired.rst:0
+#: ../../analyses/jg_22_t-test-paired.rst
 msgid ""
 "Those who have previous experience with SPSS may want to have a look at the :"
 "doc:`side-by-side-comparison <../spss2jamovi/s2j_ttestPS2>` of how a t-test "
@@ -574,6 +422,7 @@ msgid ""
 msgstr ""
 
 #: ../../analyses/jg_22_t-test-paired.rst:0
+#: ../../analyses/jg_22_t-test-paired.rst
 msgid ""
 "This `video <https://www.youtube.com/embed/lSjfYYiJG6E?"
 "list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ by `Barton Poulson <https://"
@@ -582,6 +431,7 @@ msgid ""
 msgstr ""
 
 #: ../../analyses/jg_22_t-test-paired.rst:0
+#: ../../analyses/jg_22_t-test-paired.rst
 msgid ""
 "For those, aiming to stretch even further to an in-depth introduction, you "
 "can read the respective section in the “Learning statistics with jamovi” "
@@ -600,6 +450,7 @@ msgid "How to perform a one-sample t-test in jamovi:"
 msgstr ""
 
 #: ../../analyses/jg_23_t-test-onesample.rst:0
+#: ../../analyses/jg_23_t-test-onesample.rst
 msgid ""
 "You need one |continuous| continuous variable and a mean to test against "
 "(typically the mean being tested is zero)."
@@ -614,6 +465,7 @@ msgid "data_format_ttest_onesample"
 msgstr "data_format_ttest_onesample"
 
 #: ../../analyses/jg_23_t-test-onesample.rst:0
+#: ../../analyses/jg_23_t-test-onesample.rst
 msgid "Select ``Analyses`` → ``T-Tests`` → ``One Sample T-Test``."
 msgstr ""
 
@@ -625,7 +477,7 @@ msgstr "|select_ttest_onesample|"
 msgid "select_ttest_onesample"
 msgstr "select_ttest_onesample"
 
-#: ../../analyses/jg_23_t-test-onesample.rst:0
+#: ../../analyses/jg_23_t-test-onesample.rst
 msgid "Drag and drop your dependent variable to ``Dependent Variables``."
 msgstr ""
 "Arrastre y suelte su variable dependiente en ` `Variables dependientes``."
@@ -639,6 +491,7 @@ msgid "add_var_ttest_onesample"
 msgstr "add_var_ttest_onesample"
 
 #: ../../analyses/jg_23_t-test-onesample.rst:0
+#: ../../analyses/jg_23_t-test-onesample.rst
 msgid ""
 "Locate the section ``Hypothesis`` further down, this is where you enter the "
 "mean you want to test against."
@@ -661,6 +514,7 @@ msgid "output_ttest_onesample"
 msgstr "output_ttest_onesample"
 
 #: ../../analyses/jg_23_t-test-onesample.rst:0
+#: ../../analyses/jg_23_t-test-onesample.rst
 msgid ""
 "This `video <https://www.youtube.com/embed/DrBT4ezYIL8?"
 "list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ by `Barton Poulson <https://"
@@ -669,6 +523,7 @@ msgid ""
 msgstr ""
 
 #: ../../analyses/jg_23_t-test-onesample.rst:0
+#: ../../analyses/jg_23_t-test-onesample.rst
 msgid ""
 "For those, aiming to stretch even further to an in-depth introduction, you "
 "can read the respective section in the “Learning statistics with jamovi” "
@@ -686,7 +541,7 @@ msgstr ""
 msgid "How to perform a One-way ANOVA in jamovi:"
 msgstr ""
 
-#: ../../analyses/jg_31_unianova.rst:0
+#: ../../analyses/jg_31_unianova.rst:0 ../../analyses/jg_31_unianova.rst
 msgid ""
 "You need one |continuous| continuous dependent variable, and one |nominal| "
 "grouping variable with two or more levels."
@@ -700,7 +555,7 @@ msgstr "|data_format_unianova|"
 msgid "data_format_unianova"
 msgstr "data_format_unianova"
 
-#: ../../analyses/jg_31_unianova.rst:0
+#: ../../analyses/jg_31_unianova.rst:0 ../../analyses/jg_31_unianova.rst
 msgid "Select ``Analyses`` → ``ANOVA`` → ``One-way ANOVA``."
 msgstr ""
 
@@ -712,7 +567,7 @@ msgstr "|select_unianova|"
 msgid "select_unianova"
 msgstr "select_unianova"
 
-#: ../../analyses/jg_31_unianova.rst:0
+#: ../../analyses/jg_31_unianova.rst:0 ../../analyses/jg_31_unianova.rst
 msgid ""
 "Drag and drop your outcome variable to ``Dependent Variable`` and your "
 "grouping variable to ``Fixed Factors``."
@@ -726,7 +581,7 @@ msgstr "|add_var_unianova|"
 msgid "add_var_unianova"
 msgstr "add_var_unianova"
 
-#: ../../analyses/jg_31_unianova.rst:0
+#: ../../analyses/jg_31_unianova.rst:0 ../../analyses/jg_31_unianova.rst
 msgid ""
 "Select whether your variances are equal or unequal. To test for equality of "
 "variancess using Levene’s test, tick the box ``Equality of variances``."
@@ -742,7 +597,8 @@ msgstr "options_unianova"
 
 #: ../../analyses/jg_31_unianova.rst:0
 #: ../../analyses/jg_32_anova-factorial.rst:0
-#: ../../analyses/jg_33_anova-rm.rst:0
+#: ../../analyses/jg_33_anova-rm.rst:0 ../../analyses/jg_31_unianova.rst
+#: ../../analyses/jg_32_anova-factorial.rst ../../analyses/jg_33_anova-rm.rst
 msgid "The results are shown in the right panel:"
 msgstr ""
 
@@ -754,7 +610,7 @@ msgstr "|output_unianova|"
 msgid "output_unianova"
 msgstr "output_unianova"
 
-#: ../../analyses/jg_31_unianova.rst:0
+#: ../../analyses/jg_31_unianova.rst:0 ../../analyses/jg_31_unianova.rst
 msgid ""
 "Those looking for an in-depth introduction: You may read the respective "
 "chapter in the “Learning statistics with jamovi” `web documentation <https://"
@@ -773,6 +629,7 @@ msgid "How to perform a factorial ANOVA in jamovi:"
 msgstr ""
 
 #: ../../analyses/jg_32_anova-factorial.rst:0
+#: ../../analyses/jg_32_anova-factorial.rst
 msgid ""
 "You need one |continuous| continuous dependent variable, and one or more |"
 "nominal| grouping variables."
@@ -787,6 +644,7 @@ msgid "data_format_anova_factorial"
 msgstr "data_format_anova_factorial"
 
 #: ../../analyses/jg_32_anova-factorial.rst:0
+#: ../../analyses/jg_32_anova-factorial.rst
 msgid "Select ``Analyses`` → ``ANOVA`` → ``ANOVA``."
 msgstr ""
 
@@ -799,6 +657,7 @@ msgid "select_anova_factorial"
 msgstr "select_anova_factorial"
 
 #: ../../analyses/jg_32_anova-factorial.rst:0
+#: ../../analyses/jg_32_anova-factorial.rst
 msgid ""
 "Drag and drop your outcome variable to ``Dependent Variable`` and your "
 "grouping variables to ``Fixed Factors``."
@@ -821,6 +680,7 @@ msgid "output_anova_factorial"
 msgstr "output_anova_factorial"
 
 #: ../../analyses/jg_32_anova-factorial.rst:0
+#: ../../analyses/jg_32_anova-factorial.rst
 msgid ""
 "A more comprehensive introduction into this statistical method is provided "
 "by this `video <https://www.youtube.com/embed/TJoJTVgDyqY?"
@@ -829,6 +689,7 @@ msgid ""
 msgstr ""
 
 #: ../../analyses/jg_32_anova-factorial.rst:0
+#: ../../analyses/jg_32_anova-factorial.rst
 msgid ""
 "For those, aiming to stretch even further to an in-depth introduction, you "
 "can read the respective section in the “Learning statistics with jamovi” "
@@ -846,7 +707,7 @@ msgstr ""
 msgid "How to perform a repeated measures ANOVA in jamovi:"
 msgstr ""
 
-#: ../../analyses/jg_33_anova-rm.rst:0
+#: ../../analyses/jg_33_anova-rm.rst:0 ../../analyses/jg_33_anova-rm.rst
 msgid ""
 "You need one |continuous| continuous dependent variable for each measurement "
 "occasion."
@@ -861,6 +722,7 @@ msgid "data_format_anova_repeated"
 msgstr "data_format_anova_repeated"
 
 #: ../../analyses/jg_33_anova-rm.rst:0 ../../analyses/jg_34_anova-mixed.rst:0
+#: ../../analyses/jg_33_anova-rm.rst ../../analyses/jg_34_anova-mixed.rst
 msgid "Select ``Analyses`` → ``ANOVA`` → ``Repeated Measures ANOVA``."
 msgstr ""
 
@@ -872,7 +734,7 @@ msgstr "|select_anova_repeated|"
 msgid "select_anova_repeated"
 msgstr "select_anova_repeated"
 
-#: ../../analyses/jg_33_anova-rm.rst:0
+#: ../../analyses/jg_33_anova-rm.rst:0 ../../analyses/jg_33_anova-rm.rst
 msgid ""
 "In the box ``Repeated Measures Factors``: write the name of your outcome "
 "variable (e.g., ``My_scale``) and name the levels for each measurement "
@@ -896,6 +758,7 @@ msgid "add_var_anova_repeated_naming_2"
 msgstr "add_var_anova_repeated_naming_2"
 
 #: ../../analyses/jg_33_anova-rm.rst:0 ../../analyses/jg_34_anova-mixed.rst:0
+#: ../../analyses/jg_33_anova-rm.rst ../../analyses/jg_34_anova-mixed.rst
 msgid ""
 "Drag and drop your outcome variables to their respective cells in ``Repeated "
 "Measures Cells``."
@@ -909,7 +772,7 @@ msgstr "|add_var_anova_repeated|"
 msgid "add_var_anova_repeated"
 msgstr "add_var_anova_repeated"
 
-#: ../../analyses/jg_33_anova-rm.rst:0
+#: ../../analyses/jg_33_anova-rm.rst:0 ../../analyses/jg_33_anova-rm.rst
 msgid ""
 "To test the equality of the variance with the Levene test, open the "
 "``Assumption Checks`` drop-down menu and set the ``Homogeneity test`` tick "
@@ -927,7 +790,7 @@ msgstr "|output_anova_repeated|"
 msgid "output_anova_repeated"
 msgstr "output_anova_repeated"
 
-#: ../../analyses/jg_33_anova-rm.rst:0
+#: ../../analyses/jg_33_anova-rm.rst:0 ../../analyses/jg_33_anova-rm.rst
 msgid ""
 "A more comprehensive introduction into this statistical method is provided "
 "by this `video <https://www.youtube.com/embed/m5JNwPgiMso?"
@@ -935,7 +798,7 @@ msgid ""
 "datalab.cc/jamovi>`__."
 msgstr ""
 
-#: ../../analyses/jg_33_anova-rm.rst:0
+#: ../../analyses/jg_33_anova-rm.rst:0 ../../analyses/jg_33_anova-rm.rst
 msgid ""
 "For those, aiming to stretch even further to an in-depth introduction, you "
 "can read the respective section in the “Learning statistics with jamovi” "
@@ -952,7 +815,7 @@ msgstr ""
 msgid "How to perform a mixed ANOVA in jamovi:"
 msgstr ""
 
-#: ../../analyses/jg_34_anova-mixed.rst:0
+#: ../../analyses/jg_34_anova-mixed.rst:0 ../../analyses/jg_34_anova-mixed.rst
 msgid ""
 "You need one |continuous| continuous variable for each within-subject "
 "measurement (e.g. pre / post) and at least one |nominal| grouping variable "
@@ -968,7 +831,7 @@ msgstr "|data_format_anova_mixed|"
 msgid "data_format_anova_mixed"
 msgstr "data_format_anova_mixed"
 
-#: ../../analyses/jg_34_anova-mixed.rst:0
+#: ../../analyses/jg_34_anova-mixed.rst:0 ../../analyses/jg_34_anova-mixed.rst
 msgid ""
 "In the box ``Repeated Measures Factors``: write the name of your outcome "
 "variable (e.g., ``My_scale``) and name the levels for each measurement "
@@ -976,7 +839,7 @@ msgid ""
 "below illustrates this."
 msgstr ""
 
-#: ../../analyses/jg_34_anova-mixed.rst:0
+#: ../../analyses/jg_34_anova-mixed.rst:0 ../../analyses/jg_34_anova-mixed.rst
 msgid "Move your grouping variable(s) to ``Between Subject Factors``."
 msgstr ""
 
@@ -991,6 +854,9 @@ msgstr "add_var_anova_mixed"
 #: ../../analyses/jg_34_anova-mixed.rst:0
 #: ../../analyses/jg_42_regression-linear.rst:0
 #: ../../analyses/jg_43_regression-logistic.rst:0
+#: ../../analyses/jg_34_anova-mixed.rst
+#: ../../analyses/jg_42_regression-linear.rst
+#: ../../analyses/jg_43_regression-logistic.rst
 msgid "The result is shown in the right panel:"
 msgstr ""
 
@@ -1002,7 +868,7 @@ msgstr "|output_anova_mixed|"
 msgid "output_anova_mixed"
 msgstr "output_anova_mixed"
 
-#: ../../analyses/jg_34_anova-mixed.rst:0
+#: ../../analyses/jg_34_anova-mixed.rst:0 ../../analyses/jg_34_anova-mixed.rst
 msgid ""
 "A little more comprehensive introduction into this statistical method is "
 "provided by this `video <https://www.youtube.com/embed/m5JNwPgiMso?"
@@ -1018,6 +884,7 @@ msgid "How to perform a linear regression in jamovi:"
 msgstr ""
 
 #: ../../analyses/jg_42_regression-linear.rst:0
+#: ../../analyses/jg_42_regression-linear.rst
 msgid ""
 "You need one |continuous| dependent variable, and at least one |continuous| "
 "predictor variable (aka a covariate)."
@@ -1032,6 +899,7 @@ msgid "data_format_regression_linear"
 msgstr "data_format_regression_linear"
 
 #: ../../analyses/jg_42_regression-linear.rst:0
+#: ../../analyses/jg_42_regression-linear.rst
 msgid "Select ``Analyses`` → ``Regression`` → ``Linear Regression``."
 msgstr ""
 
@@ -1044,6 +912,7 @@ msgid "select_regression_linear"
 msgstr "select_regression_linear"
 
 #: ../../analyses/jg_42_regression-linear.rst:0
+#: ../../analyses/jg_42_regression-linear.rst
 msgid ""
 "Drag and drop your dependent variable to ``Dependent Variable`` and your "
 "explanatory variable to ``Covariates`` if it is continuous or to ``Factors`` "
@@ -1067,6 +936,7 @@ msgid "output_regression_linear"
 msgstr "output_regression_linear"
 
 #: ../../analyses/jg_42_regression-linear.rst:0
+#: ../../analyses/jg_42_regression-linear.rst
 msgid ""
 "Those who have previous experience with SPSS may want to have a look at the :"
 "doc:`side-by-side-comparison <../spss2jamovi/s2j_linReg>` of how a linear "
@@ -1074,6 +944,7 @@ msgid ""
 msgstr ""
 
 #: ../../analyses/jg_42_regression-linear.rst:0
+#: ../../analyses/jg_42_regression-linear.rst
 msgid ""
 "A more comprehensive introduction into this statistical method is provided "
 "by this `video <https://www.youtube.com/embed/_5AVGuEzCXc?"
@@ -1082,6 +953,7 @@ msgid ""
 msgstr ""
 
 #: ../../analyses/jg_42_regression-linear.rst:0
+#: ../../analyses/jg_42_regression-linear.rst
 msgid ""
 "For those, aiming to stretch even further to an in-depth introduction, you "
 "can read the respective section in the “Learning statistics with jamovi” "
@@ -1100,6 +972,7 @@ msgid "How to perform a logistic regression in jamovi:"
 msgstr ""
 
 #: ../../analyses/jg_43_regression-logistic.rst:0
+#: ../../analyses/jg_43_regression-logistic.rst
 msgid ""
 "You need one |nominal| |ordinal| categorical dependent variable (nominal or "
 "ordinal), and at least one continuous explanatory variable."
@@ -1118,6 +991,7 @@ msgid "data_format_regression_logistic"
 msgstr "data_format_regression_logistic"
 
 #: ../../analyses/jg_43_regression-logistic.rst:0
+#: ../../analyses/jg_43_regression-logistic.rst
 msgid ""
 "Logistic regression can be found by selecting ``Analyses`` → ``Regression``. "
 "If the outcome variable is nominal (as in the above image), select ``2 "
@@ -1135,6 +1009,7 @@ msgid "select_regression_logistic"
 msgstr "select_regression_logistic"
 
 #: ../../analyses/jg_43_regression-logistic.rst:0
+#: ../../analyses/jg_43_regression-logistic.rst
 msgid ""
 "Drag and drop your dependent variable to ``Dependent Variable`` and your "
 "predictor to ``Covariates``."
@@ -1149,6 +1024,7 @@ msgid "add_var_regression_logistic"
 msgstr "add_var_regression_logistic"
 
 #: ../../analyses/jg_43_regression-logistic.rst:0
+#: ../../analyses/jg_43_regression-logistic.rst
 msgid ""
 "Scroll down to the ``Model Coefficients`` drop-down-menu and check the "
 "options ``Odds ratio`` and ``Confidence interval``."
@@ -1171,6 +1047,7 @@ msgid "output_regression_logistic"
 msgstr "output_regression_logistic"
 
 #: ../../analyses/jg_43_regression-logistic.rst:0
+#: ../../analyses/jg_43_regression-logistic.rst
 msgid ""
 "Those who have previous experience with SPSS may want to have a look at the :"
 "doc:`side-by-side-comparison <../spss2jamovi/s2j_logReg>` of how a logistic "
@@ -1178,6 +1055,7 @@ msgid ""
 msgstr ""
 
 #: ../../analyses/jg_43_regression-logistic.rst:0
+#: ../../analyses/jg_43_regression-logistic.rst
 msgid ""
 "A little more comprehensive introduction into this statistical method is "
 "provided by this two videos, explaining logistic regression with `two levels "
@@ -1188,3 +1066,206 @@ msgid ""
 "(to predict, e.g., food preferences: fast food, healthy food, high protein "
 "food, vegan food, etc.)."
 msgstr ""
+
+#: ../../analyses/jg_overview.rst:5
+msgid "Analyses: Introduction"
+msgstr "Análisis: Introducción"
+
+#: ../../analyses/jg_overview.rst:7
+msgid ""
+"The aim of the following section is to provide short, non-technical "
+"tutorials on how to conduct common statistical procedures in jamovi, and was "
+"originally created by Jonas Rafi under the name jamovi guide. However, this "
+"is only intended as a brief overview. For a more in-depth treatment of these "
+"analyses, we'd recommend you take a look at the many `community resources "
+"<https://www.jamovi.org/community.html>`__ available."
+msgstr ""
+"El objetivo de la siguiente sección es proveer tutoriales cortos, no "
+"técnicos, de cómo realizar procedimientos estadísticos comunes en jamovi. "
+"Fue creado originalmente por Jonas Rafi bajo el nombre de Guía jamovi. Sin "
+"embargo, ha sido pensado como una introducción, no como un recurso que "
+"provea una introducción profunda a los antecedentes de dichos "
+"procedimientos. Para quienes deseen eso, hay una gran cantidad de otros "
+"recursos. Algunos de dichos recursos están listados al final de las páginas "
+"que introducen al análisis individual en la caja \"recurso de la Comunidad\"."
+
+#: ../../analyses/jg_overview.rst:14
+msgid ""
+"**A Note On Measurement Types**: The following documentation describes each "
+"of the analyses, and describes the variable measure types required. For "
+"example, it might explain that a particular analysis requires a continuous |"
+"continuous| dependent variable, and a nominal |nominal| grouping variable. "
+"However it's possible that the columns in your data set, for a number of "
+"different reasons, aren't set up with the correct measure types (as "
+"indicated in the column header). You can adjust the measure type of columns "
+"using the variable editor, however (for the most part) these measure types "
+"are really just a guide and don't need to be set correctly. If you assign a |"
+"continuous| continuous variable to an analysis expecting a |nominal| nominal "
+"one, the analysis will simply treat the variable as nominal. All this to "
+"say, if the documentation says that a particular measure type is required, "
+"the data simply needs to be the correct 'shape', and you can save yourself "
+"the labour of setting the measure types correctly if you don't want to."
+msgstr ""
+
+#: ../../analyses/jg_overview.rst:33
+#, fuzzy
+msgid "Descriptive statistics"
+msgstr "select_descriptives_statistics"
+
+#: ../../analyses/jg_overview.rst:44
+msgid "t-tests"
+msgstr "Pruebas T"
+
+#: ../../analyses/jg_overview.rst:46
+msgid ""
+"The t-test is used to test whether the mean value in a normally distributed "
+"data set deviates significantly from a null hypothesis (which assumes that "
+"there is no difference)."
+msgstr ""
+"La prueba t se utiliza para comprobar si la media de un conjunto de datos "
+"con distribución normal se desvía significativamente de una hipótesis nula "
+"(que supone que no hay diferencias)."
+
+#: ../../analyses/jg_overview.rst:50
+msgid "There are three types of t-tests:"
+msgstr "Hay tres tipos de pruebas t:"
+
+#: ../../analyses/jg_overview.rst
+msgid ""
+"A more comprehensive introduction into the concept is presented in this "
+"`video <https://www.youtube.com/embed/mb7KCLYEis8?"
+"list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ by `Barton Poulson <https://"
+"datalab.cc/jamovi>`__."
+msgstr ""
+"Una introducción más completa al concepto se presenta en este `vídeo "
+"<https://www.youtube.com/embed/mb7KCLYEis8?"
+"list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ de `Barton Poulson <https://"
+"datalab.cc/jamovi>`__."
+
+#: ../../analyses/jg_overview.rst:70
+msgid "Analyses of Variance (ANOVA)"
+msgstr "Análisis de la Varianza (ANOVA)"
+
+#: ../../analyses/jg_overview.rst:72
+msgid ""
+"The Analysis of variance (ANOVA) is a statistical method that examines how "
+"the impact of one or more factors affects an outcome (dependent) variable. "
+"These factors are the predictor variables and are categorical. Typically, "
+"such factors reflect an experimental manipulation (e.g. with or without "
+"treatment), but a factor can also represent groups for whose influence one "
+"would like to control (e.g. gender: men or women). The analysis of variance "
+"is based on a concept similar to that of the t-test, but it goes beyond "
+"that, in that factors can have several levels (t-tests only allow two), and "
+"in that several factors can be examined simultaneously."
+msgstr ""
+
+#: ../../analyses/jg_overview.rst:82
+msgid ""
+"There are different types of analysis of variance, which differ in the "
+"number of factors examined - one or more factors - or whether they compare "
+"between people or within a person - repeated measurements:"
+msgstr ""
+"Existen diferentes tipos de análisis de la varianza, que difieren en el "
+"número de factores examinados -uno o más factores- o en si se comparan entre "
+"personas o dentro de una persona -medidas repetidas-:"
+
+#: ../../analyses/jg_overview.rst
+msgid ""
+"An introduction into the concept of an ANOVA is presented in this `video "
+"<https://www.youtube.com/embed/GcbMG6sizXs?"
+"list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ by `Barton Poulson <https://"
+"datalab.cc/jamovi>`__."
+msgstr ""
+"Una introducción en el concepto del ANOVA se presenta en este `video "
+"<https://www.youtube.com/embed/GcbMG6sizXs?"
+"list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ por `Barton Poulson <https://"
+"datalab.cc/jamovi>`__."
+
+#: ../../analyses/jg_overview.rst:105
+msgid "Correlation and regression"
+msgstr "Correlación y regresión"
+
+#: ../../analyses/jg_overview.rst:107
+msgid ""
+"Correlation and regression analyses are statistical methods for assessing "
+"the relationships between a dependent / outcome variable and one or more "
+"independent / predictor variables. While the *correlation* analysis examines "
+"the *relationship* between one predictor and one outcome variable, "
+"*regression* analysis mainly focuses on *prediction* (how well can one or "
+"more variables predict another (outcome) variable). Often, a distinction is "
+"made between linear and non-linear (e.g., logistic regression)."
+msgstr ""
+"Los análisis de correlación y regresión son métodos estadísticos para "
+"evaluar las relaciones entre una variable dependiente/de resultado y una o "
+"más variables independientes/de predicción. Mientras que el análisis de "
+"*correlación* examina la *relación* entre un predictor y una variable de "
+"resultado, el análisis de *regresión* se centra principalmente en la "
+"*predicción* (en qué medida pueden una o más variables predecir otra "
+"variable (de resultado)). A menudo se distingue entre lineal y no lineal "
+"(por ejemplo, regresión logística)."
+
+#: ../../analyses/jg_overview.rst
+msgid ""
+"An introduction into the concept of regression analyses is presented in this "
+"`video <https://www.youtube.com/embed/gRhVjKNWiUs?"
+"list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ by `Barton Poulson <https://"
+"datalab.cc/jamovi>`__."
+msgstr ""
+"Una introducción al concepto del análisis de regresión se presenta en este "
+"`video <https://www.youtube.com/embed/gRhVjKNWiUs?"
+"list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ por `Barton Poulson <https://"
+"datalab.cc/jamovi>`__."
+
+#~ msgid ":doc:`jg_11_descriptive-analyses`"
+#~ msgstr ":doc:`jg_11_descriptive-analyses`"
+
+#~ msgid ":doc:`jg_21_t-test-independent`"
+#~ msgstr ":doc:`jg_21_t-test-independent`"
+
+#~ msgid ":doc:`jg_22_t-test-paired`"
+#~ msgstr ":doc:`jg_22_t-test-paired`"
+
+#~ msgid ":doc:`jg_23_t-test-onesample`"
+#~ msgstr ":doc:`jg_23_t-test-onesample`"
+
+#~ msgid ":doc:`jg_31_unianova`"
+#~ msgstr ":doc:`jg_31_unianova`"
+
+#~ msgid ":doc:`jg_32_anova-factorial`"
+#~ msgstr ":doc:`jg_32_anova-factorial`"
+
+#~ msgid ":doc:`jg_33_anova-rm`"
+#~ msgstr ":doc:`jg_33_anova-rm`"
+
+#~ msgid ":doc:`jg_34_anova-mixed`"
+#~ msgstr ":doc:`jg_34_anova-mixed`"
+
+#~ msgid ":doc:`jg_42_regression-linear`"
+#~ msgstr ":doc:`jg_42_regression-linear`"
+
+#~ msgid ":doc:`jg_43_regression-logistic`"
+#~ msgstr ":doc:`jg_43_regression-logistic`"
+
+#~ msgid ""
+#~ "The Analysis of variance (ANOVA) is a statistical method that examines "
+#~ "how the impact of one or more factors affects an outcome (dependent) "
+#~ "variable. These factors are the predictor variables and are categorical. "
+#~ "Typically, such factors reflect an experimental manipulation (e.g. with "
+#~ "or without treatment), but a factor can also represent groups for whose "
+#~ "influence one would like to control (e.g. gender: men or women). The "
+#~ "analysis of variance is based on a concept similar to that of the t-test, "
+#~ "but it goes beyond that, in that factors can have several levels (t-tests "
+#~ "only allow two) and in that several factors can be examined "
+#~ "simultaneously."
+#~ msgstr ""
+#~ "El análisis de la varianza (ANOVA) es un método estadístico que examina "
+#~ "cómo el impacto de uno o más factores afecta a una variable de resultado "
+#~ "(dependiente). Estos factores son las variables predictoras y son "
+#~ "categóricas. Normalmente, estos factores reflejan una manipulación "
+#~ "experimental (por ejemplo, con o sin tratamiento), pero un factor también "
+#~ "puede representar grupos cuya influencia uno podría desear controlar (por "
+#~ "ejemplo, el género: hombres o mujeres). El análisis de la varianza se "
+#~ "basa en un concepto similar al de la prueba t, pero va más allá, en el "
+#~ "sentido de que los factores pueden tener varios niveles (las pruebas t "
+#~ "sólo permiten dos) y en que se pueden examinar varios factores "
+#~ "simultáneamente."
