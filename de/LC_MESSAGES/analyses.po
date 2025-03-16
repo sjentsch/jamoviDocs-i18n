@@ -1,57 +1,13 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jamovi \n"
+"Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-16 16:14+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 16:12+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 16:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 16:04+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 16:02+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-03-16 16:00+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -67,7 +23,7 @@ msgstr ""
 "Sie können mit jamovi auf die folgende Weise deskriptivstatistische Analysen "
 "durchführen und Diagramme erstellen:"
 
-#: ../../analyses/jg_11_descriptive-analyses.rst
+#: ../../analyses/jg_11_descriptive-analyses.rst:0
 msgid "Select ``Analyses`` → ``Exploration`` → ``Descriptives``."
 msgstr "Wählen Sie ``Analyses`` → ``Exploration`` → ``Descriptives``."
 
@@ -79,7 +35,7 @@ msgstr "|select_descriptives|"
 msgid "select_descriptives"
 msgstr "select_descriptives"
 
-#: ../../analyses/jg_11_descriptive-analyses.rst
+#: ../../analyses/jg_11_descriptive-analyses.rst:0
 msgid ""
 "Drag and drop the variables you want descriptive analyses for to "
 "``Variables``."
@@ -95,7 +51,7 @@ msgstr "|add_var_descriptives|"
 msgid "add_var_descriptives"
 msgstr "add_var_descriptives"
 
-#: ../../analyses/jg_11_descriptive-analyses.rst
+#: ../../analyses/jg_11_descriptive-analyses.rst:0
 msgid ""
 "The result is shown in the right panel. Right-click on the output to save or "
 "copy it."
@@ -112,7 +68,7 @@ msgstr "|output_descriptives|"
 msgid "output_descriptives"
 msgstr "output_descriptives"
 
-#: ../../analyses/jg_11_descriptive-analyses.rst
+#: ../../analyses/jg_11_descriptive-analyses.rst:0
 msgid ""
 "To split your descriptive analyses on a categorical variable (e.g. to "
 "separate by gender), move that variable to ``Split by``."
@@ -130,7 +86,7 @@ msgstr "|add_var_descriptives_groupby|"
 msgid "add_var_descriptives_groupby"
 msgstr "add_var_descriptives_groupby"
 
-#: ../../analyses/jg_11_descriptive-analyses.rst
+#: ../../analyses/jg_11_descriptive-analyses.rst:0
 msgid "This changes how the output looks like:"
 msgstr "Dadurch ändert sich das Aussehen der Ausgabe:"
 
@@ -142,7 +98,7 @@ msgstr "|output_descriptives_groupby|"
 msgid "output_descriptives_groupby"
 msgstr "output_descriptives_groupby"
 
-#: ../../analyses/jg_11_descriptive-analyses.rst
+#: ../../analyses/jg_11_descriptive-analyses.rst:0
 msgid "Click the ``Statistics`` tab to see more alternatives."
 msgstr ""
 "Klicken Sie auf das Drop-down-Menü ``Statistics``, um weitere "
@@ -156,7 +112,7 @@ msgstr "|select_descriptives_statistics|"
 msgid "select_descriptives_statistics"
 msgstr "select_descriptives_statistics"
 
-#: ../../analyses/jg_11_descriptive-analyses.rst
+#: ../../analyses/jg_11_descriptive-analyses.rst:0
 msgid ""
 "To create a plot based on the above choices, click the ``Plots`` tab and "
 "tick the box of your desired plot. If you would like to identify outliers "
@@ -188,7 +144,7 @@ msgstr "select_descriptives_plots"
 msgid "Further help from the community resources"
 msgstr "Mehr Hilfe in den Community-Ressourcen"
 
-#: ../../analyses/jg_11_descriptive-analyses.rst
+#: ../../analyses/jg_11_descriptive-analyses.rst:0
 msgid ""
 "If you would like to have these concepts explained in a different way, "
 "please have a look at this `introductory video <https://www.youtube.com/"
@@ -201,7 +157,7 @@ msgstr ""
 "list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ von `Barton Poulson <https://"
 "datalab.cc/jamovi>`__ ansehen."
 
-#: ../../analyses/jg_11_descriptive-analyses.rst
+#: ../../analyses/jg_11_descriptive-analyses.rst:0
 msgid ""
 "For those, aiming to stretch even further to an in-depth introduction, you "
 "can read the respective chapter in the “Learning statistics with jamovi” "
@@ -227,7 +183,7 @@ msgstr ""
 "Sie können einen t-Test für unabhängige Stichproben in jamovi auf die "
 "folgende Weise durchführen:"
 
-#: ../../analyses/jg_21_t-test-independent.rst
+#: ../../analyses/jg_21_t-test-independent.rst:0
 msgid ""
 "You need at least one |continuous| continuous dependent variable, and a |"
 "nominal| grouping variable with two levels (e.g. treatment / control)."
@@ -256,13 +212,14 @@ msgstr "continuous"
 msgid "nominal"
 msgstr "nominal"
 
-#: ../../analyses/jg_21_t-test-independent.rst
-#: ../../analyses/jg_22_t-test-paired.rst
-#: ../../analyses/jg_23_t-test-onesample.rst ../../analyses/jg_31_unianova.rst
-#: ../../analyses/jg_32_anova-factorial.rst ../../analyses/jg_33_anova-rm.rst
-#: ../../analyses/jg_34_anova-mixed.rst
-#: ../../analyses/jg_42_regression-linear.rst
-#: ../../analyses/jg_43_regression-logistic.rst
+#: ../../analyses/jg_21_t-test-independent.rst:0
+#: ../../analyses/jg_22_t-test-paired.rst:0
+#: ../../analyses/jg_23_t-test-onesample.rst:0
+#: ../../analyses/jg_31_unianova.rst:0
+#: ../../analyses/jg_32_anova-factorial.rst:0
+#: ../../analyses/jg_33_anova-rm.rst:0 ../../analyses/jg_34_anova-mixed.rst:0
+#: ../../analyses/jg_42_regression-linear.rst:0
+#: ../../analyses/jg_43_regression-logistic.rst:0
 msgid "A correct setup should look similar to this:"
 msgstr "Ein korrektes Setup sollte ungefähr so aussehen:"
 
@@ -274,7 +231,7 @@ msgstr "|data_format_ttest_independent|"
 msgid "data_format_ttest_independent"
 msgstr "data_format_ttest_independent"
 
-#: ../../analyses/jg_21_t-test-independent.rst
+#: ../../analyses/jg_21_t-test-independent.rst:0
 msgid "Select ``Analyses`` → ``T-Tests`` → ``Independent Samples T-Test``."
 msgstr ""
 "Wählen Sie ``Analyses`` → ``T-Tests`` → ``Independent Samples T-Test``."
@@ -287,7 +244,7 @@ msgstr "|select_ttest_independent|"
 msgid "select_ttest_independent"
 msgstr "select_ttest_independent"
 
-#: ../../analyses/jg_21_t-test-independent.rst
+#: ../../analyses/jg_21_t-test-independent.rst:0
 msgid ""
 "Drag and drop your outcome variable to ``Dependent Variables`` and your "
 "grouping variable to ``Grouping Variable``."
@@ -304,9 +261,9 @@ msgstr "|add_var_ttest_independent|"
 msgid "add_var_ttest_independent"
 msgstr "add_var_ttest_independent"
 
-#: ../../analyses/jg_21_t-test-independent.rst
-#: ../../analyses/jg_22_t-test-paired.rst
-#: ../../analyses/jg_23_t-test-onesample.rst
+#: ../../analyses/jg_21_t-test-independent.rst:0
+#: ../../analyses/jg_22_t-test-paired.rst:0
+#: ../../analyses/jg_23_t-test-onesample.rst:0
 msgid "The result is shown in the right panel."
 msgstr "Das Ergebnis wird im rechten Panel angezeigt."
 
@@ -318,7 +275,7 @@ msgstr "|output_ttest_independent|"
 msgid "output_ttest_independent"
 msgstr "output_ttest_independent"
 
-#: ../../analyses/jg_21_t-test-independent.rst
+#: ../../analyses/jg_21_t-test-independent.rst:0
 msgid ""
 "Those who have previous experience with SPSS may want to have a look at the :"
 "doc:`side-by-side-comparison <../spss2jamovi/s2j_ttestIS>` of how a t-test "
@@ -334,7 +291,7 @@ msgstr ""
 msgid "Community resources"
 msgstr "Mehr Hilfe in den Community-Ressourcen"
 
-#: ../../analyses/jg_21_t-test-independent.rst
+#: ../../analyses/jg_21_t-test-independent.rst:0
 msgid ""
 "This `video <https://www.youtube.com/embed/SM-DN9dpPd4?"
 "list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ by `Barton Poulson <https://"
@@ -346,7 +303,7 @@ msgstr ""
 "datalab.cc/jamovi>`__ (in Englisch) bietet eine ausführlichere Einführung in "
 "diesen Test."
 
-#: ../../analyses/jg_21_t-test-independent.rst
+#: ../../analyses/jg_21_t-test-independent.rst:0
 msgid ""
 "For those, aiming to stretch even further to an in-depth introduction, you "
 "can read the respective section in the “Learning statistics with jamovi” "
@@ -372,7 +329,7 @@ msgstr ""
 "Sie können einen t-Test für abhängige Stichproben in jamovi auf die folgende "
 "Weise durchführen:"
 
-#: ../../analyses/jg_22_t-test-paired.rst
+#: ../../analyses/jg_22_t-test-paired.rst:0
 msgid ""
 "You need two |continuous| continuous variables, with each row representing a "
 "subject. i.e. the pair of values taken from each row represent paired "
@@ -390,7 +347,7 @@ msgstr "|data_format_ttest_paired|"
 msgid "data_format_ttest_paired"
 msgstr "data_format_ttest_paired"
 
-#: ../../analyses/jg_22_t-test-paired.rst
+#: ../../analyses/jg_22_t-test-paired.rst:0
 msgid "Select ``Analyses`` → ``T-Tests`` → ``Paired Samples T-Test``."
 msgstr "Wählen Sie ``Analyses`` → ``T-Tests`` → ``Paired Samples T-Test``."
 
@@ -402,7 +359,7 @@ msgstr "|select_ttest_paired|"
 msgid "select_ttest_paired"
 msgstr "select_ttest_paired"
 
-#: ../../analyses/jg_22_t-test-paired.rst
+#: ../../analyses/jg_22_t-test-paired.rst:0
 msgid ""
 "Drag and drop your two variables to ``Paired Variables`` (you can drag these "
 "one at a time, or select both variables in a pair by holding down the Ctrl-"
@@ -429,7 +386,7 @@ msgstr "|output_ttest_paired|"
 msgid "output_ttest_paired"
 msgstr "output_ttest_paired"
 
-#: ../../analyses/jg_22_t-test-paired.rst
+#: ../../analyses/jg_22_t-test-paired.rst:0
 msgid ""
 "Those who have previous experience with SPSS may want to have a look at the :"
 "doc:`side-by-side-comparison <../spss2jamovi/s2j_ttestPS2>` of how a t-test "
@@ -440,7 +397,7 @@ msgstr ""
 "eines t-Tests für vebundene Stichproben (auch t-Paardifferenzentest genannt) "
 "in SPSS und jamovi ansehen."
 
-#: ../../analyses/jg_22_t-test-paired.rst
+#: ../../analyses/jg_22_t-test-paired.rst:0
 msgid ""
 "This `video <https://www.youtube.com/embed/lSjfYYiJG6E?"
 "list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ by `Barton Poulson <https://"
@@ -452,7 +409,7 @@ msgstr ""
 "datalab.cc/jamovi>`__ (in Englisch) bietet eine ausführlichere Einführung in "
 "diesen Test."
 
-#: ../../analyses/jg_22_t-test-paired.rst
+#: ../../analyses/jg_22_t-test-paired.rst:0
 msgid ""
 "For those, aiming to stretch even further to an in-depth introduction, you "
 "can read the respective section in the “Learning statistics with jamovi” "
@@ -476,7 +433,7 @@ msgstr "t-Test für eine Stichprobe (One sample t-Test)"
 msgid "How to perform a one-sample t-test in jamovi:"
 msgstr "So können Sie einen t-Test für eine Stichprobe in jamovi durchführen:"
 
-#: ../../analyses/jg_23_t-test-onesample.rst
+#: ../../analyses/jg_23_t-test-onesample.rst:0
 msgid ""
 "You need one |continuous| continuous variable and a mean to test against "
 "(typically the mean being tested is zero)."
@@ -493,7 +450,7 @@ msgstr "|data_format_ttest_onesample|"
 msgid "data_format_ttest_onesample"
 msgstr "data_format_ttest_onesample"
 
-#: ../../analyses/jg_23_t-test-onesample.rst
+#: ../../analyses/jg_23_t-test-onesample.rst:0
 msgid "Select ``Analyses`` → ``T-Tests`` → ``One Sample T-Test``."
 msgstr "Wählen Sie ``Analyses`` → ``T-Tests`` → ``One Sample T-Test``."
 
@@ -505,7 +462,7 @@ msgstr "|select_ttest_onesample|"
 msgid "select_ttest_onesample"
 msgstr "select_ttest_onesample"
 
-#: ../../analyses/jg_23_t-test-onesample.rst
+#: ../../analyses/jg_23_t-test-onesample.rst:0
 msgid "Drag and drop your dependent variable to ``Dependent Variables``."
 msgstr ""
 "Ziehen Sie Ihre abhängige Variable per Drag-and-drop oder mit dem Pfeil-"
@@ -519,7 +476,7 @@ msgstr "|add_var_ttest_onesample|"
 msgid "add_var_ttest_onesample"
 msgstr "add_var_ttest_onesample"
 
-#: ../../analyses/jg_23_t-test-onesample.rst
+#: ../../analyses/jg_23_t-test-onesample.rst:0
 msgid ""
 "Locate the section ``Hypothesis`` further down, this is where you enter the "
 "mean you want to test against."
@@ -543,7 +500,7 @@ msgstr "|output_ttest_onesample|"
 msgid "output_ttest_onesample"
 msgstr "output_ttest_onesample"
 
-#: ../../analyses/jg_23_t-test-onesample.rst
+#: ../../analyses/jg_23_t-test-onesample.rst:0
 msgid ""
 "This `video <https://www.youtube.com/embed/DrBT4ezYIL8?"
 "list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ by `Barton Poulson <https://"
@@ -555,7 +512,7 @@ msgstr ""
 "datalab.cc/jamovi>`__ (in Englisch) bietet eine ausführlichere Einführung in "
 "diesen Test."
 
-#: ../../analyses/jg_23_t-test-onesample.rst
+#: ../../analyses/jg_23_t-test-onesample.rst:0
 msgid ""
 "For those, aiming to stretch even further to an in-depth introduction, you "
 "can read the respective section in the “Learning statistics with jamovi” "
@@ -579,7 +536,7 @@ msgstr "Einfaktorielle Varianzanalyse (ANOVA)"
 msgid "How to perform a One-way ANOVA in jamovi:"
 msgstr "So führen Sie eine einfaktorielle Varianzanalye in jamovi durch:"
 
-#: ../../analyses/jg_31_unianova.rst
+#: ../../analyses/jg_31_unianova.rst:0
 msgid ""
 "You need one |continuous| continuous dependent variable, and one |nominal| "
 "grouping variable with two or more levels."
@@ -595,7 +552,7 @@ msgstr "|data_format_unianova|"
 msgid "data_format_unianova"
 msgstr "data_format_unianova"
 
-#: ../../analyses/jg_31_unianova.rst
+#: ../../analyses/jg_31_unianova.rst:0
 msgid "Select ``Analyses`` → ``ANOVA`` → ``One-way ANOVA``."
 msgstr "Wählen Sie ``Analyses`` → ``ANOVA`` → ``One-way ANOVA``."
 
@@ -607,7 +564,7 @@ msgstr "|select_unianova|"
 msgid "select_unianova"
 msgstr "select_unianova"
 
-#: ../../analyses/jg_31_unianova.rst
+#: ../../analyses/jg_31_unianova.rst:0
 msgid ""
 "Drag and drop your outcome variable to ``Dependent Variable`` and your "
 "grouping variable to ``Fixed Factors``."
@@ -624,7 +581,7 @@ msgstr "|add_var_unianova|"
 msgid "add_var_unianova"
 msgstr "add_var_unianova"
 
-#: ../../analyses/jg_31_unianova.rst
+#: ../../analyses/jg_31_unianova.rst:0
 msgid ""
 "Select whether your variances are equal or unequal. To test for equality of "
 "variancess using Levene’s test, tick the box ``Equality of variances``."
@@ -641,8 +598,9 @@ msgstr "|options_unianova|"
 msgid "options_unianova"
 msgstr "options_unianova"
 
-#: ../../analyses/jg_31_unianova.rst ../../analyses/jg_32_anova-factorial.rst
-#: ../../analyses/jg_33_anova-rm.rst
+#: ../../analyses/jg_31_unianova.rst:0
+#: ../../analyses/jg_32_anova-factorial.rst:0
+#: ../../analyses/jg_33_anova-rm.rst:0
 msgid "The results are shown in the right panel:"
 msgstr "Das Ergebnis wird im rechten Panel angezeigt:"
 
@@ -654,7 +612,7 @@ msgstr "|output_unianova|"
 msgid "output_unianova"
 msgstr "output_unianova"
 
-#: ../../analyses/jg_31_unianova.rst
+#: ../../analyses/jg_31_unianova.rst:0
 msgid ""
 "Those looking for an in-depth introduction: You may read the respective "
 "chapter in the “Learning statistics with jamovi” `web documentation <https://"
@@ -679,7 +637,7 @@ msgid "How to perform a factorial ANOVA in jamovi:"
 msgstr ""
 "So führen Sie eine Varianzanalye mit mehreren Faktoren in jamovi durch:"
 
-#: ../../analyses/jg_32_anova-factorial.rst
+#: ../../analyses/jg_32_anova-factorial.rst:0
 msgid ""
 "You need one |continuous| continuous dependent variable, and one or more |"
 "nominal| grouping variables."
@@ -695,7 +653,7 @@ msgstr "|data_format_anova_factorial|"
 msgid "data_format_anova_factorial"
 msgstr "data_format_anova_factorial"
 
-#: ../../analyses/jg_32_anova-factorial.rst
+#: ../../analyses/jg_32_anova-factorial.rst:0
 msgid "Select ``Analyses`` → ``ANOVA`` → ``ANOVA``."
 msgstr "Wählen Sie ``Analyses`` → ``ANOVA`` → ``ANOVA``."
 
@@ -707,7 +665,7 @@ msgstr "|select_anova_factorial|"
 msgid "select_anova_factorial"
 msgstr "select_anova_factorial"
 
-#: ../../analyses/jg_32_anova-factorial.rst
+#: ../../analyses/jg_32_anova-factorial.rst:0
 msgid ""
 "Drag and drop your outcome variable to ``Dependent Variable`` and your "
 "grouping variables to ``Fixed Factors``."
@@ -732,7 +690,7 @@ msgstr "|output_anova_factorial|"
 msgid "output_anova_factorial"
 msgstr "output_anova_factorial"
 
-#: ../../analyses/jg_32_anova-factorial.rst
+#: ../../analyses/jg_32_anova-factorial.rst:0
 msgid ""
 "A more comprehensive introduction into this statistical method is provided "
 "by this `video <https://www.youtube.com/embed/TJoJTVgDyqY?"
@@ -744,7 +702,7 @@ msgstr ""
 "list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ von `Barton Poulson <https://"
 "datalab.cc/jamovi>`__."
 
-#: ../../analyses/jg_32_anova-factorial.rst
+#: ../../analyses/jg_32_anova-factorial.rst:0
 msgid ""
 "For those, aiming to stretch even further to an in-depth introduction, you "
 "can read the respective section in the “Learning statistics with jamovi” "
@@ -768,7 +726,7 @@ msgstr "ANOVA mit Messwiederholung"
 msgid "How to perform a repeated measures ANOVA in jamovi:"
 msgstr "So führen Sie eine ANOVA für wiederholte Messungen in jamovi durch:"
 
-#: ../../analyses/jg_33_anova-rm.rst
+#: ../../analyses/jg_33_anova-rm.rst:0
 msgid ""
 "You need one |continuous| continuous dependent variable for each measurement "
 "occasion."
@@ -784,7 +742,7 @@ msgstr "|data_format_anova_repeated|"
 msgid "data_format_anova_repeated"
 msgstr "data_format_anova_repeated"
 
-#: ../../analyses/jg_33_anova-rm.rst ../../analyses/jg_34_anova-mixed.rst
+#: ../../analyses/jg_33_anova-rm.rst:0 ../../analyses/jg_34_anova-mixed.rst:0
 msgid "Select ``Analyses`` → ``ANOVA`` → ``Repeated Measures ANOVA``."
 msgstr "Wählen Sie ``Analyses`` → ``ANOVA`` → ``Repeated Measures ANOVA``."
 
@@ -796,7 +754,7 @@ msgstr "|select_anova_repeated|"
 msgid "select_anova_repeated"
 msgstr "select_anova_repeated"
 
-#: ../../analyses/jg_33_anova-rm.rst
+#: ../../analyses/jg_33_anova-rm.rst:0
 msgid ""
 "In the box ``Repeated Measures Factors``: write the name of your outcome "
 "variable (e.g., ``My_scale``) and name the levels for each measurement "
@@ -824,7 +782,7 @@ msgstr "add_var_anova_repeated_naming_1"
 msgid "add_var_anova_repeated_naming_2"
 msgstr "add_var_anova_repeated_naming_2"
 
-#: ../../analyses/jg_33_anova-rm.rst ../../analyses/jg_34_anova-mixed.rst
+#: ../../analyses/jg_33_anova-rm.rst:0 ../../analyses/jg_34_anova-mixed.rst:0
 msgid ""
 "Drag and drop your outcome variables to their respective cells in ``Repeated "
 "Measures Cells``."
@@ -840,7 +798,7 @@ msgstr "|add_var_anova_repeated|"
 msgid "add_var_anova_repeated"
 msgstr "add_var_anova_repeated"
 
-#: ../../analyses/jg_33_anova-rm.rst
+#: ../../analyses/jg_33_anova-rm.rst:0
 msgid ""
 "To test the equality of the variance with the Levene test, open the "
 "``Assumption Checks`` drop-down menu and set the ``Homogeneity test`` tick "
@@ -864,7 +822,7 @@ msgstr "|output_anova_repeated|"
 msgid "output_anova_repeated"
 msgstr "output_anova_repeated"
 
-#: ../../analyses/jg_33_anova-rm.rst
+#: ../../analyses/jg_33_anova-rm.rst:0
 msgid ""
 "A more comprehensive introduction into this statistical method is provided "
 "by this `video <https://www.youtube.com/embed/m5JNwPgiMso?"
@@ -876,7 +834,7 @@ msgstr ""
 "list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ von `Barton Poulson <https://"
 "datalab.cc/jamovi>`__."
 
-#: ../../analyses/jg_33_anova-rm.rst
+#: ../../analyses/jg_33_anova-rm.rst:0
 msgid ""
 "For those, aiming to stretch even further to an in-depth introduction, you "
 "can read the respective section in the “Learning statistics with jamovi” "
@@ -902,7 +860,7 @@ msgid "How to perform a mixed ANOVA in jamovi:"
 msgstr ""
 "So führen Sie eine Varianzanalyse mit gemischtem Design in jamovi durch:"
 
-#: ../../analyses/jg_34_anova-mixed.rst
+#: ../../analyses/jg_34_anova-mixed.rst:0
 msgid ""
 "You need one |continuous| continuous variable for each within-subject "
 "measurement (e.g. pre / post) and at least one |nominal| grouping variable "
@@ -922,7 +880,7 @@ msgstr "|data_format_anova_mixed|"
 msgid "data_format_anova_mixed"
 msgstr "data_format_anova_mixed"
 
-#: ../../analyses/jg_34_anova-mixed.rst
+#: ../../analyses/jg_34_anova-mixed.rst:0
 msgid ""
 "In the box ``Repeated Measures Factors``: write the name of your outcome "
 "variable (e.g., ``My_scale``) and name the levels for each measurement "
@@ -935,7 +893,7 @@ msgstr ""
 "Bilder unten zeigen das Feld mit Standardwerten (links) und nachdem der Name "
 "der Skala und die Variablen zugewiesen wurden (rechts)."
 
-#: ../../analyses/jg_34_anova-mixed.rst
+#: ../../analyses/jg_34_anova-mixed.rst:0
 msgid "Move your grouping variable(s) to ``Between Subject Factors``."
 msgstr ""
 "Weisen Sie Ihre Gruppierungsvariable(n) per Drag-and-drop oder mit den Pfeil-"
@@ -949,9 +907,9 @@ msgstr "|add_var_anova_mixed|"
 msgid "add_var_anova_mixed"
 msgstr "add_var_anova_mixed"
 
-#: ../../analyses/jg_34_anova-mixed.rst
-#: ../../analyses/jg_42_regression-linear.rst
-#: ../../analyses/jg_43_regression-logistic.rst
+#: ../../analyses/jg_34_anova-mixed.rst:0
+#: ../../analyses/jg_42_regression-linear.rst:0
+#: ../../analyses/jg_43_regression-logistic.rst:0
 msgid "The result is shown in the right panel:"
 msgstr "Das Ergebnis wird im rechten Panel angezeigt:"
 
@@ -963,7 +921,7 @@ msgstr "|output_anova_mixed|"
 msgid "output_anova_mixed"
 msgstr "output_anova_mixed"
 
-#: ../../analyses/jg_34_anova-mixed.rst
+#: ../../analyses/jg_34_anova-mixed.rst:0
 msgid ""
 "A little more comprehensive introduction into this statistical method is "
 "provided by this `video <https://www.youtube.com/embed/m5JNwPgiMso?"
@@ -981,7 +939,7 @@ msgstr "Lineare Regression"
 msgid "How to perform a linear regression in jamovi:"
 msgstr "So können Sie eine lineare Regression in jamovi durchführen:"
 
-#: ../../analyses/jg_42_regression-linear.rst
+#: ../../analyses/jg_42_regression-linear.rst:0
 msgid ""
 "You need one |continuous| dependent variable, and at least one |continuous| "
 "predictor variable (aka a covariate)."
@@ -997,7 +955,7 @@ msgstr "|data_format_regression_linear|"
 msgid "data_format_regression_linear"
 msgstr "data_format_regression_linear"
 
-#: ../../analyses/jg_42_regression-linear.rst
+#: ../../analyses/jg_42_regression-linear.rst:0
 msgid "Select ``Analyses`` → ``Regression`` → ``Linear Regression``."
 msgstr "Wählen Sie ``Analyses`` → ``Regression`` → ``Linear Regression``."
 
@@ -1009,7 +967,7 @@ msgstr "|select_regression_linear|"
 msgid "select_regression_linear"
 msgstr "select_regression_linear"
 
-#: ../../analyses/jg_42_regression-linear.rst
+#: ../../analyses/jg_42_regression-linear.rst:0
 msgid ""
 "Drag and drop your dependent variable to ``Dependent Variable`` and your "
 "explanatory variable to ``Covariates`` if it is continuous or to ``Factors`` "
@@ -1036,7 +994,7 @@ msgstr "|output_regression_linear|"
 msgid "output_regression_linear"
 msgstr "output_regression_linear"
 
-#: ../../analyses/jg_42_regression-linear.rst
+#: ../../analyses/jg_42_regression-linear.rst:0
 msgid ""
 "Those who have previous experience with SPSS may want to have a look at the :"
 "doc:`side-by-side-comparison <../spss2jamovi/s2j_linReg>` of how a linear "
@@ -1046,7 +1004,7 @@ msgstr ""
 "`Seite-an-Seite-Vergleich <../spss2jamovi/s2j_linReg>` mit der Durchfühung "
 "einer linearen Regression in SPSS und jamovi ansehen."
 
-#: ../../analyses/jg_42_regression-linear.rst
+#: ../../analyses/jg_42_regression-linear.rst:0
 msgid ""
 "A more comprehensive introduction into this statistical method is provided "
 "by this `video <https://www.youtube.com/embed/_5AVGuEzCXc?"
@@ -1058,7 +1016,7 @@ msgstr ""
 "list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ von `Barton Poulson <https://"
 "datalab.cc/jamovi>`__."
 
-#: ../../analyses/jg_42_regression-linear.rst
+#: ../../analyses/jg_42_regression-linear.rst:0
 msgid ""
 "For those, aiming to stretch even further to an in-depth introduction, you "
 "can read the respective section in the “Learning statistics with jamovi” "
@@ -1082,7 +1040,7 @@ msgstr "Logistische Regression"
 msgid "How to perform a logistic regression in jamovi:"
 msgstr "So können Sie eine logistische Regression in jamovi durchführen:"
 
-#: ../../analyses/jg_43_regression-logistic.rst
+#: ../../analyses/jg_43_regression-logistic.rst:0
 msgid ""
 "You need one |nominal| |ordinal| categorical dependent variable (nominal or "
 "ordinal), and at least one continuous explanatory variable."
@@ -1103,7 +1061,7 @@ msgstr "|data_format_regression_logistic|"
 msgid "data_format_regression_logistic"
 msgstr "data_format_regression_logistic"
 
-#: ../../analyses/jg_43_regression-logistic.rst
+#: ../../analyses/jg_43_regression-logistic.rst:0
 msgid ""
 "Logistic regression can be found by selecting ``Analyses`` → ``Regression``. "
 "If the outcome variable is nominal (as in the above image), select ``2 "
@@ -1126,7 +1084,7 @@ msgstr "|select_regression_logistic|"
 msgid "select_regression_logistic"
 msgstr "select_regression_logistic"
 
-#: ../../analyses/jg_43_regression-logistic.rst
+#: ../../analyses/jg_43_regression-logistic.rst:0
 msgid ""
 "Drag and drop your dependent variable to ``Dependent Variable`` and your "
 "predictor to ``Covariates``."
@@ -1143,7 +1101,7 @@ msgstr "|add_var_regression_logistic|"
 msgid "add_var_regression_logistic"
 msgstr "add_var_regression_logistic"
 
-#: ../../analyses/jg_43_regression-logistic.rst
+#: ../../analyses/jg_43_regression-logistic.rst:0
 msgid ""
 "Scroll down to the ``Model Coefficients`` drop-down-menu and check the "
 "options ``Odds ratio`` and ``Confidence interval``."
@@ -1167,7 +1125,7 @@ msgstr "|output_regression_logistic|"
 msgid "output_regression_logistic"
 msgstr "output_regression_logistic"
 
-#: ../../analyses/jg_43_regression-logistic.rst
+#: ../../analyses/jg_43_regression-logistic.rst:0
 msgid ""
 "Those who have previous experience with SPSS may want to have a look at the :"
 "doc:`side-by-side-comparison <../spss2jamovi/s2j_logReg>` of how a logistic "
@@ -1177,7 +1135,7 @@ msgstr ""
 "`Seite-an-Seite-Vergleich <../spss2jamovi/s2j_logReg>` mit der Durchfühung "
 "einer logistischen Regression in SPSS und jamovi ansehen."
 
-#: ../../analyses/jg_43_regression-logistic.rst
+#: ../../analyses/jg_43_regression-logistic.rst:0
 msgid ""
 "A little more comprehensive introduction into this statistical method is "
 "provided by this two videos, explaining logistic regression with `two levels "
@@ -1260,7 +1218,7 @@ msgstr ""
 msgid "There are three types of t-tests:"
 msgstr "Es gibt drei Arten von t-Tests:"
 
-#: ../../analyses/jg_overview.rst
+#: ../../analyses/jg_overview.rst:0
 msgid ""
 "A more comprehensive introduction into the concept is presented in this "
 "`video <https://www.youtube.com/embed/mb7KCLYEis8?"
@@ -1300,7 +1258,7 @@ msgstr ""
 "unterscheiden, ob sie Messungen zwischen Personen oder innerhalb einer "
 "Person (wiederholte Messungen) miteinander vergleichen:"
 
-#: ../../analyses/jg_overview.rst
+#: ../../analyses/jg_overview.rst:0
 msgid ""
 "An introduction into the concept of an ANOVA is presented in this `video "
 "<https://www.youtube.com/embed/GcbMG6sizXs?"
@@ -1336,7 +1294,7 @@ msgstr ""
 "linearer und nichtlinearer Regression (z. B. logistische Regression) "
 "unterschieden."
 
-#: ../../analyses/jg_overview.rst
+#: ../../analyses/jg_overview.rst:0
 msgid ""
 "An introduction into the concept of regression analyses is presented in this "
 "`video <https://www.youtube.com/embed/gRhVjKNWiUs?"
