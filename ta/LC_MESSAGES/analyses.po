@@ -3,15 +3,38 @@
 # This file is distributed under the same license as the jamovi package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+#, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  analyses.pot (jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-02 16:46+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  analyses.po (jamovi )  #-#-#-#-#\n"
+"#-#-#-#-#  analyses.pot (jamovi )  #-#-#-#-#\n"
+"Project-Id-Version: jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-02 16:46+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  analyses.po (jamovi)  #-#-#-#-#\n"
 "Project-Id-Version: jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-03-02 16:46+0100\n"
 "PO-Revision-Date: 2025-01-03 10:01+0000\n"
 "Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
-"Language-Team: Tamil <https://hosted.weblate.org/projects/jamovidocs/"
-"2_analyses/ta/>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/"
+"jamovidocs/2_analyses/ta/>\n"
 "Language: ta\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -34,9 +57,9 @@ msgid ""
 msgstr ""
 "சமோவியில் பொதுவான புள்ளிவிவர நடைமுறைகளை எவ்வாறு நடத்துவது என்பது குறித்த குறுகிய, "
 "தொழில்நுட்பமற்ற பயிற்சிகளை வழங்குவதே பின்வரும் பிரிவின் நோக்கம், முதலில் சோனாச் ரஃபியால் "
-"சமோவி கையேடு என்ற பெயரில் உருவாக்கப்பட்டது. இருப்பினும், இது ஒரு சுருக்கமான கண்ணோட்டமா"
-"க மட்டுமே கருதப்படுகிறது. இந்த பகுப்பாய்வுகளுக்கு இன்னும் ஆழமான சிகிச்சைக்கு, பல `சமூக "
-"வளங்கள் <https://www.jamovi.org/community.html> __ __ கிடைக்கிறது."
+"சமோவி கையேடு என்ற பெயரில் உருவாக்கப்பட்டது. இருப்பினும், இது ஒரு சுருக்கமான "
+"கண்ணோட்டமாக மட்டுமே கருதப்படுகிறது. இந்த பகுப்பாய்வுகளுக்கு இன்னும் ஆழமான சிகிச்சைக்கு, "
+"பல `சமூக வளங்கள் <https://www.jamovi.org/community.html> __ __ கிடைக்கிறது."
 
 #: ../../analyses/jg_00_overview.rst:13
 msgid "A Note On Measurement Types"
@@ -58,14 +81,14 @@ msgid ""
 msgstr ""
 "பின்வரும் ஆவணங்கள் ஒவ்வொரு பகுப்பாய்வுகளையும் விவரிக்கிறது, மேலும் தேவையான மாறி அளவீட்டு "
 "வகைகளை விவரிக்கிறது. எடுத்துக்காட்டாக, ஒரு குறிப்பிட்ட பகுப்பாய்விற்கு தொடர்ச்சியான | "
-"தொடர்ச்சியான | சார்பு மாறி, மற்றும் பெயரளவு | பெயரளவு | தொகுத்தல் மாறி. எவ்வாறாயினும்"
-", உங்கள் தரவு தொகுப்பில் உள்ள நெடுவரிசைகள், பல வேறுபட்ட காரணங்களுக்காக, சரியான அளவீட்டு "
-"வகைகளுடன் அமைக்கப்படவில்லை (நெடுவரிசை தலைப்பில் சுட்டிக்காட்டப்பட்டுள்ளபடி). மாறி "
-"எடிட்டரைப் பயன்படுத்தி நெடுவரிசைகளின் அளவீட்டு வகையை நீங்கள் சரிசெய்யலாம், இருப்பினும் "
-"(பெரும்பாலும்) இந்த அளவீட்டு வகைகள் உண்மையில் ஒரு வழிகாட்டியாக இருக்கின்றன, மேலும் சரியா"
-"க அமைக்க தேவையில்லை. நீங்கள் ஒரு | தொடர்ச்சியான | ஒதுக்கினால் ஒரு | பெயரளவு | என்று "
-"எதிர்பார்க்கும் பகுப்பாய்விற்கு தொடர்ச்சியான மாறி பெயரளவு ஒன்று, பகுப்பாய்வு வெறுமனே "
-"மாறியை பெயரளவில் கருதும்."
+"தொடர்ச்சியான | சார்பு மாறி, மற்றும் பெயரளவு | பெயரளவு | தொகுத்தல் மாறி. "
+"எவ்வாறாயினும், உங்கள் தரவு தொகுப்பில் உள்ள நெடுவரிசைகள், பல வேறுபட்ட காரணங்களுக்காக, "
+"சரியான அளவீட்டு வகைகளுடன் அமைக்கப்படவில்லை (நெடுவரிசை தலைப்பில் "
+"சுட்டிக்காட்டப்பட்டுள்ளபடி). மாறி எடிட்டரைப் பயன்படுத்தி நெடுவரிசைகளின் அளவீட்டு வகையை "
+"நீங்கள் சரிசெய்யலாம், இருப்பினும் (பெரும்பாலும்) இந்த அளவீட்டு வகைகள் உண்மையில் ஒரு "
+"வழிகாட்டியாக இருக்கின்றன, மேலும் சரியாக அமைக்க தேவையில்லை. நீங்கள் ஒரு | தொடர்ச்சியான | "
+"ஒதுக்கினால் ஒரு | பெயரளவு | என்று எதிர்பார்க்கும் பகுப்பாய்விற்கு தொடர்ச்சியான மாறி "
+"பெயரளவு ஒன்று, பகுப்பாய்வு வெறுமனே மாறியை பெயரளவில் கருதும்."
 
 #: ../../analyses/jg_00_overview.rst:94
 #: ../../analyses/jg_21_t-test-independent.rst:56
@@ -77,7 +100,7 @@ msgstr ""
 #: ../../analyses/jg_42_regression-linear.rst:55
 #: ../../analyses/jg_43_regression-logistic.rst:62
 msgid "continuous"
-msgstr ""
+msgstr "continuous"
 
 #: ../../analyses/jg_00_overview.rst:92
 #: ../../analyses/jg_21_t-test-independent.rst:54
@@ -86,7 +109,7 @@ msgstr ""
 #: ../../analyses/jg_34_anova-mixed.rst:58
 #: ../../analyses/jg_43_regression-logistic.rst:58
 msgid "nominal"
-msgstr ""
+msgstr "nominal"
 
 #: ../../analyses/jg_00_overview.rst:21
 msgid ""
@@ -118,8 +141,8 @@ msgid ""
 "there is no difference)."
 msgstr ""
 "பொதுவாக விநியோகிக்கப்பட்ட தரவுத் தொகுப்பில் உள்ள சராசரி மதிப்பு சுழிய "
-"கருதுகோளிலிருந்து கணிசமாக மாறுபடுகிறதா என்பதை சோதிக்க டி-சோதனை பயன்படுத்தப்படுகிறது"
-" (இது எந்த வித்தியாசமும் இல்லை என்று கருதுகிறது)."
+"கருதுகோளிலிருந்து கணிசமாக மாறுபடுகிறதா என்பதை சோதிக்க டி-சோதனை "
+"பயன்படுத்தப்படுகிறது (இது எந்த வித்தியாசமும் இல்லை என்று கருதுகிறது)."
 
 #: ../../analyses/jg_00_overview.rst:37
 msgid "There are three types of t-tests:"
@@ -131,7 +154,7 @@ msgstr ":doc:`jg_21_t-test-independent`"
 
 #: ../../analyses/jg_00_overview.rst:40
 msgid ":doc:`jg_22_t-test-paired`"
-msgstr ": டாக்: `JG_22_T-TEST-BARED`"
+msgstr ":doc:`jg_22_t-test-paired`"
 
 #: ../../analyses/jg_00_overview.rst:41
 msgid ":doc:`jg_23_t-test-onesample`"
@@ -150,8 +173,8 @@ msgid ""
 "list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ by `Barton Poulson <https://"
 "datalab.cc/jamovi>`__."
 msgstr ""
-"இந்த `வீடியோ <https://www.youtube.com/embed/"
-"mb7kclyeis8?list=plkk92zyru5oatc_ituubassq6s_tgfrn>` __ Barton Pouls. __."
+"இந்த `வீடியோ <https://www.youtube.com/embed/mb7kclyeis8?"
+"list=plkk92zyru5oatc_ituubassq6s_tgfrn>` __ Barton Pouls. __."
 
 #: ../../analyses/jg_00_overview.rst:50
 msgid "Analyses of Variance (ANOVA)"
@@ -171,13 +194,13 @@ msgid ""
 msgstr ""
 "மாறுபாட்டின் பகுப்பாய்வு (ANOVA) என்பது ஒரு புள்ளிவிவர முறையாகும், இது ஒன்று அல்லது "
 "அதற்கு மேற்பட்ட காரணிகளின் தாக்கம் ஒரு விளைவு (சார்பு) மாறியை எவ்வாறு பாதிக்கிறது "
-"என்பதை ஆராய்கிறது. இந்த காரணிகள் முன்கணிப்பு மாறிகள் மற்றும் வகைப்படுத்தப்பட்டவை. பொதுவா"
-"க, இத்தகைய காரணிகள் ஒரு சோதனை கையாளுதலை பிரதிபலிக்கின்றன (எ.கா. சிகிச்சையுடன் அல்லது"
-" இல்லாமல்), ஆனால் ஒரு காரணி அதன் செல்வாக்கைக் கட்டுப்படுத்த விரும்பும் குழுக்களையும் "
-"குறிக்கலாம் (எ.கா. பாலினம்: ஆண்கள் அல்லது பெண்கள்). மாறுபாட்டின் பகுப்பாய்வு டி-டெச்டைப் "
-"போன்ற ஒரு கருத்தை அடிப்படையாகக் கொண்டது, ஆனால் அதையும் மீறிச் செல்கிறது, அந்த காரணிகளில் "
-"பல நிலைகள் இருக்கலாம் (டி-சோதனைகள் இரண்டை மட்டுமே அனுமதிக்கின்றன) மற்றும் பல காரணிகளை "
-"ஒரே நேரத்தில் ஆராயலாம்."
+"என்பதை ஆராய்கிறது. இந்த காரணிகள் முன்கணிப்பு மாறிகள் மற்றும் வகைப்படுத்தப்பட்டவை. "
+"பொதுவாக, இத்தகைய காரணிகள் ஒரு சோதனை கையாளுதலை பிரதிபலிக்கின்றன (எ.கா. "
+"சிகிச்சையுடன் அல்லது இல்லாமல்), ஆனால் ஒரு காரணி அதன் செல்வாக்கைக் கட்டுப்படுத்த விரும்பும் "
+"குழுக்களையும் குறிக்கலாம் (எ.கா. பாலினம்: ஆண்கள் அல்லது பெண்கள்). மாறுபாட்டின் பகுப்பாய்வு "
+"டி-டெச்டைப் போன்ற ஒரு கருத்தை அடிப்படையாகக் கொண்டது, ஆனால் அதையும் மீறிச் செல்கிறது, அந்த "
+"காரணிகளில் பல நிலைகள் இருக்கலாம் (டி-சோதனைகள் இரண்டை மட்டுமே அனுமதிக்கின்றன) மற்றும் பல "
+"காரணிகளை ஒரே நேரத்தில் ஆராயலாம்."
 
 #: ../../analyses/jg_00_overview.rst:58
 msgid ""
@@ -191,7 +214,7 @@ msgstr ""
 
 #: ../../analyses/jg_00_overview.rst:61
 msgid ":doc:`jg_31_unianova`"
-msgstr ": டாக்: `JG_31_UNIANOVA`"
+msgstr ":doc:`jg_31_unianova`"
 
 #: ../../analyses/jg_00_overview.rst:62
 msgid ":doc:`jg_32_anova-factorial`"
@@ -199,11 +222,11 @@ msgstr ":doc:`jg_32_anova-factorial`"
 
 #: ../../analyses/jg_00_overview.rst:63
 msgid ":doc:`jg_33_anova-rm`"
-msgstr ": டாக்: `JG_33_ANOVA-RM`"
+msgstr ":doc:`jg_33_anova-rm`"
 
 #: ../../analyses/jg_00_overview.rst:64
 msgid ":doc:`jg_34_anova-mixed`"
-msgstr ": டாக்: `JG_34_ANOVA-mixed`"
+msgstr ":doc:`jg_34_anova-mixed`"
 
 #: ../../analyses/jg_00_overview.rst:0
 msgid ""
@@ -252,8 +275,8 @@ msgid ""
 "list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ by `Barton Poulson <https://"
 "datalab.cc/jamovi>`__."
 msgstr ""
-"பின்னடைவு பகுப்பாய்வுகளின் கருத்தில் ஒரு அறிமுகம் இந்த `வீடியோவில் <https://"
-"www.youtube.com/embed/grhvjknwius?list=plkk92zyru5oatc_ituubassq6s_tgfrn>` "
+"பின்னடைவு பகுப்பாய்வுகளின் கருத்தில் ஒரு அறிமுகம் இந்த `வீடியோவில் <https://www."
+"youtube.com/embed/grhvjknwius?list=plkk92zyru5oatc_ituubassq6s_tgfrn>` "
 "vardoncam. `__."
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:5
@@ -272,11 +295,11 @@ msgstr ""
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:11
 msgid "|select_descriptives|"
-msgstr "| Select_Descriptives |"
+msgstr "|select_descriptives|"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:65
 msgid "select_descriptives"
-msgstr "தேர்ந்தெடுக்கப்பட்ட_ விளக்கங்கள்"
+msgstr "select_descriptives"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:0
 msgid ""
@@ -287,11 +310,11 @@ msgstr ""
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:18
 msgid "|add_var_descriptives|"
-msgstr "| add_var_descriptives |"
+msgstr "|add_var_descriptives|"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:68
 msgid "add_var_descriptives"
-msgstr "add_var_descrictives"
+msgstr "add_var_descriptives"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:0
 msgid ""
@@ -303,11 +326,11 @@ msgstr ""
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:25
 msgid "|output_descriptives|"
-msgstr "| output_descriptives |"
+msgstr "|output_descriptives|"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:71
 msgid "output_descriptives"
-msgstr "வெளியீடு_ விளக்கங்கள்"
+msgstr "output_descriptives"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:0
 msgid ""
@@ -319,7 +342,7 @@ msgstr ""
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:32
 msgid "|add_var_descriptives_groupby|"
-msgstr "| add_var_descriptives_groupby |"
+msgstr "|add_var_descriptives_groupby|"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:74
 msgid "add_var_descriptives_groupby"
@@ -331,7 +354,7 @@ msgstr "இது வெளியீடு எப்படி இருக்க
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:36
 msgid "|output_descriptives_groupby|"
-msgstr "| output_descriptives_groupby |"
+msgstr "|output_descriptives_groupby|"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:77
 msgid "output_descriptives_groupby"
@@ -343,11 +366,11 @@ msgstr "மேலும் மாற்று வழிகளைக் காண
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:42
 msgid "|select_descriptives_statistics|"
-msgstr "| Select_Descriptives_statistics |"
+msgstr "|select_descriptives_statistics|"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:80
 msgid "select_descriptives_statistics"
-msgstr "Select_Descrictives_statistics"
+msgstr "select_descriptives_statistics"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:0
 msgid ""
@@ -364,11 +387,11 @@ msgstr ""
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:49
 msgid "|select_descriptives_plots|"
-msgstr "| Select_Descriptives_plots |"
+msgstr "|select_descriptives_plots|"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:83
 msgid "select_descriptives_plots"
-msgstr "Select_Descriptives_plots"
+msgstr "select_descriptives_plots"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:53
 #: ../../analyses/jg_22_t-test-paired.rst:44
@@ -401,10 +424,10 @@ msgid ""
 ">`__ and `David R. Foxcroft <https://www.davidfoxcroft.com/>`__."
 msgstr ""
 "அவற்றைப் பொறுத்தவரை, ஆழ்ந்த அறிமுகத்திற்கு மேலும் நீட்டிப்பதை நோக்கமாகக் கொண்டு, அந்தந்த "
-"அத்தியாயத்தை “சாமோவியுடன் கற்றல் புள்ளிவிவரங்கள்” `வலை ஆவணங்கள் <https://"
-"lsj.readthedocs.io/en/latest/lsj/ch04_descriptives இல் படிக்கலாம். .html> `__ "
-"அல்லது அத்தியாயம் 4` மின்-புத்தக <https://www.leralstatswithjamovi.com/> "
-"ஃபாக்ச்கிராஃப்ட் <https://www.davidfoxcroft.com/> __."
+"அத்தியாயத்தை “சாமோவியுடன் கற்றல் புள்ளிவிவரங்கள்” `வலை ஆவணங்கள் <https://lsj."
+"readthedocs.io/en/latest/lsj/ch04_descriptives இல் படிக்கலாம். .html> `__ அல்லது "
+"அத்தியாயம் 4` மின்-புத்தக <https://www.leralstatswithjamovi.com/> ஃபாக்ச்கிராஃப்ட் "
+"<https://www.davidfoxcroft.com/> __."
 
 #: ../../analyses/jg_21_t-test-independent.rst:5
 msgid "t-test: Independent samples"
@@ -435,11 +458,11 @@ msgstr "சரியான அமைப்பு இதைப் போலவே
 
 #: ../../analyses/jg_21_t-test-independent.rst:13
 msgid "|data_format_ttest_independent|"
-msgstr "| data_format_ttest_independiend |"
+msgstr "|data_format_ttest_independent|"
 
 #: ../../analyses/jg_21_t-test-independent.rst:58
 msgid "data_format_ttest_independent"
-msgstr "data_format_ttest_independiend"
+msgstr "data_format_ttest_independent"
 
 #: ../../analyses/jg_21_t-test-independent.rst:0
 msgid "Select ``Analyses`` → ``T-Tests`` → ``Independent Samples T-Test``."
@@ -449,11 +472,11 @@ msgstr ""
 
 #: ../../analyses/jg_21_t-test-independent.rst:19
 msgid "|select_ttest_independent|"
-msgstr "| Select_ttest_IndePendiend |"
+msgstr "|select_ttest_independent|"
 
 #: ../../analyses/jg_21_t-test-independent.rst:60
 msgid "select_ttest_independent"
-msgstr "Select_ttest_Independiend"
+msgstr "select_ttest_independent"
 
 #: ../../analyses/jg_21_t-test-independent.rst:0
 msgid ""
@@ -465,11 +488,11 @@ msgstr ""
 
 #: ../../analyses/jg_21_t-test-independent.rst:25
 msgid "|add_var_ttest_independent|"
-msgstr "|"
+msgstr "|add_var_ttest_independent|"
 
 #: ../../analyses/jg_21_t-test-independent.rst:62
 msgid "add_var_ttest_independent"
-msgstr "add_var_ttest_indendiend"
+msgstr "add_var_ttest_independent"
 
 #: ../../analyses/jg_21_t-test-independent.rst:0
 #: ../../analyses/jg_22_t-test-paired.rst:0
@@ -479,11 +502,11 @@ msgstr "முடிவு வலது பேனலில் காட்டப
 
 #: ../../analyses/jg_21_t-test-independent.rst:31
 msgid "|output_ttest_independent|"
-msgstr "| output_ttest_independiend |"
+msgstr "|output_ttest_independent|"
 
 #: ../../analyses/jg_21_t-test-independent.rst:64
 msgid "output_ttest_independent"
-msgstr "output_ttest_independiend"
+msgstr "output_ttest_independent"
 
 #: ../../analyses/jg_21_t-test-independent.rst:0
 msgid ""
@@ -502,9 +525,9 @@ msgid ""
 "datalab.cc/jamovi>`__ provides a more comprehensive introduction into this "
 "test."
 msgstr ""
-"இந்த `வீடியோ <https://www.youtube.com/embed/sm-"
-"dn9dppd4?list=plkk92zyru5oatc_ituubassq6s_tgfrn>` __ __ ஆல் `பார்டன் பவுல்சன் "
-"<https://datalab.cc/felsjamov> சோதனை."
+"இந்த `வீடியோ <https://www.youtube.com/embed/sm-dn9dppd4?"
+"list=plkk92zyru5oatc_ituubassq6s_tgfrn>` __ __ ஆல் `பார்டன் பவுல்சன் <https://"
+"datalab.cc/felsjamov> சோதனை."
 
 #: ../../analyses/jg_21_t-test-independent.rst:0
 msgid ""
@@ -515,9 +538,9 @@ msgid ""
 "learnstatswithjamovi.com/>`__ by `Danielle J. Navarro <https://djnavarro.net/"
 ">`__ and `David R. Foxcroft <https://www.davidfoxcroft.com/>`__."
 msgstr ""
-"அவற்றைப் பொறுத்தவரை, ஒரு ஆழமான அறிமுகத்திற்கு மேலும் நீட்டிப்பதை நோக்கமாகக் கொண்டு, அந்தந்"
-"த பகுதியை “சாமோவியுடன் கற்றல் புள்ளிவிவரங்கள்” `வலை ஆவணங்கள் <https://"
-"lsj.readthedocs.io/en/latest/lsj/ch11_ttest_03 இல் படிக்கலாம். .html> `__ அல்லது "
+"அவற்றைப் பொறுத்தவரை, ஒரு ஆழமான அறிமுகத்திற்கு மேலும் நீட்டிப்பதை நோக்கமாகக் கொண்டு, "
+"அந்தந்த பகுதியை “சாமோவியுடன் கற்றல் புள்ளிவிவரங்கள்” `வலை ஆவணங்கள் <https://lsj."
+"readthedocs.io/en/latest/lsj/ch11_ttest_03 இல் படிக்கலாம். .html> `__ அல்லது "
 "அத்தியாயம் 11.3/11.4` மின்-புத்தக <https://www.learnstatswithjamovi.com/> __ __ "
 "ஆல் `டேனியல் சே. டேவிட் ஆர்."
 
@@ -541,7 +564,7 @@ msgstr ""
 
 #: ../../analyses/jg_22_t-test-paired.rst:14
 msgid "|data_format_ttest_paired|"
-msgstr "| data_format_ttest_paired |"
+msgstr "|data_format_ttest_paired|"
 
 #: ../../analyses/jg_22_t-test-paired.rst:58
 msgid "data_format_ttest_paired"
@@ -554,11 +577,11 @@ msgstr ""
 
 #: ../../analyses/jg_22_t-test-paired.rst:20
 msgid "|select_ttest_paired|"
-msgstr "| Select_ttest_paired |"
+msgstr "|select_ttest_paired|"
 
 #: ../../analyses/jg_22_t-test-paired.rst:60
 msgid "select_ttest_paired"
-msgstr "Select_ttest_paired"
+msgstr "select_ttest_paired"
 
 #: ../../analyses/jg_22_t-test-paired.rst:0
 msgid ""
@@ -566,21 +589,21 @@ msgid ""
 "one at a time, or select both variables in a pair by holding down the Ctrl-"
 "key while clicking on each, before dragging them across)."
 msgstr ""
-"உங்கள் இரண்டு மாறிகளை `` இணை மாறிகள்`` க்கு இழுத்து விடுங்கள் (நீங்கள் ஒரு நேரத்தில் இவற்றை"
-" இழுக்கலாம், அல்லது ஒவ்வொரு சோடியில் இரு மாறிகளையும் தேர்ந்தெடுக்கலாம், ஒவ்வொன்றையும் "
-"சொடுக்கு செய்யும் போது, அவற்றை குறுக்கே இழுப்பதற்கு முன்பு)."
+"உங்கள் இரண்டு மாறிகளை `` இணை மாறிகள்`` க்கு இழுத்து விடுங்கள் (நீங்கள் ஒரு நேரத்தில் "
+"இவற்றை இழுக்கலாம், அல்லது ஒவ்வொரு சோடியில் இரு மாறிகளையும் தேர்ந்தெடுக்கலாம், "
+"ஒவ்வொன்றையும் சொடுக்கு செய்யும் போது, அவற்றை குறுக்கே இழுப்பதற்கு முன்பு)."
 
 #: ../../analyses/jg_22_t-test-paired.rst:27
 msgid "|add_var_ttest_paired|"
-msgstr "| add_var_ttest_paired |"
+msgstr "|add_var_ttest_paired|"
 
 #: ../../analyses/jg_22_t-test-paired.rst:62
 msgid "add_var_ttest_paired"
-msgstr "Add_var_ttest_paired"
+msgstr "add_var_ttest_paired"
 
 #: ../../analyses/jg_22_t-test-paired.rst:33
 msgid "|output_ttest_paired|"
-msgstr "| output_ttest_paired |"
+msgstr "|output_ttest_paired|"
 
 #: ../../analyses/jg_22_t-test-paired.rst:64
 msgid "output_ttest_paired"
@@ -591,8 +614,7 @@ msgid ""
 "Those who have previous experience with SPSS may want to have a look at the :"
 "doc:`side-by-side-comparison <../spss2jamovi/s2j_ttestPS2>` of how a t-test "
 "for paired samples is conducted in SPSS and jamovi."
-msgstr ""
-"எச்.பி.எச்.எச் உடன் முந்தைய பட்டறிவு உள்ளவர்கள்: டாக்: `பக்கவாட்டாக-ஒப்பீட்டு <.. ."
+msgstr "எச்.பி.எச்.எச் உடன் முந்தைய பட்டறிவு உள்ளவர்கள்: டாக்: `பக்கவாட்டாக-ஒப்பீட்டு <.. ."
 
 #: ../../analyses/jg_22_t-test-paired.rst:0
 msgid ""
@@ -601,9 +623,9 @@ msgid ""
 "datalab.cc/jamovi>`__ provides a more comprehensive introduction into this "
 "test."
 msgstr ""
-"இந்த `வீடியோ <https://www.youtube.com/embed/"
-"lsjfyyijg6e?list=plkk92zyru5oatc_ituubassq6s_tgfrn>` __ __ ஆல் `பார்டன் பால்சன் "
-"<https://datalabab."
+"இந்த `வீடியோ <https://www.youtube.com/embed/lsjfyyijg6e?"
+"list=plkk92zyru5oatc_ituubassq6s_tgfrn>` __ __ ஆல் `பார்டன் பால்சன் <https://"
+"datalabab."
 
 #: ../../analyses/jg_22_t-test-paired.rst:0
 msgid ""
@@ -615,10 +637,10 @@ msgid ""
 "Foxcroft <https://www.davidfoxcroft.com/>`__."
 msgstr ""
 "அவற்றைப் பொறுத்தவரை, ஒரு ஆழமான அறிமுகத்திற்கு மேலும் நீட்டுவதை நோக்கமாகக் கொண்டு, அந்தந்த "
-"பகுதியை “சாமோவியுடன் கற்றல் புள்ளிவிவரங்கள்” `வலை ஆவணங்கள் <https://"
-"lsj.readthedocs.io/en/latest/lsj/ch11_ttest_05 இல் படிக்கலாம் .html> `__ அல்லது "
-"அத்தியாயம் 11.5` மின்-புத்தக <https://www.leralstatswithjamovi.com/> __ __ __ __ "
-"`டேனியல் சே. ஃபாக்ச்கிராஃப்ட் <https://www.davidfoxcroft.com/> __."
+"பகுதியை “சாமோவியுடன் கற்றல் புள்ளிவிவரங்கள்” `வலை ஆவணங்கள் <https://lsj.readthedocs."
+"io/en/latest/lsj/ch11_ttest_05 இல் படிக்கலாம் .html> `__ அல்லது அத்தியாயம் 11.5` "
+"மின்-புத்தக <https://www.leralstatswithjamovi.com/> __ __ __ __ `டேனியல் சே. "
+"ஃபாக்ச்கிராஃப்ட் <https://www.davidfoxcroft.com/> __."
 
 #: ../../analyses/jg_23_t-test-onesample.rst:5
 msgid "t-test: One sample"
@@ -638,7 +660,7 @@ msgstr ""
 
 #: ../../analyses/jg_23_t-test-onesample.rst:13
 msgid "|data_format_ttest_onesample|"
-msgstr "| data_format_ttest_onesample |"
+msgstr "|data_format_ttest_onesample|"
 
 #: ../../analyses/jg_23_t-test-onesample.rst:56
 msgid "data_format_ttest_onesample"
@@ -651,11 +673,11 @@ msgstr ""
 
 #: ../../analyses/jg_23_t-test-onesample.rst:19
 msgid "|select_ttest_onesample|"
-msgstr "| Select_ttest_onesample |"
+msgstr "|select_ttest_onesample|"
 
 #: ../../analyses/jg_23_t-test-onesample.rst:58
 msgid "select_ttest_onesample"
-msgstr "Select_ttest_onesample"
+msgstr "select_ttest_onesample"
 
 #: ../../analyses/jg_23_t-test-onesample.rst:0
 msgid "Drag and drop your dependent variable to ``Dependent Variables``."
@@ -663,11 +685,11 @@ msgstr "உங்கள் சார்பு மாறியை `` சார்
 
 #: ../../analyses/jg_23_t-test-onesample.rst:25
 msgid "|add_var_ttest_onesample|"
-msgstr "|"
+msgstr "|add_var_ttest_onesample|"
 
 #: ../../analyses/jg_23_t-test-onesample.rst:60
 msgid "add_var_ttest_onesample"
-msgstr "Add_var_ttest_onesample"
+msgstr "add_var_ttest_onesample"
 
 #: ../../analyses/jg_23_t-test-onesample.rst:0
 msgid ""
@@ -679,7 +701,7 @@ msgstr ""
 
 #: ../../analyses/jg_23_t-test-onesample.rst:31
 msgid "|options_ttest_onesample|"
-msgstr "| options_ttest_onesample |"
+msgstr "|options_ttest_onesample|"
 
 #: ../../analyses/jg_23_t-test-onesample.rst:62
 msgid "options_ttest_onesample"
@@ -687,7 +709,7 @@ msgstr "options_ttest_onesample"
 
 #: ../../analyses/jg_23_t-test-onesample.rst:37
 msgid "|output_ttest_onesample|"
-msgstr "| output_ttest_onesample |"
+msgstr "|output_ttest_onesample|"
 
 #: ../../analyses/jg_23_t-test-onesample.rst:64
 msgid "output_ttest_onesample"
@@ -700,9 +722,9 @@ msgid ""
 "datalab.cc/jamovi>`__ provides a more comprehensive introduction into this "
 "test."
 msgstr ""
-"இந்த `வீடியோ <https://www.youtube.com/embed/"
-"drbt4ezyil8?list=plkk92zyru5oatc_itubassq6s_tgfrn>` __ __ ஆல் `பார்டன் பவுல்சன் "
-"<https://datalab.ccc/wings."
+"இந்த `வீடியோ <https://www.youtube.com/embed/drbt4ezyil8?"
+"list=plkk92zyru5oatc_itubassq6s_tgfrn>` __ __ ஆல் `பார்டன் பவுல்சன் <https://"
+"datalab.ccc/wings."
 
 #: ../../analyses/jg_23_t-test-onesample.rst:0
 msgid ""
@@ -713,9 +735,9 @@ msgid ""
 "com/>`__ by `Danielle J. Navarro <https://djnavarro.net/>`__ and `David R. "
 "Foxcroft <https://www.davidfoxcroft.com/>`__."
 msgstr ""
-"அவற்றைப் பொறுத்தவரை, ஒரு ஆழமான அறிமுகத்திற்கு மேலும் நீட்டிப்பதை நோக்கமாகக் கொண்டு, அந்தந்"
-"த பகுதியை “சாமோவியுடன் கற்றல் புள்ளிவிவரங்கள்” `வலை ஆவணங்கள் <https://"
-"lsj.readthedocs.io/en/latest/lsj/ch11_ttest_02 இல் படிக்கலாம் .html> `__ அல்லது "
+"அவற்றைப் பொறுத்தவரை, ஒரு ஆழமான அறிமுகத்திற்கு மேலும் நீட்டிப்பதை நோக்கமாகக் கொண்டு, "
+"அந்தந்த பகுதியை “சாமோவியுடன் கற்றல் புள்ளிவிவரங்கள்” `வலை ஆவணங்கள் <https://lsj."
+"readthedocs.io/en/latest/lsj/ch11_ttest_02 இல் படிக்கலாம் .html> `__ அல்லது "
 "அத்தியாயம் 11.2` மின்-புத்தக <https://www.learnstatswithjamovi.com/> __ __ ஆல் "
 "`டேனியல் சே. ஃபாக்ச்கிராஃப்ட் <https://www.davidfoxcroft.com/> __."
 
@@ -732,12 +754,12 @@ msgid ""
 "You need one |continuous| continuous dependent variable, and one |nominal| "
 "grouping variable with two or more levels."
 msgstr ""
-"உங்களுக்கு ஒன்று தேவை | தொடர்ச்சியான | தொடர்ச்சியான சார்பு மாறி, மற்றும் ஒன்று | பெயரளவு"
-" | இரண்டு அல்லது அதற்கு மேற்பட்ட நிலைகளுடன் தொகுத்தல் மாறி."
+"உங்களுக்கு ஒன்று தேவை | தொடர்ச்சியான | தொடர்ச்சியான சார்பு மாறி, மற்றும் ஒன்று | "
+"பெயரளவு | இரண்டு அல்லது அதற்கு மேற்பட்ட நிலைகளுடன் தொகுத்தல் மாறி."
 
 #: ../../analyses/jg_31_unianova.rst:13
 msgid "|data_format_unianova|"
-msgstr "| data_format_unianova |"
+msgstr "|data_format_unianova|"
 
 #: ../../analyses/jg_31_unianova.rst:55
 msgid "data_format_unianova"
@@ -749,23 +771,23 @@ msgstr "`` அனலீச்`` `` `அனோவா``` `` ஒரு வழி �
 
 #: ../../analyses/jg_31_unianova.rst:19
 msgid "|select_unianova|"
-msgstr "| Select_Unianova |"
+msgstr "|select_unianova|"
 
 #: ../../analyses/jg_31_unianova.rst:57
 msgid "select_unianova"
-msgstr "Select_unianova"
+msgstr "select_unianova"
 
 #: ../../analyses/jg_31_unianova.rst:0
 msgid ""
 "Drag and drop your outcome variable to ``Dependent Variable`` and your "
 "grouping variable to ``Fixed Factors``."
 msgstr ""
-"உங்கள் விளைவு மாறியை `` சார்பு மாறி`` மற்றும் உங்கள் குழு மாறியை `` நிலையான காரணிகள்`"
-" க்கு இழுத்து விடுங்கள்."
+"உங்கள் விளைவு மாறியை `` சார்பு மாறி`` மற்றும் உங்கள் குழு மாறியை `` நிலையான "
+"காரணிகள்` க்கு இழுத்து விடுங்கள்."
 
 #: ../../analyses/jg_31_unianova.rst:25
 msgid "|add_var_unianova|"
-msgstr "| add_var_unianova |"
+msgstr "|add_var_unianova|"
 
 #: ../../analyses/jg_31_unianova.rst:59
 msgid "add_var_unianova"
@@ -782,7 +804,7 @@ msgstr ""
 
 #: ../../analyses/jg_31_unianova.rst:31
 msgid "|options_unianova|"
-msgstr "| options_unianova |"
+msgstr "|options_unianova|"
 
 #: ../../analyses/jg_31_unianova.rst:61
 msgid "options_unianova"
@@ -796,7 +818,7 @@ msgstr "முடிவுகள் வலது பேனலில் காட
 
 #: ../../analyses/jg_31_unianova.rst:37
 msgid "|output_unianova|"
-msgstr "| output_unianova |"
+msgstr "|output_unianova|"
 
 #: ../../analyses/jg_31_unianova.rst:63
 msgid "output_unianova"
@@ -834,7 +856,7 @@ msgstr ""
 
 #: ../../analyses/jg_32_anova-factorial.rst:13
 msgid "|data_format_anova_factorial|"
-msgstr "| data_format_anova_factorial |"
+msgstr "|data_format_anova_factorial|"
 
 #: ../../analyses/jg_32_anova-factorial.rst:52
 msgid "data_format_anova_factorial"
@@ -846,11 +868,11 @@ msgstr "`` அனலிச்`` → `` அனோவா`` `` அனோவா`` �
 
 #: ../../analyses/jg_32_anova-factorial.rst:19
 msgid "|select_anova_factorial|"
-msgstr "| Select_anova_factorial |"
+msgstr "|select_anova_factorial|"
 
 #: ../../analyses/jg_32_anova-factorial.rst:54
 msgid "select_anova_factorial"
-msgstr "Select_anova_factorial"
+msgstr "select_anova_factorial"
 
 #: ../../analyses/jg_32_anova-factorial.rst:0
 msgid ""
@@ -862,7 +884,7 @@ msgstr ""
 
 #: ../../analyses/jg_32_anova-factorial.rst:25
 msgid "|add_var_anova_factorial|"
-msgstr "|"
+msgstr "|add_var_anova_factorial|"
 
 #: ../../analyses/jg_32_anova-factorial.rst:56
 msgid "add_var_anova_factorial"
@@ -870,7 +892,7 @@ msgstr "add_var_anova_factorial"
 
 #: ../../analyses/jg_32_anova-factorial.rst:31
 msgid "|output_anova_factorial|"
-msgstr "| output_anova_factorial |"
+msgstr "|output_anova_factorial|"
 
 #: ../../analyses/jg_32_anova-factorial.rst:58
 msgid "output_anova_factorial"
@@ -883,9 +905,9 @@ msgid ""
 "list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ by `Barton Poulson <https://"
 "datalab.cc/jamovi>`__."
 msgstr ""
-"இந்த புள்ளிவிவர முறையைப் பற்றிய ஒரு விரிவான அறிமுகம் இந்த `வீடியோ <https://"
-"www.youtube.com/embed/tjojtvgdyqy?list=plkk92zyru5oatc_ituubassq6s_tgfrn>` "
-"__ `Barton poulalsis: `__."
+"இந்த புள்ளிவிவர முறையைப் பற்றிய ஒரு விரிவான அறிமுகம் இந்த `வீடியோ <https://www."
+"youtube.com/embed/tjojtvgdyqy?list=plkk92zyru5oatc_ituubassq6s_tgfrn>` __ "
+"`Barton poulalsis: `__."
 
 #: ../../analyses/jg_32_anova-factorial.rst:0
 msgid ""
@@ -897,10 +919,9 @@ msgid ""
 ">`__ and `David R. Foxcroft <https://www.davidfoxcroft.com/>`__."
 msgstr ""
 "அவற்றைப் பொறுத்தவரை, ஆழ்ந்த அறிமுகத்திற்கு மேலும் நீட்டிப்பதை நோக்கமாகக் கொண்டு, அந்தந்த "
-"பகுதியை “சாமோவியுடன் கற்றல் புள்ளிவிவரங்கள்” `வலை ஆவணங்கள் <https://"
-"lsj.readthedocs.io/en/latest/lsj/ch14_anova2_01 .html> `__ அல்லது அத்தியாயம் "
-"14.1 - 4` மின் -புத்தக <https://www.learnstatswithjamovi.com/> __ __ ஆல் `டேனியல்"
-" சே. டேவிட் ஆர்."
+"பகுதியை “சாமோவியுடன் கற்றல் புள்ளிவிவரங்கள்” `வலை ஆவணங்கள் <https://lsj.readthedocs."
+"io/en/latest/lsj/ch14_anova2_01 .html> `__ அல்லது அத்தியாயம் 14.1 - 4` மின் -"
+"புத்தக <https://www.learnstatswithjamovi.com/> __ __ ஆல் `டேனியல் சே. டேவிட் ஆர்."
 
 #: ../../analyses/jg_33_anova-rm.rst:5
 msgid "ANOVA: Repeated Measures"
@@ -920,11 +941,11 @@ msgstr ""
 
 #: ../../analyses/jg_33_anova-rm.rst:13
 msgid "|data_format_anova_repeated|"
-msgstr "| data_format anova மீண்டும் |"
+msgstr "|data_format_anova_repeated|"
 
 #: ../../analyses/jg_33_anova-rm.rst:63
 msgid "data_format_anova_repeated"
-msgstr "data_format anova மீண்டும் மீண்டும் செய்யப்பட்டது"
+msgstr "data_format_anova_repeated"
 
 #: ../../analyses/jg_33_anova-rm.rst:0 ../../analyses/jg_34_anova-mixed.rst:0
 msgid "Select ``Analyses`` → ``ANOVA`` → ``Repeated Measures ANOVA``."
@@ -934,11 +955,11 @@ msgstr ""
 
 #: ../../analyses/jg_33_anova-rm.rst:19 ../../analyses/jg_34_anova-mixed.rst:20
 msgid "|select_anova_repeated|"
-msgstr "| Select_anova_repeated |"
+msgstr "|select_anova_repeated|"
 
 #: ../../analyses/jg_33_anova-rm.rst:65 ../../analyses/jg_34_anova-mixed.rst:64
 msgid "select_anova_repeated"
-msgstr "Select_anova_repeated"
+msgstr "select_anova_repeated"
 
 #: ../../analyses/jg_33_anova-rm.rst:0
 msgid ""
@@ -948,17 +969,16 @@ msgid ""
 "below shows the box with default values (left) and when the values has been "
 "set (right)."
 msgstr ""
-"பெட்டியில் `` மீண்டும் மீண்டும் நடவடிக்கைகள் காரணிகள்``: உங்கள் விளைவு மாறியின் பெயரை (எ.கா"
-"., `` மை_ச்கேல்``) எழுதி ஒவ்வொரு அளவீட்டு சந்தர்ப்பத்திற்கும் (எ.கா., `` pre``, `` "
-"இடுகை`` `` 12 மாத பின்தொடர்தல்``). கீழேயுள்ள படங்கள் இயல்புநிலை மதிப்புகள் (இடது) மற்றும்"
-" மதிப்புகள் அமைக்கப்பட்டதும் (வலது) பெட்டியைக் காட்டுகின்றன."
+"பெட்டியில் `` மீண்டும் மீண்டும் நடவடிக்கைகள் காரணிகள்``: உங்கள் விளைவு மாறியின் பெயரை (எ."
+"கா., `` மை_ச்கேல்``) எழுதி ஒவ்வொரு அளவீட்டு சந்தர்ப்பத்திற்கும் (எ.கா., `` pre``, `` "
+"இடுகை`` `` 12 மாத பின்தொடர்தல்``). கீழேயுள்ள படங்கள் இயல்புநிலை மதிப்புகள் (இடது) "
+"மற்றும் மதிப்புகள் அமைக்கப்பட்டதும் (வலது) பெட்டியைக் காட்டுகின்றன."
 
 #: ../../analyses/jg_33_anova-rm.rst:26 ../../analyses/jg_34_anova-mixed.rst:27
 msgid ""
 "|add_var_anova_repeated_naming_1|  ``→`` |add_var_anova_repeated_naming_2|"
 msgstr ""
-"| add_var_anova_repeated_naming_1 | `` → `` | "
-"add_var_anova_repeated_naming_2 |"
+"|add_var_anova_repeated_naming_1|  ``→`` |add_var_anova_repeated_naming_2|"
 
 #: ../../analyses/jg_33_anova-rm.rst:67 ../../analyses/jg_34_anova-mixed.rst:66
 msgid "add_var_anova_repeated_naming_1"
@@ -978,7 +998,7 @@ msgstr ""
 
 #: ../../analyses/jg_33_anova-rm.rst:32 ../../analyses/jg_34_anova-mixed.rst:33
 msgid "|add_var_anova_repeated|"
-msgstr "| add_var_anova_repeated |"
+msgstr "|add_var_anova_repeated|"
 
 #: ../../analyses/jg_33_anova-rm.rst:71 ../../analyses/jg_34_anova-mixed.rst:70
 msgid "add_var_anova_repeated"
@@ -994,14 +1014,14 @@ msgid ""
 "box."
 msgstr ""
 "லெவென் சோதனையுடன் மாறுபாட்டின் சமத்துவத்தை சோதிக்க, `` அனுமானம் காசோலைகள்` கீழ்தோன்றும் "
-"மெனுவைத் திறந்து `` ஒருமைப்பாடு சோதனை` டிக் பெட்டியை அமைக்கவும். மறுபடியும் மறுபடியும்"
-" காரணியின் வெவ்வேறு படிகளில் உள்ள மாறுபாடுகள் ஒரே மாதிரியானவை (கோள) என்பதை "
-"சரிபார்க்கவும் இது ஒரு நல்ல யோசனையாகும். அவ்வாறு செய்ய, `` அனுமானம் காசோலைகள்` "
+"மெனுவைத் திறந்து `` ஒருமைப்பாடு சோதனை` டிக் பெட்டியை அமைக்கவும். மறுபடியும் "
+"மறுபடியும் காரணியின் வெவ்வேறு படிகளில் உள்ள மாறுபாடுகள் ஒரே மாதிரியானவை (கோள) "
+"என்பதை சரிபார்க்கவும் இது ஒரு நல்ல யோசனையாகும். அவ்வாறு செய்ய, `` அனுமானம் காசோலைகள்` "
 "கீழ்தோன்றும் மெனுவைத் திறந்து `` கோள சோதனைகள்` டிக் பெட்டியை அமைக்கவும்."
 
 #: ../../analyses/jg_33_anova-rm.rst:44
 msgid "|output_anova_repeated|"
-msgstr "| output_anova_repeated |"
+msgstr "|output_anova_repeated|"
 
 #: ../../analyses/jg_33_anova-rm.rst:73
 msgid "output_anova_repeated"
@@ -1014,9 +1034,9 @@ msgid ""
 "list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ by `Barton Poulson <https://"
 "datalab.cc/jamovi>`__."
 msgstr ""
-"இந்த புள்ளிவிவர முறையைப் பற்றிய ஒரு விரிவான அறிமுகம் இந்த `வீடியோ <https://"
-"www.youtube.com/embed/m5jnwpgimso?list=plkk92zyru5oatc_ituubassq6s_tgfrn>` "
-"__ `Barton poula. `__."
+"இந்த புள்ளிவிவர முறையைப் பற்றிய ஒரு விரிவான அறிமுகம் இந்த `வீடியோ <https://www."
+"youtube.com/embed/m5jnwpgimso?list=plkk92zyru5oatc_ituubassq6s_tgfrn>` __ "
+"`Barton poula. `__."
 
 #: ../../analyses/jg_33_anova-rm.rst:0
 msgid ""
@@ -1026,11 +1046,11 @@ msgid ""
 "html>`__ or chapter 13.7 of the `e-book <https://www.learnstatswithjamovi."
 "com/>`__ by Danielle J. Navarro and David R. Foxcroft."
 msgstr ""
-"அவற்றைப் பொறுத்தவரை, ஒரு ஆழமான அறிமுகத்திற்கு மேலும் நீட்டிப்பதை நோக்கமாகக் கொண்டு, அந்தந்"
-"த பகுதியை “சாமோவியுடன் கற்றல் புள்ளிவிவரங்கள்” `வலை ஆவணங்கள் <https://"
-"lsj.readthedocs.io/en/latest/lsj/ch13_anova_07 இல் படிக்கலாம் .html> `__ அல்லது "
-"அத்தியாயம் 13.7` மின்-புத்தக <https://www.learnstatswithjamovi.com/> __ டேனியல் சே"
-". நவரோ மற்றும் டேவிட் ஆர். ஃபோக்ச்கிராஃப்ட் எழுதிய __."
+"அவற்றைப் பொறுத்தவரை, ஒரு ஆழமான அறிமுகத்திற்கு மேலும் நீட்டிப்பதை நோக்கமாகக் கொண்டு, "
+"அந்தந்த பகுதியை “சாமோவியுடன் கற்றல் புள்ளிவிவரங்கள்” `வலை ஆவணங்கள் <https://lsj."
+"readthedocs.io/en/latest/lsj/ch13_anova_07 இல் படிக்கலாம் .html> `__ அல்லது "
+"அத்தியாயம் 13.7` மின்-புத்தக <https://www.learnstatswithjamovi.com/> __ டேனியல் "
+"சே. நவரோ மற்றும் டேவிட் ஆர். ஃபோக்ச்கிராஃப்ட் எழுதிய __."
 
 #: ../../analyses/jg_34_anova-mixed.rst:5
 msgid "ANOVA: Mixed"
@@ -1053,7 +1073,7 @@ msgstr ""
 
 #: ../../analyses/jg_34_anova-mixed.rst:14
 msgid "|data_format_anova_mixed|"
-msgstr "| data_format_anova_mixed |"
+msgstr "|data_format_anova_mixed|"
 
 #: ../../analyses/jg_34_anova-mixed.rst:62
 msgid "data_format_anova_mixed"
@@ -1066,8 +1086,8 @@ msgid ""
 "occasion (e.g., ``Pre``, ``Post`` and ``12 month follow-up``). The images "
 "below illustrates this."
 msgstr ""
-"பெட்டியில் `` மீண்டும் மீண்டும் நடவடிக்கைகள் காரணிகள்``: உங்கள் விளைவு மாறியின் பெயரை (எ.கா"
-"., `` மை_ச்கேல்``) எழுதி ஒவ்வொரு அளவீட்டு சந்தர்ப்பத்திற்கும் (எ.கா., `` pre``, `` "
+"பெட்டியில் `` மீண்டும் மீண்டும் நடவடிக்கைகள் காரணிகள்``: உங்கள் விளைவு மாறியின் பெயரை (எ."
+"கா., `` மை_ச்கேல்``) எழுதி ஒவ்வொரு அளவீட்டு சந்தர்ப்பத்திற்கும் (எ.கா., `` pre``, `` "
 "இடுகை`` `` 12 மாத பின்தொடர்தல்``). கீழே உள்ள படங்கள் இதை விளக்குகின்றன."
 
 #: ../../analyses/jg_34_anova-mixed.rst:0
@@ -1076,7 +1096,7 @@ msgstr "உங்கள் குழு மாறியை (களை) `` பொ
 
 #: ../../analyses/jg_34_anova-mixed.rst:39
 msgid "|add_var_anova_mixed|"
-msgstr "| add_var_anova_mixed |"
+msgstr "|add_var_anova_mixed|"
 
 #: ../../analyses/jg_34_anova-mixed.rst:72
 msgid "add_var_anova_mixed"
@@ -1090,7 +1110,7 @@ msgstr "முடிவு வலது பேனலில் காட்டப
 
 #: ../../analyses/jg_34_anova-mixed.rst:45
 msgid "|output_anova_mixed|"
-msgstr "| output_anova_mixed |"
+msgstr "|output_anova_mixed|"
 
 #: ../../analyses/jg_34_anova-mixed.rst:74
 msgid "output_anova_mixed"
@@ -1102,8 +1122,8 @@ msgid ""
 "provided by this `video <https://www.youtube.com/embed/m5JNwPgiMso?"
 "list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__."
 msgstr ""
-"இந்த புள்ளிவிவர முறைக்கு இன்னும் கொஞ்சம் விரிவான அறிமுகம் இந்த `வீடியோ <https://"
-"www.youtube.com/embed/m5jnwpgimso?list=plkk92zyru5oatc_ituubassq6s_tgfrn> __."
+"இந்த புள்ளிவிவர முறைக்கு இன்னும் கொஞ்சம் விரிவான அறிமுகம் இந்த `வீடியோ <https://www."
+"youtube.com/embed/m5jnwpgimso?list=plkk92zyru5oatc_ituubassq6s_tgfrn> __."
 
 #: ../../analyses/jg_42_regression-linear.rst:5
 msgid "Linear Regression"
@@ -1118,12 +1138,12 @@ msgid ""
 "You need one |continuous| dependent variable, and at least one |continuous| "
 "predictor variable (aka a covariate)."
 msgstr ""
-"உங்களுக்கு ஒன்று தேவை | தொடர்ச்சியான | சார்பு மாறி, மற்றும் குறைந்தது ஒன்று | தொடர்ச்சியா"
-"ன | முன்கணிப்பு மாறி (aka a covariate)."
+"உங்களுக்கு ஒன்று தேவை | தொடர்ச்சியான | சார்பு மாறி, மற்றும் குறைந்தது ஒன்று | "
+"தொடர்ச்சியான | முன்கணிப்பு மாறி (aka a covariate)."
 
 #: ../../analyses/jg_42_regression-linear.rst:13
 msgid "|data_format_regression_linear|"
-msgstr "| data_format_regression_linear |"
+msgstr "|data_format_regression_linear|"
 
 #: ../../analyses/jg_42_regression-linear.rst:57
 msgid "data_format_regression_linear"
@@ -1131,16 +1151,15 @@ msgstr "data_format_regression_linear"
 
 #: ../../analyses/jg_42_regression-linear.rst:0
 msgid "Select ``Analyses`` → ``Regression`` → ``Linear Regression``."
-msgstr ""
-"`` அனலீச்`` `` பின்னடைவு` `` `நேரியல் பின்னடைவு`` என்பதைத் தேர்ந்தெடுக்கவும்."
+msgstr "`` அனலீச்`` `` பின்னடைவு` `` `நேரியல் பின்னடைவு`` என்பதைத் தேர்ந்தெடுக்கவும்."
 
 #: ../../analyses/jg_42_regression-linear.rst:19
 msgid "|select_regression_linear|"
-msgstr "| Select_REGRESSION_LINEAR |"
+msgstr "|select_regression_linear|"
 
 #: ../../analyses/jg_42_regression-linear.rst:59
 msgid "select_regression_linear"
-msgstr "Select_RECRESSION_LINEAR"
+msgstr "select_regression_linear"
 
 #: ../../analyses/jg_42_regression-linear.rst:0
 msgid ""
@@ -1154,15 +1173,15 @@ msgstr ""
 
 #: ../../analyses/jg_42_regression-linear.rst:26
 msgid "|add_var_regression_linear|"
-msgstr "| ADD_VAR_REGRESSION_LINEAR |"
+msgstr "|add_var_regression_linear|"
 
 #: ../../analyses/jg_42_regression-linear.rst:61
 msgid "add_var_regression_linear"
-msgstr "Add_var_regroness_linear"
+msgstr "add_var_regression_linear"
 
 #: ../../analyses/jg_42_regression-linear.rst:32
 msgid "|output_regression_linear|"
-msgstr "| output_regroness_linear |"
+msgstr "|output_regression_linear|"
 
 #: ../../analyses/jg_42_regression-linear.rst:63
 msgid "output_regression_linear"
@@ -1185,8 +1204,8 @@ msgid ""
 "list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ by `Barton Poulson <https://"
 "datalab.cc/jamovi>`__."
 msgstr ""
-"இந்த புள்ளிவிவர முறையைப் பற்றிய ஒரு விரிவான அறிமுகம் இந்த `வீடியோ <https://"
-"www.youtube.com/embed/_5avuguzzcxc?list=plkk92zyru5oatc_ituubassq6s_tgfrn>` "
+"இந்த புள்ளிவிவர முறையைப் பற்றிய ஒரு விரிவான அறிமுகம் இந்த `வீடியோ <https://www."
+"youtube.com/embed/_5avuguzzcxc?list=plkk92zyru5oatc_ituubassq6s_tgfrn>` "
 "__downc. `__."
 
 #: ../../analyses/jg_42_regression-linear.rst:0
@@ -1198,9 +1217,9 @@ msgid ""
 "learnstatswithjamovi.com/>`__ by `Danielle J. Navarro <https://djnavarro.net/"
 ">`__ and `David R. Foxcroft <https://www.davidfoxcroft.com/>`__."
 msgstr ""
-"அவற்றைப் பொறுத்தவரை, ஒரு ஆழமான அறிமுகத்திற்கு மேலும் நீட்டிப்பதை நோக்கமாகக் கொண்டு, அந்தந்"
-"த பகுதியை “சாமோவியுடன் கற்றல் புள்ளிவிவரங்கள்” `வலை ஆவணங்கள் <https://"
-"lsj.readthedocs.io/en/latest/lsj/ch12_regression_03 இல் படிக்கலாம். .html> `__ "
+"அவற்றைப் பொறுத்தவரை, ஒரு ஆழமான அறிமுகத்திற்கு மேலும் நீட்டிப்பதை நோக்கமாகக் கொண்டு, "
+"அந்தந்த பகுதியை “சாமோவியுடன் கற்றல் புள்ளிவிவரங்கள்” `வலை ஆவணங்கள் <https://lsj."
+"readthedocs.io/en/latest/lsj/ch12_regression_03 இல் படிக்கலாம். .html> `__ "
 "அல்லது அத்தியாயம் 12.3 - 11` மின் -புத்தக <https://www.learnstatswithjamovi.com/> "
 "__ __ ஆல் `டேனியல் சே. டேவிட் ஆர்."
 
@@ -1222,15 +1241,15 @@ msgstr ""
 
 #: ../../analyses/jg_43_regression-logistic.rst:60
 msgid "ordinal"
-msgstr ""
+msgstr "ordinal"
 
 #: ../../analyses/jg_43_regression-logistic.rst:13
 msgid "|data_format_regression_logistic|"
-msgstr "| data_format_regression_logistic |"
+msgstr "|data_format_regression_logistic|"
 
 #: ../../analyses/jg_43_regression-logistic.rst:64
 msgid "data_format_regression_logistic"
-msgstr "data_format_regreachess_logistic"
+msgstr "data_format_regression_logistic"
 
 #: ../../analyses/jg_43_regression-logistic.rst:0
 msgid ""
@@ -1248,27 +1267,27 @@ msgstr ""
 
 #: ../../analyses/jg_43_regression-logistic.rst:21
 msgid "|select_regression_logistic|"
-msgstr "| Select_REGRESSION_LOGISTIC |"
+msgstr "|select_regression_logistic|"
 
 #: ../../analyses/jg_43_regression-logistic.rst:66
 msgid "select_regression_logistic"
-msgstr "Select_Recraction_logistic"
+msgstr "select_regression_logistic"
 
 #: ../../analyses/jg_43_regression-logistic.rst:0
 msgid ""
 "Drag and drop your dependent variable to ``Dependent Variable`` and your "
 "predictor to ``Covariates``."
 msgstr ""
-"உங்கள் சார்பு மாறியை `` சார்பு மாறி`` மற்றும் உங்கள் முன்கணிப்பாளருக்கு `` கோவாரியட்டுகள்`"
-" க்கு இழுத்து விடுங்கள்."
+"உங்கள் சார்பு மாறியை `` சார்பு மாறி`` மற்றும் உங்கள் முன்கணிப்பாளருக்கு `` "
+"கோவாரியட்டுகள்` க்கு இழுத்து விடுங்கள்."
 
 #: ../../analyses/jg_43_regression-logistic.rst:27
 msgid "|add_var_regression_logistic|"
-msgstr "| ADD_VAR_REGRESSION_LOGISTIC |"
+msgstr "|add_var_regression_logistic|"
 
 #: ../../analyses/jg_43_regression-logistic.rst:68
 msgid "add_var_regression_logistic"
-msgstr "Add_var_regroness_logistic"
+msgstr "add_var_regression_logistic"
 
 #: ../../analyses/jg_43_regression-logistic.rst:0
 msgid ""
@@ -1280,19 +1299,19 @@ msgstr ""
 
 #: ../../analyses/jg_43_regression-logistic.rst:33
 msgid "|options_regression_logistic|"
-msgstr "| options_regroness_logistic |"
+msgstr "|options_regression_logistic|"
 
 #: ../../analyses/jg_43_regression-logistic.rst:70
 msgid "options_regression_logistic"
-msgstr "options_recraction_logistic"
+msgstr "options_regression_logistic"
 
 #: ../../analyses/jg_43_regression-logistic.rst:37
 msgid "|output_regression_logistic|"
-msgstr "| output_recraction_logistic |"
+msgstr "|output_regression_logistic|"
 
 #: ../../analyses/jg_43_regression-logistic.rst:72
 msgid "output_regression_logistic"
-msgstr "output_recraction_logistic"
+msgstr "output_regression_logistic"
 
 #: ../../analyses/jg_43_regression-logistic.rst:0
 msgid ""
@@ -1301,8 +1320,8 @@ msgid ""
 "regression is conducted in SPSS and jamovi."
 msgstr ""
 "SPSS உடன் முந்தைய பட்டறிவு உள்ளவர்கள்: Doc: `பக்கவாட்டாக-ஒப்பீட்டு <../ SPSS2JAMOVI/"
-"S2J_LOGREG>\" SPSS மற்றும் JAMOVI இல் ஒரு லாசிச்டிக் பின்னடைவு எவ்வாறு நடத்தப்படுகிறது"
-" என்பதைப் பார்க்க விரும்பலாம்."
+"S2J_LOGREG>\" SPSS மற்றும் JAMOVI இல் ஒரு லாசிச்டிக் பின்னடைவு எவ்வாறு "
+"நடத்தப்படுகிறது என்பதைப் பார்க்க விரும்பலாம்."
 
 #: ../../analyses/jg_43_regression-logistic.rst:0
 msgid ""
@@ -1316,6 +1335,6 @@ msgid ""
 "food, vegan food, etc.)."
 msgstr ""
 "இந்த புள்ளிவிவர முறைக்கு இன்னும் கொஞ்சம் விரிவான அறிமுகம் இந்த இரண்டு வீடியோக்களால் "
-"வழங்கப்படுகிறது, இது இரண்டு நிலைகள் <https://www.youtube.com/embed/s7gl0z-"
-"3yma?list=plkk92zyru5aotc_ituubasq6s_tgfrn> __ (__ க்கு முன்னறிவிப்பு ஈ.சி. உணவு"
-", ஆரோக்கியமான உணவு, அதிக புரத உணவு, சைவ உணவு போன்றவை)."
+"வழங்கப்படுகிறது, இது இரண்டு நிலைகள் <https://www.youtube.com/embed/s7gl0z-3yma?"
+"list=plkk92zyru5aotc_ituubasq6s_tgfrn> __ (__ க்கு முன்னறிவிப்பு ஈ.சி. உணவு, "
+"ஆரோக்கியமான உணவு, அதிக புரத உணவு, சைவ உணவு போன்றவை)."
