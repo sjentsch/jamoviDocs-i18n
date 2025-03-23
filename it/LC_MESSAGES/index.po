@@ -1,19 +1,42 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PROJECT VERSION\n"
+"Project-Id-Version: jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-23 17:25+0100\n"
-"PO-Revision-Date: 2025-03-23 16:14+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Italian <https://hosted.weblate.org/projects/"
-"jamovidocs/0_start/it/>\n"
-"Language: it\n"
+"POT-Creation-Date: 2025-03-23 17:55+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-23 17:40+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-23 17:39+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-03-23 17:39+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11-dev\n"
 "Generated-By: Babel 2.17.0\n"
 
 #: ../../index.rst:13
@@ -25,7 +48,7 @@ msgid "Analyses"
 msgstr ""
 
 #: ../../index.rst:33
-msgid "How to..."
+msgid "How to…"
 msgstr ""
 
 #: ../../index.rst:40
@@ -92,50 +115,8 @@ msgstr ":doc:`usermanual/um_6_jamovi_and_R`"
 msgid ""
 "You can find further topics in the menu on the right-hand side: step-for-"
 "step instructions for conducting common analyses (“Analyses”), brief "
-"instructions how to deal with common tasks (“How to...”), information "
+"instructions how to deal with common tasks (“How to…”), information "
 "regarding how to get started with developing modules to extend the function "
 "of jamovi (“Developers Hub”), and information aiming to ease the transition "
 "from SPSS (“From SPSS to jamovi”)."
 msgstr ""
-
-#~ msgid ":doc:`analyses/jg_11_descriptive-analyses`"
-#~ msgstr ":doc:`analyses/jg_11_descriptive-analyses`"
-
-#~ msgid ":doc:`analyses/jg_21_t-test-independent`"
-#~ msgstr ":doc:`analyses/jg_21_t-test-independent`"
-
-#~ msgid ":doc:`analyses/jg_22_t-test-paired`"
-#~ msgstr ":doc:`analyses/jg_22_t-test-paired`"
-
-#~ msgid ":doc:`analyses/jg_23_t-test-onesample`"
-#~ msgstr ":doc:`analyses/jg_23_t-test-onesample`"
-
-#~ msgid ":doc:`analyses/jg_31_unianova`"
-#~ msgstr ":doc:`analyses/jg_31_unianova`"
-
-#~ msgid ":doc:`analyses/jg_32_anova-factorial`"
-#~ msgstr ":doc:`analyses/jg_32_anova-factorial`"
-
-#~ msgid ":doc:`analyses/jg_33_anova-rm`"
-#~ msgstr ":doc:`analyses/jg_33_anova-rm`"
-
-#~ msgid ":doc:`analyses/jg_34_anova-mixed`"
-#~ msgstr ":doc:`analyses/jg_34_anova-mixed`"
-
-#~ msgid ":doc:`analyses/jg_42_regression-linear`"
-#~ msgstr ":doc:`analyses/jg_42_regression-linear`"
-
-#~ msgid ":doc:`analyses/jg_43_regression-logistic`"
-#~ msgstr ":doc:`analyses/jg_43_regression-logistic`"
-
-#~ msgid ":doc:`developer/dh_overview`"
-#~ msgstr ":doc:`developer/dh_overview`"
-
-#~ msgid ":doc:`spss2jamovi/s2j_overview`"
-#~ msgstr ":doc:`spss2jamovi/s2j_overview`"
-
-#~ msgid ":doc:`jamovi2r/j2R_overview`"
-#~ msgstr ":doc:`jamovi2r/j2R_overview`"
-
-#~ msgid ":doc:`usermanual/um_6_syntax_mode`"
-#~ msgstr ":doc:`usermanual/um_6_syntax_mode`"

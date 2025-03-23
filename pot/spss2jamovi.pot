@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-23 17:25+0100\n"
+"POT-Creation-Date: 2025-03-23 17:55+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3804,6 +3804,8 @@ msgid ""
 "|jamovi_Menu_nonParametric2_1| |jamovi_Menu_nonParametric2_2| |"
 "jamovi_Menu_nonParametric2_3|"
 msgstr ""
+"|jamovi_Menu_nonParametric2_1| |jamovi_Menu_nonParametric2_2| |"
+"jamovi_Menu_nonParametric2_3|"
 
 #: ../../spss2jamovi/s2j_nonParametric2.rst:98
 msgid "jamovi_Menu_nonParametric2_1"
@@ -3899,9 +3901,8 @@ msgid ""
 msgstr ""
 
 #: ../../spss2jamovi/s2j_nonParametric2.rst:48
-#, fuzzy
 msgid "|SPSS_Output_nonParametric2_1| |SPSS_Output_nonParametric2_2|"
-msgstr "|SPSS_Output_nonParametric2_1|"
+msgstr "|SPSS_Output_nonParametric2_1| |SPSS_Output_nonParametric2_2|"
 
 #: ../../spss2jamovi/s2j_nonParametric2.rst:106
 msgid "SPSS_Output_nonParametric2_1"
@@ -3936,9 +3937,8 @@ msgid ""
 msgstr ""
 
 #: ../../spss2jamovi/s2j_nonParametric2.rst:58
-#, fuzzy
 msgid "|SPSS_Output_nonParametric2_3| |SPSS_Output_nonParametric2_4|"
-msgstr "|SPSS_Output_nonParametric2_3|"
+msgstr "|SPSS_Output_nonParametric2_3| |SPSS_Output_nonParametric2_4|"
 
 #: ../../spss2jamovi/s2j_nonParametric2.rst:108
 msgid "SPSS_Output_nonParametric2_3"
@@ -4785,18 +4785,3 @@ msgid ""
 "`jamovi file with the analyses <../_static/output/s2j_Output_jamovi_ttestPS2."
 "omv>`_"
 msgstr ""
-
-#~ msgid "|jamovi_Menu_nonParametric2_1|"
-#~ msgstr "|jamovi_Menu_nonParametric2_1|"
-
-#~ msgid "|jamovi_Menu_nonParametric2_2|"
-#~ msgstr "|jamovi_Menu_nonParametric2_2|"
-
-#~ msgid "|jamovi_Menu_nonParametric2_3|"
-#~ msgstr "|jamovi_Menu_nonParametric2_3|"
-
-#~ msgid "|SPSS_Output_nonParametric2_2|"
-#~ msgstr "|SPSS_Output_nonParametric2_2|"
-
-#~ msgid "|SPSS_Output_nonParametric2_4|"
-#~ msgstr "|SPSS_Output_nonParametric2_4|"
