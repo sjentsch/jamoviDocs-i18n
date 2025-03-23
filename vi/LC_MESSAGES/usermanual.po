@@ -1,17 +1,31 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2016-2022, The section authors, The jamovi project, and Sebastian Jentschke (curating this documentation). This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
-# This file is distributed under the same license as the jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-23 17:25+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-16 16:14+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Project-Id-Version: jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-16 16:14+0100\n"
 "PO-Revision-Date: 2025-03-23 16:15+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Vietnamese <https://hosted.weblate.org/projects/jamovidocs/"
-"1_usermanual/vi/>\n"
+"Language-Team: Vietnamese <https://hosted.weblate.org/projects/"
+"jamovidocs/1_usermanual/vi/>\n"
 "Language: vi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -149,11 +163,11 @@ msgstr ""
 
 #: ../../usermanual/um_2_first-steps.rst:9
 msgid "|screenshot|"
-msgstr ""
+msgstr "|screenshot|"
 
 #: ../../usermanual/um_2_first-steps.rst:47
 msgid "screenshot"
-msgstr ""
+msgstr "screenshot"
 
 #: ../../usermanual/um_2_first-steps.rst:11
 msgid ""
@@ -181,11 +195,11 @@ msgstr ""
 
 #: ../../usermanual/um_2_first-steps.rst:27
 msgid "|csv-data|"
-msgstr ""
+msgstr "|csv-data|"
 
 #: ../../usermanual/um_2_first-steps.rst:49
 msgid "csv-data"
-msgstr ""
+msgstr "csv-data"
 
 #: ../../usermanual/um_2_first-steps.rst:29
 msgid ""
@@ -300,35 +314,35 @@ msgstr ""
 
 #: ../../usermanual/um_4_spreadsheet.rst:23
 msgid "|nominal|    ``Nominal``"
-msgstr ""
+msgstr "|nominal|    ``Nominal``"
 
 #: ../../usermanual/um_4_spreadsheet.rst:439
 msgid "nominal"
-msgstr ""
+msgstr "nominal"
 
 #: ../../usermanual/um_4_spreadsheet.rst:24
 msgid "|ordinal|    ``Ordinal``"
-msgstr ""
+msgstr "|ordinal|    ``Ordinal``"
 
 #: ../../usermanual/um_4_spreadsheet.rst:441
 msgid "ordinal"
-msgstr ""
+msgstr "ordinal"
 
 #: ../../usermanual/um_4_spreadsheet.rst:25
 msgid "|continuous| ``Continuous``"
-msgstr ""
+msgstr "|continuous| ``Continuous``"
 
 #: ../../usermanual/um_4_spreadsheet.rst:443
 msgid "continuous"
-msgstr ""
+msgstr "continuous"
 
 #: ../../usermanual/um_4_spreadsheet.rst:26
 msgid "|id|         ``ID``"
-msgstr ""
+msgstr "|id|         ``ID``"
 
 #: ../../usermanual/um_4_spreadsheet.rst:445
 msgid "id"
-msgstr ""
+msgstr "id"
 
 #: ../../usermanual/um_4_spreadsheet.rst:29
 msgid ""
@@ -475,11 +489,11 @@ msgstr ""
 
 #: ../../usermanual/um_4_spreadsheet.rst:150
 msgid "|um_transform_create1|"
-msgstr ""
+msgstr "|um_transform_create1|"
 
 #: ../../usermanual/um_4_spreadsheet.rst:448
 msgid "um_transform_create1"
-msgstr ""
+msgstr "um_transform_create1"
 
 #: ../../usermanual/um_4_spreadsheet.rst:152
 msgid "or head to the ``Data``-ribbon, and click ``Transform:``"
@@ -487,11 +501,11 @@ msgstr ""
 
 #: ../../usermanual/um_4_spreadsheet.rst:154
 msgid "|um_transform_create2|"
-msgstr ""
+msgstr "|um_transform_create2|"
 
 #: ../../usermanual/um_4_spreadsheet.rst:449
 msgid "um_transform_create2"
-msgstr ""
+msgstr "um_transform_create2"
 
 #: ../../usermanual/um_4_spreadsheet.rst:156
 msgid ""
@@ -503,11 +517,11 @@ msgstr ""
 
 #: ../../usermanual/um_4_spreadsheet.rst:161
 msgid "|um_transform_create3|"
-msgstr ""
+msgstr "|um_transform_create3|"
 
 #: ../../usermanual/um_4_spreadsheet.rst:450
 msgid "um_transform_create3"
-msgstr ""
+msgstr "um_transform_create3"
 
 #: ../../usermanual/um_4_spreadsheet.rst:163
 msgid ""
@@ -536,11 +550,11 @@ msgstr ""
 
 #: ../../usermanual/um_4_spreadsheet.rst:179
 msgid "|um_transform_edit1|"
-msgstr ""
+msgstr "|um_transform_edit1|"
 
 #: ../../usermanual/um_4_spreadsheet.rst:451
 msgid "um_transform_edit1"
-msgstr ""
+msgstr "um_transform_edit1"
 
 #: ../../usermanual/um_4_spreadsheet.rst:181
 msgid "The transform editor contains these elements."
@@ -615,11 +629,11 @@ msgstr ""
 
 #: ../../usermanual/um_4_spreadsheet.rst:232
 msgid "|um_transform_ex1|"
-msgstr ""
+msgstr "|um_transform_ex1|"
 
 #: ../../usermanual/um_4_spreadsheet.rst:452
 msgid "um_transform_ex1"
-msgstr ""
+msgstr "um_transform_ex1"
 
 #: ../../usermanual/um_4_spreadsheet.rst:234
 msgid ""
@@ -641,11 +655,11 @@ msgstr ""
 
 #: ../../usermanual/um_4_spreadsheet.rst:246
 msgid "|um_transform_ex2|"
-msgstr ""
+msgstr "|um_transform_ex2|"
 
 #: ../../usermanual/um_4_spreadsheet.rst:453
 msgid "um_transform_ex2"
-msgstr ""
+msgstr "um_transform_ex2"
 
 #: ../../usermanual/um_4_spreadsheet.rst:248
 msgid ""
@@ -677,11 +691,11 @@ msgstr ""
 
 #: ../../usermanual/um_4_spreadsheet.rst:269
 msgid "|um_transform_ex3|"
-msgstr ""
+msgstr "|um_transform_ex3|"
 
 #: ../../usermanual/um_4_spreadsheet.rst:454
 msgid "um_transform_ex3"
-msgstr ""
+msgstr "um_transform_ex3"
 
 #: ../../usermanual/um_4_spreadsheet.rst:271
 msgid ""
@@ -1056,11 +1070,11 @@ msgstr ""
 
 #: ../../usermanual/um_6_jamovi_and_R.rst:51
 msgid "|um_Rj1|"
-msgstr ""
+msgstr "|um_Rj1|"
 
 #: ../../usermanual/um_6_jamovi_and_R.rst:265
 msgid "um_Rj1"
-msgstr ""
+msgstr "um_Rj1"
 
 #: ../../usermanual/um_6_jamovi_and_R.rst:53
 msgid ""
@@ -1089,11 +1103,11 @@ msgstr ""
 
 #: ../../usermanual/um_6_jamovi_and_R.rst:69
 msgid "|um_Rj2|"
-msgstr ""
+msgstr "|um_Rj2|"
 
 #: ../../usermanual/um_6_jamovi_and_R.rst:266
 msgid "um_Rj2"
-msgstr ""
+msgstr "um_Rj2"
 
 #: ../../usermanual/um_6_jamovi_and_R.rst:71
 msgid "Or if you prefer the ``dplyr`` approach, you could go:"
