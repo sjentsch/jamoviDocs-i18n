@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-01 23:26+0200\n"
-"PO-Revision-Date: 2025-04-15 10:03+0000\n"
+"PO-Revision-Date: 2025-04-15 11:04+0000\n"
 "Last-Translator: SHIBATA Seiji <contact@sbtseiji.net>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/jamovidocs/"
 "1_usermanual/ja/>\n"
@@ -47,7 +47,7 @@ msgid ""
 "restrictions prevent jamovi from working in this way, in which case it would "
 "be worth raising the issue with your IT staff."
 msgstr ""
-"一部の機関（とくに大学など）では、ITセキュリティポリシーにより「通常の」方法"
+"一部の機関（とくに大学など）では、ITセキュリティポリシーにより「通常の方法」"
 "でのソフトウェアのインストールが制限されている場合があります。その場合は、``."
 "zip``バージョンをダウンロードしてください。こちらを利用する場合は、ファイルを"
 "ダウンロードし、パソコン上の任意の場所に展開してください。binフォルダーにある"
@@ -108,25 +108,32 @@ msgid ""
 "jamovi. If you encounter this, there are instructions on how to fix this a "
 "little :ref:`further down<blank-screen-on-chromebooks>`."
 msgstr ""
+"**注意**: "
+"一部のChromebookでは、jamoviの起動時に画面が真っ白になる問題が発生することが"
+"あります。この問題が発生した場合は、少し下にある :ref:`こちら<blank-screen-"
+"on-chromebooks>` の手順を参照してください。"
 
 #: ../../usermanual/um_1_installation.rst:40
 msgid ""
 "If you’re new to flatpak/flathub, you’ll need to follow the setup guide on "
 "`our flathub page <https://flathub.org/apps/details/org.jamovi.jamovi>`__."
 msgstr ""
+"flatpakやflathubを初めて利用する場合は、`flathubのページ <https://"
+"flathub.org/apps/details/org.jamovi.jamovi>`__ "
+"にあるセットアップガイドに従ってください。"
 
 #: ../../usermanual/um_1_installation.rst:42
 msgid ""
 "If you’re an old hand at flatpak, you can install jamovi with the command:"
-msgstr ""
+msgstr "flatpakの利用に慣れている方は、次のコマンドでもjamoviをインストールできます。"
 
 #: ../../usermanual/um_1_installation.rst:48
 msgid "and later, you can update your version of jamovi with:"
-msgstr ""
+msgstr "jamoviのバージョンをアップデートするには次のコマンドを使用します。"
 
 #: ../../usermanual/um_1_installation.rst:56
 msgid "Text not appearing in plots under linux"
-msgstr ""
+msgstr "Linuxでプロットに文字が表示されない場合"
 
 #: ../../usermanual/um_1_installation.rst:58
 msgid ""
@@ -134,16 +141,20 @@ msgid ""
 "in plots in jamovi not displaying text correctly. To remedy this, you can "
 "run the following command at the terminal:"
 msgstr ""
+"一部のLinuxマシンでは、flatpakのフォントキャッシュが最新でないため、jamoviの"
+"プロットで文字が正しく表示されないことがあります。この問題を解決するには、タ"
+"ーミナルで以下のコマンドを実行してください。"
 
 #: ../../usermanual/um_1_installation.rst:65
 msgid ""
 "This appears to be an issue with flatpaks, and we’re working with the "
 "flatpak community to get to the bottom of it."
-msgstr ""
+msgstr "これはflatpakに関連した問題と思われます。私たちは、flatpakコミュニティと協力"
+"して原因の解明に取り組んでいます。"
 
 #: ../../usermanual/um_1_installation.rst:71
 msgid "Blank screen at startup on Chromebooks"
-msgstr ""
+msgstr "Chromebookで起動時に画面が真っ白になる場合"
 
 #: ../../usermanual/um_1_installation.rst:73
 msgid ""
@@ -151,6 +162,9 @@ msgid ""
 "cause of this issue is not completely clear at this time, however it can be "
 "fixed by disabling “Crostini GPU support”."
 msgstr ""
+"一部のChromebookでは、jamoviの起動時に画面が真っ白になることがあります。この"
+"問題の原因は現時点では完全には分かっていませんが、「Crostini "
+"GPUサポート」を無効にすることで解決できます。"
 
 #: ../../usermanual/um_1_installation.rst:76
 msgid ""
@@ -159,16 +173,22 @@ msgid ""
 "After restarting your Chromebook the issue will be fixed (special thanks to "
 "`@mulderc <https://github.com/mulderc>`__)."
 msgstr ""
+"ChromeOSのアドレスバーに``chrome://flags/"
+"``と入力してください。これで「Experiments（試験運用機能）」の画面が表示されま"
+"す。「Crostini GPU "
+"Support」で検索し、「停止中（disabled）」に設定してください。Chromebookを再起"
+"動すると問題が解決します（`@mulderc <https://github.com/mulderc>`__ "
+"に感謝！）。"
 
 #: ../../usermanual/um_2_first-steps.rst:4
 msgid "First steps in jamovi"
-msgstr ""
+msgstr "最初の一歩"
 
 #: ../../usermanual/um_2_first-steps.rst:6
 msgid ""
 "When first starting jamovi, you will be presented with a user interface "
 "which looks something like this."
-msgstr ""
+msgstr "初めてjamoviを起動すると、次のようなユーザーインターフェースが表示されます。"
 
 #: ../../usermanual/um_2_first-steps.rst:9
 msgid "|screenshot|"
@@ -176,7 +196,7 @@ msgstr "|screenshot|"
 
 #: ../../usermanual/um_2_first-steps.rst:47
 msgid "screenshot"
-msgstr "screenshot"
+msgstr "スクリーンショット"
 
 #: ../../usermanual/um_2_first-steps.rst:11
 msgid ""
@@ -185,12 +205,16 @@ msgid ""
 "regions, and this can be dragged to the left or the right to change their "
 "sizes."
 msgstr ""
+"左側にはスプレッドシートビューがあり、右側には統計結果が表示されます。中央に"
+"はこれら2つの領域を分けるバーがあり、このバーを左右にドラッグすれば、それぞれ"
+"の領域の大きさを変更できます。"
 
 #: ../../usermanual/um_2_first-steps.rst:16
 msgid ""
 "It is possible to simply begin typing values into the jamovi spreadsheet as "
 "you would any other spreadsheet software."
-msgstr ""
+msgstr "jamoviのスプレッドシートは、他の表計算ソフトと同じように、直接値を入力できま"
+"す。"
 
 #: ../../usermanual/um_2_first-steps.rst:19
 msgid ""
@@ -201,6 +225,12 @@ msgid ""
 "jamovi), select ``Open`` and then ``Data library`` or ``This PC``, depending "
 "on whether you want to open an example, or a file stored on your computer."
 msgstr ""
+"あるいは、既存のデータセット（CSV、Excel、LibreOffice、R、SPSS、Stata、SASな"
+"ど）をjamoviで開くこともできます。また、jamoviにはいくつかのサンプルデータセ"
+"ットも用意されています。ファイルを開くには、jamovi画面左上のファイルメニュー"
+"（☰）を選択し、「開く」を選んでから、「データライブラリ」または「このPC」を選"
+"択します。サンプルデータを開きたい場合は「データライブラリ」を、パソコンに保"
+"存されているファイルを開きたい場合は「このPC」を選びます。"
 
 #: ../../usermanual/um_2_first-steps.rst:27
 msgid "|csv-data|"
@@ -208,7 +238,7 @@ msgstr "|csv-data|"
 
 #: ../../usermanual/um_2_first-steps.rst:49
 msgid "csv-data"
-msgstr "csv-data"
+msgstr "csvデータ"
 
 #: ../../usermanual/um_2_first-steps.rst:29
 msgid ""
@@ -224,6 +254,16 @@ msgid ""
 "in the drop-down menu close to the ``Save as``-button. Thereafter, you may "
 "open the CSV-file in jamovi."
 msgstr ""
+"データ交換で非常によく使われる形式が「カンマ区切り値」（.csvや.txt）ファイル"
+"です。これらのデータは、値をカンマ（または「;」、「|」など）で区切った単純な"
+"テキストファイルとして保存されているため、ほとんどすべてのソフトウェアで読み"
+"書きが可能です（また、任意のテキストエディタで中身を確認することもできます）"
+"。図にはその例が示してあります。最初の行には変数名が記載されており、それ以降"
+"の各行には測定データ（通常はデータを取得した各個人の情報）が記載されています"
+"。もしデータが表計算ソフト（例：Excel）にある場合は、「ファイル」→「名前を付"
+"けて保存」を選択し、「保存」ボタン付近のドロップダウンメニューから「カンマ区"
+"切り（CSV）」を選ぶことでCSVファイルを作成できます。その後、そのCSVファイルを"
+"jamoviで開くことができます。"
 
 #: ../../usermanual/um_2_first-steps.rst:41
 msgid ""
@@ -231,6 +271,9 @@ msgid ""
 "issue (bug report) in the GitHub `issue tracker <https://github.com/jamovi/"
 "jamovi/issues>`__."
 msgstr ""
+"万が一、jamoviでファイルを正しく開けない場合は、GitHubの`issueトラッカー<http"
+"s://github.com/jamovi/jamovi/"
+"issues>`__にバグ報告（issue）を提出してください。"
 
 #: ../../usermanual/um_3_analyses.rst:4
 msgid "Analyses"
@@ -245,6 +288,10 @@ msgid ""
 "for the analysis will appear in the right “results panel”, and will update "
 "as you make changes to the options."
 msgstr ""
+"分析は、画面上部の「分析」リボンから選択できます。分析を選択すると、その分析"
+"専用の「オプションパネル」が表示され、さまざまな変数を分析の各部分に割り当て"
+"たり、さまざまなオプションを選択したりできます。同時に、分析結果が右側の「結"
+"果パネル」に表示され、オプションを変更するたびに結果も自動的に更新されます。"
 
 #: ../../usermanual/um_3_analyses.rst:13
 msgid ""
@@ -254,6 +301,10 @@ msgid ""
 "produced. In this way, you can return to any analysis that you (or say, a "
 "colleague) created earlier."
 msgstr ""
+"分析の設定が完了したら、オプションパネルの右上にある矢印をクリックすることで"
+"、分析オプションを非表示にできます。再びオプションを表示したい場合は、作成さ"
+"れた結果をクリックするだけです。このようにして、自分（あるいは同僚）が以前に"
+"実施した分析に、いつでも戻って編集できます。"
 
 #: ../../usermanual/um_3_analyses.rst:19
 msgid ""
@@ -262,6 +313,9 @@ msgid ""
 "bring up a menu, and by selecting ``Analysis``, and then ``Remove``, the "
 "analysis can be removed."
 msgstr ""
+"特定の分析が不要になった場合は、結果のコンテキストメニューからその分析を削除"
+"できます。分析結果を右クリックするとメニューが表示されるので、「分析」を選択"
+"し、続けて「削除」を選ぶことで、その分析を削除できます。"
 
 #: ../../usermanual/um_3_analyses.rst:28
 msgid ""
@@ -272,6 +326,11 @@ msgid ""
 "otherwise directly access specific analyses by selecting them from the menu "
 "on the right-hand side."
 msgstr ""
+"ページ左のメニューにある「分析」の項目に進むと、jamoviでよく使われる統計手法"
+"の実施方法について、専門的すぎない簡単なチュートリアルがいくつか用意されてい"
+"ます。 :doc:`概要 <../analyses/jg_overview>` "
+"には利用可能な分析の概要が説明されていますが、特定の分析をについて知りたい場"
+"合は、メニューから該当する分析を選択することもできます。"
 
 #: ../../usermanual/um_3_analyses.rst:35
 msgid ""
@@ -283,20 +342,27 @@ msgid ""
 "Selecting copy, copies the content to the clipboard, and can be pasted into "
 "the other program in the usual way."
 msgstr ""
+"jamoviは、見栄えの良いAPA形式の表やスタイリッシュなグラフを作成します。これら"
+"をWord文書や同僚へのメールなどにコピー＆ペーストできれば便利ですね。結果をコ"
+"ピーするには、コピーしたい対象を右クリックし、メニューからコピーしたい内容を"
+"選択してください。メニューでは、画像だけをコピーするか、分析全体をコピーする"
+"かを選ぶことができます。「コピー」を選択すると内容がクリップボードに保存され"
+"、他のプログラムに貼り付けることができます。"
 
 #: ../../usermanual/um_4_spreadsheet.rst:4
 msgid "The Spreadsheet"
-msgstr ""
+msgstr "スプレッドシート"
 
 #: ../../usermanual/um_4_spreadsheet.rst:6
 msgid ""
 "In jamovi, data is represented in a spreadsheet, with each column "
 "representing a “variable”."
-msgstr ""
+msgstr "jamoviでは、データはスプレッドシートで表現されており、各列が「変数」を表して"
+"います。"
 
 #: ../../usermanual/um_4_spreadsheet.rst:11
 msgid "Data Variables"
-msgstr ""
+msgstr "データ変数"
 
 #: ../../usermanual/um_4_spreadsheet.rst:13
 msgid ""
@@ -304,6 +370,9 @@ msgid ""
 "variables simply contain data either loaded from a data file, or “typed in” "
 "by the user. Data variables can be one three data types:"
 msgstr ""
+"jamoviで最も一般的に使われる変数は「データ変数」です。この変数は、データファ"
+"イルから読み込んだデータや、ユーザーが直接入力したデータをそのまま含みます。"
+"データ変数は、次の3つのデータ型のいずれかになります。"
 
 #: ../../usermanual/um_4_spreadsheet.rst:17
 msgid "``Integer``"
