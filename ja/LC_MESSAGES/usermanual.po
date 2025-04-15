@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-01 23:26+0200\n"
-"PO-Revision-Date: 2025-04-15 11:04+0000\n"
+"PO-Revision-Date: 2025-04-15 12:01+0000\n"
 "Last-Translator: SHIBATA Seiji <contact@sbtseiji.net>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/jamovidocs/"
 "1_usermanual/ja/>\n"
@@ -371,48 +371,48 @@ msgid ""
 "by the user. Data variables can be one three data types:"
 msgstr ""
 "jamoviで最も一般的に使われる変数は「データ変数」です。この変数は、データファ"
-"イルから読み込んだデータや、ユーザーが直接入力したデータをそのまま含みます。"
-"データ変数は、次の3つのデータ型のいずれかになります。"
+"イルから読み込んだデータや、ユーザーが直接入力したデータです。データ変数は、"
+"次の3つのデータ型のいずれかになります。"
 
 #: ../../usermanual/um_4_spreadsheet.rst:17
 msgid "``Integer``"
-msgstr ""
+msgstr "``整数``"
 
 #: ../../usermanual/um_4_spreadsheet.rst:18
 msgid "``Decimal``"
-msgstr ""
+msgstr "``小数``"
 
 #: ../../usermanual/um_4_spreadsheet.rst:19
 msgid "``Text``"
-msgstr ""
+msgstr "``文字``"
 
 #: ../../usermanual/um_4_spreadsheet.rst:21
 msgid "and one of four measure types:"
-msgstr ""
+msgstr "また、測定値型は次の4つです。"
 
 #: ../../usermanual/um_4_spreadsheet.rst:23
 msgid "|nominal|    ``Nominal``"
-msgstr "|nominal|    ``Nominal``"
+msgstr "|nominal|    ``名義``"
 
 #: ../../usermanual/um_4_spreadsheet.rst:439
 msgid "nominal"
-msgstr "nominal"
+msgstr "名義"
 
 #: ../../usermanual/um_4_spreadsheet.rst:24
 msgid "|ordinal|    ``Ordinal``"
-msgstr "|ordinal|    ``Ordinal``"
+msgstr "|ordinal|    ``順序``"
 
 #: ../../usermanual/um_4_spreadsheet.rst:441
 msgid "ordinal"
-msgstr "ordinal"
+msgstr "順序"
 
 #: ../../usermanual/um_4_spreadsheet.rst:25
 msgid "|continuous| ``Continuous``"
-msgstr "|continuous| ``Continuous``"
+msgstr "|continuous| ``連続``"
 
 #: ../../usermanual/um_4_spreadsheet.rst:443
 msgid "continuous"
-msgstr "continuous"
+msgstr "連続"
 
 #: ../../usermanual/um_4_spreadsheet.rst:26
 msgid "|id|         ``ID``"
@@ -428,6 +428,9 @@ msgid ""
 "variable’s column. Note that some combinations of data-type and measure-type "
 "don’t make sense, and jamovi won’t let you choose these."
 msgstr ""
+"各変数列のヘッダーには、測定値型が記号で示されます。なお、データ型と測定値型"
+"の組み合わせによっては意味をなさないものもあり、jamoviではそのような組み合わ"
+"せは選択できません。"
 
 #: ../../usermanual/um_4_spreadsheet.rst:33
 msgid ""
@@ -441,6 +444,12 @@ msgid ""
 "internally, which can improve performance when interacting with very large "
 "data sets."
 msgstr ""
+"``名義``と``順序``は、その名の通り名義尺度変数や順序尺度変数に使われます。``"
+"連続``は、数値データで間隔尺度や比率尺度とみなされる変数に使われます（SPSSの`"
+"`スケール``と同等です）。``ID``測定値型は、他とは異なりjamovi独自のものです。"
+"これは、分析対象としない識別子（例：氏名や参加者IDなど）を含む変数に使われま"
+"す。ID型の利点は、jamoviが内部で水準（レベル）リストを保持する必要がなくなる"
+"ため、非常に大きなデータセットを扱う際のパフォーマンスが向上することです。"
 
 #: ../../usermanual/um_4_spreadsheet.rst:43
 msgid ""
@@ -452,6 +461,12 @@ msgid ""
 "approach may not be correct, and it may be necessary to manually specify the "
 "data and measure type with the variable editor."
 msgstr ""
+"空白のスプレッドシートから値を入力し始めると、入力したデータの内容に応じてデ"
+"ータ型や測定値型が自動的に切り替わります。これは、どの変数型がどのようなデー"
+"タに対応しているかを理解するのによい方法です。同様に、データファイルを開いた"
+"場合も、jamoviは各列のデータから変数型を推測します。いずれの場合も、これらの"
+"自動判定が必ずしも正しいとは限りません。その場合は、変数エディタを使ってデー"
+"タ型や測定値型を手動で指定する必要があります。"
 
 #: ../../usermanual/um_4_spreadsheet.rst:51
 msgid ""
@@ -462,6 +477,11 @@ msgid ""
 "label displayed for each level. The variable editor can be dismissed by "
 "clicking the close arrow, or by pressing ``F3`` again."
 msgstr ""
+"変数エディタは、``データ``タブの``設定``を選択するか、列ヘッダーをダブルクリ"
+"ックするか、``F3``キーを押すことで起動できます。変数エディタでは、変数名の変"
+"更や（データ変数の場合は）データ型、測定値型、水準の順序、各水準に表示される"
+"ラベルの変更が可能です。変数エディタは、閉じる矢印をクリックするか、再度``F3`"
+"`キーを押すことで閉じることができます。"
 
 #: ../../usermanual/um_4_spreadsheet.rst:63
 msgid ""
@@ -469,10 +489,12 @@ msgid ""
 "button from the data ribbon. The ``Add`` button also allows the addition of "
 "*Computed variables*."
 msgstr ""
+"新しい変数は、データリボンの``追加``ボタンを使ってデータセットに挿入したり追"
+"加したりできます。``追加``ボタンからは「計算変数」を追加することもできます。"
 
 #: ../../usermanual/um_4_spreadsheet.rst:69
 msgid "Computed Variables"
-msgstr ""
+msgstr "計算変数"
 
 #: ../../usermanual/um_4_spreadsheet.rst:71
 msgid ""
@@ -481,6 +503,9 @@ msgid ""
 "of purposes, including log transforms, z-scores, sum-scores, negative "
 "scoring and means."
 msgstr ""
+"計算変数は、他の変数に対して計算を行うことで値が決まる変数のことです。計算変"
+"数は、対数変換、zスコア、合計スコア、逆点化、平均値の算出など、さまざまな目的"
+"で利用できます。"
 
 #: ../../usermanual/um_4_spreadsheet.rst:76
 msgid ""
@@ -489,20 +514,25 @@ msgid ""
 "can specify the formula. The usual arithmetic operators are available. Some "
 "examples of formulas are:"
 msgstr ""
+"データタブにある``追加``ボタンを使うことで、*計算変数*をデータセットに追加で"
+"きます。これをクリックすると、数式を指定するための数式ボックスが表示されます"
+"。ここでは通常の算術演算子が利用可能です。数式は次のように使用します。"
 
 #: ../../usermanual/um_4_spreadsheet.rst:90
 msgid ""
 "In order, these are the sum of A and B, a log (base 10) transform of "
 "``len``, the mean of ``A`` and ``B``, and the z-score of ``dose`` (twice)."
 msgstr ""
+"これらは順に、AとBの合計、``len``の常用対数変換、``A``と``B``の平均、そして``"
+"dose``のzスコア（2とおりの計算方法）です。"
 
 #: ../../usermanual/um_4_spreadsheet.rst:93
 msgid "There are many more functions available."
-msgstr ""
+msgstr "これ以外にもたくさんの関数が利用可能です。"
 
 #: ../../usermanual/um_4_spreadsheet.rst:97
 msgid "``V``-functions"
-msgstr ""
+msgstr "``V``関数"
 
 #: ../../usermanual/um_4_spreadsheet.rst:99
 msgid ""
@@ -512,6 +542,11 @@ msgid ""
 "For example, ``MEAN(A, B)`` will produce the mean of ``A`` and ``B`` for "
 "each row. Whereas ``VMEAN(A)`` gives the mean of *all* the values in ``A``."
 msgstr ""
+"いくつかの関数はペアになっており、一方には``V``が頭につき、もう一方にはつきま"
+"せん。``V``付きの関数は、変数全体に対して計算を行い、``V``なしの関数は行ごと"
+"に計算を行います。たとえば、``MEAN(A, "
+"B)``は各行ごとに``A``と``B``の平均を計算しますが、``VMEAN(A)``は``A``全体の値"
+"の平均を返します。"
 
 #: ../../usermanual/um_4_spreadsheet.rst:105
 msgid ""
@@ -519,13 +554,17 @@ msgid ""
 "``group_by`` variable is specified, a separate value is calculated for each "
 "level of the ``group_by`` variable. In the following example:"
 msgstr ""
+"さらに、``V``関数は``group_by``引数をサポートしています。``group_by``変数を指"
+"定すると、その変数の各水準ごとに個別の値が計算されます。次の例を見てください"
+"。"
 
 #: ../../usermanual/um_4_spreadsheet.rst:114
 msgid ""
 "A separate mean is calculated for each level of ``dose``, and each value in "
 "the computed variable will be the mean corresponding to it’s row’s value of "
 "``dose``."
-msgstr ""
+msgstr "この例では、``dose``の各水準ごとに個別の平均値が計算され、計算変数の各値は、"
+"その行の``dose``の値に対応する平均値となります。"
 
 #: ../../usermanual/um_4_spreadsheet.rst:120
 msgid "Transformed (Recoded) Variables"
