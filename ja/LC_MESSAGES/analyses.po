@@ -1,13 +1,12 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-01 23:26+0200\n"
-"PO-Revision-Date: 2025-03-23 16:14+0000\n"
-"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
-"Language-Team: Japanese <https://hosted.weblate.org/projects/"
-"jamovidocs/2_analyses/ja/>\n"
+"PO-Revision-Date: 2025-04-15 12:01+0000\n"
+"Last-Translator: SHIBATA Seiji <contact@sbtseiji.net>\n"
+"Language-Team: Japanese <https://hosted.weblate.org/projects/jamovidocs/"
+"2_analyses/ja/>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -170,7 +169,7 @@ msgstr ""
 #: ../../analyses/jg_42_regression-linear.rst:55
 #: ../../analyses/jg_overview.rst:133
 msgid "continuous"
-msgstr "continuous"
+msgstr "連続"
 
 #: ../../analyses/jg_21_t-test-independent.rst:54
 #: ../../analyses/jg_31_unianova.rst:51
@@ -179,7 +178,7 @@ msgstr "continuous"
 #: ../../analyses/jg_43_regression-logistic.rst:58
 #: ../../analyses/jg_overview.rst:131
 msgid "nominal"
-msgstr "nominal"
+msgstr "名義"
 
 #: ../../analyses/jg_21_t-test-independent.rst:0
 #: ../../analyses/jg_22_t-test-paired.rst:0
@@ -869,7 +868,7 @@ msgstr ""
 
 #: ../../analyses/jg_43_regression-logistic.rst:60
 msgid "ordinal"
-msgstr "ordinal"
+msgstr "順序"
 
 #: ../../analyses/jg_43_regression-logistic.rst:13
 msgid "|data_format_regression_logistic|"
