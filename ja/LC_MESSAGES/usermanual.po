@@ -1,25 +1,27 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-01 23:26+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2025-04-15 10:03+0000\n"
+"Last-Translator: SHIBATA Seiji <contact@sbtseiji.net>\n"
+"Language-Team: Japanese <https://hosted.weblate.org/projects/jamovidocs/"
+"1_usermanual/ja/>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.11-dev\n"
 "Generated-By: Babel 2.17.0\n"
 
 #: ../../usermanual/um_1_installation.rst:4
 msgid "Installation"
-msgstr ""
+msgstr "インストール"
 
 #: ../../usermanual/um_1_installation.rst:8
 msgid "Windows"
-msgstr ""
+msgstr "Windows"
 
 #: ../../usermanual/um_1_installation.rst:10
 msgid ""
@@ -29,6 +31,11 @@ msgid ""
 "`download page <https://www.jamovi.org/download.html>`__, and double-click "
 "the icon."
 msgstr ""
+"jamoviは、Windows "
+"Vista（64ビット）以降で利用できます。Windowsへのインストールは非常に簡単で、"
+"これまでにWindowsでソフトウェアをインストールしたことがある方なら、すぐに分か"
+"るはずです。最新版を`ダウンロードページ <https://www.jamovi.org/"
+"download.html>`__から入手し、アイコンをダブルクリックしてください。"
 
 #: ../../usermanual/um_1_installation.rst:14
 msgid ""
@@ -40,10 +47,18 @@ msgid ""
 "restrictions prevent jamovi from working in this way, in which case it would "
 "be worth raising the issue with your IT staff."
 msgstr ""
+"一部の機関（とくに大学など）では、ITセキュリティポリシーにより「通常の」方法"
+"でのソフトウェアのインストールが制限されている場合があります。その場合は、``."
+"zip``バージョンをダウンロードしてください。こちらを利用する場合は、ファイルを"
+"ダウンロードし、パソコン上の任意の場所に展開してください。binフォルダーにある"
+"``jamovi.exe``をダブルクリックすると、jamoviが起動します。さらに厳しいセキュ"
+"リティ制限がある場合は、この方法でもjamoviが動作しないことがあります。その際"
+"は、IT担当者に相談することをおすすめします。"
 
 #: ../../usermanual/um_1_installation.rst:21
+#, fuzzy
 msgid "macOS"
-msgstr ""
+msgstr "macOS"
 
 #: ../../usermanual/um_1_installation.rst:23
 msgid ""
@@ -55,6 +70,15 @@ msgid ""
 "way). After this, jamovi will appear in your applications, and can be "
 "started like any other installed application."
 msgstr ""
+"jamoviはmacOS "
+"10.9以降（Mavericks以降）で利用できます。インストールするには、`ダウンロード"
+"ページ<https://www.jamovi.org/"
+"download.html>`__から``.dmg``ファイルをダウンロードし、ダウンロードしたファイ"
+"ルをダブルクリックしてください。するとFinder上にアプリケーションのアイコンが"
+"表示されるので、jamoviアプリケーションを（いつもどおり）「アプリケーション」"
+"フォルダにドラッグ＆ドロップすればインストールできます。その後は、jamoviはア"
+"プリケーション一覧に表示され、他のアプリケーションと同様の方法で起動できます"
+"。"
 
 #: ../../usermanual/um_1_installation.rst:28
 msgid ""
@@ -62,16 +86,21 @@ msgid ""
 "versions are available. You can update your version of jamovi from the app "
 "menu (☰; at the top right of the window)."
 msgstr ""
+"macOS版のjamoviには自動アップデート機能があり、新しいバージョンが利用可能にな"
+"ると通知されます。jamoviのバージョンは、アプリのメニュー（ウィンドウ左上の☰）"
+"から更新できます。"
 
 #: ../../usermanual/um_1_installation.rst:33
 msgid "Linux and Chromebooks"
-msgstr ""
+msgstr "LinuxおよびChromebook"
 
 #: ../../usermanual/um_1_installation.rst:35
 msgid ""
 "jamovi is currently available for Linux, (for all ‘flatpak participating "
 "linux distributions’ – which is most of them), and Chromebooks, from flathub."
 msgstr ""
+"Linux（「flatpak」対応のLinuxディストリビューション）およびChromebookでは、ja"
+"moviはflathubから利用できます。"
 
 #: ../../usermanual/um_1_installation.rst:37
 msgid ""
@@ -205,7 +234,7 @@ msgstr ""
 
 #: ../../usermanual/um_3_analyses.rst:4
 msgid "Analyses"
-msgstr ""
+msgstr "分析"
 
 #: ../../usermanual/um_3_analyses.rst:6
 msgid ""
