@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-01 23:26+0200\n"
-"PO-Revision-Date: 2025-04-15 12:01+0000\n"
+"PO-Revision-Date: 2025-04-16 07:05+0000\n"
 "Last-Translator: SHIBATA Seiji <contact@sbtseiji.net>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/jamovidocs/"
 "1_usermanual/ja/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11-dev\n"
+"X-Generator: Weblate 5.11.1-dev\n"
 "Generated-By: Babel 2.17.0\n"
 
 #: ../../usermanual/um_1_installation.rst:4
@@ -579,10 +579,15 @@ msgid ""
 "variables” allow you to easily recode existing variables and apply "
 "transforms across many variables at once."
 msgstr ""
+"計算変数は、合計スコアの計算やデータ生成など、多くの操作にとても便利です。し"
+"かし、複数の変数をコード化し直したり変換したりしたい場合（たとえば、アンケー"
+"トのデータセットで複数の回答を逆点化する場合など）には、やや面倒になることが"
+"あります。「変換変数」を使うと、既存の変数を簡単にコード化し直したり、多くの"
+"変数に一度に変換を適用したりできます。"
 
 #: ../../usermanual/um_4_spreadsheet.rst:130
 msgid "**Creating transformed variables**"
-msgstr ""
+msgstr "**変換変数の作成**"
 
 #: ../../usermanual/um_4_spreadsheet.rst:136
 msgid ""
@@ -597,12 +602,20 @@ msgid ""
 "Ctrl / Cmd key. Once selected, you can either select ``Transform`` from the "
 "data tab, or right click and choose ``Transform`` from the menu."
 msgstr ""
+"jamoviで変数の変換や再コード化を行うと、元の「変換元の変数」に対して2つ目の「"
+"変換変数」が作成されます。このため、元の未変換データには必要に応じてつねにア"
+"クセスできます。変数を変換するには、まず変換したい列を選択します。列のブロッ"
+"クを選択する場合は、ブロック内の最初の列ヘッダーをクリックし、Shiftキーを押し"
+"ながら最後の列ヘッダーをクリックします。あるいは、Ctrlキー（Macの場合はCmdキ"
+"ー）を押しながら列ヘッダーをクリックすることで、個別に列を選択・解除すること"
+"もできます。選択ができたら、「データ」タブから「変換」を選択するか、右クリッ"
+"クしてメニューから「変換」を選びます。"
 
 #: ../../usermanual/um_4_spreadsheet.rst:147
 msgid ""
 "Either right-click on one of the selected variables, and click ``Transform..."
 "``:"
-msgstr ""
+msgstr "選択した変数のいずれかを右クリックし、``変換`` をクリックします。"
 
 #: ../../usermanual/um_4_spreadsheet.rst:150
 msgid "|um_transform_create1|"
@@ -614,7 +627,7 @@ msgstr "um_transform_create1"
 
 #: ../../usermanual/um_4_spreadsheet.rst:152
 msgid "or head to the ``Data``-ribbon, and click ``Transform:``"
-msgstr ""
+msgstr "あるいは``データ``リボンの``変換``をクリックします。"
 
 #: ../../usermanual/um_4_spreadsheet.rst:154
 msgid "|um_transform_create2|"
@@ -631,6 +644,9 @@ msgid ""
 "so we’re only setting up the transform for one variable (called score - "
 "log), but there’s no reason we can’t do more in one go."
 msgstr ""
+"これにより、選択した各列に対して2つ目の「変換変数」が作成されます。次の例では"
+"、変数を1つだけ選択したため、1つの変数（score - "
+"log）の変換だけ設定していますが、一度に複数の変数を変換することも可能です。"
 
 #: ../../usermanual/um_4_spreadsheet.rst:161
 msgid "|um_transform_create3|"
@@ -648,22 +664,28 @@ msgid ""
 "transformed variable. After a transform has been created, it’s available "
 "from the list and can be shared easily across multiple transformed variables."
 msgstr ""
+"上の図に示されているように、各変換変数には「変換元の変数」があり、これは元の"
+"未変換の変数を表しています。また、「変換」は、変換元の変数を変換変数に変換す"
+"るためのルールを表します。一度変換を作成すると、その変換はリストに保存され、"
+"複数の変換変数間で簡単に共有できます。"
 
 #: ../../usermanual/um_4_spreadsheet.rst:170
 msgid ""
 "If you don’t yet have the appropriate transform defined, you can select "
 "``Create new transform...`` from the list."
-msgstr ""
+msgstr "まだ適切な変換が定義されていない場合は、リストから``変換を新規作成...`` "
+"を選択できます。"
 
 #: ../../usermanual/um_4_spreadsheet.rst:174
 msgid "**Create a new transformation**"
-msgstr ""
+msgstr "**変換の新規作成**"
 
 #: ../../usermanual/um_4_spreadsheet.rst:176
 msgid ""
 "After clicking ``Create new transform...`` the transform editor slides into "
 "view:"
-msgstr ""
+msgstr "``変換を新規作成...`` "
+"をクリックすると、変換エディタが画面にスライド表示されます。"
 
 #: ../../usermanual/um_4_spreadsheet.rst:179
 msgid "|um_transform_edit1|"
@@ -675,17 +697,18 @@ msgstr "um_transform_edit1"
 
 #: ../../usermanual/um_4_spreadsheet.rst:181
 msgid "The transform editor contains these elements."
-msgstr ""
+msgstr "変換エディタには、これらの要素が含まれています。"
 
 #: ../../usermanual/um_4_spreadsheet.rst:183
 msgid "*Name*: The name for the transformation."
-msgstr ""
+msgstr "*変換名*：変換の名前。"
 
 #: ../../usermanual/um_4_spreadsheet.rst:185
 msgid ""
 "*Description*: Space for you to provide a description of the transformation "
 "so you (and others) know what it does."
-msgstr ""
+msgstr "*説明*：変換の内容が分かるように、あなた自身や他の人のために説明を記入するス"
+"ペースです。"
 
 #: ../../usermanual/um_4_spreadsheet.rst:188
 msgid ""
