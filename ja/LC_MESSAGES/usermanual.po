@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-01 23:26+0200\n"
-"PO-Revision-Date: 2025-04-16 10:03+0000\n"
+"PO-Revision-Date: 2025-04-17 01:01+0000\n"
 "Last-Translator: SHIBATA Seiji <contact@sbtseiji.net>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/jamovidocs/"
 "1_usermanual/ja/>\n"
@@ -574,7 +574,7 @@ msgstr ""
 
 #: ../../usermanual/um_4_spreadsheet.rst:120
 msgid "Transformed (Recoded) Variables"
-msgstr ""
+msgstr "変換（再コード化）変数"
 
 #: ../../usermanual/um_4_spreadsheet.rst:122
 msgid ""
@@ -1074,7 +1074,7 @@ msgstr ""
 
 #: ../../usermanual/um_4_spreadsheet.rst:378
 msgid "**Column filters**"
-msgstr ""
+msgstr "**列フィルタ**"
 
 #: ../../usermanual/um_4_spreadsheet.rst:380
 msgid ""
@@ -1084,6 +1084,10 @@ msgid ""
 "achieved with the computed variable system. With the computed variables we "
 "create a copy of an existing column, but with the unwanted values excluded."
 msgstr ""
+"行フィルターがデータセット全体に適用されるのに対し、個々の列だけをフィルタリ"
+"ングしたい場合もあります。列フィルターは、一部の分析で特定の行をフィルタリン"
+"グしたい場合に便利です。これは計算変数システムによって実現されます。計算変数"
+"を使うことで、不要な値が除外された、既存の列のコピーを作成できます。"
 
 #: ../../usermanual/um_4_spreadsheet.rst:386
 msgid ""
@@ -1095,6 +1099,14 @@ msgid ""
 "we can enter a formula. in this case we’ll enter one of the formulas below "
 "(the do the same, the second is perhaps easier to understand):"
 msgstr ""
+"Tooth "
+"Growthの例で、500と1000、または1000と2000の用量を別々に分析したいとします。そ"
+"のためには、それぞれのサブセットごとに新しい列を作成します。例えば、jamoviの"
+"スプレッドシートでdose列を選択し、データタブから「計算」ボタンを選択します。"
+"これにより、右側にdose "
+"(2)という新しい列が作成され、フィルターと同様に数式を入力できます。今回は、以"
+"下のいずれかの数式を入力します（どちらも同じ処理ですが、2つ目の方が分かりやす"
+"いかもしれません）。"
 
 #: ../../usermanual/um_4_spreadsheet.rst:399
 msgid ""
@@ -1105,6 +1117,11 @@ msgid ""
 "(2)`` column contains all the ``500`` and ``1000`` values, but the ``2000`` "
 "values are not there."
 msgstr ""
+"``FILTER()`` "
+"関数の最初の引数（この例ではdose）は、計算列で使用する値を指定します。2番目の"
+"引数は条件であり、この条件が満たされない場合、その値は空白（または「欠損値」"
+"）として扱われます。この数式を使うと、 ``dose (2)`` 列には ``500`` と "
+"``1000`` の値だけが入り、 ``2000`` の値は含まれません。"
 
 #: ../../usermanual/um_4_spreadsheet.rst:406
 msgid ""
@@ -1116,6 +1133,14 @@ msgid ""
 "other. In this way we can use different filters for different analyses. "
 "Contrast this with row filters which are applied to *all* the analyses."
 msgstr ""
+"列の名前は、より分かりやすいもの、たとえば ``dose 5,10`` "
+"などに変更することもできます。同様に、 ``FILTER(dose, dose != 500)`` "
+"という数式を使って ``dose 10,20`` という列も作成できます。これで、 ``len`` "
+"を従属変数、 ``dose 5,10`` をグループ変数として最初の分析を行い、"
+"もう一方では ``dose 10,20`` "
+"をグループ変数として、2つの別々のANOVA（またはt検定）を実行できます。このよう"
+"にして、異なる分析ごとに異なるフィルターを使うことができます。これに対して、"
+"行フィルタは *すべて* の分析に適用される点が異なります。"
 
 #: ../../usermanual/um_4_spreadsheet.rst:419
 msgid ""
@@ -1126,6 +1151,13 @@ msgid ""
 "and ``FILTER(len, supp == 'OJ')`` respectively. This results in two separate "
 "columns which can be analysed side-by-side."
 msgstr ""
+"``FILTER()`` "
+"を使えば、いわゆる「簡易的な分割変数」のようなこともできるのでは、と思った人"
+"もいるでしょう。 実際、``FILTER()`` を使った変数分割は可能です。例えば、 "
+"``len`` を2つの新しい列 ``len_VC`` と ``len_OJ`` に分割するには、それぞれ "
+"``FILTER(len, supp == 'VC')`` と ``FILTER(len, supp == 'OJ')`` "
+"という関数を使います。こうすることで、2つの別々の列ができ、並べて分析できます"
+"。"
 
 #: ../../usermanual/um_4_spreadsheet.rst:432
 msgid ""
@@ -1133,10 +1165,15 @@ msgid ""
 "Data_dredging>`_, not deliberately making software difficult to use! Don’t p-"
 "hacking. Your p-hacking harms more people than you may assume."
 msgstr ""
+"事前登録（プレレジ）は `pハッキング <https://en.wikipedia.org/wiki/"
+"Data_dredging>`_ "
+"への解決策であり、ソフトウェアをわざと使いにくくするためのものはありません！ "
+"pハッキングはやめましょう。pハッキングは、あなたが思っている以上に多くの人に"
+"害を及ぼします。"
 
 #: ../../usermanual/um_5_updating_data.rst:4
 msgid "Updating data"
-msgstr ""
+msgstr "データの更新"
 
 #: ../../usermanual/um_5_updating_data.rst:6
 msgid ""
