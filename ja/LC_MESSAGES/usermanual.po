@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-01 23:26+0200\n"
-"PO-Revision-Date: 2025-04-17 01:01+0000\n"
+"PO-Revision-Date: 2025-04-17 02:01+0000\n"
 "Last-Translator: SHIBATA Seiji <contact@sbtseiji.net>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/jamovidocs/"
 "1_usermanual/ja/>\n"
@@ -1187,6 +1187,13 @@ msgid ""
 "your data cleaning and analysis steps (making your jamovi files behave a bit "
 "like scripts)."
 msgstr ""
+"データセットにフィルター、計算変数、変換を設定し、分析した後で、データを更新"
+"したい場合があります。これにはいくつか理由が考えられます。たとえば、新しいデ"
+"ータセットがあり、以前に行った分析をそれに適用したい場合、複数の参加者を対象"
+"とした実験を行っていて、新たに追加された参加者のデータを分析したい場合などで"
+"す。既存のデータセットにインポートすることで、すべてのデータクリーニングや分"
+"析手順をやり直すことなく、再度分析を実行できます（これにより、jamoviファイル"
+"はスクリプトのように動作します）。"
 
 #: ../../usermanual/um_5_updating_data.rst:16
 msgid ""
@@ -1194,10 +1201,13 @@ msgid ""
 "is provided in this `video introduction <https://youtu.be/u1K47yLEMbc>`__ "
 "(in English)."
 msgstr ""
+"jamoviへの複数ファイルのインポート方法や、テンプレートの使い方についての概要"
+"は、この `説明ビデオ <https://youtu.be/u1K47yLEMbc>`__ "
+"（英語）で説明されています。"
 
 #: ../../usermanual/um_5_updating_data.rst:22
 msgid "Single-file Import"
-msgstr ""
+msgstr "単一ファイルのインポート"
 
 #: ../../usermanual/um_5_updating_data.rst:24
 msgid ""
@@ -1205,44 +1215,50 @@ msgid ""
 "you import a file into an existing data set, the following operations are "
 "performed:"
 msgstr ""
+"インポートは、jamoviの左上にあるファイルメニュー（☰）から利用できます。既存の"
+"データセットにファイルをインポートすると、次の操作が実行されます。"
 
 #: ../../usermanual/um_5_updating_data.rst:28
 msgid "All the rows of the existing data set are deleted."
-msgstr ""
+msgstr "既存のデータセットのすべての行が削除されます。"
 
 #: ../../usermanual/um_5_updating_data.rst:29
 msgid ""
 "All the (original) names of the existing columns are matched to the names of "
 "the columns from the new data set."
-msgstr ""
+msgstr "既存の（元の）列のすべての名前が、新しいデータセットの列名と照合されます。"
 
 #: ../../usermanual/um_5_updating_data.rst:31
 msgid ""
 "The new values are imported to the existing columns, *keeping* the data and "
 "measure types from the existing data set."
-msgstr ""
+msgstr "新しい値は既存の列にインポートされ、既存データセットのデータ型や測定値型は "
+"*そのまま保持* されます。"
 
 #: ../../usermanual/um_5_updating_data.rst:33
 msgid ""
 "The new columns which did not match names in the original data set are "
 "appended to the right of the data set."
-msgstr ""
+msgstr "元のデータセットと名前が一致しなかった新しい列は、データセットの右側に追加さ"
+"れます。"
 
 #: ../../usermanual/um_5_updating_data.rst:36
 msgid ""
 "If no new column matches the column names in the existing data set, then "
 "those columns are left blank."
-msgstr ""
+msgstr "新しいデータセットに既存のデータセットの列名と一致する列がない場合、それらの"
+"列は空白のままになります。"
 
 #: ../../usermanual/um_5_updating_data.rst:39
 msgid ""
 "Following a file import, all the filters, computed variables, transforms and "
 "analyses update."
-msgstr ""
+msgstr "ファイルのインポート後、すべてのフィルター、計算変数、変換処理、分析が更新さ"
+"れます。"
 
 #: ../../usermanual/um_5_updating_data.rst:44
 msgid "Multi-file Import"
-msgstr ""
+msgstr "複数ファイルのインポート"
 
 #: ../../usermanual/um_5_updating_data.rst:46
 msgid ""
@@ -1254,6 +1270,12 @@ msgid ""
 "files, or with the “multi-select” button (three lines preceded by tick "
 "marks) at the top of the import dialog."
 msgstr ""
+"複数のファイルを一度にインポートすることも可能です。これは、たとえば各ファイ"
+"ルが参加者を表すような、複数のデータセットを結合する場合に便利です。手順は上"
+"記の単一ファイルのインポートと同じですが、インポート時に複数のファイルを選択"
+"する点が異なります。データファイルを選択する際にCtrlキーやShiftキーを押しなが"
+"らクリックするか、インポートダイアログ上部の「複数選択」ボタン（チェックマー"
+"ク付きの三本線）を使って複数選択ができます。"
 
 #: ../../usermanual/um_5_updating_data.rst:54
 msgid ""
@@ -1265,14 +1287,21 @@ msgid ""
 "column can be particularly useful to use with the ``group_by`` argument to "
 "``V``-functions described above."
 msgstr ""
+"このように複数のファイルをインポートする場合、ファイルは縦方向に結合されます"
+"。つまり、2つ目のファイルの行は1つ目の下に、3つ目のファイルの行は2つ目の下に"
+"、というように追加されていきます。また、 ``source`` "
+"という追加の列が作成され、各行がどのファイルから来たのかが記録されます。これ"
+"は、各参加者ごとに ``分割`` や ``グループ化`` "
+"を行いたい場合に便利です。とくに、この列は上記で説明した ``V`` 関数の "
+"``group_by`` 引数と組み合わせて使う際に役立ちます。"
 
 #: ../../usermanual/um_5_updating_data.rst:62
 msgid "At present, there is no way to combine files horizontally in jamovi."
-msgstr ""
+msgstr "現在、jamoviではファイルを横方向に連結することはできません。"
 
 #: ../../usermanual/um_5_updating_data.rst:66
 msgid "Templates"
-msgstr ""
+msgstr "テンプレート"
 
 #: ../../usermanual/um_5_updating_data.rst:68
 msgid ""
@@ -1284,6 +1313,13 @@ msgid ""
 "that they are entirely specified with the familiar user interface, and do "
 "not require working with a “syntax” or code."
 msgstr ""
+"jamoviのテンプレートは、従来の統計ソフトウェアにおけるスクリプトファイルに相"
+"当する特別なデータセットです。テンプレートを使うことで、データ型や計算、フィ"
+"ルター、変換、分析内容などを事前に指定しておくことができます。データが利用可"
+"能になった際には、そのデータをテンプレートにインポートするだけで、テンプレー"
+"トの内容が自動的に更新されます。jamoviのテンプレートの利点は、すべて馴染みの"
+"あるユーザーインターフェース上で完結し、「シンタックス」やコードを扱う必要が"
+"ない点にあります。"
 
 #: ../../usermanual/um_5_updating_data.rst:76
 msgid ""
@@ -1295,16 +1331,25 @@ msgid ""
 "followed by the filters, computed variables, and finally the analysis "
 "results."
 msgstr ""
+"データセットをテンプレートとして保存するには、ファイルメニューから "
+"``書き出し`` を選択し、ファイルタイプのボックスから "
+"``jamoviテンプレート（.omt）`` "
+"を選びます。テンプレートを開くと、列は含まれていますが行はなく、すべての分析"
+"結果が空白になっているのが分かります。テンプレートを利用するには、上記で説明"
+"したファイルインポート機能を使って新しいデータセット（または複数のデータセッ"
+"ト）をインポートします。すると、データが更新され、それに続いてフィルター、計"
+"算変数、最終的に分析結果も更新されます。"
 
 #: ../../usermanual/um_5_updating_data.rst:84
 msgid ""
 "jamovi templates are also a great way to provide analyses to less capable "
 "students or colleagues."
-msgstr ""
+msgstr "jamoviのテンプレートは、経験の浅い学生や同僚に分析を提供する方法としても非常"
+"に便利です。"
 
 #: ../../usermanual/um_6_jamovi_and_R.rst:4
 msgid "Combining jamovi and R"
-msgstr ""
+msgstr "jamoviとRの連携"
 
 #: ../../usermanual/um_6_jamovi_and_R.rst:6
 msgid ""
@@ -1313,10 +1358,13 @@ msgid ""
 "jamovi, and jamovi from R. The syntax mode, ``Rj``, |jmvconnect| and |"
 "jmvReadWrite| help you to achieve that."
 msgstr ""
+"jamoviの大きな利点は、R統計言語の上に構築されているだけでなく、jamoviからRへ"
+"、またRからjamoviへ非常に簡単にアクセスできる点です。シンタックスモード、 "
+"``Rj`` 、 |jmvconnect| 、 |jmvReadWrite| がその実現を助けてくれます。"
 
 #: ../../usermanual/um_6_jamovi_and_R.rst:12
 msgid "Syntax Mode"
-msgstr ""
+msgstr "シンタックスモード"
 
 #: ../../usermanual/um_6_jamovi_and_R.rst:14
 msgid ""
@@ -1325,6 +1373,13 @@ msgid ""
 "menu (⋮) at the top right of jamovi, and check the ``Syntax mode`` checkbox "
 "there. It is possible to leave syntax mode by clicking this a second time."
 msgstr ""
+"jamovi には「R シンタックスモード」が用意されており、"
+"このモードでは各分析に対応する R "
+"コードが自動的に生成されます。シンタックスモードに切り替えるには、jamovi "
+"画面右上のアプリケーションメニュー（縦に三つ並んだ点「⋮」）をクリックし、"
+"表示される ``シンタックスモード`` "
+"チェックボックスにチェックを入れてください。もう一度クリックするとシンタック"
+"スモードを解除できます。"
 
 #: ../../usermanual/um_6_jamovi_and_R.rst:19
 msgid ""
@@ -1334,6 +1389,11 @@ msgid ""
 "R session. All the analyses that are included with jamovi are available "
 "within an R session through the R package :doc:`jmv <../jmv/jmv_overview>`."
 msgstr ""
+"シンタックスモードでは、分析はこれまで通り実行されますが、Rの構文（Rシンタッ"
+"クス）が生成されます。jamoviのすべての結果オブジェクトと同様に、これらの項目"
+"（Rシンタックスも含めて）は右クリックしてコピーし、たとえばRのセッションに貼"
+"り付けることもできます。jamoviに含まれているすべての分析は、Rパッケージ "
+":doc:`jmv <../jmv/jmv_overview>` を使うことでRセッション内でも利用できます。"
 
 #: ../../usermanual/um_6_jamovi_and_R.rst:34
 msgid ""
@@ -1343,10 +1403,15 @@ msgid ""
 "write jamovi data files (.omv) in R, |jmvconnect|_ permits you to access "
 "data sets that you have opened in your jamovi session from R."
 msgstr ""
+"生成されるRの構文（Rシンタックス）にはデータのインポート手順は含まれていませ"
+"んが、これはRパッケージ |jmvconnect|_ と |jmvReadWrite|_ "
+"を使うことで簡単に実現できます（詳細は後述）。 |jmvReadWrite|_ "
+"はRでjamoviのデータファイル（.omv）の読み書きを可能にし、 |jmvconnect|_ "
+"はjamoviセッションで開いているデータセットにRからアクセスできるようにします。"
 
 #: ../../usermanual/um_6_jamovi_and_R.rst:43
 msgid "``Rj`` Editor"
-msgstr ""
+msgstr "``Rj`` エディタ"
 
 #: ../../usermanual/um_6_jamovi_and_R.rst:45
 msgid ""
@@ -1356,6 +1421,11 @@ msgid ""
 "allows you to use the R programming language to analyse data from within "
 "jamovi."
 msgstr ""
+"``Rjエディタ`` を使うと、jamovi内で直接 ``R`` "
+"のコードを用いてデータを分析したり、お気に入りのRパッケージをjamoviから利用し"
+"たりできます。 ``Rj`` はjamoviのモジュールの一つで（"
+"インストール方法については :doc:`../howto/howto_Install_modules` "
+"参照）jamovi内でRプログラミング言語を使ってデータ分析を行えるようにします。"
 
 #: ../../usermanual/um_6_jamovi_and_R.rst:51
 msgid "|um_Rj1|"
@@ -1373,6 +1443,11 @@ msgid ""
 "within jamovi. Additionally, you can make use of loops and if-statements, "
 "allowing (among other things) conditional analyses and simulation studies."
 msgstr ""
+"これを行いたい理由はさまざまです。Rパッケージには、まだjamoviのモジュールとし"
+"て提供されていない多くの分析手法があり、 ``Rj`` "
+"を使うことで、そうした分析をjamovi内から利用できるようになるというのはその1つ"
+"です。さらに、ループやif文なども利用できるため、条件付きの分析やシミュレーシ"
+"ョン研究など、より柔軟な処理が可能になります。"
 
 #: ../../usermanual/um_6_jamovi_and_R.rst:59
 msgid ""
