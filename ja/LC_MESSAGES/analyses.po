@@ -1,12 +1,13 @@
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PROJECT VERSION\n"
+"Project-Id-Version: jamovi \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-01 23:26+0200\n"
 "PO-Revision-Date: 2025-04-18 09:03+0000\n"
 "Last-Translator: SHIBATA Seiji <contact@sbtseiji.net>\n"
-"Language-Team: Japanese <https://hosted.weblate.org/projects/jamovidocs/"
-"2_analyses/ja/>\n"
+"Language-Team: Japanese <https://hosted.weblate.org/projects/"
+"jamovidocs/2_analyses/ja/>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -53,7 +54,8 @@ msgstr "add_var_descriptives"
 msgid ""
 "The result is shown in the right panel. Right-click on the output to save or "
 "copy it."
-msgstr "結果は右側のパネルに表示されます。結果を保存したりコピーしたりするには結果を"
+msgstr ""
+"結果は右側のパネルに表示されます。結果を保存したりコピーしたりするには結果を"
 "右クリックします。"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:25
@@ -68,7 +70,8 @@ msgstr "output_descriptives"
 msgid ""
 "To split your descriptive analyses on a categorical variable (e.g. to "
 "separate by gender), move that variable to ``Split by``."
-msgstr "記述統計をカテゴリ変数（例：性別など）ごとに分割して実施したい場合は、その変"
+msgstr ""
+"記述統計をカテゴリ変数（例：性別など）ごとに分割して実施したい場合は、その変"
 "数を「 ``グループ変数`` 」に移動してください。"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:32
@@ -112,8 +115,8 @@ msgid ""
 msgstr ""
 "上記の選択に基づいてグラフを作成するには、「グラフ」タブをクリックし、希望す"
 "るグラフのチェックボックスにチェックを入れてください。外れ値を特定したい場合"
-"や、変数が正規分布に従っているかを確認したい場合は、 ``箱ひげ図`` 、 "
-"``バイオリン図`` 、 ``Q-Qプロット`` にチェックを入れてください。"
+"や、変数が正規分布に従っているかを確認したい場合は、 ``箱ひげ図`` 、 ``バイオ"
+"リン図`` 、 ``Q-Qプロット`` にチェックを入れてください。"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:49
 msgid "|select_descriptives_plots|"
@@ -142,8 +145,8 @@ msgid ""
 "Poulson <https://datalab.cc/jamovi>`__."
 msgstr ""
 "これらについて別の説明が必要な場合、 `Barton Poulson <https://datalab.cc/"
-"jamovi>`__ による `導入ビデオ <https://www.youtube.com/embed/"
-"srqNCux0ijY?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ をごらんください。"
+"jamovi>`__ による `導入ビデオ <https://www.youtube.com/embed/srqNCux0ijY?"
+"list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ をごらんください。"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:0
 msgid ""
@@ -154,10 +157,10 @@ msgid ""
 "learnstatswithjamovi.com/>`__ by `Danielle J. Navarro <https://djnavarro.net/"
 ">`__ and `David R. Foxcroft <https://www.davidfoxcroft.com/>`__."
 msgstr ""
-"さらに詳しく学びたい方は、`Danielle J. Navarro <https://djnavarro.net/>`__ ・"
-" `David R. Foxcroft <https://www.davidfoxcroft.com/>`__ "
-"（著）、芝田征司（訳）『 `jamoviで学ぶ心理統計 <https://bookdown.org/"
-"sbtseiji/lswjamoviJ/>`__ 』の第4章をお読みください。"
+"さらに詳しく学びたい方は、`Danielle J. Navarro <https://djnavarro.net/>`__ "
+"・ `David R. Foxcroft <https://www.davidfoxcroft.com/>`__ （著）、芝田征司"
+"（訳）『 `jamoviで学ぶ心理統計 <https://bookdown.org/sbtseiji/lswjamoviJ/"
+">`__ 』の第4章をお読みください。"
 
 #: ../../analyses/jg_21_t-test-independent.rst:5
 msgid "t-test: Independent samples"
@@ -182,7 +185,7 @@ msgstr ""
 #: ../../analyses/jg_42_regression-linear.rst:55
 #: ../../analyses/jg_overview.rst:133
 msgid "continuous"
-msgstr "連続"
+msgstr "continuous"
 
 #: ../../analyses/jg_21_t-test-independent.rst:54
 #: ../../analyses/jg_31_unianova.rst:51
@@ -191,7 +194,7 @@ msgstr "連続"
 #: ../../analyses/jg_43_regression-logistic.rst:58
 #: ../../analyses/jg_overview.rst:131
 msgid "nominal"
-msgstr "名義"
+msgstr "nominal"
 
 #: ../../analyses/jg_21_t-test-independent.rst:0
 #: ../../analyses/jg_22_t-test-paired.rst:0
@@ -881,7 +884,7 @@ msgstr ""
 
 #: ../../analyses/jg_43_regression-logistic.rst:60
 msgid "ordinal"
-msgstr "順序"
+msgstr "ordinal"
 
 #: ../../analyses/jg_43_regression-logistic.rst:13
 msgid "|data_format_regression_logistic|"
