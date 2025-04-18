@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-01 23:26+0200\n"
-"PO-Revision-Date: 2025-04-15 12:01+0000\n"
+"PO-Revision-Date: 2025-04-18 09:03+0000\n"
 "Last-Translator: SHIBATA Seiji <contact@sbtseiji.net>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/jamovidocs/"
 "2_analyses/ja/>\n"
@@ -12,20 +12,20 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11-dev\n"
+"X-Generator: Weblate 5.11.1-dev\n"
 "Generated-By: Babel 2.17.0\n"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:5
 msgid "Descriptive analyses"
-msgstr ""
+msgstr "記述統計"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:7
 msgid "How to perform descriptive analyses and create graphs in jamovi:"
-msgstr ""
+msgstr "jamoviにおける記述統計とグラフの作成方法"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:0
 msgid "Select ``Analyses`` → ``Exploration`` → ``Descriptives``."
-msgstr ""
+msgstr "``分析`` → ``探索`` → ``記述統計`` を選択します。"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:11
 msgid "|select_descriptives|"
@@ -39,7 +39,7 @@ msgstr "select_descriptives"
 msgid ""
 "Drag and drop the variables you want descriptive analyses for to "
 "``Variables``."
-msgstr ""
+msgstr "記述統計を実施したい変数を ``変数`` にドラッグ＆ドロップします。"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:18
 msgid "|add_var_descriptives|"
@@ -53,7 +53,8 @@ msgstr "add_var_descriptives"
 msgid ""
 "The result is shown in the right panel. Right-click on the output to save or "
 "copy it."
-msgstr ""
+msgstr "結果は右側のパネルに表示されます。結果を保存したりコピーしたりするには結果を"
+"右クリックします。"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:25
 msgid "|output_descriptives|"
@@ -67,7 +68,8 @@ msgstr "output_descriptives"
 msgid ""
 "To split your descriptive analyses on a categorical variable (e.g. to "
 "separate by gender), move that variable to ``Split by``."
-msgstr ""
+msgstr "記述統計をカテゴリ変数（例：性別など）ごとに分割して実施したい場合は、その変"
+"数を「 ``グループ変数`` 」に移動してください。"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:32
 msgid "|add_var_descriptives_groupby|"
@@ -79,7 +81,7 @@ msgstr "add_var_descriptives_groupby"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:0
 msgid "This changes how the output looks like:"
-msgstr ""
+msgstr "すると、結果は次のように変わります。"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:36
 msgid "|output_descriptives_groupby|"
@@ -91,7 +93,7 @@ msgstr "output_descriptives_groupby"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:0
 msgid "Click the ``Statistics`` tab to see more alternatives."
-msgstr ""
+msgstr "``統計量`` タブをクリックすると、多数の選択肢が表示されます。"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:42
 msgid "|select_descriptives_statistics|"
@@ -108,6 +110,10 @@ msgid ""
 "and to check whehter your variables conform with a normal distribution, then "
 "you should tick ``Box plot``, ``Violin``, and ``Q-Q``."
 msgstr ""
+"上記の選択に基づいてグラフを作成するには、「グラフ」タブをクリックし、希望す"
+"るグラフのチェックボックスにチェックを入れてください。外れ値を特定したい場合"
+"や、変数が正規分布に従っているかを確認したい場合は、 ``箱ひげ図`` 、 "
+"``バイオリン図`` 、 ``Q-Qプロット`` にチェックを入れてください。"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:49
 msgid "|select_descriptives_plots|"
@@ -126,7 +132,7 @@ msgstr "select_descriptives_plots"
 #: ../../analyses/jg_42_regression-linear.rst:43
 #: ../../analyses/jg_43_regression-logistic.rst:48
 msgid "Further help from the community resources"
-msgstr ""
+msgstr "コミュニティによる参考資料"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:0
 msgid ""
@@ -135,6 +141,9 @@ msgid ""
 "embed/srqNCux0ijY?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ by `Barton "
 "Poulson <https://datalab.cc/jamovi>`__."
 msgstr ""
+"これらについて別の説明が必要な場合、 `Barton Poulson <https://datalab.cc/"
+"jamovi>`__ による `導入ビデオ <https://www.youtube.com/embed/"
+"srqNCux0ijY?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ をごらんください。"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:0
 msgid ""
@@ -145,6 +154,10 @@ msgid ""
 "learnstatswithjamovi.com/>`__ by `Danielle J. Navarro <https://djnavarro.net/"
 ">`__ and `David R. Foxcroft <https://www.davidfoxcroft.com/>`__."
 msgstr ""
+"さらに詳しく学びたい方は、`Danielle J. Navarro <https://djnavarro.net/>`__ ・"
+" `David R. Foxcroft <https://www.davidfoxcroft.com/>`__ "
+"（著）、芝田征司（訳）『 `jamoviで学ぶ心理統計 <https://bookdown.org/"
+"sbtseiji/lswjamoviJ/>`__ 』の第4章をお読みください。"
 
 #: ../../analyses/jg_21_t-test-independent.rst:5
 msgid "t-test: Independent samples"
