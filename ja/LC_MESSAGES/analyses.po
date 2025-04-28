@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-01 23:26+0200\n"
-"PO-Revision-Date: 2025-04-28 08:02+0000\n"
+"PO-Revision-Date: 2025-04-28 09:03+0000\n"
 "Last-Translator: SHIBATA Seiji <contact@sbtseiji.net>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/jamovidocs/"
 "2_analyses/ja/>\n"
@@ -270,7 +270,8 @@ msgid ""
 "for independent samples is conducted in SPSS and jamovi."
 msgstr ""
 "SPSSの使用経験がある方は、SPSSとjamoviでの対応なしt検定の実行方法を比較した "
-":doc:`side-by-side-comparison` を確認してみるとよいでしょう。"
+":doc:`side-by-side-comparison <../spss2jamovi/s2j_ttestIS>` "
+"を確認してみるとよいでしょう。"
 
 #: ../../analyses/jg_21_t-test-independent.rst:42
 #: ../../analyses/jg_overview.rst:61 ../../analyses/jg_overview.rst:96
@@ -351,6 +352,10 @@ msgid ""
 "one at a time, or select both variables in a pair by holding down the Ctrl-"
 "key while clicking on each, before dragging them across)."
 msgstr ""
+"2つの変数を ``ペア変数`` （Paired "
+"Variables）にドラッグ＆ドロップします（１つずつドラッグしてもいいですし、Ctrl"
+"キーを押しながらクリックすれば両方の変数を選択できるので、それらを同時にドラ"
+"ッグしても構いません）。"
 
 #: ../../analyses/jg_22_t-test-paired.rst:27
 msgid "|add_var_ttest_paired|"
@@ -374,6 +379,9 @@ msgid ""
 "doc:`side-by-side-comparison <../spss2jamovi/s2j_ttestPS2>` of how a t-test "
 "for paired samples is conducted in SPSS and jamovi."
 msgstr ""
+"SPSSの使用経験がある方は、SPSSとjamoviでの対応ありt検定の実行方法を比較した "
+":doc:`side-by-side-comparison <../spss2jamovi/s2j_ttestPS2>` "
+"を確認してみるとよいでしょう。"
 
 #: ../../analyses/jg_22_t-test-paired.rst:0
 msgid ""
@@ -382,6 +390,9 @@ msgid ""
 "datalab.cc/jamovi>`__ provides a more comprehensive introduction into this "
 "test."
 msgstr ""
+"この検定についてのより詳しい説明は、 `Barton Poulson <https://datalab.cc/"
+"jamovi>`__ によるこの `ビデオ <https://www.youtube.com/embed/"
+"lSjfYYiJG6E?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ をご覧ください。"
 
 #: ../../analyses/jg_22_t-test-paired.rst:0
 msgid ""
@@ -392,20 +403,27 @@ msgid ""
 "com/>`__ by `Danielle J. Navarro <https://djnavarro.net/>`__ and `David R. "
 "Foxcroft <https://www.davidfoxcroft.com/>`__."
 msgstr ""
+"さらに深く学びたい方は、ウェブドキュメント「jamoviで学ぶ心理統計」の `"
+"該当セクション <https://bookdown.org/sbtseiji/lswjamoviJ/ch-"
+"ttest.html#sec:pairedsamplesttest>`__ 、または `Danielle J. Navarro <https://"
+"djnavarro.net/>`__ と `David R. Foxcroft <https://www.davidfoxcroft.com/>`__ "
+"による `電子書籍 <https://www.learnstatswithjamovi.com/>`__ "
+"の第11.5章をお読みください。"
 
 #: ../../analyses/jg_23_t-test-onesample.rst:5
 msgid "t-test: One sample"
-msgstr ""
+msgstr "t検定：1標本t検定"
 
 #: ../../analyses/jg_23_t-test-onesample.rst:7
 msgid "How to perform a one-sample t-test in jamovi:"
-msgstr ""
+msgstr "jamoviで1標本t検定を行う手順は次のとおりです。"
 
 #: ../../analyses/jg_23_t-test-onesample.rst:0
 msgid ""
 "You need one |continuous| continuous variable and a mean to test against "
 "(typically the mean being tested is zero)."
-msgstr ""
+msgstr "分析には |continuous| "
+"連続変数が1つと、検定対象となる平均値（一般的には平均値=0で検定）が必要です。"
 
 #: ../../analyses/jg_23_t-test-onesample.rst:13
 msgid "|data_format_ttest_onesample|"
@@ -418,6 +436,8 @@ msgstr "data_format_ttest_onesample"
 #: ../../analyses/jg_23_t-test-onesample.rst:0
 msgid "Select ``Analyses`` → ``T-Tests`` → ``One Sample T-Test``."
 msgstr ""
+"``分析`` （Analyses） → ``t検定`` （T-Tests） → ``1標本t検定`` （One Sample "
+"T-Test）を選択します。"
 
 #: ../../analyses/jg_23_t-test-onesample.rst:19
 msgid "|select_ttest_onesample|"
@@ -429,7 +449,8 @@ msgstr "select_ttest_onesample"
 
 #: ../../analyses/jg_23_t-test-onesample.rst:0
 msgid "Drag and drop your dependent variable to ``Dependent Variables``."
-msgstr ""
+msgstr "分析したい変数を ``従属変数`` （Dependent "
+"Variables）へドラッグ＆ドロップしてください。"
 
 #: ../../analyses/jg_23_t-test-onesample.rst:25
 msgid "|add_var_ttest_onesample|"
@@ -443,7 +464,8 @@ msgstr "add_var_ttest_onesample"
 msgid ""
 "Locate the section ``Hypothesis`` further down, this is where you enter the "
 "mean you want to test against."
-msgstr ""
+msgstr "下の方の ``仮説`` "
+"（Hypothesis）セクションで、検定対象となる平均値を入力します。"
 
 #: ../../analyses/jg_23_t-test-onesample.rst:31
 msgid "|options_ttest_onesample|"
@@ -468,6 +490,9 @@ msgid ""
 "datalab.cc/jamovi>`__ provides a more comprehensive introduction into this "
 "test."
 msgstr ""
+"この検定についてのより詳しい説明は、 `Barton Poulson <https://datalab.cc/"
+"jamovi>`__ によるこの `ビデオ <https://www.youtube.com/embed/"
+"DrBT4ezYIL8?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ をご覧ください。"
 
 #: ../../analyses/jg_23_t-test-onesample.rst:0
 msgid ""
@@ -478,6 +503,12 @@ msgid ""
 "com/>`__ by `Danielle J. Navarro <https://djnavarro.net/>`__ and `David R. "
 "Foxcroft <https://www.davidfoxcroft.com/>`__."
 msgstr ""
+"さらに深く学びたい方は、ウェブドキュメント「jamoviで学ぶ心理統計」の `"
+"該当セクション <hhttps://bookdown.org/sbtseiji/lswjamoviJ/ch-"
+"ttest.html#sec:onesamplettest>`__ 、または `Danielle J. Navarro <https://"
+"djnavarro.net/>`__ と `David R. Foxcroft <https://www.davidfoxcroft.com/>`__ "
+"による `電子書籍 <https://www.learnstatswithjamovi.com/>`__ "
+"の第11.2章をお読みください。"
 
 #: ../../analyses/jg_31_unianova.rst:5
 msgid "ANOVA: One-Way"
