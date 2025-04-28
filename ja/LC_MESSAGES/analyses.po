@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-01 23:26+0200\n"
-"PO-Revision-Date: 2025-04-22 12:04+0000\n"
+"PO-Revision-Date: 2025-04-28 02:01+0000\n"
 "Last-Translator: SHIBATA Seiji <contact@sbtseiji.net>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/jamovidocs/"
 "2_analyses/ja/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.1-dev\n"
+"X-Generator: Weblate 5.12-dev\n"
 "Generated-By: Babel 2.17.0\n"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:5
@@ -139,7 +139,7 @@ msgstr "select_descriptives_plots"
 #: ../../analyses/jg_42_regression-linear.rst:43
 #: ../../analyses/jg_43_regression-logistic.rst:48
 msgid "Further help from the community resources"
-msgstr "コミュニティによる参考資料"
+msgstr "コミュニティ資源"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:0
 msgid ""
@@ -172,13 +172,14 @@ msgstr "t検定：対応なしt検定"
 
 #: ../../analyses/jg_21_t-test-independent.rst:7
 msgid "How to perform an independent samples t-test in jamovi:"
-msgstr ""
+msgstr "jamoviで対応なしt検定を行う手順は次のとおりです。"
 
 #: ../../analyses/jg_21_t-test-independent.rst:0
 msgid ""
 "You need at least one |continuous| continuous dependent variable, and a |"
 "nominal| grouping variable with two levels (e.g. treatment / control)."
-msgstr ""
+msgstr "分析には |continuous| 連続型の従属変数が１つと |nominal| "
+"名義型の2値（例：実験群・統制群）のグループ変数が必要です。"
 
 #: ../../analyses/jg_21_t-test-independent.rst:56
 #: ../../analyses/jg_22_t-test-paired.rst:56
@@ -209,7 +210,7 @@ msgstr "nominal"
 #: ../../analyses/jg_42_regression-linear.rst:0
 #: ../../analyses/jg_43_regression-logistic.rst:0
 msgid "A correct setup should look similar to this:"
-msgstr ""
+msgstr "データは次のように入力されている必要があります。"
 
 #: ../../analyses/jg_21_t-test-independent.rst:13
 msgid "|data_format_ttest_independent|"
@@ -222,6 +223,8 @@ msgstr "data_format_ttest_independent"
 #: ../../analyses/jg_21_t-test-independent.rst:0
 msgid "Select ``Analyses`` → ``T-Tests`` → ``Independent Samples T-Test``."
 msgstr ""
+"``分析`` （ ``Analyses`` ） → ``t検定`` （ ``T-Tests`` ） → ``対応なしt検定``"
+" （ ``Independent Samples T-Test`` ）を選択します。"
 
 #: ../../analyses/jg_21_t-test-independent.rst:19
 msgid "|select_ttest_independent|"
@@ -236,6 +239,8 @@ msgid ""
 "Drag and drop your outcome variable to ``Dependent Variables`` and your "
 "grouping variable to ``Grouping Variable``."
 msgstr ""
+"結果変数を ``従属変数`` （ ``Dependent Variables`` ）に、グループ変数を "
+"``グループ変数`` （ ``Grouping Variable`` ）にドラッグ＆ドロップします。"
 
 #: ../../analyses/jg_21_t-test-independent.rst:25
 msgid "|add_var_ttest_independent|"
@@ -249,7 +254,7 @@ msgstr "add_var_ttest_independent"
 #: ../../analyses/jg_22_t-test-paired.rst:0
 #: ../../analyses/jg_23_t-test-onesample.rst:0
 msgid "The result is shown in the right panel."
-msgstr ""
+msgstr "結果は右側のパネルに表示されます。"
 
 #: ../../analyses/jg_21_t-test-independent.rst:31
 msgid "|output_ttest_independent|"
@@ -265,12 +270,14 @@ msgid ""
 "doc:`side-by-side-comparison <../spss2jamovi/s2j_ttestIS>` of how a t-test "
 "for independent samples is conducted in SPSS and jamovi."
 msgstr ""
+"SPSSの使用経験がある方は、SPSSとjamoviでの対応なしt検定の実行方法を比較した "
+":doc:`side-by-side-comparison` を確認してみるとよいでしょう。"
 
 #: ../../analyses/jg_21_t-test-independent.rst:42
 #: ../../analyses/jg_overview.rst:61 ../../analyses/jg_overview.rst:96
 #: ../../analyses/jg_overview.rst:123
 msgid "Community resources"
-msgstr ""
+msgstr "コミュニティ資源"
 
 #: ../../analyses/jg_21_t-test-independent.rst:0
 msgid ""
