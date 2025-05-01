@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-01 23:26+0200\n"
-"PO-Revision-Date: 2025-04-29 06:09+0000\n"
+"PO-Revision-Date: 2025-05-01 01:01+0000\n"
 "Last-Translator: SHIBATA Seiji <contact@sbtseiji.net>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/jamovidocs/"
 "2_analyses/ja/>\n"
@@ -504,7 +504,7 @@ msgid ""
 "Foxcroft <https://www.davidfoxcroft.com/>`__."
 msgstr ""
 "さらに深く学びたい方は、ウェブドキュメント「jamoviで学ぶ心理統計」の `"
-"該当セクション <hhttps://bookdown.org/sbtseiji/lswjamoviJ/ch-"
+"該当セクション <https://bookdown.org/sbtseiji/lswjamoviJ/ch-"
 "ttest.html#sec:onesamplettest>`__ 、または `Danielle J. Navarro <https://"
 "djnavarro.net/>`__ と `David R. Foxcroft <https://www.davidfoxcroft.com/>`__ "
 "による `電子書籍 <https://www.learnstatswithjamovi.com/>`__ "
@@ -584,7 +584,7 @@ msgstr "options_unianova"
 #: ../../analyses/jg_32_anova-factorial.rst:0
 #: ../../analyses/jg_33_anova-rm.rst:0
 msgid "The results are shown in the right panel:"
-msgstr ""
+msgstr "結果は右側のパネルに表示されます。"
 
 #: ../../analyses/jg_31_unianova.rst:37
 msgid "|output_unianova|"
@@ -603,20 +603,26 @@ msgid ""
 "Navarro <https://djnavarro.net/>`__ and `David R. Foxcroft <https://www."
 "davidfoxcroft.com/>`__."
 msgstr ""
+"さらに深く学びたい方は、ウェブドキュメント「jamoviで学ぶ心理統計」の `"
+"該当セクション <https://bookdown.org/sbtseiji/lswjamoviJ/ch-anova.html>`__ 、"
+"または `Danielle J. Navarro <https://djnavarro.net/>`__ と `David R. "
+"Foxcroft <https://www.davidfoxcroft.com/>`__ による `電子書籍 <https://"
+"www.learnstatswithjamovi.com/>`__ の第13.1章〜13.6章をお読みください。"
 
 #: ../../analyses/jg_32_anova-factorial.rst:5
 msgid "ANOVA"
-msgstr ""
+msgstr "分散分析"
 
 #: ../../analyses/jg_32_anova-factorial.rst:7
 msgid "How to perform a factorial ANOVA in jamovi:"
-msgstr ""
+msgstr "jamoviで多元配置分散分析を行う手順は次のとおりです。"
 
 #: ../../analyses/jg_32_anova-factorial.rst:0
 msgid ""
 "You need one |continuous| continuous dependent variable, and one or more |"
 "nominal| grouping variables."
-msgstr ""
+msgstr "分析には |continuous| 連続型の従属変数1つと、1つまたは複数の |nominal| "
+"名義型グループ変数が必要です。"
 
 #: ../../analyses/jg_32_anova-factorial.rst:13
 msgid "|data_format_anova_factorial|"
@@ -628,7 +634,8 @@ msgstr "data_format_anova_factorial"
 
 #: ../../analyses/jg_32_anova-factorial.rst:0
 msgid "Select ``Analyses`` → ``ANOVA`` → ``ANOVA``."
-msgstr ""
+msgstr "``分析`` （Analyses）→ ``分散分析`` （ANOVA）→ ``分散分析`` "
+"（ANOVA）を選択します。"
 
 #: ../../analyses/jg_32_anova-factorial.rst:19
 msgid "|select_anova_factorial|"
@@ -643,6 +650,8 @@ msgid ""
 "Drag and drop your outcome variable to ``Dependent Variable`` and your "
 "grouping variables to ``Fixed Factors``."
 msgstr ""
+"結果変数を ``従属変数`` （Dependent Variable）に、グループ変数を ``固定因子``"
+" （Fixed Factors）にドラッグ＆ドロップしてください。"
 
 #: ../../analyses/jg_32_anova-factorial.rst:25
 msgid "|add_var_anova_factorial|"
@@ -667,6 +676,9 @@ msgid ""
 "list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ by `Barton Poulson <https://"
 "datalab.cc/jamovi>`__."
 msgstr ""
+"この検定についてのより詳しい説明は、 `Barton Poulson <https://datalab.cc/"
+"jamovi>`__ によるこちらの `ビデオ <https://www.youtube.com/embed/"
+"TJoJTVgDyqY?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ をご覧ください。"
 
 #: ../../analyses/jg_32_anova-factorial.rst:0
 msgid ""
@@ -677,10 +689,15 @@ msgid ""
 "learnstatswithjamovi.com/>`__ by `Danielle J. Navarro <https://djnavarro.net/"
 ">`__ and `David R. Foxcroft <https://www.davidfoxcroft.com/>`__."
 msgstr ""
+"さらに深く学びたい方は、ウェブドキュメント「jamoviで学ぶ心理統計」の `"
+"該当セクション <https://bookdown.org/sbtseiji/lswjamoviJ/ch-anova2.html>`__ "
+"、または `Danielle J. Navarro <https://djnavarro.net/>`__ と `David R. "
+"Foxcroft <https://www.davidfoxcroft.com/>`__ による `電子書籍 <https://"
+"www.learnstatswithjamovi.com/>`__ の第14.1章〜14.4章をお読みください。"
 
 #: ../../analyses/jg_33_anova-rm.rst:5
 msgid "ANOVA: Repeated Measures"
-msgstr ""
+msgstr "分散分析：反復測定分散分析"
 
 #: ../../analyses/jg_33_anova-rm.rst:7
 msgid "How to perform a repeated measures ANOVA in jamovi:"
