@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-01 23:26+0200\n"
-"PO-Revision-Date: 2025-05-01 01:01+0000\n"
+"PO-Revision-Date: 2025-05-01 01:50+0000\n"
 "Last-Translator: SHIBATA Seiji <contact@sbtseiji.net>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/jamovidocs/"
 "2_analyses/ja/>\n"
@@ -701,13 +701,13 @@ msgstr "分散分析：反復測定分散分析"
 
 #: ../../analyses/jg_33_anova-rm.rst:7
 msgid "How to perform a repeated measures ANOVA in jamovi:"
-msgstr ""
+msgstr "jamoviで反復測定分散分析を行う手順は次のとおりです。"
 
 #: ../../analyses/jg_33_anova-rm.rst:0
 msgid ""
 "You need one |continuous| continuous dependent variable for each measurement "
 "occasion."
-msgstr ""
+msgstr "分析には、各測定時点に |continuous| 連続型の従属変数が1つずつ必要です。"
 
 #: ../../analyses/jg_33_anova-rm.rst:13
 msgid "|data_format_anova_repeated|"
@@ -720,6 +720,8 @@ msgstr "data_format_anova_repeated"
 #: ../../analyses/jg_33_anova-rm.rst:0 ../../analyses/jg_34_anova-mixed.rst:0
 msgid "Select ``Analyses`` → ``ANOVA`` → ``Repeated Measures ANOVA``."
 msgstr ""
+"``分析`` （Analyses）→ ``分散分析`` （ANOVA）→ ``反復測定分散分析`` （"
+"Repeated Measures ANOVA）を選択します。"
 
 #: ../../analyses/jg_33_anova-rm.rst:19 ../../analyses/jg_34_anova-mixed.rst:20
 msgid "|select_anova_repeated|"
@@ -737,6 +739,11 @@ msgid ""
 "below shows the box with default values (left) and when the values has been "
 "set (right)."
 msgstr ""
+"`反復測定因子` （Repeated Measures "
+"Factors）のボックスには、結果変数の名前（例：`My_scale`）を書き、各測定時点の"
+"レベル名（例：`Pre`、`Post`、`12 month follow-"
+"up`）を入力します。下の画像は、デフォルト値が入力された状態（左）と、値が設定"
+"された状態（右）のボックスを示しています。"
 
 #: ../../analyses/jg_33_anova-rm.rst:26 ../../analyses/jg_34_anova-mixed.rst:27
 msgid ""
@@ -756,7 +763,8 @@ msgstr "add_var_anova_repeated_naming_2"
 msgid ""
 "Drag and drop your outcome variables to their respective cells in ``Repeated "
 "Measures Cells``."
-msgstr ""
+msgstr "結果変数を ``反復測定セル`` （Repeated Measures "
+"Cells）の各該当セルにドラッグ＆ドロップしてください。"
 
 #: ../../analyses/jg_33_anova-rm.rst:32 ../../analyses/jg_34_anova-mixed.rst:33
 msgid "|add_var_anova_repeated|"
@@ -775,6 +783,13 @@ msgid ""
 "``Assumption Checks`` drop-down menu and set the ``Sphericity tests`` tick "
 "box."
 msgstr ""
+"ルビーン（Levene）検定で分散の等質性を検定するには、 ``前提チェック`` （"
+"Assumption Checks）ドロップダウンメニューを開き、 ``等質性検定`` （"
+"Homogeneity "
+"test）のチェックボックスをオンにします。また、繰り返し要因の各段階で分散が同"
+"じである（球面性）ことも確認すると良いでしょう。そのためには、 "
+"``前提チェック`` （Assumption Checks）ドロップダウンメニューを開き、 "
+"``球面性検定`` （Sphericity tests）のチェックボックスをオンにします。"
 
 #: ../../analyses/jg_33_anova-rm.rst:44
 msgid "|output_anova_repeated|"
