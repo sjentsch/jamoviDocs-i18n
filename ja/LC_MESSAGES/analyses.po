@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-01 23:26+0200\n"
-"PO-Revision-Date: 2025-05-01 01:50+0000\n"
+"PO-Revision-Date: 2025-05-01 08:01+0000\n"
 "Last-Translator: SHIBATA Seiji <contact@sbtseiji.net>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/jamovidocs/"
 "2_analyses/ja/>\n"
@@ -806,6 +806,9 @@ msgid ""
 "list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ by `Barton Poulson <https://"
 "datalab.cc/jamovi>`__."
 msgstr ""
+"この検定についてのより詳しい説明は、 `Barton Poulson <https://datalab.cc/"
+"jamovi>`__ によるこちらの `ビデオ <https://www.youtube.com/embed/"
+"m5JNwPgiMso?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ をご覧ください。"
 
 #: ../../analyses/jg_33_anova-rm.rst:0
 msgid ""
@@ -815,14 +818,17 @@ msgid ""
 "html>`__ or chapter 13.7 of the `e-book <https://www.learnstatswithjamovi."
 "com/>`__ by Danielle J. Navarro and David R. Foxcroft."
 msgstr ""
+"さらに深く学びたい方は、`Danielle J. Navarro <https://djnavarro.net/>`__ と `"
+"David R. Foxcroft <https://www.davidfoxcroft.com/>`__ による `電子書籍 "
+"<https://www.learnstatswithjamovi.com/>`__ の第13.7章をお読みください。"
 
 #: ../../analyses/jg_34_anova-mixed.rst:5
 msgid "ANOVA: Mixed"
-msgstr ""
+msgstr "分散分析：混合計画"
 
 #: ../../analyses/jg_34_anova-mixed.rst:7
 msgid "How to perform a mixed ANOVA in jamovi:"
-msgstr ""
+msgstr "jamoviで混合計画の分散分析を行う手順は次のとおりです。"
 
 #: ../../analyses/jg_34_anova-mixed.rst:0
 msgid ""
@@ -831,6 +837,10 @@ msgid ""
 "(between-subjects-factor) with at least two levels (e.g., treatment / "
 "control, gender)."
 msgstr ""
+"分析には、各参加者の反復測定（例：pre / post）ごとに |continuous| "
+"連続型の変数1つが必要であり、さらに2つ以上の水準（例：治療群 / "
+"対照群、性別など）を含む |nominal| "
+"名義型のグループ変数（参加者間要因）が少なくとも1つ必要です。"
 
 #: ../../analyses/jg_34_anova-mixed.rst:14
 msgid "|data_format_anova_mixed|"
@@ -847,10 +857,15 @@ msgid ""
 "occasion (e.g., ``Pre``, ``Post`` and ``12 month follow-up``). The images "
 "below illustrates this."
 msgstr ""
+"``反復測定因子`` （Repeated Measures "
+"Factors）のボックスには、結果変数の名前（例： ``My_scale`` "
+"）を入力し、各測定時点のレベル名（例： ``Pre`` 、 ``Post`` 、 ``12 month "
+"follow-up`` ）を記入します。下の画像がその例を示しています。"
 
 #: ../../analyses/jg_34_anova-mixed.rst:0
 msgid "Move your grouping variable(s) to ``Between Subject Factors``."
-msgstr ""
+msgstr "グループ変数を ``参加者間因子`` （Between Subject "
+"Factors）に移動してください。"
 
 #: ../../analyses/jg_34_anova-mixed.rst:39
 msgid "|add_var_anova_mixed|"
@@ -864,7 +879,7 @@ msgstr "add_var_anova_mixed"
 #: ../../analyses/jg_42_regression-linear.rst:0
 #: ../../analyses/jg_43_regression-logistic.rst:0
 msgid "The result is shown in the right panel:"
-msgstr ""
+msgstr "結果は右側のパネルに表示されます。"
 
 #: ../../analyses/jg_34_anova-mixed.rst:45
 msgid "|output_anova_mixed|"
@@ -880,6 +895,9 @@ msgid ""
 "provided by this `video <https://www.youtube.com/embed/m5JNwPgiMso?"
 "list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__."
 msgstr ""
+"この統計手法についての、もう少し包括的な説明はこの`ビデオ <https://"
+"www.youtube.com/embed/m5JNwPgiMso?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`"
+"__ で提供されています。"
 
 #: ../../analyses/jg_42_regression-linear.rst:5
 msgid "Linear Regression"
