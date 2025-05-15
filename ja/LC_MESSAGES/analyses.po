@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-01 23:26+0200\n"
-"PO-Revision-Date: 2025-05-01 08:01+0000\n"
+"PO-Revision-Date: 2025-05-15 04:01+0000\n"
 "Last-Translator: SHIBATA Seiji <contact@sbtseiji.net>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/jamovidocs/"
 "2_analyses/ja/>\n"
@@ -901,17 +901,18 @@ msgstr ""
 
 #: ../../analyses/jg_42_regression-linear.rst:5
 msgid "Linear Regression"
-msgstr ""
+msgstr "線形回帰"
 
 #: ../../analyses/jg_42_regression-linear.rst:7
 msgid "How to perform a linear regression in jamovi:"
-msgstr ""
+msgstr "jamoviで線形回帰を行う手順は次の通りです。"
 
 #: ../../analyses/jg_42_regression-linear.rst:0
 msgid ""
 "You need one |continuous| dependent variable, and at least one |continuous| "
 "predictor variable (aka a covariate)."
-msgstr ""
+msgstr "分析には、 |continuous| 連続型従属変数1つと、1つまたは複数の |continuous| "
+"連続型説明変数（共変量）が必要です。"
 
 #: ../../analyses/jg_42_regression-linear.rst:13
 msgid "|data_format_regression_linear|"
@@ -924,6 +925,8 @@ msgstr "data_format_regression_linear"
 #: ../../analyses/jg_42_regression-linear.rst:0
 msgid "Select ``Analyses`` → ``Regression`` → ``Linear Regression``."
 msgstr ""
+"``分析`` （Analyses）→ ``回帰`` （Regression）→ ``線形回帰`` （Linear "
+"Regression）を選択します。"
 
 #: ../../analyses/jg_42_regression-linear.rst:19
 msgid "|select_regression_linear|"
