@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-04-01 23:26+0200\n"
-"PO-Revision-Date: 2025-05-29 07:01+0000\n"
+"PO-Revision-Date: 2025-05-29 08:01+0000\n"
 "Last-Translator: SHIBATA Seiji <contact@sbtseiji.net>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/jamovidocs/"
 "3_howto/ja/>\n"
@@ -40,7 +40,7 @@ msgstr ""
 #: ../../howto/howto_Filtering_data.rst:0
 msgid ""
 "in order to access functions, press the ``fx`` icon in the filter settings"
-msgstr ""
+msgstr "関数にアクセスするには、フィルタの設定で ``fx`` アイコンを選択します"
 
 #: ../../howto/howto_Filtering_data.rst:0
 msgid ""
