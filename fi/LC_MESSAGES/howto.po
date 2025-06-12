@@ -1,10 +1,51 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2016-2022, The section authors, The jamovi project, and Sebastian Jentschke (curating this documentation). This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
-# This file is distributed under the same license as the jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-12 12:29+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-12 12:28+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-12 12:26+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-12 12:25+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-12 12:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Project-Id-Version: jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-01 23:26+0200\n"
@@ -24,11 +65,11 @@ msgstr ""
 
 #: ../../howto/howto_Filtering_data.rst:7
 msgid "|Outliers_Filter_Shortcut|"
-msgstr ""
+msgstr "|Outliers_Filter_Shortcut|"
 
 #: ../../howto/howto_Filtering_data.rst:90
 msgid "Outliers_Filter_Shortcut"
-msgstr ""
+msgstr "Outliers_Filter_Shortcut"
 
 #: ../../howto/howto_Filtering_data.rst:0
 msgid ""
@@ -91,11 +132,11 @@ msgstr ""
 
 #: ../../howto/howto_Filtering_data.rst:48
 msgid "|Outliers_Filter_Settings|"
-msgstr ""
+msgstr "|Outliers_Filter_Settings|"
 
 #: ../../howto/howto_Filtering_data.rst:91
 msgid "Outliers_Filter_Settings"
-msgstr ""
+msgstr "Outliers_Filter_Settings"
 
 #: ../../howto/howto_Filtering_data.rst:0
 msgid ""
@@ -141,11 +182,11 @@ msgstr ""
 
 #: ../../howto/howto_Install_modules.rst:9
 msgid "|jamovi_Modules1|"
-msgstr ""
+msgstr "|jamovi_Modules1|"
 
 #: ../../howto/howto_Install_modules.rst:22
 msgid "jamovi_Modules1"
-msgstr ""
+msgstr "jamovi_Modules1"
 
 #: ../../howto/howto_Install_modules.rst:11
 msgid "Choose the jamovi library from the menu that opens."
@@ -153,11 +194,11 @@ msgstr ""
 
 #: ../../howto/howto_Install_modules.rst:12
 msgid "|jamovi_Modules2|"
-msgstr ""
+msgstr "|jamovi_Modules2|"
 
 #: ../../howto/howto_Install_modules.rst:23
 msgid "jamovi_Modules2"
-msgstr ""
+msgstr "jamovi_Modules2"
 
 #: ../../howto/howto_Install_modules.rst:17
 msgid ""
@@ -169,11 +210,11 @@ msgstr ""
 
 #: ../../howto/howto_Install_modules.rst:18
 msgid "|jamovi_Modules3|"
-msgstr ""
+msgstr "|jamovi_Modules3|"
 
 #: ../../howto/howto_Install_modules.rst:24
 msgid "jamovi_Modules3"
-msgstr ""
+msgstr "jamovi_Modules3"
 
 #: ../../howto/howto_Use_PROCESS.rst:7
 msgid "Use the R-version of the PROCESS-macro from within jamovi"

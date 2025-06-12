@@ -1,10 +1,51 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2016-2022, The section authors, The jamovi project, and Sebastian Jentschke (curating this documentation). This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
-# This file is distributed under the same license as the jamovi package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+#, fuzzy
 msgid ""
 msgstr ""
+"Project-Id-Version: jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-12 12:29+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-12 12:28+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-12 12:26+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-12 12:25+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-12 12:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Project-Id-Version: jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-01 23:26+0200\n"
@@ -31,11 +72,11 @@ msgstr ""
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:11
 msgid "|select_descriptives|"
-msgstr ""
+msgstr "|select_descriptives|"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:65
 msgid "select_descriptives"
-msgstr ""
+msgstr "select_descriptives"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:0
 msgid ""
@@ -45,11 +86,11 @@ msgstr ""
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:18
 msgid "|add_var_descriptives|"
-msgstr ""
+msgstr "|add_var_descriptives|"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:68
 msgid "add_var_descriptives"
-msgstr ""
+msgstr "add_var_descriptives"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:0
 msgid ""
@@ -59,11 +100,11 @@ msgstr ""
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:25
 msgid "|output_descriptives|"
-msgstr ""
+msgstr "|output_descriptives|"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:71
 msgid "output_descriptives"
-msgstr ""
+msgstr "output_descriptives"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:0
 msgid ""
@@ -73,11 +114,11 @@ msgstr ""
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:32
 msgid "|add_var_descriptives_groupby|"
-msgstr ""
+msgstr "|add_var_descriptives_groupby|"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:74
 msgid "add_var_descriptives_groupby"
-msgstr ""
+msgstr "add_var_descriptives_groupby"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:0
 msgid "This changes how the output looks like:"
@@ -85,11 +126,11 @@ msgstr ""
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:36
 msgid "|output_descriptives_groupby|"
-msgstr ""
+msgstr "|output_descriptives_groupby|"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:77
 msgid "output_descriptives_groupby"
-msgstr ""
+msgstr "output_descriptives_groupby"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:0
 msgid "Click the ``Statistics`` tab to see more alternatives."
@@ -97,11 +138,11 @@ msgstr ""
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:42
 msgid "|select_descriptives_statistics|"
-msgstr ""
+msgstr "|select_descriptives_statistics|"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:80
 msgid "select_descriptives_statistics"
-msgstr ""
+msgstr "select_descriptives_statistics"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:0
 msgid ""
@@ -113,11 +154,11 @@ msgstr ""
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:49
 msgid "|select_descriptives_plots|"
-msgstr ""
+msgstr "|select_descriptives_plots|"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:83
 msgid "select_descriptives_plots"
-msgstr ""
+msgstr "select_descriptives_plots"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:53
 #: ../../analyses/jg_22_t-test-paired.rst:44
@@ -171,7 +212,7 @@ msgstr ""
 #: ../../analyses/jg_42_regression-linear.rst:55
 #: ../../analyses/jg_overview.rst:133
 msgid "continuous"
-msgstr ""
+msgstr "continuous"
 
 #: ../../analyses/jg_21_t-test-independent.rst:54
 #: ../../analyses/jg_31_unianova.rst:51
@@ -180,7 +221,7 @@ msgstr ""
 #: ../../analyses/jg_43_regression-logistic.rst:58
 #: ../../analyses/jg_overview.rst:131
 msgid "nominal"
-msgstr ""
+msgstr "nominal"
 
 #: ../../analyses/jg_21_t-test-independent.rst:0
 #: ../../analyses/jg_22_t-test-paired.rst:0
@@ -195,11 +236,11 @@ msgstr ""
 
 #: ../../analyses/jg_21_t-test-independent.rst:13
 msgid "|data_format_ttest_independent|"
-msgstr ""
+msgstr "|data_format_ttest_independent|"
 
 #: ../../analyses/jg_21_t-test-independent.rst:58
 msgid "data_format_ttest_independent"
-msgstr ""
+msgstr "data_format_ttest_independent"
 
 #: ../../analyses/jg_21_t-test-independent.rst:0
 msgid "Select ``Analyses`` → ``T-Tests`` → ``Independent Samples T-Test``."
@@ -207,11 +248,11 @@ msgstr ""
 
 #: ../../analyses/jg_21_t-test-independent.rst:19
 msgid "|select_ttest_independent|"
-msgstr ""
+msgstr "|select_ttest_independent|"
 
 #: ../../analyses/jg_21_t-test-independent.rst:60
 msgid "select_ttest_independent"
-msgstr ""
+msgstr "select_ttest_independent"
 
 #: ../../analyses/jg_21_t-test-independent.rst:0
 msgid ""
@@ -221,11 +262,11 @@ msgstr ""
 
 #: ../../analyses/jg_21_t-test-independent.rst:25
 msgid "|add_var_ttest_independent|"
-msgstr ""
+msgstr "|add_var_ttest_independent|"
 
 #: ../../analyses/jg_21_t-test-independent.rst:62
 msgid "add_var_ttest_independent"
-msgstr ""
+msgstr "add_var_ttest_independent"
 
 #: ../../analyses/jg_21_t-test-independent.rst:0
 #: ../../analyses/jg_22_t-test-paired.rst:0
@@ -235,11 +276,11 @@ msgstr ""
 
 #: ../../analyses/jg_21_t-test-independent.rst:31
 msgid "|output_ttest_independent|"
-msgstr ""
+msgstr "|output_ttest_independent|"
 
 #: ../../analyses/jg_21_t-test-independent.rst:64
 msgid "output_ttest_independent"
-msgstr ""
+msgstr "output_ttest_independent"
 
 #: ../../analyses/jg_21_t-test-independent.rst:0
 msgid ""
@@ -289,11 +330,11 @@ msgstr ""
 
 #: ../../analyses/jg_22_t-test-paired.rst:14
 msgid "|data_format_ttest_paired|"
-msgstr ""
+msgstr "|data_format_ttest_paired|"
 
 #: ../../analyses/jg_22_t-test-paired.rst:58
 msgid "data_format_ttest_paired"
-msgstr ""
+msgstr "data_format_ttest_paired"
 
 #: ../../analyses/jg_22_t-test-paired.rst:0
 msgid "Select ``Analyses`` → ``T-Tests`` → ``Paired Samples T-Test``."
@@ -301,11 +342,11 @@ msgstr ""
 
 #: ../../analyses/jg_22_t-test-paired.rst:20
 msgid "|select_ttest_paired|"
-msgstr ""
+msgstr "|select_ttest_paired|"
 
 #: ../../analyses/jg_22_t-test-paired.rst:60
 msgid "select_ttest_paired"
-msgstr ""
+msgstr "select_ttest_paired"
 
 #: ../../analyses/jg_22_t-test-paired.rst:0
 msgid ""
@@ -316,19 +357,19 @@ msgstr ""
 
 #: ../../analyses/jg_22_t-test-paired.rst:27
 msgid "|add_var_ttest_paired|"
-msgstr ""
+msgstr "|add_var_ttest_paired|"
 
 #: ../../analyses/jg_22_t-test-paired.rst:62
 msgid "add_var_ttest_paired"
-msgstr ""
+msgstr "add_var_ttest_paired"
 
 #: ../../analyses/jg_22_t-test-paired.rst:33
 msgid "|output_ttest_paired|"
-msgstr ""
+msgstr "|output_ttest_paired|"
 
 #: ../../analyses/jg_22_t-test-paired.rst:64
 msgid "output_ttest_paired"
-msgstr ""
+msgstr "output_ttest_paired"
 
 #: ../../analyses/jg_22_t-test-paired.rst:0
 msgid ""
@@ -371,11 +412,11 @@ msgstr ""
 
 #: ../../analyses/jg_23_t-test-onesample.rst:13
 msgid "|data_format_ttest_onesample|"
-msgstr ""
+msgstr "|data_format_ttest_onesample|"
 
 #: ../../analyses/jg_23_t-test-onesample.rst:56
 msgid "data_format_ttest_onesample"
-msgstr ""
+msgstr "data_format_ttest_onesample"
 
 #: ../../analyses/jg_23_t-test-onesample.rst:0
 msgid "Select ``Analyses`` → ``T-Tests`` → ``One Sample T-Test``."
@@ -383,11 +424,11 @@ msgstr ""
 
 #: ../../analyses/jg_23_t-test-onesample.rst:19
 msgid "|select_ttest_onesample|"
-msgstr ""
+msgstr "|select_ttest_onesample|"
 
 #: ../../analyses/jg_23_t-test-onesample.rst:58
 msgid "select_ttest_onesample"
-msgstr ""
+msgstr "select_ttest_onesample"
 
 #: ../../analyses/jg_23_t-test-onesample.rst:0
 msgid "Drag and drop your dependent variable to ``Dependent Variables``."
@@ -395,11 +436,11 @@ msgstr ""
 
 #: ../../analyses/jg_23_t-test-onesample.rst:25
 msgid "|add_var_ttest_onesample|"
-msgstr ""
+msgstr "|add_var_ttest_onesample|"
 
 #: ../../analyses/jg_23_t-test-onesample.rst:60
 msgid "add_var_ttest_onesample"
-msgstr ""
+msgstr "add_var_ttest_onesample"
 
 #: ../../analyses/jg_23_t-test-onesample.rst:0
 msgid ""
@@ -409,19 +450,19 @@ msgstr ""
 
 #: ../../analyses/jg_23_t-test-onesample.rst:31
 msgid "|options_ttest_onesample|"
-msgstr ""
+msgstr "|options_ttest_onesample|"
 
 #: ../../analyses/jg_23_t-test-onesample.rst:62
 msgid "options_ttest_onesample"
-msgstr ""
+msgstr "options_ttest_onesample"
 
 #: ../../analyses/jg_23_t-test-onesample.rst:37
 msgid "|output_ttest_onesample|"
-msgstr ""
+msgstr "|output_ttest_onesample|"
 
 #: ../../analyses/jg_23_t-test-onesample.rst:64
 msgid "output_ttest_onesample"
-msgstr ""
+msgstr "output_ttest_onesample"
 
 #: ../../analyses/jg_23_t-test-onesample.rst:0
 msgid ""
@@ -457,11 +498,11 @@ msgstr ""
 
 #: ../../analyses/jg_31_unianova.rst:13
 msgid "|data_format_unianova|"
-msgstr ""
+msgstr "|data_format_unianova|"
 
 #: ../../analyses/jg_31_unianova.rst:55
 msgid "data_format_unianova"
-msgstr ""
+msgstr "data_format_unianova"
 
 #: ../../analyses/jg_31_unianova.rst:0
 msgid "Select ``Analyses`` → ``ANOVA`` → ``One-way ANOVA``."
@@ -469,11 +510,11 @@ msgstr ""
 
 #: ../../analyses/jg_31_unianova.rst:19
 msgid "|select_unianova|"
-msgstr ""
+msgstr "|select_unianova|"
 
 #: ../../analyses/jg_31_unianova.rst:57
 msgid "select_unianova"
-msgstr ""
+msgstr "select_unianova"
 
 #: ../../analyses/jg_31_unianova.rst:0
 msgid ""
@@ -483,11 +524,11 @@ msgstr ""
 
 #: ../../analyses/jg_31_unianova.rst:25
 msgid "|add_var_unianova|"
-msgstr ""
+msgstr "|add_var_unianova|"
 
 #: ../../analyses/jg_31_unianova.rst:59
 msgid "add_var_unianova"
-msgstr ""
+msgstr "add_var_unianova"
 
 #: ../../analyses/jg_31_unianova.rst:0
 msgid ""
@@ -497,11 +538,11 @@ msgstr ""
 
 #: ../../analyses/jg_31_unianova.rst:31
 msgid "|options_unianova|"
-msgstr ""
+msgstr "|options_unianova|"
 
 #: ../../analyses/jg_31_unianova.rst:61
 msgid "options_unianova"
-msgstr ""
+msgstr "options_unianova"
 
 #: ../../analyses/jg_31_unianova.rst:0
 #: ../../analyses/jg_32_anova-factorial.rst:0
@@ -511,11 +552,11 @@ msgstr ""
 
 #: ../../analyses/jg_31_unianova.rst:37
 msgid "|output_unianova|"
-msgstr ""
+msgstr "|output_unianova|"
 
 #: ../../analyses/jg_31_unianova.rst:63
 msgid "output_unianova"
-msgstr ""
+msgstr "output_unianova"
 
 #: ../../analyses/jg_31_unianova.rst:0
 msgid ""
@@ -543,11 +584,11 @@ msgstr ""
 
 #: ../../analyses/jg_32_anova-factorial.rst:13
 msgid "|data_format_anova_factorial|"
-msgstr ""
+msgstr "|data_format_anova_factorial|"
 
 #: ../../analyses/jg_32_anova-factorial.rst:52
 msgid "data_format_anova_factorial"
-msgstr ""
+msgstr "data_format_anova_factorial"
 
 #: ../../analyses/jg_32_anova-factorial.rst:0
 msgid "Select ``Analyses`` → ``ANOVA`` → ``ANOVA``."
@@ -555,11 +596,11 @@ msgstr ""
 
 #: ../../analyses/jg_32_anova-factorial.rst:19
 msgid "|select_anova_factorial|"
-msgstr ""
+msgstr "|select_anova_factorial|"
 
 #: ../../analyses/jg_32_anova-factorial.rst:54
 msgid "select_anova_factorial"
-msgstr ""
+msgstr "select_anova_factorial"
 
 #: ../../analyses/jg_32_anova-factorial.rst:0
 msgid ""
@@ -569,19 +610,19 @@ msgstr ""
 
 #: ../../analyses/jg_32_anova-factorial.rst:25
 msgid "|add_var_anova_factorial|"
-msgstr ""
+msgstr "|add_var_anova_factorial|"
 
 #: ../../analyses/jg_32_anova-factorial.rst:56
 msgid "add_var_anova_factorial"
-msgstr ""
+msgstr "add_var_anova_factorial"
 
 #: ../../analyses/jg_32_anova-factorial.rst:31
 msgid "|output_anova_factorial|"
-msgstr ""
+msgstr "|output_anova_factorial|"
 
 #: ../../analyses/jg_32_anova-factorial.rst:58
 msgid "output_anova_factorial"
-msgstr ""
+msgstr "output_anova_factorial"
 
 #: ../../analyses/jg_32_anova-factorial.rst:0
 msgid ""
@@ -617,11 +658,11 @@ msgstr ""
 
 #: ../../analyses/jg_33_anova-rm.rst:13
 msgid "|data_format_anova_repeated|"
-msgstr ""
+msgstr "|data_format_anova_repeated|"
 
 #: ../../analyses/jg_33_anova-rm.rst:63
 msgid "data_format_anova_repeated"
-msgstr ""
+msgstr "data_format_anova_repeated"
 
 #: ../../analyses/jg_33_anova-rm.rst:0 ../../analyses/jg_34_anova-mixed.rst:0
 msgid "Select ``Analyses`` → ``ANOVA`` → ``Repeated Measures ANOVA``."
@@ -629,11 +670,11 @@ msgstr ""
 
 #: ../../analyses/jg_33_anova-rm.rst:19 ../../analyses/jg_34_anova-mixed.rst:20
 msgid "|select_anova_repeated|"
-msgstr ""
+msgstr "|select_anova_repeated|"
 
 #: ../../analyses/jg_33_anova-rm.rst:65 ../../analyses/jg_34_anova-mixed.rst:64
 msgid "select_anova_repeated"
-msgstr ""
+msgstr "select_anova_repeated"
 
 #: ../../analyses/jg_33_anova-rm.rst:0
 msgid ""
@@ -648,14 +689,15 @@ msgstr ""
 msgid ""
 "|add_var_anova_repeated_naming_1|  ``→`` |add_var_anova_repeated_naming_2|"
 msgstr ""
+"|add_var_anova_repeated_naming_1|  ``→`` |add_var_anova_repeated_naming_2|"
 
 #: ../../analyses/jg_33_anova-rm.rst:67 ../../analyses/jg_34_anova-mixed.rst:66
 msgid "add_var_anova_repeated_naming_1"
-msgstr ""
+msgstr "add_var_anova_repeated_naming_1"
 
 #: ../../analyses/jg_33_anova-rm.rst:69 ../../analyses/jg_34_anova-mixed.rst:68
 msgid "add_var_anova_repeated_naming_2"
-msgstr ""
+msgstr "add_var_anova_repeated_naming_2"
 
 #: ../../analyses/jg_33_anova-rm.rst:0 ../../analyses/jg_34_anova-mixed.rst:0
 msgid ""
@@ -665,11 +707,11 @@ msgstr ""
 
 #: ../../analyses/jg_33_anova-rm.rst:32 ../../analyses/jg_34_anova-mixed.rst:33
 msgid "|add_var_anova_repeated|"
-msgstr ""
+msgstr "|add_var_anova_repeated|"
 
 #: ../../analyses/jg_33_anova-rm.rst:71 ../../analyses/jg_34_anova-mixed.rst:70
 msgid "add_var_anova_repeated"
-msgstr ""
+msgstr "add_var_anova_repeated"
 
 #: ../../analyses/jg_33_anova-rm.rst:0
 msgid ""
@@ -683,11 +725,11 @@ msgstr ""
 
 #: ../../analyses/jg_33_anova-rm.rst:44
 msgid "|output_anova_repeated|"
-msgstr ""
+msgstr "|output_anova_repeated|"
 
 #: ../../analyses/jg_33_anova-rm.rst:73
 msgid "output_anova_repeated"
-msgstr ""
+msgstr "output_anova_repeated"
 
 #: ../../analyses/jg_33_anova-rm.rst:0
 msgid ""
@@ -724,11 +766,11 @@ msgstr ""
 
 #: ../../analyses/jg_34_anova-mixed.rst:14
 msgid "|data_format_anova_mixed|"
-msgstr ""
+msgstr "|data_format_anova_mixed|"
 
 #: ../../analyses/jg_34_anova-mixed.rst:62
 msgid "data_format_anova_mixed"
-msgstr ""
+msgstr "data_format_anova_mixed"
 
 #: ../../analyses/jg_34_anova-mixed.rst:0
 msgid ""
@@ -744,11 +786,11 @@ msgstr ""
 
 #: ../../analyses/jg_34_anova-mixed.rst:39
 msgid "|add_var_anova_mixed|"
-msgstr ""
+msgstr "|add_var_anova_mixed|"
 
 #: ../../analyses/jg_34_anova-mixed.rst:72
 msgid "add_var_anova_mixed"
-msgstr ""
+msgstr "add_var_anova_mixed"
 
 #: ../../analyses/jg_34_anova-mixed.rst:0
 #: ../../analyses/jg_42_regression-linear.rst:0
@@ -758,11 +800,11 @@ msgstr ""
 
 #: ../../analyses/jg_34_anova-mixed.rst:45
 msgid "|output_anova_mixed|"
-msgstr ""
+msgstr "|output_anova_mixed|"
 
 #: ../../analyses/jg_34_anova-mixed.rst:74
 msgid "output_anova_mixed"
-msgstr ""
+msgstr "output_anova_mixed"
 
 #: ../../analyses/jg_34_anova-mixed.rst:0
 msgid ""
@@ -787,11 +829,11 @@ msgstr ""
 
 #: ../../analyses/jg_42_regression-linear.rst:13
 msgid "|data_format_regression_linear|"
-msgstr ""
+msgstr "|data_format_regression_linear|"
 
 #: ../../analyses/jg_42_regression-linear.rst:57
 msgid "data_format_regression_linear"
-msgstr ""
+msgstr "data_format_regression_linear"
 
 #: ../../analyses/jg_42_regression-linear.rst:0
 msgid "Select ``Analyses`` → ``Regression`` → ``Linear Regression``."
@@ -799,11 +841,11 @@ msgstr ""
 
 #: ../../analyses/jg_42_regression-linear.rst:19
 msgid "|select_regression_linear|"
-msgstr ""
+msgstr "|select_regression_linear|"
 
 #: ../../analyses/jg_42_regression-linear.rst:59
 msgid "select_regression_linear"
-msgstr ""
+msgstr "select_regression_linear"
 
 #: ../../analyses/jg_42_regression-linear.rst:0
 msgid ""
@@ -814,19 +856,19 @@ msgstr ""
 
 #: ../../analyses/jg_42_regression-linear.rst:26
 msgid "|add_var_regression_linear|"
-msgstr ""
+msgstr "|add_var_regression_linear|"
 
 #: ../../analyses/jg_42_regression-linear.rst:61
 msgid "add_var_regression_linear"
-msgstr ""
+msgstr "add_var_regression_linear"
 
 #: ../../analyses/jg_42_regression-linear.rst:32
 msgid "|output_regression_linear|"
-msgstr ""
+msgstr "|output_regression_linear|"
 
 #: ../../analyses/jg_42_regression-linear.rst:63
 msgid "output_regression_linear"
-msgstr ""
+msgstr "output_regression_linear"
 
 #: ../../analyses/jg_42_regression-linear.rst:0
 msgid ""
@@ -869,15 +911,15 @@ msgstr ""
 
 #: ../../analyses/jg_43_regression-logistic.rst:60
 msgid "ordinal"
-msgstr ""
+msgstr "ordinal"
 
 #: ../../analyses/jg_43_regression-logistic.rst:13
 msgid "|data_format_regression_logistic|"
-msgstr ""
+msgstr "|data_format_regression_logistic|"
 
 #: ../../analyses/jg_43_regression-logistic.rst:64
 msgid "data_format_regression_logistic"
-msgstr ""
+msgstr "data_format_regression_logistic"
 
 #: ../../analyses/jg_43_regression-logistic.rst:0
 msgid ""
@@ -890,11 +932,11 @@ msgstr ""
 
 #: ../../analyses/jg_43_regression-logistic.rst:21
 msgid "|select_regression_logistic|"
-msgstr ""
+msgstr "|select_regression_logistic|"
 
 #: ../../analyses/jg_43_regression-logistic.rst:66
 msgid "select_regression_logistic"
-msgstr ""
+msgstr "select_regression_logistic"
 
 #: ../../analyses/jg_43_regression-logistic.rst:0
 msgid ""
@@ -904,11 +946,11 @@ msgstr ""
 
 #: ../../analyses/jg_43_regression-logistic.rst:27
 msgid "|add_var_regression_logistic|"
-msgstr ""
+msgstr "|add_var_regression_logistic|"
 
 #: ../../analyses/jg_43_regression-logistic.rst:68
 msgid "add_var_regression_logistic"
-msgstr ""
+msgstr "add_var_regression_logistic"
 
 #: ../../analyses/jg_43_regression-logistic.rst:0
 msgid ""
@@ -918,19 +960,19 @@ msgstr ""
 
 #: ../../analyses/jg_43_regression-logistic.rst:33
 msgid "|options_regression_logistic|"
-msgstr ""
+msgstr "|options_regression_logistic|"
 
 #: ../../analyses/jg_43_regression-logistic.rst:70
 msgid "options_regression_logistic"
-msgstr ""
+msgstr "options_regression_logistic"
 
 #: ../../analyses/jg_43_regression-logistic.rst:37
 msgid "|output_regression_logistic|"
-msgstr ""
+msgstr "|output_regression_logistic|"
 
 #: ../../analyses/jg_43_regression-logistic.rst:72
 msgid "output_regression_logistic"
-msgstr ""
+msgstr "output_regression_logistic"
 
 #: ../../analyses/jg_43_regression-logistic.rst:0
 msgid ""
