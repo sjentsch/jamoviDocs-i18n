@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 12:29+0200\n"
-"PO-Revision-Date: 2025-06-12 11:02+0000\n"
+"PO-Revision-Date: 2025-06-12 11:39+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/jamovidocs/"
 "4_spss2jamovi/de/>\n"
@@ -1518,22 +1518,24 @@ msgid ""
 "ANOVA → Bayesian ANOVA (*can handle several factors while SPSS is limited to "
 "one factor*)"
 msgstr ""
+"ANOVA → Bayesian ANOVA (*kann mehrere Faktoren enthalten / analysieren, "
+"während SPSS auf einen Faktor beschränkt ist*)"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:70
 msgid "Bayesian Statistics → Log-Linear Models"
-msgstr ""
+msgstr "Bayesian Statistics → Log-Linear Models"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:70
 msgid "Frequencies → Bayesian Log-Linear Regression"
-msgstr ""
+msgstr "Frequencies → Bayesian Log-Linear Regression"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:72
 msgid "**Compare Means**"
-msgstr ""
+msgstr "**Mittelwerte vergleichen**"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:74
 msgid "Compare Means → Means..."
-msgstr ""
+msgstr "Compare Means → Means..."
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:74
 msgid ""
@@ -1541,244 +1543,247 @@ msgid ""
 "the drop-down menu «Statistics» and set ticks at «Mean», «N» and «Std. "
 "deviation»*"
 msgstr ""
+"Exploration → Descriptives *ersetzt / integriert diese Funktion, wählen Sie "
+"das Dropdown-Menü „Statistics“ und setzen Sie die Häkchen bei „Mean“, „N“ "
+"und „Std. deviation“*"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:78
 msgid "Compare Means → Independent-Samples T Test"
-msgstr ""
+msgstr "Compare Means → Independent-Samples T Test"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:78
 msgid "T-Test → Independent Samples T-Test"
-msgstr ""
+msgstr "T-Test → Independent Samples T-Test"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:80
 msgid "Compare Means → Paired-Samples T Test"
-msgstr ""
+msgstr "Compare Means → Paired-Samples T Test"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:80
 msgid "T-Test → Paired Samples T-Test"
-msgstr ""
+msgstr "T-Test → Paired Samples T-Test"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:82
 msgid "Compare Means → One-Sample T Test"
-msgstr ""
+msgstr "Compare Means → One-Sample T Test"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:82
 msgid "T-Test → One Sample T-Test"
-msgstr ""
+msgstr "T-Test → One Sample T-Test"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:84
 msgid "Compare Means → One-Way ANOVA"
-msgstr ""
+msgstr "Compare Means → One-Way ANOVA"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:84
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:88
 msgid "ANOVA → One-Way ANOVA"
-msgstr ""
+msgstr "ANOVA → One-Way ANOVA"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:86
 msgid "**General Linear Model**"
-msgstr ""
+msgstr "**Allgemeines lineares Modell**"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:88
 msgid "General Linear Model → Univariate"
-msgstr ""
+msgstr "General Linear Model → Univariate"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:90
 msgid "General Linear Model → Multivariate"
-msgstr ""
+msgstr "General Linear Model → Multivariate"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:90
 msgid "ANOVA → MANCOVA"
-msgstr ""
+msgstr "ANOVA → MANCOVA"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:92
 msgid "General Linear Model → Repeated Measures"
-msgstr ""
+msgstr "General Linear Model → Repeated Measures"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:92
 msgid "ANOVA → Repeated Measures ANOVA"
-msgstr ""
+msgstr "ANOVA → Repeated Measures ANOVA"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:94
 msgid "General Linear Model → Variance Components"
-msgstr ""
+msgstr "General Linear Model → Variance Components"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:96
 msgid "**Generalized Linear Models**"
-msgstr ""
+msgstr "**Generalisierte lineare Modelle**"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:96
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:102
 msgid "*requires the jamovi-module «GAMLj»*"
-msgstr ""
+msgstr "*erfordert das jamovi-Modul „GAMLj“*"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:98
 msgid "Generalized Linear Models → Generalized Linear Models"
-msgstr ""
+msgstr "Generalized Linear Models → Generalized Linear Models"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:100
 msgid "Generalized Linear Models → Generalized Estimating Equations"
-msgstr ""
+msgstr "Generalized Linear Models → Generalized Estimating Equations"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:102
 msgid "**Mixed Models**"
-msgstr ""
+msgstr "**Mixed Models**"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:104
 msgid "Mixed Models → Linear"
-msgstr ""
+msgstr "Mixed Models → Linear"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:106
 msgid "Mixed Models → Generalized Linear"
-msgstr ""
+msgstr "Mixed Models → Generalized Linear"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:108
 msgid "**Correlate**"
-msgstr ""
+msgstr "**Korrelationen**"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:110
 msgid "Correlate → Bivariate"
-msgstr ""
+msgstr "Correlate → Bivariate"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:110
 msgid "Regression → Correlation Matrix"
-msgstr ""
+msgstr "Regression → Correlation Matrix"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:112
 msgid "Correlate → Partial"
-msgstr ""
+msgstr "Correlate → Partial"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:112
 msgid "Regression → Partial Correlation"
-msgstr ""
+msgstr "Regression → Partial Correlation"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:114
 msgid "Correlate → Distances"
-msgstr ""
+msgstr "Correlate → Distances"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:116
 msgid "**Regression**"
-msgstr ""
+msgstr "**Regression**"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:118
 msgid "Regression → Automatic Linear Models"
-msgstr ""
+msgstr "Regression → Automatic Linear Models"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:120
 msgid "Regression → Linear"
-msgstr ""
+msgstr "Regression → Linear"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:120
 msgid "Regression → Linear Regression"
-msgstr ""
+msgstr "Regression → Linear Regression"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:122
 msgid "Regression → Ordinal"
-msgstr ""
+msgstr "Regression → Ordinal"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:122
 msgid "Regression → (Logistic Regression) → Ordinal Outcomes"
-msgstr ""
+msgstr "Regression → (Logistic Regression) → Ordinal Outcomes"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:124
 msgid "Regression → Curve Estimation"
-msgstr ""
+msgstr "Regression → Curve Estimation"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:126
 msgid "Regression → Partial Least Squares"
-msgstr ""
+msgstr "Regression → Partial Least Squares"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:128
 msgid "**Loglinear**"
-msgstr ""
+msgstr "**Loglinear**"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:130
 msgid "Loglinear → General"
-msgstr ""
+msgstr "Loglinear → General"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:130
 msgid "Frequencies → Log-Linear Regression"
-msgstr ""
+msgstr "Frequencies → Log-Linear Regression"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:132
 msgid "Loglinear → Logit"
-msgstr ""
+msgstr "Loglinear → Logit"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:134
 msgid "Loglinear → Model Selection"
-msgstr ""
+msgstr "Loglinear → Model Selection"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:136
 msgid "**Classify**"
-msgstr ""
+msgstr "**Klassifizieren**"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:138
 msgid "Classify → Nearest Neighbor"
-msgstr ""
+msgstr "Classify → Nearest Neighbor"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:140
 msgid "Classify → Discriminant"
-msgstr ""
+msgstr "Classify → Discriminant"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:140
 msgid "N/A, *can be calculated using* |MASS|"
-msgstr ""
+msgstr "N/A, *kann mit* |MASS| *berechnet werden*"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:142
 msgid "Classify → TwoStep Cluster"
-msgstr ""
+msgstr "Classify → TwoStep Cluster"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:144
 msgid "Classify → Hierarchical Cluster"
-msgstr ""
+msgstr "Classify → Hierarchical Cluster"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:144
 msgid "N/A, *can be calculated using* |pvclust|"
-msgstr ""
+msgstr "N/A, *kann mit* |pvclust| *berechnet werden*"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:146
 msgid "Classify → K-Means Cluster"
-msgstr ""
+msgstr "Classify → K-Means Cluster"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:148
 msgid "**Dimension Reduction**"
-msgstr ""
+msgstr "**Dimensionsreduktion**"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:150
 msgid "Dimension Reduction → Factor"
-msgstr ""
+msgstr "Dimension Reduction → Factor"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:0
 msgid "Factor → (Data reduction) → Principal Component Analysis"
-msgstr ""
+msgstr "Factor → (Data reduction) → Principal Component Analysis"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:0
 msgid "Factor → (Data reduction) → Exploratory Factor Analysis [#FA]_"
-msgstr ""
+msgstr "Factor → (Data reduction) → Exploratory Factor Analysis [#FA]_"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:153
 msgid "**Scale**"
-msgstr ""
+msgstr "**Skalen**"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:155
 msgid "Scale → Reliability Analysis"
-msgstr ""
+msgstr "Scale → Reliability Analysis"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:155
 msgid "Factor → (Scale analysis) → Reliability analysis"
-msgstr ""
+msgstr "Factor → (Scale analysis) → Reliability analysis"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:157
 msgid "Scale → Multidimensional Scaling"
-msgstr ""
+msgstr "Scale → Multidimensional Scaling"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:159
 msgid "**Nonparametric Tests**"
-msgstr ""
+msgstr "**Nichtparametrische Tests**"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:161
 msgid "Nonparametric Tests → One Sample"
-msgstr ""
+msgstr "Nonparametric Tests → One Sample"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:161
 msgid ""
@@ -1786,40 +1791,45 @@ msgid ""
 "menu that allows a selection based on your data (e.g., between- or within-"
 "subject)*"
 msgstr ""
+"N/A, *die Tests selbst sind verfügbar (siehe unten), aber kein gemeinsames "
+"Startmenü, das eine Auswahl auf der Grundlage Ihrer Daten ermöglicht (z. B. "
+"zwischen oder innerhalb von Probanden)*"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:163
 msgid "Nonparametric Tests → Independent Samples"
-msgstr ""
+msgstr "Nonparametric Tests → Independent Samples"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:165
 msgid "Nonparametric Tests → Related Samples"
-msgstr ""
+msgstr "Nonparametric Tests → Related Samples"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:167
 msgid "Nonparametric Tests → Legacy Dialogs → Chi-Square"
-msgstr ""
+msgstr "Nonparametric Tests → Legacy Dialogs → Chi-Square"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:167
 msgid ""
 "Frequencies → (One Sample Proportion Tests) → N Outcomes (x² goodness of fit)"
 msgstr ""
+"Frequencies → (One Sample Proportion Tests) → N Outcomes (x² goodness of fit)"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:169
 msgid "Nonparametric Tests → Legacy Dialogs → Binomial"
-msgstr ""
+msgstr "Nonparametric Tests → Legacy Dialogs → Binomial"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:169
 msgid ""
 "Frequencies → (One Sample Proportion Tests) → 2 Outcomes (Binomial test)"
 msgstr ""
+"Frequencies → (One Sample Proportion Tests) → 2 Outcomes (Binomial test)"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:171
 msgid "Nonparametric Tests → Legacy Dialogs → Runs"
-msgstr ""
+msgstr "Nonparametric Tests → Legacy Dialogs → Runs"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:173
 msgid "Nonparametric Tests → Legacy Dialogs → 1-Sample K-S"
-msgstr ""
+msgstr "Nonparametric Tests → Legacy Dialogs → 1-Sample K-S"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:173
 msgid ""
@@ -1827,106 +1837,111 @@ msgid ""
 "menu «Statistics» and *tick «Shapiro-Wilks»* (Kolmogoroff-Smirnov available "
 "via the additional module *moretests*)"
 msgstr ""
+"unter Exploration → Descriptives ist der Shapiro-Wilk-Test verfügbar (der "
+"ebenfalls auf Abweichung von der Normalverteilung prüft), wählen Sie das "
+"Dropdown-Menü \"Statistik\" und *kreuzen Sie \"Shapiro-Wilk\" an* (der "
+"Kolmogoroff-Smirnov-Test ist über das Zusatzmodul *moretests* verfügbar)"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:177
 msgid "Nonparametric Tests → Legacy Dialogs → 2 Independent Samples"
-msgstr ""
+msgstr "Nonparametric Tests → Legacy Dialogs → 2 Independent Samples"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:177
 msgid "T-Test → Independent Samples T-Test, *set tick-box «Mann-Whitney U»*"
-msgstr ""
+msgstr "T-Test → Independent Samples T-Test, *kreuzen Sie „Mann-Whitney U“ an*"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:179
 msgid "Nonparametric Tests → Legacy Dialogs → 2 Related Samples"
-msgstr ""
+msgstr "Nonparametric Tests → Legacy Dialogs → 2 Related Samples"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:179
 msgid "T-Test → Paired Samples T-Test, *set tick-box «Wilcoxon Rank»*"
-msgstr ""
+msgstr "T-Test → Paired Samples T-Test, *kreuzen Sie „Wilcoxon Rank“ an*"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:181
 msgid "Nonparametric Tests → Legacy Dialogs → K Independent Samples"
-msgstr ""
+msgstr "Nonparametric Tests → Legacy Dialogs → K Independent Samples"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:181
 msgid "ANOVA → (Non-Parametric) → One-Way ANOVA (Kruskal-Wallis)"
-msgstr ""
+msgstr "ANOVA → (Non-Parametric) → One-Way ANOVA (Kruskal-Wallis)"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:183
 msgid "Nonparametric Tests → Legacy Dialogs → K Related Samples"
-msgstr ""
+msgstr "Nonparametric Tests → Legacy Dialogs → K Related Samples"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:183
 msgid "ANOVA → (Non-Parametric) → Repeated Measures ANOVA (Friedman)"
-msgstr ""
+msgstr "ANOVA → (Non-Parametric) → Repeated Measures ANOVA (Friedman)"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:185
 msgid "**Survival**"
-msgstr ""
+msgstr "**Ereigniszeitanalyse**"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:185
 msgid "*requires the jamovi-module «Death watch»*"
-msgstr ""
+msgstr "*benötigt das jamovi-Modul „Death watch“*"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:187
 msgid "Survival → Life Tables"
-msgstr ""
+msgstr "Survival → Life Tables"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:189
 msgid "Survival → Kaplan-Meier"
-msgstr ""
+msgstr "Survival → Kaplan-Meier"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:191
 msgid "Survival → Cox Regression"
-msgstr ""
+msgstr "Survival → Cox Regression"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:193
 msgid "Survival → Cox w/ Time-Dep Cov"
-msgstr ""
+msgstr "Survival → Cox w/ Time-Dep Cov"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:195
 msgid "**Multiple Response**"
-msgstr ""
+msgstr "**Mehrfachantworten**"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:197
 msgid "Multiple Response → Define Variable Sets"
-msgstr ""
+msgstr "Multiple Response → Define Variable Sets"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:199
 msgid "Multiple Response → Frequencies"
-msgstr ""
+msgstr "Multiple Response → Frequencies"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:201
 msgid "Multiple Response → Crosstabs"
-msgstr ""
+msgstr "Multiple Response → Crosstabs"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:203
 msgid "**ROC Curve**"
-msgstr ""
+msgstr "**ROC Curve**"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:205
 msgid "ROC Curve"
-msgstr ""
+msgstr "ROC Curve"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:205
 msgid "N/A, *accessible via R packages (e.g., ROCR eller pROC)*"
-msgstr ""
+msgstr "N/A, *zugänglich über R-Pakete (z. B. ROCR oder pROC)*"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:207
 msgid "**Simulation**"
-msgstr ""
+msgstr "**Simulation**"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:209
 msgid "Simulation"
-msgstr ""
+msgstr "Simulation"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:211
 msgid "**Spatial and Temporal Modeling**"
 msgstr ""
+"**Spatial and Temporal Modeling** (Räumliche und zeitliche Modellierung)"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:213
 msgid "Spatial and Temporal Modeling → Spatial Modeling"
-msgstr ""
+msgstr "Spatial and Temporal Modeling → Spatial Modeling"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:219
 msgid ""
@@ -1936,6 +1951,13 @@ msgid ""
 "describe the data) and Exploratory Factor Analysis aiming at extracting "
 "underlying latent variables."
 msgstr ""
+"Während SPSS beide Methoden in einer Prozedur zusammenfasst (``FACTOR``) "
+"macht jamovi einen konzeptionellen Unterschied zwischen der "
+"Hauptkomponentenanalyse (*Principal Component Analysis*), die auf die "
+"Datenreduktion abzielt (d.h. die Reduzierung der Anzahl der Dimensionen, die "
+"zur Beschreibung der Daten erforderlich sind) und der explorativen "
+"Faktorenanalyse, die auf die Extraktion der zugrunde liegenden latenten "
+"Variablen abzielt."
 
 #: ../../spss2jamovi/s2j_correlation.rst:5
 #: ../../spss2jamovi/s2j_correlation2.rst:5
@@ -1943,7 +1965,7 @@ msgstr ""
 #: ../../spss2jamovi/s2j_correlation4.rst:5
 #: ../../spss2jamovi/s2j_correlation5.rst:5
 msgid "From SPSS to jamovi: Correlation"
-msgstr ""
+msgstr "Von SPSS zu jamovi: Korrelation"
 
 #: ../../spss2jamovi/s2j_correlation.rst:7
 msgid ""
@@ -1954,6 +1976,12 @@ msgid ""
 "be downloaded from the `web page accompanying the book <https://edge.sagepub."
 "com/field5e/student-resources/datasets>`__."
 msgstr ""
+"Dieser Vergleich zeigt, wie Sie eine Pearson-Korrelation in SPSS und jamovi "
+"durchführen können. Der SPSS-Test folgt der Beschreibung in Kapitel 8.4.1-"
+"8.4.2 in `Field \\(2017) <https://edge.sagepub.com/field5e>`__, insbesondere "
+"Abbildung 8.7-8.8 und Ausgabe 8.1. Es wird der Datensatz **Exam Anxiety.sav**"
+" verwendet, der von der Webseite zum Buch `heruntergeladen werden kann "
+"<https://edge.sagepub.com/field5e/student-resources/datasets>`__."
 
 #: ../../spss2jamovi/s2j_correlation.rst:14
 #: ../../spss2jamovi/s2j_correlation2.rst:14
@@ -1963,12 +1991,16 @@ msgid ""
 "In SPSS you can run a correlation using: ``Analyze`` → ``Correlate`` → "
 "``Bivariate``."
 msgstr ""
+"In SPSS können Sie eine Korrelation durchführen: ``Analyze`` → ``Correlate`` "
+"→ ``Bivariate``."
 
 #: ../../spss2jamovi/s2j_correlation.rst:14
 msgid ""
 "In jamovi you do this using: ``Analyses`` → ``Regression`` →  ``Correlation "
 "Matrix``."
 msgstr ""
+"In jamovi tun Sie dies mit: ``Analyses`` → ``Regression`` → ``Correlation "
+"Matrix``."
 
 #: ../../spss2jamovi/s2j_correlation.rst:17
 msgid "|SPSS_Menu_corr1|"
@@ -1992,6 +2024,9 @@ msgid ""
 "variable box ``Variables``. In addition, make sure the box called "
 "``Pearson`` under ``Correlation Coefficients`` is ticked."
 msgstr ""
+"Verschieben Sie in SPSS die Variablen ``Revise``, ``Exam`` und ``Anxiety`` "
+"in das Variablenfeld ``Variables``. Stellen Sie außerdem sicher, dass das "
+"Kästchen ``Pearson`` unter ``Correlation Coefficients`` angekreuzt ist."
 
 #: ../../spss2jamovi/s2j_correlation.rst:19
 msgid ""
@@ -2000,6 +2035,10 @@ msgid ""
 "``Report significance``, ``Flag significant correlations`` and ``N`` under "
 "``Additional Options``."
 msgstr ""
+"In jamovi verschieben Sie die Variablen ``Revise``, ``Exam`` und ``Anxiety`` "
+"in das Variablenfeld. Kreuzen Sie ``Pearson`` unter ``Correlation "
+"Coefficients`` an sowie ``Report significance``, ``Flag significant "
+"correlations`` und ``N`` unter ``Additional Options``."
 
 #: ../../spss2jamovi/s2j_correlation.rst:24
 msgid "|SPSS_Input_corr1|"
@@ -2019,7 +2058,7 @@ msgstr "jamovi_Input_corr1"
 
 #: ../../spss2jamovi/s2j_correlation.rst:26
 msgid "The results are essentially the same in SPSS and in jamovi."
-msgstr ""
+msgstr "Die Ergebnisse in SPSS und in jamovi sind im Wesentlichen gleich."
 
 #: ../../spss2jamovi/s2j_correlation.rst:28
 msgid "|SPSS_Output_corr1|"
@@ -2047,6 +2086,10 @@ msgid ""
 "of asterisks after the correlation coefficient. The correlation matrix shows "
 "the correlation coefficient, the p-value, and the sample size (N)."
 msgstr ""
+"In SPSS können Sie feststellen, ob eine Korrelation signifikant ist, indem "
+"Sie die Anzahl der Sternchen hinter dem Korrelationskoeffizienten notieren. "
+"Die Korrelationsmatrix zeigt den Korrelationskoeffizienten, den p-Wert und "
+"den Stichprobenumfang (N) an."
 
 #: ../../spss2jamovi/s2j_correlation.rst:30
 #: ../../spss2jamovi/s2j_correlation2.rst:30
@@ -2057,6 +2100,10 @@ msgid ""
 "SPSS all correlations above p < .01 level are simply marked using two "
 "instead of three asterisks."
 msgstr ""
+"jamovi kennzeichnet signifikante Korrelationen in Übereinstimmung mit dem "
+"APA-Stil mit einem (p < .05), zwei (p < .01) oder drei (p < .001) Sternchen. "
+"Im Gegensatz dazu werden in SPSS alle Korrelationen über dem Niveau von p < "
+".01 einfach mit zwei statt drei Sternchen gekennzeichnet."
 
 #: ../../spss2jamovi/s2j_correlation.rst:35
 msgid ""
@@ -2066,18 +2113,28 @@ msgid ""
 "values for the statistics are identical: *r* = 0.40, *p* < .001; *r* = "
 "-0.71, *p* < .001; *r* = -0.44, *p* < .001."
 msgstr ""
+"In SPSS wird Pearson's r sowohl unterhalb als auch oberhalb der "
+"Hauptdiagonale ausgegeben, während in jamovi der Koeffizient nur unterhalb "
+"angezeigt wird. Dies macht es viel einfacher, relevante Informationen in der "
+"Ausgabe von jamovi zu finden. Die numerischen Werte für die Statistiken sind "
+"identisch: *r* = 0,40, *p* < .001; *r* = -0,71, *p* < .001; *r* = -0,44, *p* "
+"< .001."
 
 #: ../../spss2jamovi/s2j_correlation.rst:52
 msgid ""
 "`SPSS output file containing the analyses <../../_static/output/"
 "s2j_Output_SPSS_corr1.spv>`_"
 msgstr ""
+"`SPSS-Ausgabedatei mit den Analysen <../_static/output/"
+"s2j_Output_SPSS_corr1.spv>`_"
 
 #: ../../spss2jamovi/s2j_correlation.rst:52
 msgid ""
 "`jamovi file containing the analyses <../../_static/output/"
 "s2j_Output_jamovi_corr1.omv>`_"
 msgstr ""
+"`jamovi-Datei mit den Analysen <../../_static/output/"
+"s2j_Output_jamovi_corr1.omv>`_"
 
 #: ../../spss2jamovi/s2j_correlation2.rst:7
 msgid ""
@@ -2088,6 +2145,12 @@ msgid ""
 "page accompanying the book <https://edge.sagepub.com/field5e/student-"
 "resources/datasets>`__."
 msgstr ""
+"Dieser Vergleich zeigt, wie eine Spearman-Korrelation in SPSS und jamovi "
+"durchgeführt wird. Der SPSS-Test folgt der Beschreibung in Kapitel 8.4.3 in `"
+"Field (2017) <https://edge.sagepub.com/field5e>`__, insbesondere Ausgabe "
+"8.2. Er verwendet den Datensatz **The Biggest Liar.sav**, der von der "
+"Webseite zum Buch `heruntergeladen werden kann <https://edge.sagepub.com/"
+"field5e/student-resources/datasets>`__."
 
 #: ../../spss2jamovi/s2j_correlation2.rst:14
 #: ../../spss2jamovi/s2j_correlation3.rst:14
