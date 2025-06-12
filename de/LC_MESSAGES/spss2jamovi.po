@@ -1,16 +1,18 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: \n"
+"Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 12:29+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2025-06-12 11:02+0000\n"
+"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"Language-Team: German <https://hosted.weblate.org/projects/jamovidocs/"
+"4_spss2jamovi/de/>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.12-dev\n"
 "Generated-By: Babel 2.17.0\n"
 
 #: ../../spss2jamovi/s2j_ANCOVA.rst:5 ../../spss2jamovi/s2j_ANCOVA2.rst:5
@@ -336,12 +338,16 @@ msgid ""
 "`SPSS output file containing the analyses <../../_static/output/"
 "s2j_Output_SPSS_ANCOVA1.spv>`_"
 msgstr ""
+"`SPSS-Ausgabedatei mit den Analysen <../_static/output/"
+"s2j_Output_SPSS_ANCOVA1.spv>`_"
 
 #: ../../spss2jamovi/s2j_ANCOVA.rst:76
 msgid ""
 "`jamovi file containing the analyses <../../_static/output/"
 "s2j_Output_jamovi_ANCOVA1.omv>`_"
 msgstr ""
+"`jamovi-Datei mit den Analysen <../../_static/output/"
+"s2j_Output_jamovi_ANCOVA1.omv>`_"
 
 #: ../../spss2jamovi/s2j_ANCOVA.rst:90 ../../spss2jamovi/s2j_ANCOVA2.rst:52
 #: ../../spss2jamovi/s2j_ANCOVA3.rst:83 ../../spss2jamovi/s2j_ANCOVA4.rst:82
@@ -532,12 +538,16 @@ msgid ""
 "`SPSS output file containing the analyses <../../_static/output/"
 "s2j_Output_SPSS_ANCOVA2.spv>`_"
 msgstr ""
+"`SPSS-Ausgabedatei mit den Analysen <../_static/output/"
+"s2j_Output_SPSS_ANCOVA2.spv>`_"
 
 #: ../../spss2jamovi/s2j_ANCOVA2.rst:47
 msgid ""
 "`jamovi file containing the analyses <../../_static/output/"
 "s2j_Output_jamovi_ANCOVA2.omv>`_"
 msgstr ""
+"`jamovi-Datei mit den Analysen <../../_static/output/"
+"s2j_Output_jamovi_ANCOVA2.omv>`_"
 
 #: ../../spss2jamovi/s2j_ANCOVA3.rst:7
 msgid ""
@@ -810,12 +820,16 @@ msgid ""
 "`SPSS output file containing the analyses <../../_static/output/"
 "s2j_Output_SPSS_ANCOVA3.spv>`_"
 msgstr ""
+"`SPSS-Ausgabedatei mit den Analysen <../_static/output/"
+"s2j_Output_SPSS_ANCOVA3.spv>`_"
 
 #: ../../spss2jamovi/s2j_ANCOVA3.rst:78
 msgid ""
 "`jamovi file containing the analyses <../../_static/output/"
 "s2j_Output_jamovi_ANCOVA3.omv>`_"
 msgstr ""
+"`jamovi-Datei mit den Analysen <../../_static/output/"
+"s2j_Output_jamovi_ANCOVA3.omv>`_"
 
 #: ../../spss2jamovi/s2j_ANCOVA4.rst:7
 msgid ""
@@ -1067,12 +1081,16 @@ msgid ""
 "`SPSS output file containing the analyses <../../_static/output/"
 "s2j_Output_SPSS_ANCOVA4.spv>`_"
 msgstr ""
+"`SPSS-Ausgabedatei mit den Analysen <../_static/output/"
+"s2j_Output_SPSS_ANCOVA4.spv>`_"
 
 #: ../../spss2jamovi/s2j_ANCOVA4.rst:77
 msgid ""
 "`jamovi file containing the analyses <../../_static/output/"
 "s2j_Output_jamovi_ANCOVA4.omv>`_"
 msgstr ""
+"`jamovi-Datei mit den Analysen <../../_static/output/"
+"s2j_Output_jamovi_ANCOVA4.omv>`_"
 
 #: ../../spss2jamovi/s2j_ANCOVA5.rst:7
 msgid ""
@@ -1148,12 +1166,18 @@ msgid ""
 "variables ``Dose`` and ``Puppy_love``, open the drop-down menu and choose "
 "``Interaction``."
 msgstr ""
+"Öffnen Sie das Fenster ``Model``, und klicken Sie auf ``Build terms``. "
+"Markieren Sie dann die Variablen ``Dose`` und ``Puppy_love``, öffnen Sie das "
+"Dropdown-Menü und wählen Sie ``Interaction``."
 
 #: ../../spss2jamovi/s2j_ANCOVA5.rst:25
 msgid ""
 "Next, open the ``Model`` window. Mark both ``Dose`` and ``Puppy_love``, then "
 "click the arrow with the drop-down menu and click ``Interaction``."
 msgstr ""
+"Als Nächstes öffnen Sie das Fenster ``Model``. Markieren Sie sowohl ``Dose`` "
+"als auch ``Puppy_love``, dann klicken Sie auf den Pfeil mit dem Dropdown-"
+"Menü und auf ``Interaction``."
 
 #: ../../spss2jamovi/s2j_ANCOVA5.rst:29
 msgid "|SPSS_Input_ANCOVA5_2|"
@@ -1176,6 +1200,8 @@ msgid ""
 "Comparisons between the output in SPSS and jamovi shows that the results are "
 "the same."
 msgstr ""
+"Vergleiche zwischen der Ausgabe in SPSS und jamovi zeigen, dass die "
+"Ergebnisse identisch sind."
 
 #: ../../spss2jamovi/s2j_ANCOVA5.rst:33
 msgid "|SPSS_Output_ANCOVA5|"
@@ -1200,6 +1226,10 @@ msgid ""
 "Puppy_love). The tables also includes degrees of freedom, mean square, *F*-"
 "values and significance values."
 msgstr ""
+"In SPSS zeigt die Tabelle ``Tests of Between-Subjects Effects`` die Summe "
+"der Quadrate für die Variablen sowie den Interaktionsterm (Dosis \\* "
+"Puppy_love). Die Tabellen enthalten auch Freiheitsgrade, mittlere Quadrate, "
+"*F*-Werte und Signifikanzwerte."
 
 #: ../../spss2jamovi/s2j_ANCOVA5.rst:35
 msgid ""
@@ -1208,6 +1238,10 @@ msgid ""
 "significance values. These values are located in the same order as in the "
 "SPSS table."
 msgstr ""
+"In jamovi sind diese Ergebnisse in einer ähnlichen ``ANCOVA`` Tabelle zu "
+"finden, die auch Quadratsummen, Freiheitsgrade, mittlere Quadrate, *F*-Werte "
+"und Signifikanzwerte enthält. Diese Werte sind in der gleichen Reihenfolge "
+"angeordnet wie in der SPSS-Tabelle."
 
 #: ../../spss2jamovi/s2j_ANCOVA5.rst:40
 msgid ""
@@ -1216,6 +1250,10 @@ msgid ""
 "``Total`` and ``Corrected Total``. SPSS also gives *R²* and adjusted *R²* "
 "values for the corrected model."
 msgstr ""
+"Der Hauptunterschied zwischen den Ergebnissen in SPSS und jamovi besteht "
+"darin, dass SPSS die folgenden Ausgaben liefert: ``Corrected Model``, "
+"``Intercept``, ``Total`` und ``Corrected Total``. SPSS liefert auch *R²*- "
+"und adjustierte *R²*-Werte für das korrigierte Modell."
 
 #: ../../spss2jamovi/s2j_ANCOVA5.rst:43
 msgid ""
@@ -1223,22 +1261,29 @@ msgid ""
 "= 36.6, *p* < .01; *SS*<sub>Puppy_love</sub> = 17.2, *p* < .05; "
 "*SS*<sub>Dose \\* Puppy_love</sub> = 20.4, *p* < .05."
 msgstr ""
+"Vergleicht man die Zahlenwerte, sind sie gleich: *SS*<sub>Dose</sub> = 36.6, "
+"*p* < .01; *SS*<sub>Puppy_love</sub> = 17.2, *p* < .05; *SS*<sub>Dose \\* "
+"Puppy_love</sub> = 20.4, *p* < .05."
 
 #: ../../spss2jamovi/s2j_ANCOVA5.rst:57
 msgid ""
 "`SPSS output file containing the analyses <../../_static/output/"
 "s2j_Output_SPSS_ANCOVA5.spv>`_"
 msgstr ""
+"`SPSS-Ausgabedatei mit den Analysen <../_static/output/"
+"s2j_Output_SPSS_ANCOVA5.spv>`_"
 
 #: ../../spss2jamovi/s2j_ANCOVA5.rst:57
 msgid ""
 "`jamovi file containing the analyses <../../_static/output/"
 "s2j_Output_jamovi_ANCOVA5.omv>`_"
 msgstr ""
+"`jamovi-Datei mit den Analysen <../../_static/output/"
+"s2j_Output_jamovi_ANCOVA5.omv>`_"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:5
 msgid "Comparison of Which Analyses Are Available in SPSS and jamovi"
-msgstr ""
+msgstr "Vergleich, welche Analysen in SPSS und jamovi verfügbar sind"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:10
 msgid "|SPSS_Analyze|"
@@ -1261,18 +1306,25 @@ msgid ""
 "Already at first glance, it becomes clear that jamovi currently has fewer "
 "features than SPSS. **BUT**:"
 msgstr ""
+"Schon auf den ersten Blick wird deutlich, dass jamovi derzeit weniger "
+"Funktionen hat als SPSS. **ABER**:"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:0
 msgid ""
 "(1) There is a (ever increasing) made available via modules (press the \"+\" "
 "sign in the right upper corner of the jamovi window to add them)."
 msgstr ""
+"(1) Es gibt eine (ständig wachsende) Zahl an Erweiterungs-Modulen (drücken "
+"Sie das „+“-Zeichen in der rechten oberen Ecke des jamovi-Fensters, um "
+"Module hinzuzufügen)."
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:0
 msgid ""
 "(2) The features implemented already cover \"standard\" needs (90% of the "
 "most frequently used analyses in psychology)."
 msgstr ""
+"(2) Die implementierten Funktionen decken alle „Standard“-Bedürfnisse ab (90 "
+"% der am häufigsten verwendeten Analysen in der Psychologie)."
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:0
 msgid ""
@@ -1280,12 +1332,19 @@ msgid ""
 "wealth of modules covering functions that are not available in SPSS but very "
 "useful (e.g., for meta-analyses, structural equation models, etc.)."
 msgstr ""
+"Schauen Sie sich ruhig an, welche Module verfügbar sind: Es gibt auch eine "
+"ganze Reihe von Modulen, die Funktionen abdecken, die in SPSS nicht "
+"verfügbar, aber sehr nützlich sind (z.B. für Meta-Analysen, "
+"Strukturgleichungsmodelle, etc.)."
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:0
 msgid ""
 "If you are willing to use some R code (e.g., in conjunction with the jamovi-"
 "module Rj) then you can (most presumably) do every analysis you can imagine."
 msgstr ""
+"Wenn Sie bereit sind, etwas R-Code zu verwenden (z. B. in Verbindung mit dem "
+"jamovi-Modul Rj), können Sie (vermutlich) fast jede mögliche Analyse "
+"durchführen."
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:25
 msgid "|jamovi_Modules|"
@@ -1297,11 +1356,11 @@ msgstr "jamovi_Modules"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:27
 msgid "**Reports**"
-msgstr ""
+msgstr "**Reports** (Berichte)"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:29
 msgid "Reports → Codebook"
-msgstr ""
+msgstr "Berichte → Codebuch"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:29
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:31
@@ -1323,133 +1382,136 @@ msgstr ""
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:209
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:213
 msgid "N/A"
-msgstr ""
+msgstr "N/A"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:31
 msgid "Reports → OLAP Cubes"
-msgstr ""
+msgstr "Reports → OLAP Cubes"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:33
 msgid "Reports → Case summaries"
-msgstr ""
+msgstr "Reports → Case summaries (Zusammenfassung von Fällen)"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:33
 msgid "Exploration → Descriptives *has the same functionality*"
-msgstr ""
+msgstr "Exploration → Descriptives *hat die gleiche Funktionalität*"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:35
 msgid "Reports → Reports Summaries in Rows"
-msgstr ""
+msgstr "Reports → Reports Summaries in Rows"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:37
 msgid "Reports → Reports Summaries in Columns"
-msgstr ""
+msgstr "Reports → Reports Summaries in Columns"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:39
 msgid "**Descriptive Statistics**"
-msgstr ""
+msgstr "**Deskriptivstatistik**"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:41
 msgid "Descriptive Statistics → Frequencies"
-msgstr ""
+msgstr "Descriptive Statistics → Frequencies (Häufigkeiten)"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:0
 msgid "Exploration → Descriptives combines all three procedures"
-msgstr ""
+msgstr "Exploration → Descriptives enthält alle drei Analysen"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:0
 msgid ""
 "*tick «Frequency tables» to get an output that is similar to that of "
 "«Frequencies» in SPSS*"
 msgstr ""
+"*wenn Sie „Frequency tables“ ankreuzen, erhalten Sie eine Ausgabe, die "
+"derjenigen von „Frequencies“ in SPSS ähnelt*"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:43
 msgid "Descriptive Statistics → Descriptives"
-msgstr ""
+msgstr "Descriptive Statistics → Descriptives"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:45
 msgid "Descriptive Statistics → Explore"
-msgstr ""
+msgstr "Descriptive Statistics → Explore"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:47
 msgid "Descriptive Statistics → Crosstabs"
-msgstr ""
+msgstr "Descriptive Statistics → Crosstabs (Kreuztabellen)"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:47
 msgid "Frequencies → (Contingency tables) → Independent samples"
 msgstr ""
+"Frequencies → (Contingency tables) → Independent samples (Kreuztabellen)"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:49
 msgid "Descriptive Statistics → Ratio"
-msgstr ""
+msgstr "Descriptive Statistics → Ratio"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:51
 msgid "**Bayesian Statistics**"
-msgstr ""
+msgstr "**Bayessche Statistik**"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:51
 msgid "*requires the jamovi-module «jsq»*"
-msgstr ""
+msgstr "*erfordert das jamovi-Modul „jsq“*"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:53
 msgid "Bayesian Statistics → One Sample Normal"
-msgstr ""
+msgstr "Bayesian Statistics → One Sample Normal"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:53
 msgid "T-Test → Bayesian One Sample T-Test"
-msgstr ""
+msgstr "T-Test → Bayesian One Sample T-Test"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:55
 msgid "Bayesian Statistics → One Sample Binomial"
-msgstr ""
+msgstr "Bayesian Statistics → One Sample Binomial"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:55
 msgid "Frequencies → Bayesian Proportion Test"
-msgstr ""
+msgstr "Frequencies → Bayesian Proportion Test"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:57
 msgid "Bayesian Statistics → One Sample Poisson"
-msgstr ""
+msgstr "Bayesian Statistics → One Sample Poisson"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:57
 msgid "Frequencies → Bayesian Contingency Tables"
-msgstr ""
+msgstr "Frequencies → Bayesian Contingency Tables"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:59
 msgid "Bayesian Statistics → Related Sample Normal"
-msgstr ""
+msgstr "Bayesian Statistics → Related Sample Normal"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:59
 msgid "T-Test → Bayesian Paired Samples T-Test"
-msgstr ""
+msgstr "T-Test → Bayesian Paired Samples T-Test"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:61
 msgid "Bayesian Statistics → Independent Samples Normal"
-msgstr ""
+msgstr "Bayesian Statistics → Independent Samples Normal"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:61
 msgid "T-Test → Bayesian Independent Samples T-Test"
-msgstr ""
+msgstr "T-Test → Bayesian Independent Samples T-Test"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:63
 msgid "Bayesian Statistics → Pearson Correlation"
-msgstr ""
+msgstr "Bayesian Statistics → Pearson Correlation"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:63
 msgid "Regression → Bayesian Correlation Matrix / Bayesian Correlation Pairs"
-msgstr ""
+msgstr "Regression → Bayesian Correlation Matrix / Bayesian Correlation Pairs"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:65
 msgid "Bayesian Statistics → Linear Regression"
-msgstr ""
+msgstr "Bayesian Statistics → Linear Regression"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:65
 msgid "Regression → Bayesian Linear Regression"
-msgstr ""
+msgstr "Regression → Bayesian Linear Regression"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:67
 msgid "Bayesian Statistics → One-way ANOVA"
-msgstr ""
+msgstr "Bayesian Statistics → One-way ANOVA"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:67
 msgid ""
