@@ -3,17 +3,52 @@ msgid ""
 msgstr ""
 "Project-Id-Version: jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-01 23:26+0200\n"
+"POT-Creation-Date: 2025-06-12 12:29+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-12 12:28+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-12 12:26+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-12 12:25+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-12 12:21+0200\n"
 "PO-Revision-Date: 2025-03-23 21:34+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"Language: nb\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/"
 "jamovidocs/1_usermanual/nb_NO/>\n"
-"Language: nb\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11-dev\n"
 "Generated-By: Babel 2.17.0\n"
 
 #: ../../usermanual/um_1_installation.rst:4
@@ -404,7 +439,7 @@ msgstr "og en av fire målenivåer:"
 msgid "|nominal|    ``Nominal``"
 msgstr "|nominal|    ``Nominal``"
 
-#: ../../usermanual/um_4_spreadsheet.rst:439
+#: ../../usermanual/um_4_spreadsheet.rst:438
 msgid "nominal"
 msgstr "nominal"
 
@@ -412,7 +447,7 @@ msgstr "nominal"
 msgid "|ordinal|    ``Ordinal``"
 msgstr "|ordinal|    ``Ordinal``"
 
-#: ../../usermanual/um_4_spreadsheet.rst:441
+#: ../../usermanual/um_4_spreadsheet.rst:440
 msgid "ordinal"
 msgstr "ordinal"
 
@@ -420,7 +455,7 @@ msgstr "ordinal"
 msgid "|continuous| ``Continuous``"
 msgstr "|continuous| ``Continuous``"
 
-#: ../../usermanual/um_4_spreadsheet.rst:443
+#: ../../usermanual/um_4_spreadsheet.rst:442
 msgid "continuous"
 msgstr "continuous"
 
@@ -428,7 +463,7 @@ msgstr "continuous"
 msgid "|id|         ``ID``"
 msgstr "|id|         ``ID``"
 
-#: ../../usermanual/um_4_spreadsheet.rst:445
+#: ../../usermanual/um_4_spreadsheet.rst:444
 msgid "id"
 msgstr "id"
 
@@ -646,7 +681,7 @@ msgstr ""
 msgid "|um_transform_create1|"
 msgstr "|um_transform_create1|"
 
-#: ../../usermanual/um_4_spreadsheet.rst:448
+#: ../../usermanual/um_4_spreadsheet.rst:447
 msgid "um_transform_create1"
 msgstr "um_transform_create1"
 
@@ -658,7 +693,7 @@ msgstr "eller gå til ``Data``-båndet, og klikk på ``Transformer``"
 msgid "|um_transform_create2|"
 msgstr "|um_transform_create2|"
 
-#: ../../usermanual/um_4_spreadsheet.rst:449
+#: ../../usermanual/um_4_spreadsheet.rst:448
 msgid "um_transform_create2"
 msgstr "um_transform_create2"
 
@@ -678,7 +713,7 @@ msgstr ""
 msgid "|um_transform_create3|"
 msgstr "|um_transform_create3|"
 
-#: ../../usermanual/um_4_spreadsheet.rst:450
+#: ../../usermanual/um_4_spreadsheet.rst:449
 msgid "um_transform_create3"
 msgstr "um_transform_create3"
 
@@ -721,7 +756,7 @@ msgstr ""
 msgid "|um_transform_edit1|"
 msgstr "|um_transform_edit1|"
 
-#: ../../usermanual/um_4_spreadsheet.rst:451
+#: ../../usermanual/um_4_spreadsheet.rst:450
 msgid "um_transform_edit1"
 msgstr "um_transform_edit1"
 
@@ -831,23 +866,24 @@ msgstr ""
 msgid "|um_transform_ex1|"
 msgstr "|um_transform_ex1|"
 
-#: ../../usermanual/um_4_spreadsheet.rst:452
+#: ../../usermanual/um_4_spreadsheet.rst:451
 msgid "um_transform_ex1"
 msgstr "um_transform_ex1"
 
 #: ../../usermanual/um_4_spreadsheet.rst:234
+#, fuzzy
 msgid ""
-"You can explore this transform by `downloading <../_static/output/"
-"um_transform_ex1.omv>` and opening the file ``transform_ex1`` in jamovi."
+"You can explore this transform by downloading and opening the data set |"
+"um_transform_ex1_omv|_ in jamovi."
 msgstr ""
 "Du kan utforske denne transformasjonen ved å laste ned <../_static/output/"
 "um_transform_ex1.omv>` og åpne filen ``transform_ex1`` i jamovi."
 
-#: ../../usermanual/um_4_spreadsheet.rst:239
+#: ../../usermanual/um_4_spreadsheet.rst:238
 msgid "**Example 2: Recoding continuous variables into categories**"
 msgstr "**Eksempel 2: Omkoding av kontinuerlige variabler til kategorier**"
 
-#: ../../usermanual/um_4_spreadsheet.rst:241
+#: ../../usermanual/um_4_spreadsheet.rst:240
 msgid ""
 "In a lot of data sets people want to recode their continuous scores into "
 "categories. For example, we may want to classify people, based on their "
@@ -859,15 +895,16 @@ msgstr ""
 "på testresultatene deres fra 0-100 %, i én av tre grupper: ``Pass``, "
 "``Resit`` og ``Fail``."
 
-#: ../../usermanual/um_4_spreadsheet.rst:246
+#: ../../usermanual/um_4_spreadsheet.rst:245
 msgid "|um_transform_ex2|"
 msgstr "|um_transform_ex2|"
 
-#: ../../usermanual/um_4_spreadsheet.rst:453
+#: ../../usermanual/um_4_spreadsheet.rst:452
 msgid "um_transform_ex2"
 msgstr "um_transform_ex2"
 
-#: ../../usermanual/um_4_spreadsheet.rst:248
+#: ../../usermanual/um_4_spreadsheet.rst:247
+#, fuzzy
 msgid ""
 "Note that the conditions are executed in order, and that only the first rule "
 "that matches the case is applied to that case. So this transformation "
@@ -875,8 +912,7 @@ msgid ""
 "will be ``Fail``, if the source variable has a value between 50 and 60, the "
 "value will be ``Resit``, and if the source variable has a value above 60, "
 "the value will be ``Pass``. If you’d like an example data set to play around "
-"with, you can `download <../_static/output/um_transform_ex2.omv>` and use "
-"``transform_ex2.omv``."
+"with, you can download and use |um_transform_ex2_omv|_\\."
 msgstr ""
 "Legg merke til at betingelsene utføres i rekkefølge, og at bare den første "
 "regelen som samsvarer med caset, blir brukt på det aktuelle caset. Så denne "
@@ -887,11 +923,11 @@ msgstr ""
 "datasett å leke deg med, kan du `laste ned <../_static/output/"
 "um_transform_ex2.omv>` og bruke ``transform_ex2.omv``."
 
-#: ../../usermanual/um_4_spreadsheet.rst:258
+#: ../../usermanual/um_4_spreadsheet.rst:256
 msgid "**Example 3: Replacing missing values**"
 msgstr "**Eksempel 3: Erstatning av manglende verdier**"
 
-#: ../../usermanual/um_4_spreadsheet.rst:260
+#: ../../usermanual/um_4_spreadsheet.rst:258
 msgid ""
 "Now, let’s say your data set has a lot of missing values and removing the "
 "participants with missing values will end up in a severe loss of "
@@ -911,31 +947,31 @@ msgstr ""
 "gjennomsnittssubstitusjon, og du sannsynligvis aldri bør gjøre det, er det "
 "en fin demonstrasjon..."
 
-#: ../../usermanual/um_4_spreadsheet.rst:269
+#: ../../usermanual/um_4_spreadsheet.rst:267
 msgid "|um_transform_ex3|"
 msgstr "|um_transform_ex3|"
 
-#: ../../usermanual/um_4_spreadsheet.rst:454
+#: ../../usermanual/um_4_spreadsheet.rst:453
 msgid "um_transform_ex3"
 msgstr "um_transform_ex3"
 
-#: ../../usermanual/um_4_spreadsheet.rst:271
+#: ../../usermanual/um_4_spreadsheet.rst:269
+#, fuzzy
 msgid ""
 "Note that jamovi has borrowed NA from R to denote missing values. Don’t have "
-"a good data set handy? You can try it out yourself by `downloading <../"
-"_static/output/um_transform_ex3.omv>` and opening the ``transform_ex3.omv`` "
-"data set."
+"a good data set handy? You can try it out yourself by downloading and "
+"opening the |um_transform_ex3_omv|_ data set."
 msgstr ""
 "Merk at jamovi har lånt ``NA`` fra R for å markere manglende verdier. Har du "
 "ikke et godt datasett for hånden? Du kan prøve det selv ved å `laste ned <../"
 "_static/output/um_transform_ex3.omv>` og åpne datasettet ``transform_ex3."
 "omv``."
 
-#: ../../usermanual/um_4_spreadsheet.rst:278
+#: ../../usermanual/um_4_spreadsheet.rst:275
 msgid "Filters"
 msgstr "Filtre"
 
-#: ../../usermanual/um_4_spreadsheet.rst:280
+#: ../../usermanual/um_4_spreadsheet.rst:277
 msgid ""
 "Filters in jamovi allow you to filter out rows that you don’t want included "
 "in your analysis. For example, you might want to only include people’s "
@@ -953,7 +989,7 @@ msgstr ""
 "oppgave. I noen tilfeller ønsker du bare å ekskludere ekstreme skårer, for "
 "eksempel de som skårer mer enn tre standardavvik fra gjennomsnittet."
 
-#: ../../usermanual/um_4_spreadsheet.rst:288
+#: ../../usermanual/um_4_spreadsheet.rst:285
 msgid ""
 "The filters in jamovi are build on top of jamovi’s *computed variable* "
 "formula system, which allows the building of arbitrarily complex formulas."
@@ -961,11 +997,11 @@ msgstr ""
 "Filtrene i jamovi er bygget på jamovis *beregnede variabel*-formelsystem. "
 "Det gjør det mulig å bygge svært komplekse formler."
 
-#: ../../usermanual/um_4_spreadsheet.rst:291
+#: ../../usermanual/um_4_spreadsheet.rst:288
 msgid "**Row filters**"
 msgstr "**Radfiltre**"
 
-#: ../../usermanual/um_4_spreadsheet.rst:293
+#: ../../usermanual/um_4_spreadsheet.rst:290
 msgid ""
 "jamovi filters are demonstrated using the ``Tooth Growth`` data set which is "
 "included with jamovi (``☰`` → ``Open`` → ``Data Library``). Select the "
@@ -977,7 +1013,7 @@ msgstr ""
 "button`` fra båndet ``Data``. Dette åpner filtervisningen og oppretter et "
 "nytt filter som heter ``Filter 1``."
 
-#: ../../usermanual/um_4_spreadsheet.rst:302
+#: ../../usermanual/um_4_spreadsheet.rst:299
 msgid ""
 "In the short video, we specify a filter to exclude the 9th row. Perhaps we "
 "know that the 9th participant was someone just testing the survey system, "
@@ -991,7 +1027,7 @@ msgstr ""
 "faktisk om lengden på marsvintenner, så kanskje vi vet at den niende "
 "deltakeren var en kanin). Vi kan ganske enkelt ekskludere dem med formelen:"
 
-#: ../../usermanual/um_4_spreadsheet.rst:312
+#: ../../usermanual/um_4_spreadsheet.rst:309
 msgid ""
 "In this expression the ``!=`` means ‘does not equal’. If you’ve ever used a "
 "programming language like R this should be very familiar. Filters in jamovi "
@@ -1013,7 +1049,7 @@ msgstr ""
 "måte, hvis vi allerede hadde kjørt noen analyser, ville de kjøres på nytt, "
 "og resultatene ville oppdateres til verdier som ikke bruker den niende raden."
 
-#: ../../usermanual/um_4_spreadsheet.rst:322
+#: ../../usermanual/um_4_spreadsheet.rst:319
 msgid ""
 "Typically, we would like to have more complex filters than this! The ``Tooth "
 "Growth`` example contains the length of teeth from guinea pigs (the ``len`` "
@@ -1033,7 +1069,7 @@ msgstr ""
 "grupperingsvariabel. Men la oss si at vi bare er interessert i effekten av "
 "vitamin C, og ikke av appelsinjuice. Da kan vi bruke formelen:"
 
-#: ../../usermanual/um_4_spreadsheet.rst:335
+#: ../../usermanual/um_4_spreadsheet.rst:332
 msgid ""
 "In fact we can specify this formula in addition to the ``ROW() != 9`` "
 "formula if we like. We can add it as another expression to ``Filter 1`` (by "
@@ -1058,7 +1094,7 @@ msgstr ""
 "flått og kryss kan vi se hvilket filter eller uttrykk som er ansvarlig for å "
 "ekskludere hver rad."
 
-#: ../../usermanual/um_4_spreadsheet.rst:346
+#: ../../usermanual/um_4_spreadsheet.rst:343
 msgid ""
 "But let’s say we want to exclude from the analysis all the tooth lengths "
 "that were more than 1.5 standard deviations from the mean. To do this, we’d "
@@ -1072,7 +1108,7 @@ msgstr ""
 "følgende formler (den andre formelen er en fin måte å demonstrere for "
 "elevene hva en z-score er):"
 
-#: ../../usermanual/um_4_spreadsheet.rst:357
+#: ../../usermanual/um_4_spreadsheet.rst:354
 msgid ""
 "There are a lot of functions available in jamovi, and you can see them by "
 "clicking the small *f*\\ :sub:`x` beside the formula box."
@@ -1080,7 +1116,7 @@ msgstr ""
 "Det finnes mange funksjoner i jamovi, og du kan se dem ved å klikke på den "
 "lille *f*\\ :sub:`x` ved siden av formelboksen."
 
-#: ../../usermanual/um_4_spreadsheet.rst:360
+#: ../../usermanual/um_4_spreadsheet.rst:357
 msgid ""
 "Now let’s add this z-score formula to a separate filter by clicking the "
 "large ``+`` to the left of the filters, and adding it to ``Filter 2``."
@@ -1089,7 +1125,7 @@ msgstr ""
 "å klikke på det store ``+`` til venstre for filtrene, og legge den til "
 "``Filter 2``."
 
-#: ../../usermanual/um_4_spreadsheet.rst:367
+#: ../../usermanual/um_4_spreadsheet.rst:364
 msgid ""
 "With multiple filters, the filtered rows cascade from one filter into the "
 "next. So only the rows allowed through by ``Filter 1`` are used in the "
@@ -1112,11 +1148,11 @@ msgstr ""
 "vilkårlig komplekse regler for når en rad skal inkluderes i analyser eller "
 "ikke (men du bør forhåndsregistrere reglene dine).\\ [#]_"
 
-#: ../../usermanual/um_4_spreadsheet.rst:378
+#: ../../usermanual/um_4_spreadsheet.rst:375
 msgid "**Column filters**"
 msgstr "**Kolonnefiltre**"
 
-#: ../../usermanual/um_4_spreadsheet.rst:380
+#: ../../usermanual/um_4_spreadsheet.rst:377
 msgid ""
 "Whereas row filters are applied to the data set as a whole, sometimes you "
 "want to just filter individual columns. Column filters come in handy when "
@@ -1130,7 +1166,7 @@ msgstr ""
 "systemet med beregnede variabler. Med de beregnede variablene lager vi en "
 "kopi av en eksisterende kolonne, hvor de uønskede verdiene blir ekskludert."
 
-#: ../../usermanual/um_4_spreadsheet.rst:386
+#: ../../usermanual/um_4_spreadsheet.rst:383
 msgid ""
 "In the Tooth Growth example, we might want to analyse the doses of 500 and "
 "1000, and 1000 and 2000 separately. To do this we create a new column for "
@@ -1149,7 +1185,7 @@ msgstr ""
 "en av formlene nedenfor (de gjør det samme, den andre er kanskje lettere å "
 "forstå):"
 
-#: ../../usermanual/um_4_spreadsheet.rst:399
+#: ../../usermanual/um_4_spreadsheet.rst:396
 msgid ""
 "The first argument to the ``FILTER()`` function (in this example dose) is "
 "what values to use in the computed column. The second argument is the "
@@ -1165,7 +1201,7 @@ msgstr ""
 "denne formelen inneholder kolonnen ``dose (2)`` alle verdiene i ``500`` og "
 "``1000``, mens verdiene i ``2000`` ikke er der."
 
-#: ../../usermanual/um_4_spreadsheet.rst:406
+#: ../../usermanual/um_4_spreadsheet.rst:403
 msgid ""
 "We might also change the name of the column to something more descriptive, "
 "like ``dose 5,10``. Similarly we can create a column ``dose 10,20`` with the "
@@ -1183,7 +1219,7 @@ msgstr ""
 "andre. På denne måten kan vi bruke forskjellige filtre til forskjellige "
 "analyser. I motsetning til radfiltre som brukes på *alle* analysene."
 
-#: ../../usermanual/um_4_spreadsheet.rst:419
+#: ../../usermanual/um_4_spreadsheet.rst:416
 msgid ""
 "It may also have occurred to you, that with ``FILTER()`` we can do what "
 "might be called a “poor man’s split variables”: You can create splits using "
@@ -1198,7 +1234,7 @@ msgstr ""
 "funksjonene ``FILTER(len, supp == 'VC')`` og ``FILTER(len, supp == 'OJ')``. "
 "Dette resulterer i to separate kolonner som kan analyseres side om side."
 
-#: ../../usermanual/um_4_spreadsheet.rst:432
+#: ../../usermanual/um_4_spreadsheet.rst:425
 msgid ""
 "Pre-registration is a solution to `p-hacking <https://en.wikipedia.org/wiki/"
 "Data_dredging>`_, not deliberately making software difficult to use! Don’t p-"
@@ -1561,11 +1597,11 @@ msgstr ""
 "Som standard bruker ``Rj`` versjonen av ``R`` som følger med jamovi. Denne "
 "inneholder mange pakker (|jmv|_ og alle dens avhengigheter), og vil være "
 "tilstrekkelig for de fleste. Hvis du trenger å gjøre bruk av ytterligere "
-"``R``\-pakker, må du bruke ``System R`` versjonen. Hvis du velger ⚙ (øverst "
+"``R``\\-pakker, må du bruke ``System R`` versjonen. Hvis du velger ⚙ (øverst "
 "til høyre i kodeboksen), vil du se et alternativ for å endre ``R version`` "
 "som brukes. Versjonen ``System R`` bruker den versjonen av ``R`` som du har "
-"installert på systemet ditt. Dette har den fordelen at ``R``\-koden din nå "
-"har tilgang til alle pakkene du har installert for den versjonen av ``R``\. "
+"installert på systemet ditt. Dette har den fordelen at ``R``\\-koden din nå "
+"har tilgang til alle pakkene du har installert for den versjonen av ``R``\\. "
 "Det siste du trenger er å ha R-pakken |jmvconnect|_ installert i R-"
 "biblioteket på systemet ditt."
 
@@ -1639,8 +1675,8 @@ msgid ""
 "available data sets, and ``read()`` reads them. For example, you might use:"
 msgstr ""
 "Det kan hende at du ønsker å gå over til en ``R``-sesjon for å analysere et "
-"datasett. Det er her R-pakken |jmvconnect|_ kommer til nytte. Med "
-"|jmvconnect|_ kan du lese datasettene fra en jamovi-instans som kjører, til "
+"datasett. Det er her R-pakken |jmvconnect|_ kommer til nytte. Med |"
+"jmvconnect|_ kan du lese datasettene fra en jamovi-instans som kjører, til "
 "en R-sesjon. Den har to funksjoner: `what()` viser de tilgjengelige "
 "datasettene, og ``read()`` leser dem. Du kan for eksempel bruke:"
 

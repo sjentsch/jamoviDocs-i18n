@@ -1,20 +1,52 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PROJECT VERSION\n"
+"Project-Id-Version: jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-01 23:26+0200\n"
-"PO-Revision-Date: 2025-03-23 16:15+0000\n"
-"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
-"Language-Team: German <https://hosted.weblate.org/projects/"
-"jamovidocs/4_spss2jamovi/de/>\n"
-"Language: de\n"
+"POT-Creation-Date: 2025-06-12 12:29+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-12 12:28+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-12 12:26+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-12 12:25+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-06-12 12:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11-dev\n"
-"Generated-By: Babel 2.9.1\n"
+"Generated-By: Babel 2.17.0\n"
 
 #: ../../spss2jamovi/s2j_ANCOVA.rst:5 ../../spss2jamovi/s2j_ANCOVA2.rst:5
 #: ../../spss2jamovi/s2j_ANCOVA3.rst:5 ../../spss2jamovi/s2j_ANCOVA4.rst:5
@@ -336,19 +368,15 @@ msgstr ""
 
 #: ../../spss2jamovi/s2j_ANCOVA.rst:76
 msgid ""
-"`SPSS output file containing the analyses <../_static/output/"
+"`SPSS output file containing the analyses <../../_static/output/"
 "s2j_Output_SPSS_ANCOVA1.spv>`_"
 msgstr ""
-"`SPSS-Ausgabedatei mit den Analysen <../_static/output/"
-"s2j_Output_SPSS_ANCOVA1.spv>`_"
 
 #: ../../spss2jamovi/s2j_ANCOVA.rst:76
 msgid ""
-"`jamovi file containing the analyses <../_static/output/"
+"`jamovi file containing the analyses <../../_static/output/"
 "s2j_Output_jamovi_ANCOVA1.omv>`_"
 msgstr ""
-"`jamovi-Datei mit den Analysen <../_static/output/s2j_Output_jamovi_ANCOVA1."
-"omv>`_"
 
 #: ../../spss2jamovi/s2j_ANCOVA.rst:90 ../../spss2jamovi/s2j_ANCOVA2.rst:52
 #: ../../spss2jamovi/s2j_ANCOVA3.rst:83 ../../spss2jamovi/s2j_ANCOVA4.rst:82
@@ -536,19 +564,15 @@ msgstr ""
 
 #: ../../spss2jamovi/s2j_ANCOVA2.rst:47
 msgid ""
-"`SPSS output file containing the analyses <../_static/output/"
+"`SPSS output file containing the analyses <../../_static/output/"
 "s2j_Output_SPSS_ANCOVA2.spv>`_"
 msgstr ""
-"`SPSS-Ausgabedatei mit den Analysen <../_static/output/"
-"s2j_Output_SPSS_ANCOVA2.spv>`_"
 
 #: ../../spss2jamovi/s2j_ANCOVA2.rst:47
 msgid ""
-"`jamovi file containing the analyses <../_static/output/"
+"`jamovi file containing the analyses <../../_static/output/"
 "s2j_Output_jamovi_ANCOVA2.omv>`_"
 msgstr ""
-"`jamovi-Datei mit den Analysen <../_static/output/s2j_Output_jamovi_ANCOVA2."
-"omv>`_"
 
 #: ../../spss2jamovi/s2j_ANCOVA3.rst:7
 msgid ""
@@ -818,19 +842,15 @@ msgstr ""
 
 #: ../../spss2jamovi/s2j_ANCOVA3.rst:78
 msgid ""
-"`SPSS output file containing the analyses <../_static/output/"
+"`SPSS output file containing the analyses <../../_static/output/"
 "s2j_Output_SPSS_ANCOVA3.spv>`_"
 msgstr ""
-"`SPSS-Ausgabedatei mit den Analysen <../_static/output/"
-"s2j_Output_SPSS_ANCOVA3.spv>`_"
 
 #: ../../spss2jamovi/s2j_ANCOVA3.rst:78
 msgid ""
-"`jamovi file containing the analyses <../_static/output/"
+"`jamovi file containing the analyses <../../_static/output/"
 "s2j_Output_jamovi_ANCOVA3.omv>`_"
 msgstr ""
-"`jamovi-Datei mit den Analysen <../_static/output/s2j_Output_jamovi_ANCOVA3."
-"omv>`_"
 
 #: ../../spss2jamovi/s2j_ANCOVA4.rst:7
 msgid ""
@@ -1079,19 +1099,15 @@ msgstr ""
 
 #: ../../spss2jamovi/s2j_ANCOVA4.rst:77
 msgid ""
-"`SPSS output file containing the analyses <../_static/output/"
+"`SPSS output file containing the analyses <../../_static/output/"
 "s2j_Output_SPSS_ANCOVA4.spv>`_"
 msgstr ""
-"`SPSS-Ausgabedatei mit den Analysen <../_static/output/"
-"s2j_Output_SPSS_ANCOVA4.spv>`_"
 
 #: ../../spss2jamovi/s2j_ANCOVA4.rst:77
 msgid ""
-"`jamovi file containing the analyses <../_static/output/"
+"`jamovi file containing the analyses <../../_static/output/"
 "s2j_Output_jamovi_ANCOVA4.omv>`_"
 msgstr ""
-"`jamovi-Datei mit den Analysen <../_static/output/s2j_Output_jamovi_ANCOVA4."
-"omv>`_"
 
 #: ../../spss2jamovi/s2j_ANCOVA5.rst:7
 msgid ""
@@ -1245,13 +1261,13 @@ msgstr ""
 
 #: ../../spss2jamovi/s2j_ANCOVA5.rst:57
 msgid ""
-"`SPSS output file containing the analyses <../_static/output/"
+"`SPSS output file containing the analyses <../../_static/output/"
 "s2j_Output_SPSS_ANCOVA5.spv>`_"
 msgstr ""
 
 #: ../../spss2jamovi/s2j_ANCOVA5.rst:57
 msgid ""
-"`jamovi file containing the analyses <../_static/output/"
+"`jamovi file containing the analyses <../../_static/output/"
 "s2j_Output_jamovi_ANCOVA5.omv>`_"
 msgstr ""
 
@@ -1276,24 +1292,29 @@ msgid "jamovi_Analyze"
 msgstr "jamovi_Analyze"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:0
+#: ../../spss2jamovi/s2j_Comparison_of_analyses.rst
 msgid ""
 "Already at first glance, it becomes clear that jamovi currently has fewer "
 "features than SPSS. **BUT**:"
 msgstr ""
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:0
+#: ../../spss2jamovi/s2j_Comparison_of_analyses.rst
 msgid ""
 "(1) There is a (ever increasing) made available via modules (press the \"+\" "
 "sign in the right upper corner of the jamovi window to add them)."
 msgstr ""
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:0
+#: ../../spss2jamovi/s2j_Comparison_of_analyses.rst
+#, python-format
 msgid ""
 "(2) The features implemented already cover \"standard\" needs (90% of the "
 "most frequently used analyses in psychology)."
 msgstr ""
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:0
+#: ../../spss2jamovi/s2j_Comparison_of_analyses.rst
 msgid ""
 "Feel free to check out which |modules| are available: There is also quite a "
 "wealth of modules covering functions that are not available in SPSS but very "
@@ -1301,6 +1322,7 @@ msgid ""
 msgstr ""
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:0
+#: ../../spss2jamovi/s2j_Comparison_of_analyses.rst
 msgid ""
 "If you are willing to use some R code (e.g., in conjunction with the jamovi-"
 "module Rj) then you can (most presumably) do every analysis you can imagine."
@@ -1373,10 +1395,12 @@ msgid "Descriptive Statistics → Frequencies"
 msgstr ""
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:0
+#: ../../spss2jamovi/s2j_Comparison_of_analyses.rst
 msgid "Exploration → Descriptives combines all three procedures"
 msgstr ""
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:0
+#: ../../spss2jamovi/s2j_Comparison_of_analyses.rst
 msgid ""
 "*tick «Frequency tables» to get an output that is similar to that of "
 "«Frequencies» in SPSS*"
@@ -1706,10 +1730,12 @@ msgid "Dimension Reduction → Factor"
 msgstr ""
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:0
+#: ../../spss2jamovi/s2j_Comparison_of_analyses.rst
 msgid "Factor → (Data reduction) → Principal Component Analysis"
 msgstr ""
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:0
+#: ../../spss2jamovi/s2j_Comparison_of_analyses.rst
 msgid "Factor → (Data reduction) → Exploratory Factor Analysis [#FA]_"
 msgstr ""
 
@@ -2026,13 +2052,13 @@ msgstr ""
 
 #: ../../spss2jamovi/s2j_correlation.rst:52
 msgid ""
-"`SPSS output file containing the analyses <../_static/output/"
+"`SPSS output file containing the analyses <../../_static/output/"
 "s2j_Output_SPSS_corr1.spv>`_"
 msgstr ""
 
 #: ../../spss2jamovi/s2j_correlation.rst:52
 msgid ""
-"`jamovi file containing the analyses <../_static/output/"
+"`jamovi file containing the analyses <../../_static/output/"
 "s2j_Output_jamovi_corr1.omv>`_"
 msgstr ""
 
@@ -2131,13 +2157,13 @@ msgstr ""
 
 #: ../../spss2jamovi/s2j_correlation2.rst:51
 msgid ""
-"`SPSS output file containing the analyses <../_static/output/"
+"`SPSS output file containing the analyses <../../_static/output/"
 "s2j_Output_SPSS_corr2.spv>`_"
 msgstr ""
 
 #: ../../spss2jamovi/s2j_correlation2.rst:51
 msgid ""
-"`jamovi file containing the analyses <../_static/output/"
+"`jamovi file containing the analyses <../../_static/output/"
 "s2j_Output_jamovi_corr2.omv>`_"
 msgstr ""
 
@@ -2227,13 +2253,13 @@ msgstr ""
 
 #: ../../spss2jamovi/s2j_correlation3.rst:51
 msgid ""
-"`SPSS output file containing the analyses <../_static/output/"
+"`SPSS output file containing the analyses <../../_static/output/"
 "s2j_Output_SPSS_corr3.spv>`_"
 msgstr ""
 
 #: ../../spss2jamovi/s2j_correlation3.rst:51
 msgid ""
-"`jamovi file containing the analyses <../_static/output/"
+"`jamovi file containing the analyses <../../_static/output/"
 "s2j_Output_jamovi_corr3.omv>`_"
 msgstr ""
 
@@ -2332,13 +2358,13 @@ msgstr ""
 
 #: ../../spss2jamovi/s2j_correlation4.rst:49
 msgid ""
-"`SPSS output file containing the analyses <../_static/output/"
+"`SPSS output file containing the analyses <../../_static/output/"
 "s2j_Output_SPSS_corr4.spv>`_"
 msgstr ""
 
 #: ../../spss2jamovi/s2j_correlation4.rst:49
 msgid ""
-"`jamovi file containing the analyses <../_static/output/"
+"`jamovi file containing the analyses <../../_static/output/"
 "s2j_Output_jamovi_corr4.omv>`_"
 msgstr ""
 
@@ -2442,13 +2468,13 @@ msgstr ""
 
 #: ../../spss2jamovi/s2j_correlation5.rst:49
 msgid ""
-"`SPSS output file containing the analyses <../_static/output/"
+"`SPSS output file containing the analyses <../../_static/output/"
 "s2j_Output_SPSS_corr5.spv>`_"
 msgstr ""
 
 #: ../../spss2jamovi/s2j_correlation5.rst:49
 msgid ""
-"`jamovi file containing the analyses <../_static/output/"
+"`jamovi file containing the analyses <../../_static/output/"
 "s2j_Output_jamovi_corr5.omv>`_"
 msgstr ""
 
@@ -2692,13 +2718,13 @@ msgstr ""
 
 #: ../../spss2jamovi/s2j_frequencies.rst:87
 msgid ""
-"`SPSS output file containing the analyses <../_static/output/"
+"`SPSS output file containing the analyses <../../_static/output/"
 "s2j_Output_SPSS_chi-square.spv>`_"
 msgstr ""
 
 #: ../../spss2jamovi/s2j_frequencies.rst:87
 msgid ""
-"`jamovi file containing the analyses <../_static/output/"
+"`jamovi file containing the analyses <../../_static/output/"
 "s2j_Output_jamovi_chi-square.omv>`_"
 msgstr ""
 
@@ -2878,13 +2904,13 @@ msgstr ""
 
 #: ../../spss2jamovi/s2j_frequencies2.rst:84
 msgid ""
-"`SPSS output file containing the analyses <../_static/output/"
+"`SPSS output file containing the analyses <../../_static/output/"
 "s2j_Output_SPSS_logLinear.spv>`_"
 msgstr ""
 
 #: ../../spss2jamovi/s2j_frequencies2.rst:84
 msgid ""
-"`jamovi file containing the analyses <../_static/output/"
+"`jamovi file containing the analyses <../../_static/output/"
 "s2j_Output_jamovi_logLinear.omv>`_"
 msgstr ""
 
@@ -3024,6 +3050,7 @@ msgid ""
 msgstr ""
 
 #: ../../spss2jamovi/s2j_linReg.rst:40
+#, python-format
 msgid ""
 "In jamovi, *R* and *R²* are found in the table called Model Fit Measures. "
 "The results from the ANOVA is found in the table called Omnibus ANOVA Test, "
@@ -3044,13 +3071,13 @@ msgstr ""
 
 #: ../../spss2jamovi/s2j_linReg.rst:67
 msgid ""
-"`SPSS output file containing the analyses <../_static/output/"
+"`SPSS output file containing the analyses <../../_static/output/"
 "s2j_Output_SPSS_linReg1.spv>`_"
 msgstr ""
 
 #: ../../spss2jamovi/s2j_linReg.rst:67
 msgid ""
-"`jamovi file containing the analyses <../_static/output/"
+"`jamovi file containing the analyses <../../_static/output/"
 "s2j_Output_jamovi_linReg1.omv>`_"
 msgstr ""
 
@@ -3370,6 +3397,7 @@ msgid "jamovi_Output_linReg2_6"
 msgstr "jamovi_Output_linReg2_6"
 
 #: ../../spss2jamovi/s2j_linReg2.rst:73
+#, python-format
 msgid ""
 "In the Model Summary, you can see the summary statistics for model 1, where "
 "the only predictor is advertising budget, as well as for model 2, in which "
@@ -3411,13 +3439,13 @@ msgstr ""
 
 #: ../../spss2jamovi/s2j_linReg2.rst:116
 msgid ""
-"`SPSS output file containing the analyses <../_static/output/"
+"`SPSS output file containing the analyses <../../_static/output/"
 "s2j_Output_SPSS_linReg2.spv>`_"
 msgstr ""
 
 #: ../../spss2jamovi/s2j_linReg2.rst:116
 msgid ""
-"`jamovi file containing the analyses <../_static/output/"
+"`jamovi file containing the analyses <../../_static/output/"
 "s2j_Output_jamovi_linReg2.omv>`_"
 msgstr ""
 
@@ -3742,39 +3770,39 @@ msgid ""
 "using the drop-down menu next to ``Model Specific Results``."
 msgstr ""
 
-#: ../../spss2jamovi/s2j_logReg.rst:0
+#: ../../spss2jamovi/s2j_logReg.rst:0 ../../spss2jamovi/s2j_logReg.rst
 msgid ""
 "SPSS produces a lot more output tables (some not shown) than jamovi, not the "
 "least due to Field (2017) asking for options that are not available in "
 "jamovi."
 msgstr ""
 
-#: ../../spss2jamovi/s2j_logReg.rst:0
+#: ../../spss2jamovi/s2j_logReg.rst:0 ../../spss2jamovi/s2j_logReg.rst
 msgid "The numerical values for the results are the same."
 msgstr ""
 
-#: ../../spss2jamovi/s2j_logReg.rst:0
+#: ../../spss2jamovi/s2j_logReg.rst:0 ../../spss2jamovi/s2j_logReg.rst
 msgid ""
 "Model 1: -2LL = 144.158, χ² = 9.926, df = 1, *p* = 0.002, *R²*:sub:`CS` = "
 "0.084, *R²*:sub:`N` = 0.113, corr.\\ :sub:`NC` = 66.667, corr.\\ :sub:`C` = "
 "63.077"
 msgstr ""
 
-#: ../../spss2jamovi/s2j_logReg.rst:0
+#: ../../spss2jamovi/s2j_logReg.rst:0 ../../spss2jamovi/s2j_logReg.rst
 msgid ""
 "Model 2: -2LL = 144.156, χ² = 9.928, df = 2, *p* = 0.007, *R²*:sub:`CS` = "
 "0.084, *R²*:sub:`N` = 0.113, corr.\\ :sub:`NC` = 66.667, corr.\\ :sub:`C` = "
 "63.077"
 msgstr ""
 
-#: ../../spss2jamovi/s2j_logReg.rst:0
+#: ../../spss2jamovi/s2j_logReg.rst:0 ../../spss2jamovi/s2j_logReg.rst
 msgid ""
 "Model 3: -2LL = 144.095, χ² = 9.989, df = 3, *p* = 0.019, *R²*:sub:`CS` = "
 "0.085, *R²*:sub:`N` = 0.114, corr.\\ :sub:`NC` = 66.667, corr.\\ :sub:`C` = "
 "63.077"
 msgstr ""
 
-#: ../../spss2jamovi/s2j_logReg.rst:0
+#: ../../spss2jamovi/s2j_logReg.rst:0 ../../spss2jamovi/s2j_logReg.rst
 msgid ""
 "It becomes clear that ``Intervention`` is the most decisive predictor "
 "whereas ``Duration`` and the interaction of ``Intervention × Duration`` "
@@ -3788,13 +3816,13 @@ msgstr ""
 
 #: ../../spss2jamovi/s2j_logReg.rst:111
 msgid ""
-"`SPSS output file containing the analyses <../_static/output/"
+"`SPSS output file containing the analyses <../../_static/output/"
 "s2j_Output_SPSS_logReg.spv>`_"
 msgstr ""
 
 #: ../../spss2jamovi/s2j_logReg.rst:111
 msgid ""
-"`jamovi file containing the analyses <../_static/output/"
+"`jamovi file containing the analyses <../../_static/output/"
 "s2j_Output_jamovi_logReg.omv>`_"
 msgstr ""
 
@@ -3964,13 +3992,13 @@ msgstr ""
 
 #: ../../spss2jamovi/s2j_nonParametric.rst:67
 msgid ""
-"`SPSS output file containing the analyses <../_static/output/"
+"`SPSS output file containing the analyses <../../_static/output/"
 "s2j_Output_SPSS_nonParametric1.spv>`_"
 msgstr ""
 
 #: ../../spss2jamovi/s2j_nonParametric.rst:67
 msgid ""
-"`jamovi file with the analyses <../_static/output/"
+"`jamovi file with the analyses <../../_static/output/"
 "s2j_Output_jamovi_nonParametric1.omv>`_"
 msgstr ""
 
@@ -4185,13 +4213,13 @@ msgstr ""
 
 #: ../../spss2jamovi/s2j_nonParametric2.rst:85
 msgid ""
-"`SPSS output file containing the analyses <../_static/output/"
+"`SPSS output file containing the analyses <../../_static/output/"
 "s2j_Output_SPSS_nonParametric2.spv>`_"
 msgstr ""
 
 #: ../../spss2jamovi/s2j_nonParametric2.rst:85
 msgid ""
-"`jamovi file with the analyses <../_static/output/"
+"`jamovi file with the analyses <../../_static/output/"
 "s2j_Output_jamovi_nonParametric2.omv>`_"
 msgstr ""
 
@@ -4349,13 +4377,13 @@ msgstr ""
 
 #: ../../spss2jamovi/s2j_nonParametric3.rst:61
 msgid ""
-"`SPSS output file containing the analyses <../_static/output/"
+"`SPSS output file containing the analyses <../../_static/output/"
 "s2j_Output_SPSS_nonParametric3.spv>`_"
 msgstr ""
 
 #: ../../spss2jamovi/s2j_nonParametric3.rst:61
 msgid ""
-"`jamovi file with the analyses <../_static/output/"
+"`jamovi file with the analyses <../../_static/output/"
 "s2j_Output_jamovi_nonParametric3.omv>`_"
 msgstr ""
 
@@ -4510,14 +4538,14 @@ msgstr ""
 
 #: ../../spss2jamovi/s2j_ttestIS.rst:57
 msgid ""
-"`SPSS output file containing the analyses <../_static/output/"
+"`SPSS output file containing the analyses <../../_static/output/"
 "s2j_Output_SPSS_ttestIS.spv>`_"
 msgstr ""
 
 #: ../../spss2jamovi/s2j_ttestIS.rst:57
 msgid ""
-"`jamovi file with the analyses <../_static/output/s2j_Output_jamovi_ttestIS."
-"omv>`_"
+"`jamovi file with the analyses <../../_static/output/"
+"s2j_Output_jamovi_ttestIS.omv>`_"
 msgstr ""
 
 #: ../../spss2jamovi/s2j_ttestPS.rst:5 ../../spss2jamovi/s2j_ttestPS2.rst:5
@@ -4844,15 +4872,15 @@ msgstr ""
 
 #: ../../spss2jamovi/s2j_ttestPS.rst:96
 msgid ""
-"`SPSS data file containing the computed variables <../_static/output/"
+"`SPSS data file containing the computed variables <../../_static/output/"
 "s2j_Output_SPSS_ttestPS1.sav>`_ `SPSS output file containing the analyses "
-"<../_static/output/s2j_Output_SPSS_ttestPS1.spv>`_"
+"<../../_static/output/s2j_Output_SPSS_ttestPS1.spv>`_"
 msgstr ""
 
 #: ../../spss2jamovi/s2j_ttestPS.rst:96
 msgid ""
-"`jamovi file with the analyses <../_static/output/s2j_Output_jamovi_ttestPS1."
-"omv>`_"
+"`jamovi file with the analyses <../../_static/output/"
+"s2j_Output_jamovi_ttestPS1.omv>`_"
 msgstr ""
 
 #: ../../spss2jamovi/s2j_ttestPS2.rst:7
@@ -5001,12 +5029,68 @@ msgstr ""
 
 #: ../../spss2jamovi/s2j_ttestPS2.rst:64
 msgid ""
-"`SPSS output file containing the analyses <../_static/output/"
+"`SPSS output file containing the analyses <../../_static/output/"
 "s2j_Output_SPSS_ttestPS2.spv>`_"
 msgstr ""
 
 #: ../../spss2jamovi/s2j_ttestPS2.rst:64
 msgid ""
-"`jamovi file with the analyses <../_static/output/s2j_Output_jamovi_ttestPS2."
-"omv>`_"
+"`jamovi file with the analyses <../../_static/output/"
+"s2j_Output_jamovi_ttestPS2.omv>`_"
 msgstr ""
+
+#~ msgid ""
+#~ "`SPSS output file containing the analyses <../_static/output/"
+#~ "s2j_Output_SPSS_ANCOVA1.spv>`_"
+#~ msgstr ""
+#~ "`SPSS-Ausgabedatei mit den Analysen <../_static/output/"
+#~ "s2j_Output_SPSS_ANCOVA1.spv>`_"
+
+#~ msgid ""
+#~ "`jamovi file containing the analyses <../_static/output/"
+#~ "s2j_Output_jamovi_ANCOVA1.omv>`_"
+#~ msgstr ""
+#~ "`jamovi-Datei mit den Analysen <../_static/output/"
+#~ "s2j_Output_jamovi_ANCOVA1.omv>`_"
+
+#~ msgid ""
+#~ "`SPSS output file containing the analyses <../_static/output/"
+#~ "s2j_Output_SPSS_ANCOVA2.spv>`_"
+#~ msgstr ""
+#~ "`SPSS-Ausgabedatei mit den Analysen <../_static/output/"
+#~ "s2j_Output_SPSS_ANCOVA2.spv>`_"
+
+#~ msgid ""
+#~ "`jamovi file containing the analyses <../_static/output/"
+#~ "s2j_Output_jamovi_ANCOVA2.omv>`_"
+#~ msgstr ""
+#~ "`jamovi-Datei mit den Analysen <../_static/output/"
+#~ "s2j_Output_jamovi_ANCOVA2.omv>`_"
+
+#~ msgid ""
+#~ "`SPSS output file containing the analyses <../_static/output/"
+#~ "s2j_Output_SPSS_ANCOVA3.spv>`_"
+#~ msgstr ""
+#~ "`SPSS-Ausgabedatei mit den Analysen <../_static/output/"
+#~ "s2j_Output_SPSS_ANCOVA3.spv>`_"
+
+#~ msgid ""
+#~ "`jamovi file containing the analyses <../_static/output/"
+#~ "s2j_Output_jamovi_ANCOVA3.omv>`_"
+#~ msgstr ""
+#~ "`jamovi-Datei mit den Analysen <../_static/output/"
+#~ "s2j_Output_jamovi_ANCOVA3.omv>`_"
+
+#~ msgid ""
+#~ "`SPSS output file containing the analyses <../_static/output/"
+#~ "s2j_Output_SPSS_ANCOVA4.spv>`_"
+#~ msgstr ""
+#~ "`SPSS-Ausgabedatei mit den Analysen <../_static/output/"
+#~ "s2j_Output_SPSS_ANCOVA4.spv>`_"
+
+#~ msgid ""
+#~ "`jamovi file containing the analyses <../_static/output/"
+#~ "s2j_Output_jamovi_ANCOVA4.omv>`_"
+#~ msgstr ""
+#~ "`jamovi-Datei mit den Analysen <../_static/output/"
+#~ "s2j_Output_jamovi_ANCOVA4.omv>`_"

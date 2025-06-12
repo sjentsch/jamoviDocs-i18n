@@ -1,13 +1,48 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PROJECT VERSION\n"
+"Project-Id-Version: jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-01 23:26+0200\n"
+"POT-Creation-Date: 2025-06-12 12:29+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-12 12:28+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-12 12:26+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-12 12:25+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-06-12 12:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -394,7 +429,7 @@ msgstr "மற்றும் நான்கு அளவீட்டு வக
 msgid "|nominal|    ``Nominal``"
 msgstr "|nominal|    ``Nominal``"
 
-#: ../../usermanual/um_4_spreadsheet.rst:439
+#: ../../usermanual/um_4_spreadsheet.rst:438
 msgid "nominal"
 msgstr "nominal"
 
@@ -402,7 +437,7 @@ msgstr "nominal"
 msgid "|ordinal|    ``Ordinal``"
 msgstr "|ordinal|    ``Ordinal``"
 
-#: ../../usermanual/um_4_spreadsheet.rst:441
+#: ../../usermanual/um_4_spreadsheet.rst:440
 msgid "ordinal"
 msgstr "ordinal"
 
@@ -410,7 +445,7 @@ msgstr "ordinal"
 msgid "|continuous| ``Continuous``"
 msgstr "|continuous| ``Continuous``"
 
-#: ../../usermanual/um_4_spreadsheet.rst:443
+#: ../../usermanual/um_4_spreadsheet.rst:442
 msgid "continuous"
 msgstr "continuous"
 
@@ -418,7 +453,7 @@ msgstr "continuous"
 msgid "|id|         ``ID``"
 msgstr "|id|         ``ID``"
 
-#: ../../usermanual/um_4_spreadsheet.rst:445
+#: ../../usermanual/um_4_spreadsheet.rst:444
 msgid "id"
 msgstr "id"
 
@@ -634,7 +669,7 @@ msgstr "தேர்ந்தெடுக்கப்பட்ட மாறி�
 msgid "|um_transform_create1|"
 msgstr "|um_transform_create1|"
 
-#: ../../usermanual/um_4_spreadsheet.rst:448
+#: ../../usermanual/um_4_spreadsheet.rst:447
 msgid "um_transform_create1"
 msgstr "um_transform_create1"
 
@@ -646,7 +681,7 @@ msgstr "அல்லது `` தரவு``-ரிப்பனுக்கு�
 msgid "|um_transform_create2|"
 msgstr "|um_transform_create2|"
 
-#: ../../usermanual/um_4_spreadsheet.rst:449
+#: ../../usermanual/um_4_spreadsheet.rst:448
 msgid "um_transform_create2"
 msgstr "um_transform_create2"
 
@@ -667,7 +702,7 @@ msgstr ""
 msgid "|um_transform_create3|"
 msgstr "|um_transform_create3|"
 
-#: ../../usermanual/um_4_spreadsheet.rst:450
+#: ../../usermanual/um_4_spreadsheet.rst:449
 msgid "um_transform_create3"
 msgstr "um_transform_create3"
 
@@ -709,7 +744,7 @@ msgstr ""
 msgid "|um_transform_edit1|"
 msgstr "|um_transform_edit1|"
 
-#: ../../usermanual/um_4_spreadsheet.rst:451
+#: ../../usermanual/um_4_spreadsheet.rst:450
 msgid "um_transform_edit1"
 msgstr "um_transform_edit1"
 
@@ -819,23 +854,21 @@ msgstr ""
 msgid "|um_transform_ex1|"
 msgstr "|um_transform_ex1|"
 
-#: ../../usermanual/um_4_spreadsheet.rst:452
+#: ../../usermanual/um_4_spreadsheet.rst:451
 msgid "um_transform_ex1"
 msgstr "um_transform_ex1"
 
 #: ../../usermanual/um_4_spreadsheet.rst:234
 msgid ""
-"You can explore this transform by `downloading <../_static/output/"
-"um_transform_ex1.omv>` and opening the file ``transform_ex1`` in jamovi."
+"You can explore this transform by downloading and opening the data set |"
+"um_transform_ex1_omv|_ in jamovi."
 msgstr ""
-"இந்த மாற்றத்தை `பதிவிறக்கம் <../_ நிலையான/வெளியீடு/UM_TRANSFORM_EX1.OMV>` மற்றும் "
-"சாமோவியில் `` டிரான்ச்ஃபார்ம்_எக்ச் 1` கோப்பைத் திறப்பதன் மூலம் ஆராயலாம்."
 
-#: ../../usermanual/um_4_spreadsheet.rst:239
+#: ../../usermanual/um_4_spreadsheet.rst:238
 msgid "**Example 2: Recoding continuous variables into categories**"
 msgstr "** எடுத்துக்காட்டு 2: தொடர்ச்சியான மாறிகளை வகைகளாக மாற்றியமைத்தல் **"
 
-#: ../../usermanual/um_4_spreadsheet.rst:241
+#: ../../usermanual/um_4_spreadsheet.rst:240
 msgid ""
 "In a lot of data sets people want to recode their continuous scores into "
 "categories. For example, we may want to classify people, based on their "
@@ -847,15 +880,15 @@ msgstr ""
 "அடிப்படையில் மூன்று குழுக்களில் ஒன்றான `` பாச்``, `` ரெக்ட்`` மற்றும் `` தோல்வி`` என "
 "வகைப்படுத்த விரும்பலாம்."
 
-#: ../../usermanual/um_4_spreadsheet.rst:246
+#: ../../usermanual/um_4_spreadsheet.rst:245
 msgid "|um_transform_ex2|"
 msgstr "|um_transform_ex2|"
 
-#: ../../usermanual/um_4_spreadsheet.rst:453
+#: ../../usermanual/um_4_spreadsheet.rst:452
 msgid "um_transform_ex2"
 msgstr "um_transform_ex2"
 
-#: ../../usermanual/um_4_spreadsheet.rst:248
+#: ../../usermanual/um_4_spreadsheet.rst:247
 msgid ""
 "Note that the conditions are executed in order, and that only the first rule "
 "that matches the case is applied to that case. So this transformation "
@@ -863,23 +896,14 @@ msgid ""
 "will be ``Fail``, if the source variable has a value between 50 and 60, the "
 "value will be ``Resit``, and if the source variable has a value above 60, "
 "the value will be ``Pass``. If you’d like an example data set to play around "
-"with, you can `download <../_static/output/um_transform_ex2.omv>` and use "
-"``transform_ex2.omv``."
+"with, you can download and use |um_transform_ex2_omv|_\\."
 msgstr ""
-"நிபந்தனைகள் வரிசையில் செயல்படுத்தப்படுகின்றன என்பதையும், வழக்குடன் பொருந்தக்கூடிய முதல் "
-"விதி மட்டுமே அந்த வழக்கில் பயன்படுத்தப்படுகிறது என்பதையும் நினைவில் கொள்க. எனவே இந்த "
-"உருமாற்றம் அடிப்படையில் மூல மாறிக்கு 50 க்கும் குறைவான மதிப்பு இருந்தால், மதிப்பு `` "
-"தோல்வி``, மூல மாறிக்கு 50 முதல் 60 வரை மதிப்பு இருந்தால், மதிப்பு `` ரெக்ட்`` ஆக "
-"இருக்கும் மூல மாறி 60 க்கு மேல் ஒரு மதிப்பைக் கொண்டுள்ளது, மதிப்பு `` பாச்`` ஆக "
-"இருக்கும். நீங்கள் ஒரு எடுத்துக்காட்டு தரவு அமைக்க விரும்பினால், நீங்கள் `பதிவிறக்கம் <../_ "
-"நிலையான/வெளியீடு/UM_TRANSFORM_EX2.OMV>` மற்றும் `` Transtry_ex2.omv`` ஐப் "
-"பயன்படுத்தலாம்."
 
-#: ../../usermanual/um_4_spreadsheet.rst:258
+#: ../../usermanual/um_4_spreadsheet.rst:256
 msgid "**Example 3: Replacing missing values**"
 msgstr "** எடுத்துக்காட்டு 3: காணாமல் போன மதிப்புகளை மாற்றுதல் **"
 
-#: ../../usermanual/um_4_spreadsheet.rst:260
+#: ../../usermanual/um_4_spreadsheet.rst:258
 msgid ""
 "Now, let’s say your data set has a lot of missing values and removing the "
 "participants with missing values will end up in a severe loss of "
@@ -898,31 +922,26 @@ msgstr ""
 "தொடர்புடைய ஒரு சில சிக்கல்கள் இருந்தாலும், நீங்கள் அதை ஒருபோதும் செய்யக்கூடாது என்றாலும், "
 "அது ஒரு தூய்மையான ஆர்ப்பாட்டத்தை உருவாக்குகிறது ..."
 
-#: ../../usermanual/um_4_spreadsheet.rst:269
+#: ../../usermanual/um_4_spreadsheet.rst:267
 msgid "|um_transform_ex3|"
 msgstr "|um_transform_ex3|"
 
-#: ../../usermanual/um_4_spreadsheet.rst:454
+#: ../../usermanual/um_4_spreadsheet.rst:453
 msgid "um_transform_ex3"
 msgstr "um_transform_ex3"
 
-#: ../../usermanual/um_4_spreadsheet.rst:271
+#: ../../usermanual/um_4_spreadsheet.rst:269
 msgid ""
 "Note that jamovi has borrowed NA from R to denote missing values. Don’t have "
-"a good data set handy? You can try it out yourself by `downloading <../"
-"_static/output/um_transform_ex3.omv>` and opening the ``transform_ex3.omv`` "
-"data set."
+"a good data set handy? You can try it out yourself by downloading and "
+"opening the |um_transform_ex3_omv|_ data set."
 msgstr ""
-"காணாமல் போன மதிப்புகளைக் குறிக்க சாமோவி ஆர் இலிருந்து நா ஐ கடன் வாங்கியுள்ளார் என்பதை "
-"நினைவில் கொள்க. நல்ல தரவு தொகுப்பு எளிதில் இல்லையா? `பதிவிறக்கம் <../_ நிலையான/"
-"வெளியீடு/UM_TRANSFORM_EX3.OMV>` `` `` `` `` `` `` `` TRANSION_EX3.OMV`` தரவு "
-"தொகுப்பை திறப்பதன் மூலம் அதை நீங்களே முயற்சி செய்யலாம்."
 
-#: ../../usermanual/um_4_spreadsheet.rst:278
+#: ../../usermanual/um_4_spreadsheet.rst:275
 msgid "Filters"
 msgstr "வடிப்பான்கள்"
 
-#: ../../usermanual/um_4_spreadsheet.rst:280
+#: ../../usermanual/um_4_spreadsheet.rst:277
 msgid ""
 "Filters in jamovi allow you to filter out rows that you don’t want included "
 "in your analysis. For example, you might want to only include people’s "
@@ -939,7 +958,7 @@ msgstr ""
 "நபர்கள். சில சந்தர்ப்பங்களில் நீங்கள் தீவிர மதிப்பெண்களை விலக்க விரும்புகிறீர்கள், "
 "எடுத்துக்காட்டாக, சராசரியிலிருந்து 3 நிலையான விலகல்களுக்கு மேல் மதிப்பெண் பெறுபவர்கள்."
 
-#: ../../usermanual/um_4_spreadsheet.rst:288
+#: ../../usermanual/um_4_spreadsheet.rst:285
 msgid ""
 "The filters in jamovi are build on top of jamovi’s *computed variable* "
 "formula system, which allows the building of arbitrarily complex formulas."
@@ -947,11 +966,11 @@ msgstr ""
 "சாமோவியில் உள்ள வடிப்பான்கள் சாமோவி * கம்ப்யூட் மாறி * ஃபார்முலா அமைப்பின் மேல் "
 "கட்டப்பட்டுள்ளன, இது தன்னிச்சையாக சிக்கலான சூத்திரங்களை உருவாக்க அனுமதிக்கிறது."
 
-#: ../../usermanual/um_4_spreadsheet.rst:291
+#: ../../usermanual/um_4_spreadsheet.rst:288
 msgid "**Row filters**"
 msgstr "** வரிசை வடிப்பான்கள் **"
 
-#: ../../usermanual/um_4_spreadsheet.rst:293
+#: ../../usermanual/um_4_spreadsheet.rst:290
 msgid ""
 "jamovi filters are demonstrated using the ``Tooth Growth`` data set which is "
 "included with jamovi (``☰`` → ``Open`` → ``Data Library``). Select the "
@@ -963,7 +982,7 @@ msgstr ""
 "நாடாவிலிருந்து `` வடிப்பான்கள் பொத்தானை` என்பதைத் தேர்ந்தெடுக்கவும். இது வடிகட்டி "
 "பார்வையைத் திறந்து `` வடிகட்டி 1`` எனப்படும் புதிய வடிப்பானை உருவாக்குகிறது."
 
-#: ../../usermanual/um_4_spreadsheet.rst:302
+#: ../../usermanual/um_4_spreadsheet.rst:299
 msgid ""
 "In the short video, we specify a filter to exclude the 9th row. Perhaps we "
 "know that the 9th participant was someone just testing the survey system, "
@@ -977,7 +996,7 @@ msgstr ""
 "பற்றியது, எனவே 9 வது பங்கேற்பாளர் ஒரு முயல் என்பதை நாம் அறிந்திருக்கலாம்). சூத்திரத்துடன் "
 "அவற்றை நாம் வெறுமனே விலக்க முடியும்:"
 
-#: ../../usermanual/um_4_spreadsheet.rst:312
+#: ../../usermanual/um_4_spreadsheet.rst:309
 msgid ""
 "In this expression the ``!=`` means ‘does not equal’. If you’ve ever used a "
 "programming language like R this should be very familiar. Filters in jamovi "
@@ -999,7 +1018,7 @@ msgstr ""
 "சில பகுப்பாய்வுகளை இயக்கியிருந்தால், அவை மீண்டும் இயங்கும், முடிவுகள் 9 வது வரிசையைப் "
 "பயன்படுத்தாத மதிப்புகளுக்கு புதுப்பிக்கப்படும்."
 
-#: ../../usermanual/um_4_spreadsheet.rst:322
+#: ../../usermanual/um_4_spreadsheet.rst:319
 msgid ""
 "Typically, we would like to have more complex filters than this! The ``Tooth "
 "Growth`` example contains the length of teeth from guinea pigs (the ``len`` "
@@ -1018,7 +1037,7 @@ msgstr ""
 "மட்டுமே நாங்கள் ஆர்வமாக உள்ளோம், ஆரஞ்சு சாற்றில் அல்ல என்று சொல்லலாம். பின்னர், நாம் "
 "சூத்திரத்தைப் பயன்படுத்தலாம்:"
 
-#: ../../usermanual/um_4_spreadsheet.rst:335
+#: ../../usermanual/um_4_spreadsheet.rst:332
 msgid ""
 "In fact we can specify this formula in addition to the ``ROW() != 9`` "
 "formula if we like. We can add it as another expression to ``Filter 1`` (by "
@@ -1042,7 +1061,7 @@ msgstr ""
 "குறிப்பிடப்படுகிறது, மேலும் உண்ணி மற்றும் சிலுவைகளைப் பார்ப்பதன் மூலம், ஒவ்வொரு "
 "வரிசையையும் விலக்குவதற்கு எந்த வடிகட்டி அல்லது வெளிப்பாடு பொறுப்பு என்பதை நாம் காணலாம்."
 
-#: ../../usermanual/um_4_spreadsheet.rst:346
+#: ../../usermanual/um_4_spreadsheet.rst:343
 msgid ""
 "But let’s say we want to exclude from the analysis all the tooth lengths "
 "that were more than 1.5 standard deviations from the mean. To do this, we’d "
@@ -1056,7 +1075,7 @@ msgstr ""
 "சூத்திரங்களில் ஒன்றை நாங்கள் பயன்படுத்தலாம் (இந்த இரண்டாவது தேற்றம் ஒரு இசட்-ச்கோர் என்றால் "
 "என்ன என்பதை மாணவர்களுக்கு நிரூபிக்க ஒரு சிறந்த வழியாகும்):"
 
-#: ../../usermanual/um_4_spreadsheet.rst:357
+#: ../../usermanual/um_4_spreadsheet.rst:354
 msgid ""
 "There are a lot of functions available in jamovi, and you can see them by "
 "clicking the small *f*\\ :sub:`x` beside the formula box."
@@ -1064,7 +1083,7 @@ msgstr ""
 "சாமோவியில் நிறைய செயல்பாடுகள் உள்ளன, மேலும் சிறிய *f *\\: `x` ஃபார்முலா பெட்டியின் "
 "அருகே சொடுக்கு செய்வதன் மூலம் அவற்றைக் காணலாம்."
 
-#: ../../usermanual/um_4_spreadsheet.rst:360
+#: ../../usermanual/um_4_spreadsheet.rst:357
 msgid ""
 "Now let’s add this z-score formula to a separate filter by clicking the "
 "large ``+`` to the left of the filters, and adding it to ``Filter 2``."
@@ -1072,7 +1091,7 @@ msgstr ""
 "இப்போது இந்த இசட்-ச்கோர் சூத்திரத்தை ஒரு தனி வடிப்பானில் சேர்ப்போம், வடிப்பான்களின் "
 "இடதுபுறத்தில் பெரிய ``+`` என்பதைக் சொடுக்கு செய்து, அதை `` வடிகட்டி 2`` இல் சேர்ப்போம்."
 
-#: ../../usermanual/um_4_spreadsheet.rst:367
+#: ../../usermanual/um_4_spreadsheet.rst:364
 msgid ""
 "With multiple filters, the filtered rows cascade from one filter into the "
 "next. So only the rows allowed through by ``Filter 1`` are used in the "
@@ -1095,11 +1114,11 @@ msgstr ""
 "நீங்கள் குறிப்பிடலாம் (ஆனால் நீங்கள் உங்கள் விதிகளை முன்கூட்டியே பதிவு செய்ய வேண்டும்). \\ "
 "[#] _ _"
 
-#: ../../usermanual/um_4_spreadsheet.rst:378
+#: ../../usermanual/um_4_spreadsheet.rst:375
 msgid "**Column filters**"
 msgstr "** நெடுவரிசை வடிப்பான்கள் **"
 
-#: ../../usermanual/um_4_spreadsheet.rst:380
+#: ../../usermanual/um_4_spreadsheet.rst:377
 msgid ""
 "Whereas row filters are applied to the data set as a whole, sometimes you "
 "want to just filter individual columns. Column filters come in handy when "
@@ -1114,7 +1133,7 @@ msgstr ""
 "மாறிகள் மூலம் ஏற்கனவே இருக்கும் நெடுவரிசையின் நகலை உருவாக்குகிறோம், ஆனால் தேவையற்ற "
 "மதிப்புகள் விலக்கப்பட்டுள்ளன."
 
-#: ../../usermanual/um_4_spreadsheet.rst:386
+#: ../../usermanual/um_4_spreadsheet.rst:383
 msgid ""
 "In the Tooth Growth example, we might want to analyse the doses of 500 and "
 "1000, and 1000 and 2000 separately. To do this we create a new column for "
@@ -1133,7 +1152,7 @@ msgstr ""
 "விசயத்தில் நாங்கள் கீழே உள்ள சூத்திரங்களில் ஒன்றை உள்ளிடுவோம் (அதையே செய்யுங்கள், இரண்டாவது "
 "புரிந்துகொள்ள எளிதானது):"
 
-#: ../../usermanual/um_4_spreadsheet.rst:399
+#: ../../usermanual/um_4_spreadsheet.rst:396
 msgid ""
 "The first argument to the ``FILTER()`` function (in this example dose) is "
 "what values to use in the computed column. The second argument is the "
@@ -1148,7 +1167,7 @@ msgstr ""
 "“காணாமல் போன மதிப்பாக”). எனவே இந்த சூத்திரத்துடன், `` டோச் (2) `` நெடுவரிசையில் "
 "அனைத்து `` 500`` மற்றும் `1000`` மதிப்புகள் உள்ளன, ஆனால்` `2000`` மதிப்புகள் இல்லை."
 
-#: ../../usermanual/um_4_spreadsheet.rst:406
+#: ../../usermanual/um_4_spreadsheet.rst:403
 msgid ""
 "We might also change the name of the column to something more descriptive, "
 "like ``dose 5,10``. Similarly we can create a column ``dose 10,20`` with the "
@@ -1166,7 +1185,7 @@ msgstr ""
 "வெவ்வேறு வடிப்பான்களைப் பயன்படுத்தலாம். * அனைத்து * பகுப்பாய்வுகளுக்கும் பயன்படுத்தப்படும் "
 "வரிசை வடிப்பான்களுடன் இதை வேறுபடுத்துங்கள்."
 
-#: ../../usermanual/um_4_spreadsheet.rst:419
+#: ../../usermanual/um_4_spreadsheet.rst:416
 msgid ""
 "It may also have occurred to you, that with ``FILTER()`` we can do what "
 "might be called a “poor man’s split variables”: You can create splits using "
@@ -1182,7 +1201,7 @@ msgstr ""
 "மற்றும் `` வடிகட்டி , supp == 'oj') `` முறையே. இது இரண்டு தனித்தனி நெடுவரிசைகளில் "
 "விளைகிறது, அவை பக்கவாட்டாக பகுப்பாய்வு செய்யப்படலாம்."
 
-#: ../../usermanual/um_4_spreadsheet.rst:432
+#: ../../usermanual/um_4_spreadsheet.rst:425
 msgid ""
 "Pre-registration is a solution to `p-hacking <https://en.wikipedia.org/wiki/"
 "Data_dredging>`_, not deliberately making software difficult to use! Don’t p-"
@@ -1673,3 +1692,40 @@ msgid ""
 "below). Tables from the results can be converted into a data frame with the "
 "function ``asDF`` (e.g., ``result$main$asDF``)."
 msgstr ""
+
+#~ msgid ""
+#~ "You can explore this transform by `downloading <../_static/output/"
+#~ "um_transform_ex1.omv>` and opening the file ``transform_ex1`` in jamovi."
+#~ msgstr ""
+#~ "இந்த மாற்றத்தை `பதிவிறக்கம் <../_ நிலையான/வெளியீடு/UM_TRANSFORM_EX1.OMV>` மற்றும் "
+#~ "சாமோவியில் `` டிரான்ச்ஃபார்ம்_எக்ச் 1` கோப்பைத் திறப்பதன் மூலம் ஆராயலாம்."
+
+#~ msgid ""
+#~ "Note that the conditions are executed in order, and that only the first "
+#~ "rule that matches the case is applied to that case. So this "
+#~ "transformation basically says that if the source variable has a value "
+#~ "below 50, the value will be ``Fail``, if the source variable has a value "
+#~ "between 50 and 60, the value will be ``Resit``, and if the source "
+#~ "variable has a value above 60, the value will be ``Pass``. If you’d like "
+#~ "an example data set to play around with, you can `download <../_static/"
+#~ "output/um_transform_ex2.omv>` and use ``transform_ex2.omv``."
+#~ msgstr ""
+#~ "நிபந்தனைகள் வரிசையில் செயல்படுத்தப்படுகின்றன என்பதையும், வழக்குடன் பொருந்தக்கூடிய முதல் "
+#~ "விதி மட்டுமே அந்த வழக்கில் பயன்படுத்தப்படுகிறது என்பதையும் நினைவில் கொள்க. எனவே இந்த "
+#~ "உருமாற்றம் அடிப்படையில் மூல மாறிக்கு 50 க்கும் குறைவான மதிப்பு இருந்தால், மதிப்பு `` "
+#~ "தோல்வி``, மூல மாறிக்கு 50 முதல் 60 வரை மதிப்பு இருந்தால், மதிப்பு `` ரெக்ட்`` ஆக "
+#~ "இருக்கும் மூல மாறி 60 க்கு மேல் ஒரு மதிப்பைக் கொண்டுள்ளது, மதிப்பு `` பாச்`` ஆக "
+#~ "இருக்கும். நீங்கள் ஒரு எடுத்துக்காட்டு தரவு அமைக்க விரும்பினால், நீங்கள் `பதிவிறக்கம் <../"
+#~ "_ நிலையான/வெளியீடு/UM_TRANSFORM_EX2.OMV>` மற்றும் `` Transtry_ex2.omv`` ஐப் "
+#~ "பயன்படுத்தலாம்."
+
+#~ msgid ""
+#~ "Note that jamovi has borrowed NA from R to denote missing values. Don’t "
+#~ "have a good data set handy? You can try it out yourself by `downloading "
+#~ "<../_static/output/um_transform_ex3.omv>` and opening the ``transform_ex3."
+#~ "omv`` data set."
+#~ msgstr ""
+#~ "காணாமல் போன மதிப்புகளைக் குறிக்க சாமோவி ஆர் இலிருந்து நா ஐ கடன் வாங்கியுள்ளார் "
+#~ "என்பதை நினைவில் கொள்க. நல்ல தரவு தொகுப்பு எளிதில் இல்லையா? `பதிவிறக்கம் <../_ "
+#~ "நிலையான/வெளியீடு/UM_TRANSFORM_EX3.OMV>` `` `` `` `` `` `` `` TRANSION_EX3."
+#~ "OMV`` தரவு தொகுப்பை திறப்பதன் மூலம் அதை நீங்களே முயற்சி செய்யலாம்."

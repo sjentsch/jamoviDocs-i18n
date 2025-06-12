@@ -1,18 +1,54 @@
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jamovi\n"
+"Project-Id-Version: jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-01 23:26+0200\n"
+"POT-Creation-Date: 2025-06-12 12:29+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-12 12:28+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-12 12:26+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: jamovi \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-12 12:25+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version:  jamovi\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-12 12:21+0200\n"
 "PO-Revision-Date: 2025-04-28 02:48+0000\n"
 "Last-Translator: SHIBATA Seiji <contact@sbtseiji.net>\n"
-"Language-Team: Japanese <https://hosted.weblate.org/projects/jamovidocs/"
-"1_usermanual/ja/>\n"
 "Language: ja\n"
+"Language-Team: Japanese <https://hosted.weblate.org/projects/"
+"jamovidocs/1_usermanual/ja/>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.12-dev\n"
 "Generated-By: Babel 2.17.0\n"
 
 #: ../../usermanual/um_1_installation.rst:4
@@ -31,11 +67,11 @@ msgid ""
 "`download page <https://www.jamovi.org/download.html>`__, and double-click "
 "the icon."
 msgstr ""
-"jamoviは、Windows "
-"Vista（64ビット）以降で利用できます。Windowsへのインストールは非常に簡単で、"
-"これまでにWindowsでソフトウェアをインストールしたことがある方なら、すぐに分か"
-"るはずです。最新版を `ダウンロードページ <https://www.jamovi.org/"
-"download.html>`__ から入手し、アイコンをダブルクリックしてください。"
+"jamoviは、Windows Vista（64ビット）以降で利用できます。Windowsへのインストー"
+"ルは非常に簡単で、これまでにWindowsでソフトウェアをインストールしたことがある"
+"方なら、すぐに分かるはずです。最新版を `ダウンロードページ <https://www."
+"jamovi.org/download.html>`__ から入手し、アイコンをダブルクリックしてくださ"
+"い。"
 
 #: ../../usermanual/um_1_installation.rst:14
 msgid ""
@@ -69,13 +105,13 @@ msgid ""
 "way). After this, jamovi will appear in your applications, and can be "
 "started like any other installed application."
 msgstr ""
-"jamoviはmacOS 10.9以降（Mavericks以降）で利用できます。インストールするには、"
-" `ダウンロードページ <https://www.jamovi.org/download.html>`__ から ``.dmg`` "
-"ファイルをダウンロードし、ダウンロードしたファイルをダブルクリックしてくださ"
-"い。するとFinder上にアプリケーションのアイコンが表示されるので、jamoviアプリ"
-"ケーションを（いつもどおり）「アプリケーション」フォルダにドラッグ＆ドロップ"
-"すればインストールできます。その後は、jamoviはアプリケーション一覧に表示され"
-"、他のアプリケーションと同様の方法で起動できます。"
+"jamoviはmacOS 10.9以降（Mavericks以降）で利用できます。インストールするに"
+"は、 `ダウンロードページ <https://www.jamovi.org/download.html>`__ から ``."
+"dmg`` ファイルをダウンロードし、ダウンロードしたファイルをダブルクリックして"
+"ください。するとFinder上にアプリケーションのアイコンが表示されるので、jamovi"
+"アプリケーションを（いつもどおり）「アプリケーション」フォルダにドラッグ＆ド"
+"ロップすればインストールできます。その後は、jamoviはアプリケーション一覧に表"
+"示され、他のアプリケーションと同様の方法で起動できます。"
 
 #: ../../usermanual/um_1_installation.rst:28
 msgid ""
@@ -171,11 +207,11 @@ msgid ""
 "After restarting your Chromebook the issue will be fixed (special thanks to "
 "`@mulderc <https://github.com/mulderc>`__)."
 msgstr ""
-"ChromeOSのアドレスバーに ``chrome://flags/`` "
-"と入力してください。これで「Experiments（試験運用機能）」の画面が表示されます"
-"。 ``Crostini GPU Support`` "
-"で検索し、「停止中（disabled）」に設定してください。Chromebookを再起動すると"
-"問題が解決します（`@mulderc <https://github.com/mulderc>`__ に感謝！）。"
+"ChromeOSのアドレスバーに ``chrome://flags/`` と入力してください。これで"
+"「Experiments（試験運用機能）」の画面が表示されます。 ``Crostini GPU "
+"Support`` で検索し、「停止中（disabled）」に設定してください。Chromebookを再"
+"起動すると問題が解決します（`@mulderc <https://github.com/mulderc>`__ に感"
+"謝！）。"
 
 #: ../../usermanual/um_2_first-steps.rst:4
 msgid "First steps in jamovi"
@@ -225,12 +261,11 @@ msgid ""
 "on whether you want to open an example, or a file stored on your computer."
 msgstr ""
 "あるいは、既存のデータセット（CSV、Excel、LibreOffice、R、SPSS、Stata、SASな"
-"ど）をjamoviで開くこともできます。また、jamoviにはいくつかのサンプルデータセ"
-"ットも用意されています。ファイルを開くには、jamovi画面左上のファイルメニュー"
-"（☰）を選択し、 ``開く`` （Open）を選んでから、"
-"サンプルデータを開きたい場合は ``データライブラリ`` （Data library）を、"
-"パソコンに保存されているファイルを開きたい場合は ``このPC`` （This "
-"PC）を選択します。"
+"ど）をjamoviで開くこともできます。また、jamoviにはいくつかのサンプルデータ"
+"セットも用意されています。ファイルを開くには、jamovi画面左上のファイルメ"
+"ニュー（☰）を選択し、 ``開く`` （Open）を選んでから、サンプルデータを開きたい"
+"場合は ``データライブラリ`` （Data library）を、パソコンに保存されているファ"
+"イルを開きたい場合は ``このPC`` （This PC）を選択します。"
 
 #: ../../usermanual/um_2_first-steps.rst:27
 msgid "|csv-data|"
@@ -257,14 +292,13 @@ msgstr ""
 "データ交換で非常によく使われる形式が「カンマ区切り値」（.csvや.txt）ファイル"
 "です。これらのデータは、値をカンマ（または「;」、「|」など）で区切った単純な"
 "テキストファイルとして保存されているため、ほとんどすべてのソフトウェアで読み"
-"書きが可能です（また、任意のテキストエディタで中身を確認することもできます）"
-"。図にはその例が示してあります。最初の行には変数名が記載されており、それ以降"
-"の各行には測定データ（通常はデータを取得した各個人の情報）が記載されています"
-"。もしデータが表計算ソフト（例：Excel）にある場合は、 ``ファイル`` → "
-"``名前を付けて保存`` を選択し、 ``保存`` "
-"ボタン付近のドロップダウンメニューから ``カンマ区切り（CSV）`` "
-"を選ぶことでCSVファイルを作成できます。その後、そのCSVファイルをjamoviで開く"
-"ことができます。"
+"書きが可能です（また、任意のテキストエディタで中身を確認することもできま"
+"す）。図にはその例が示してあります。最初の行には変数名が記載されており、それ"
+"以降の各行には測定データ（通常はデータを取得した各個人の情報）が記載されてい"
+"ます。もしデータが表計算ソフト（例：Excel）にある場合は、 ``ファイル`` → ``名"
+"前を付けて保存`` を選択し、 ``保存`` ボタン付近のドロップダウンメニューから "
+"``カンマ区切り（CSV）`` を選ぶことでCSVファイルを作成できます。その後、その"
+"CSVファイルをjamoviで開くことができます。"
 
 #: ../../usermanual/um_2_first-steps.rst:41
 msgid ""
@@ -273,8 +307,8 @@ msgid ""
 "jamovi/issues>`__."
 msgstr ""
 "万が一、jamoviでファイルを正しく開けない場合は、GitHubの `issueトラッカー "
-"<https://github.com/jamovi/jamovi/issues>`__ "
-"にバグ報告（issue）を提出してください。"
+"<https://github.com/jamovi/jamovi/issues>`__ にバグ報告（issue）を提出してく"
+"ださい。"
 
 #: ../../usermanual/um_3_analyses.rst:4
 msgid "Analyses"
@@ -289,11 +323,11 @@ msgid ""
 "for the analysis will appear in the right “results panel”, and will update "
 "as you make changes to the options."
 msgstr ""
-"分析は、画面上部の ``分析`` "
-"（Analyses）リボンから選択できます。分析を選択すると、その分析専用の「オプシ"
-"ョンパネル」が表示され、さまざまな変数を分析の各部分に割り当てたり、さまざま"
-"なオプションを選択したりできます。同時に、分析結果が右側の「結果パネル」に表"
-"示され、オプションを変更するたびに結果も自動的に更新されます。"
+"分析は、画面上部の ``分析`` （Analyses）リボンから選択できます。分析を選択す"
+"ると、その分析専用の「オプションパネル」が表示され、さまざまな変数を分析の各"
+"部分に割り当てたり、さまざまなオプションを選択したりできます。同時に、分析結"
+"果が右側の「結果パネル」に表示され、オプションを変更するたびに結果も自動的に"
+"更新されます。"
 
 #: ../../usermanual/um_3_analyses.rst:13
 msgid ""
@@ -317,8 +351,8 @@ msgid ""
 msgstr ""
 "特定の分析が不要になった場合は、結果のコンテキストメニューからその分析を削除"
 "できます。分析結果を右クリックするとメニューが表示されるので、 ``分析`` "
-"（Analysis）を選択し、続けて ``削除`` "
-"（Remove）を選ぶことで、その分析を削除できます。"
+"（Analysis）を選択し、続けて ``削除`` （Remove）を選ぶことで、その分析を削除"
+"できます。"
 
 #: ../../usermanual/um_3_analyses.rst:28
 msgid ""
@@ -396,25 +430,25 @@ msgstr "また、測定値型は次の4つです。"
 
 #: ../../usermanual/um_4_spreadsheet.rst:23
 msgid "|nominal|    ``Nominal``"
-msgstr "|nominal|    ``名義``"
+msgstr "|nominal|    ``Nominal``"
 
-#: ../../usermanual/um_4_spreadsheet.rst:439
+#: ../../usermanual/um_4_spreadsheet.rst:438
 msgid "nominal"
 msgstr "nominal"
 
 #: ../../usermanual/um_4_spreadsheet.rst:24
 msgid "|ordinal|    ``Ordinal``"
-msgstr "|ordinal|    ``順序``"
+msgstr "|ordinal|    ``Ordinal``"
 
-#: ../../usermanual/um_4_spreadsheet.rst:441
+#: ../../usermanual/um_4_spreadsheet.rst:440
 msgid "ordinal"
 msgstr "ordinal"
 
 #: ../../usermanual/um_4_spreadsheet.rst:25
 msgid "|continuous| ``Continuous``"
-msgstr "|continuous| ``連続``"
+msgstr "|continuous| ``Continuous``"
 
-#: ../../usermanual/um_4_spreadsheet.rst:443
+#: ../../usermanual/um_4_spreadsheet.rst:442
 msgid "continuous"
 msgstr "continuous"
 
@@ -422,7 +456,7 @@ msgstr "continuous"
 msgid "|id|         ``ID``"
 msgstr "|id|         ``ID``"
 
-#: ../../usermanual/um_4_spreadsheet.rst:445
+#: ../../usermanual/um_4_spreadsheet.rst:444
 msgid "id"
 msgstr "id"
 
@@ -482,12 +516,11 @@ msgid ""
 "label displayed for each level. The variable editor can be dismissed by "
 "clicking the close arrow, or by pressing ``F3`` again."
 msgstr ""
-"変数エディタは、 ``データ`` （Data）タブの ``設定`` "
-"（Setup）を選択するか、列ヘッダーをダブルクリックするか、 ``F3`` "
-"キーを押すことで起動できます。変数エディタでは、変数名の変更や（データ変数の"
-"場合は）データ型、測定値型、水準の順序、各水準に表示されるラベルの変更が可能"
-"です。変数エディタは、閉じる矢印をクリックするか、再度 ``F3`` "
-"キーを押すことで閉じることができます。"
+"変数エディタは、 ``データ`` （Data）タブの ``設定`` （Setup）を選択するか、列"
+"ヘッダーをダブルクリックするか、 ``F3`` キーを押すことで起動できます。変数エ"
+"ディタでは、変数名の変更や（データ変数の場合は）データ型、測定値型、水準の順"
+"序、各水準に表示されるラベルの変更が可能です。変数エディタは、閉じる矢印をク"
+"リックするか、再度 ``F3`` キーを押すことで閉じることができます。"
 
 #: ../../usermanual/um_4_spreadsheet.rst:63
 msgid ""
@@ -495,9 +528,9 @@ msgid ""
 "button from the data ribbon. The ``Add`` button also allows the addition of "
 "*Computed variables*."
 msgstr ""
-"新しい変数は、データリボンの ``追加`` "
-"（Add）ボタンを使ってデータセットに挿入したり追加したりできます。 ``追加`` "
-"ボタンからは *計算変数* を追加することもできます。"
+"新しい変数は、データリボンの ``追加`` （Add）ボタンを使ってデータセットに挿入"
+"したり追加したりできます。 ``追加`` ボタンからは *計算変数* を追加することも"
+"できます。"
 
 #: ../../usermanual/um_4_spreadsheet.rst:69
 msgid "Computed Variables"
@@ -521,10 +554,10 @@ msgid ""
 "can specify the formula. The usual arithmetic operators are available. Some "
 "examples of formulas are:"
 msgstr ""
-"データタブにある ``追加`` （Add）ボタンを使うことで、 *計算変数* "
-"をデータセットに追加できます。これをクリックすると、数式を指定するための数式"
-"ボックスが表示されます。ここでは通常の算術演算子が利用可能です。数式は次のよ"
-"うに使用します。"
+"データタブにある ``追加`` （Add）ボタンを使うことで、 *計算変数* をデータセッ"
+"トに追加できます。これをクリックすると、数式を指定するための数式ボックスが表"
+"示されます。ここでは通常の算術演算子が利用可能です。数式は次のように使用しま"
+"す。"
 
 #: ../../usermanual/um_4_spreadsheet.rst:90
 msgid ""
@@ -550,12 +583,10 @@ msgid ""
 "For example, ``MEAN(A, B)`` will produce the mean of ``A`` and ``B`` for "
 "each row. Whereas ``VMEAN(A)`` gives the mean of *all* the values in ``A``."
 msgstr ""
-"いくつかの関数はペアになっており、一方には ``V`` "
-"が頭につき、もう一方にはつきません。 ``V`` "
-"付きの関数は、変数全体に対して計算を行い、 ``V`` "
-"なしの関数は行ごとに計算を行います。たとえば、 ``MEAN(A, B)`` は各行ごとに "
-"``A`` と ``B`` の平均を計算しますが、 ``VMEAN(A)`` は ``A`` "
-"全体の値の平均を返します。"
+"いくつかの関数はペアになっており、一方には ``V`` が頭につき、もう一方にはつき"
+"ません。 ``V`` 付きの関数は、変数全体に対して計算を行い、 ``V`` なしの関数は"
+"行ごとに計算を行います。たとえば、 ``MEAN(A, B)`` は各行ごとに ``A`` と "
+"``B`` の平均を計算しますが、 ``VMEAN(A)`` は ``A`` 全体の値の平均を返します。"
 
 #: ../../usermanual/um_4_spreadsheet.rst:105
 msgid ""
@@ -612,41 +643,42 @@ msgid ""
 "Ctrl / Cmd key. Once selected, you can either select ``Transform`` from the "
 "data tab, or right click and choose ``Transform`` from the menu."
 msgstr ""
-"jamoviで変数の変換や再コード化を行うと、元の「変換元の変数」に対して2つ目の「"
-"変換変数」が作成されます。このため、元の未変換データには必要に応じてつねにア"
-"クセスできます。変数を変換するには、まず変換したい列を選択します。列のブロッ"
-"クを選択する場合は、ブロック内の最初の列ヘッダーをクリックし、Shiftキーを押し"
-"ながら最後の列ヘッダーをクリックします。あるいは、Ctrlキー（Macの場合はCmdキ"
-"ー）を押しながら列ヘッダーをクリックすることで、個別に列を選択・解除すること"
-"もできます。選択ができたら、データタブから ``変換`` "
-"（Transform）を選択するか、右クリックしてメニューから ``変換`` "
-"（Transform）を選びます。"
+"jamoviで変数の変換や再コード化を行うと、元の「変換元の変数」に対して2つ目の"
+"「変換変数」が作成されます。このため、元の未変換データには必要に応じてつねに"
+"アクセスできます。変数を変換するには、まず変換したい列を選択します。列のブ"
+"ロックを選択する場合は、ブロック内の最初の列ヘッダーをクリックし、Shiftキーを"
+"押しながら最後の列ヘッダーをクリックします。あるいは、Ctrlキー（Macの場合は"
+"Cmdキー）を押しながら列ヘッダーをクリックすることで、個別に列を選択・解除する"
+"こともできます。選択ができたら、データタブから ``変換`` （Transform）を選択す"
+"るか、右クリックしてメニューから ``変換`` （Transform）を選びます。"
 
 #: ../../usermanual/um_4_spreadsheet.rst:147
 msgid ""
 "Either right-click on one of the selected variables, and click ``Transform..."
 "``:"
-msgstr "選択した変数のいずれかを右クリックし、``変換`` "
-"（Transform）をクリックします。"
+msgstr ""
+"選択した変数のいずれかを右クリックし、``変換`` （Transform）をクリックしま"
+"す。"
 
 #: ../../usermanual/um_4_spreadsheet.rst:150
 msgid "|um_transform_create1|"
 msgstr "|um_transform_create1|"
 
-#: ../../usermanual/um_4_spreadsheet.rst:448
+#: ../../usermanual/um_4_spreadsheet.rst:447
 msgid "um_transform_create1"
 msgstr "um_transform_create1"
 
 #: ../../usermanual/um_4_spreadsheet.rst:152
 msgid "or head to the ``Data``-ribbon, and click ``Transform:``"
-msgstr "あるいは ``データ`` （Data ）リボンの ``変換`` "
-"（Transform）をクリックします。"
+msgstr ""
+"あるいは ``データ`` （Data ）リボンの ``変換`` （Transform）をクリックしま"
+"す。"
 
 #: ../../usermanual/um_4_spreadsheet.rst:154
 msgid "|um_transform_create2|"
 msgstr "|um_transform_create2|"
 
-#: ../../usermanual/um_4_spreadsheet.rst:449
+#: ../../usermanual/um_4_spreadsheet.rst:448
 msgid "um_transform_create2"
 msgstr "um_transform_create2"
 
@@ -665,7 +697,7 @@ msgstr ""
 msgid "|um_transform_create3|"
 msgstr "|um_transform_create3|"
 
-#: ../../usermanual/um_4_spreadsheet.rst:450
+#: ../../usermanual/um_4_spreadsheet.rst:449
 msgid "um_transform_create3"
 msgstr "um_transform_create3"
 
@@ -687,8 +719,8 @@ msgid ""
 "If you don’t yet have the appropriate transform defined, you can select "
 "``Create new transform...`` from the list."
 msgstr ""
-"まだ適切な変換が定義されていない場合は、リストから ``変換を新規作成...`` （"
-"Create new transform...）を選択できます。"
+"まだ適切な変換が定義されていない場合は、リストから ``変換を新規作成...`` "
+"（Create new transform...）を選択できます。"
 
 #: ../../usermanual/um_4_spreadsheet.rst:174
 msgid "**Create a new transformation**"
@@ -706,7 +738,7 @@ msgstr ""
 msgid "|um_transform_edit1|"
 msgstr "|um_transform_edit1|"
 
-#: ../../usermanual/um_4_spreadsheet.rst:451
+#: ../../usermanual/um_4_spreadsheet.rst:450
 msgid "um_transform_edit1"
 msgstr "um_transform_edit1"
 
@@ -722,9 +754,9 @@ msgstr "*変換名* ：変換の名前。"
 msgid ""
 "*Description*: Space for you to provide a description of the transformation "
 "so you (and others) know what it does."
-msgstr "*説明* "
-"（Description）：変換の内容が分かるように、あなた自身や他の人のために説明を記"
-"入するスペースです。"
+msgstr ""
+"*説明* （Description）：変換の内容が分かるように、あなた自身や他の人のために"
+"説明を記入するスペースです。"
 
 #: ../../usermanual/um_4_spreadsheet.rst:188
 msgid ""
@@ -737,12 +769,12 @@ msgid ""
 "naming schemes (if left empty, the transformation name is used as the "
 "variable suffix):"
 msgstr ""
-"*変数の接尾辞* （Variable "
-"suffix）（省略可）：ここでは、変換変数のデフォルトの命名形式を定義できます。"
-"デフォルトでは、変数接尾辞が変換元変数名の後ろにダッシュ（-）で区切って付加さ"
-"れます。しかし、三点リーダ（...）を使うことでこの動作を上書きできます。たとえ"
-"ば、Q1という変数を変換する場合、変数接尾辞を使って次のような命名規則を適用で"
-"きます（空欄のままにすると、変換名が変数の接尾辞として使われます）。"
+"*変数の接尾辞* （Variable suffix）（省略可）：ここでは、変換変数のデフォルト"
+"の命名形式を定義できます。デフォルトでは、変数接尾辞が変換元変数名の後ろに"
+"ダッシュ（-）で区切って付加されます。しかし、三点リーダ（...）を使うことでこ"
+"の動作を上書きできます。たとえば、Q1という変数を変換する場合、変数接尾辞を"
+"使って次のような命名規則を適用できます（空欄のままにすると、変換名が変数の接"
+"尾辞として使われます）。"
 
 #: ../../usermanual/um_4_spreadsheet.rst:197
 msgid ""
@@ -762,21 +794,20 @@ msgid ""
 "conditions. To add additional conditions (i.e., if-statements), you click on "
 "the ``Add recode condition`` button:"
 msgstr ""
-"*変換* "
-"：このセクションには、変換のためのルールや数式を記述します。計算変数で利用で"
-"きるすべての関数を使うことができ、元の列の値を参照して変換を行う場合は、"
-"特別な ``$source`` "
-"キーワードを使います。変数を複数のグループに再コード化したい場合は、複数の条"
-"件を使うのが最も簡単です。追加の条件（つまりif文）を追加するには、 "
-"``変換条件を追加`` （Add recode condition）ボタンをクリックします。"
+"*変換* ：このセクションには、変換のためのルールや数式を記述します。計算変数で"
+"利用できるすべての関数を使うことができ、元の列の値を参照して変換を行う場合"
+"は、特別な ``$source`` キーワードを使います。変数を複数のグループに再コード化"
+"したい場合は、複数の条件を使うのが最も簡単です。追加の条件（つまりif文）を追"
+"加するには、 ``変換条件を追加`` （Add recode condition）ボタンをクリックしま"
+"す。"
 
 #: ../../usermanual/um_4_spreadsheet.rst:213
 msgid ""
 "*Used by*: Indicates how many variables are using this particular "
 "transformation. If you click on the number it will list these variables."
-msgstr "*使用中* （Used "
-"by）：この特定の変換を使用している変数の数を示します。数字をクリックすると、"
-"それらの変数が一覧表示されます。"
+msgstr ""
+"*使用中* （Used by）：この特定の変換を使用している変数の数を示します。数字を"
+"クリックすると、それらの変数が一覧表示されます。"
 
 #: ../../usermanual/um_4_spreadsheet.rst:216
 msgid ""
@@ -784,10 +815,9 @@ msgid ""
 "the measure type automatically from the transformation. However, if Auto "
 "doesn’t infer the measure type correctly, you can override it over here."
 msgstr ""
-"*測定値型* （Measure "
-"type）：初期設定では、測定値型は「自動」に設定されており、変換内容から自動的"
-"に測定値型が推定されます。しかし、自動で正しく測定値型が推定されない場合は、"
-"ここで手動で上書きできます。"
+"*測定値型* （Measure type）：初期設定では、測定値型は「自動」に設定されてお"
+"り、変換内容から自動的に測定値型が推定されます。しかし、自動で正しく測定値型"
+"が推定されない場合は、ここで手動で上書きできます。"
 
 #: ../../usermanual/um_4_spreadsheet.rst:222
 msgid "**Example 1: Reverse scoring of items**"
@@ -815,24 +845,24 @@ msgstr ""
 msgid "|um_transform_ex1|"
 msgstr "|um_transform_ex1|"
 
-#: ../../usermanual/um_4_spreadsheet.rst:452
+#: ../../usermanual/um_4_spreadsheet.rst:451
 msgid "um_transform_ex1"
 msgstr "um_transform_ex1"
 
 #: ../../usermanual/um_4_spreadsheet.rst:234
+#, fuzzy
 msgid ""
-"You can explore this transform by `downloading <../_static/output/"
-"um_transform_ex1.omv>` and opening the file ``transform_ex1`` in jamovi."
+"You can explore this transform by downloading and opening the data set |"
+"um_transform_ex1_omv|_ in jamovi."
 msgstr ""
-"この変換は、 `サンプルデータ <../_static/output/um_transform_ex1.omv>` "
-"をダウンロードし、jamoviで ``transform_ex1`` "
-"ファイルを開くことで確認できます。"
+"この変換は、 `サンプルデータ <../_static/output/um_transform_ex1.omv>` をダウ"
+"ンロードし、jamoviで ``transform_ex1`` ファイルを開くことで確認できます。"
 
-#: ../../usermanual/um_4_spreadsheet.rst:239
+#: ../../usermanual/um_4_spreadsheet.rst:238
 msgid "**Example 2: Recoding continuous variables into categories**"
 msgstr "**例2：連続変数をカテゴリとして再コード化する**"
 
-#: ../../usermanual/um_4_spreadsheet.rst:241
+#: ../../usermanual/um_4_spreadsheet.rst:240
 msgid ""
 "In a lot of data sets people want to recode their continuous scores into "
 "categories. For example, we may want to classify people, based on their "
@@ -840,18 +870,19 @@ msgid ""
 "``Fail``."
 msgstr ""
 "多くのデータセットでは、連続的な得点をカテゴリに再コード化したい場合がありま"
-"す。たとえば、0～100点の試験の点数に基づいて、人々を \t``合格`` 、 ``再試験``"
-" 、 ``不合格`` の3つのグループのいずれかに分類したい場合などです。"
+"す。たとえば、0～100点の試験の点数に基づいて、人々を \t``合格`` 、 ``再試験"
+"`` 、 ``不合格`` の3つのグループのいずれかに分類したい場合などです。"
 
-#: ../../usermanual/um_4_spreadsheet.rst:246
+#: ../../usermanual/um_4_spreadsheet.rst:245
 msgid "|um_transform_ex2|"
 msgstr "|um_transform_ex2|"
 
-#: ../../usermanual/um_4_spreadsheet.rst:453
+#: ../../usermanual/um_4_spreadsheet.rst:452
 msgid "um_transform_ex2"
 msgstr "um_transform_ex2"
 
-#: ../../usermanual/um_4_spreadsheet.rst:248
+#: ../../usermanual/um_4_spreadsheet.rst:247
+#, fuzzy
 msgid ""
 "Note that the conditions are executed in order, and that only the first rule "
 "that matches the case is applied to that case. So this transformation "
@@ -859,21 +890,19 @@ msgid ""
 "will be ``Fail``, if the source variable has a value between 50 and 60, the "
 "value will be ``Resit``, and if the source variable has a value above 60, "
 "the value will be ``Pass``. If you’d like an example data set to play around "
-"with, you can `download <../_static/output/um_transform_ex2.omv>` and use "
-"``transform_ex2.omv``."
+"with, you can download and use |um_transform_ex2_omv|_\\."
 msgstr ""
 "条件は上から順に実行され、最初に該当したルールだけがそのケースに適用されるこ"
-"とに注意してください。つまり、この変換は「変換元の変数が50点未満なら値は "
-"``不合格`` 、50点以上60点以下なら値は ``再試験`` 、60点より大きければ値は "
-"``合格`` という意味になります。試してみたい場合は、 ``transform_ex2.omv`` を "
-"`ダウンロード <../_static/output/um_transform_ex2.omv>` "
-"して使うことができます。"
+"とに注意してください。つまり、この変換は「変換元の変数が50点未満なら値は ``不"
+"合格`` 、50点以上60点以下なら値は ``再試験`` 、60点より大きければ値は ``合格"
+"`` という意味になります。試してみたい場合は、 ``transform_ex2.omv`` を `ダウ"
+"ンロード <../_static/output/um_transform_ex2.omv>` して使うことができます。"
 
-#: ../../usermanual/um_4_spreadsheet.rst:258
+#: ../../usermanual/um_4_spreadsheet.rst:256
 msgid "**Example 3: Replacing missing values**"
 msgstr "**例3：欠損値の置換**"
 
-#: ../../usermanual/um_4_spreadsheet.rst:260
+#: ../../usermanual/um_4_spreadsheet.rst:258
 msgid ""
 "Now, let’s say your data set has a lot of missing values and removing the "
 "participants with missing values will end up in a severe loss of "
@@ -891,31 +920,31 @@ msgstr ""
 "値代入法には多くの問題が伴うため、実際に使用すべきではありませんが、ここでは"
 "説明用のわかりやすい例として取り上げます..."
 
-#: ../../usermanual/um_4_spreadsheet.rst:269
+#: ../../usermanual/um_4_spreadsheet.rst:267
 msgid "|um_transform_ex3|"
 msgstr "|um_transform_ex3|"
 
-#: ../../usermanual/um_4_spreadsheet.rst:454
+#: ../../usermanual/um_4_spreadsheet.rst:453
 msgid "um_transform_ex3"
 msgstr "um_transform_ex3"
 
-#: ../../usermanual/um_4_spreadsheet.rst:271
+#: ../../usermanual/um_4_spreadsheet.rst:269
+#, fuzzy
 msgid ""
 "Note that jamovi has borrowed NA from R to denote missing values. Don’t have "
-"a good data set handy? You can try it out yourself by `downloading <../"
-"_static/output/um_transform_ex3.omv>` and opening the ``transform_ex3.omv`` "
-"data set."
+"a good data set handy? You can try it out yourself by downloading and "
+"opening the |um_transform_ex3_omv|_ data set."
 msgstr ""
-"jamoviでは、Rと同様に欠損値に NA "
-"を使用していることに注意してください。適当なデータセットが手元にない場合は、 "
-"``transform_ex3.omv`` データセットを `ダウンロード <../_static/output/"
-"um_transform_ex3.omv>` して、自分で試すことができます。"
+"jamoviでは、Rと同様に欠損値に NA を使用していることに注意してください。適当な"
+"データセットが手元にない場合は、 ``transform_ex3.omv`` データセットを `ダウン"
+"ロード <../_static/output/um_transform_ex3.omv>` して、自分で試すことができま"
+"す。"
 
-#: ../../usermanual/um_4_spreadsheet.rst:278
+#: ../../usermanual/um_4_spreadsheet.rst:275
 msgid "Filters"
 msgstr "フィルタ"
 
-#: ../../usermanual/um_4_spreadsheet.rst:280
+#: ../../usermanual/um_4_spreadsheet.rst:277
 msgid ""
 "Filters in jamovi allow you to filter out rows that you don’t want included "
 "in your analysis. For example, you might want to only include people’s "
@@ -931,7 +960,7 @@ msgstr ""
 "除外したい場合などです。場合によっては、平均から3標準偏差以上離れた極端な得点"
 "を除外したいこともあるでしょう。"
 
-#: ../../usermanual/um_4_spreadsheet.rst:288
+#: ../../usermanual/um_4_spreadsheet.rst:285
 msgid ""
 "The filters in jamovi are build on top of jamovi’s *computed variable* "
 "formula system, which allows the building of arbitrarily complex formulas."
@@ -939,11 +968,11 @@ msgstr ""
 "jamoviのフィルタは、jamoviの計算変数の数式システムを用いて構築されているた"
 "め、任意の複雑な数式を作成できます。"
 
-#: ../../usermanual/um_4_spreadsheet.rst:291
+#: ../../usermanual/um_4_spreadsheet.rst:288
 msgid "**Row filters**"
 msgstr "**行フィルタ**"
 
-#: ../../usermanual/um_4_spreadsheet.rst:293
+#: ../../usermanual/um_4_spreadsheet.rst:290
 msgid ""
 "jamovi filters are demonstrated using the ``Tooth Growth`` data set which is "
 "included with jamovi (``☰`` → ``Open`` → ``Data Library``). Select the "
@@ -955,7 +984,7 @@ msgstr ""
 "``フィルタ`` ボタンを選択すると、フィルタ表示が開き、 ``フィルタ1`` という新"
 "しいフィルタが作成されます。"
 
-#: ../../usermanual/um_4_spreadsheet.rst:302
+#: ../../usermanual/um_4_spreadsheet.rst:299
 msgid ""
 "In the short video, we specify a filter to exclude the 9th row. Perhaps we "
 "know that the 9th participant was someone just testing the survey system, "
@@ -969,7 +998,7 @@ msgstr ""
 "長さに関するデータですが、もしかすると9番目の参加者がウサギだったかもしれませ"
 "ん）、次の数式を使って簡単にその行を除外できます。"
 
-#: ../../usermanual/um_4_spreadsheet.rst:312
+#: ../../usermanual/um_4_spreadsheet.rst:309
 msgid ""
 "In this expression the ``!=`` means ‘does not equal’. If you’ve ever used a "
 "programming language like R this should be very familiar. Filters in jamovi "
@@ -990,7 +1019,7 @@ msgstr ""
 "を実行していた場合も、フィルター適用後は9行目を除いた値で再計算され、結果が更"
 "新されます。"
 
-#: ../../usermanual/um_4_spreadsheet.rst:322
+#: ../../usermanual/um_4_spreadsheet.rst:319
 msgid ""
 "Typically, we would like to have more complex filters than this! The ``Tooth "
 "Growth`` example contains the length of teeth from guinea pigs (the ``len`` "
@@ -1002,15 +1031,15 @@ msgid ""
 "effects of vitamin C, and not of orange juice. Then, we can use the formula:"
 msgstr ""
 "通常は、これよりも複雑なフィルタを使いたい場合が多いでしょう。 ``Tooth "
-"Growth`` の例には、モルモットにビタミンCまたはオレンジジュース（ ``supp`` "
-"列で ``VC`` または ``OJ`` として記録）というサプリメントを、異なる用量（ "
-"``dose`` 列）で与えたときの歯の長さ（ ``len`` "
-"列）のデータが含まれています。ここで、用量が歯の長さに与える影響に興味がある"
-"と仮定します。その場合、従属変数を ``len`` 、グループ変数を ``dose`` "
-"としてANOVAを行うことになるでしょう。しかし、ビタミンCの効果だけに関心があり"
-"、オレンジジュースの効果には関心がない場合、次の数式を使うことができます。"
+"Growth`` の例には、モルモットにビタミンCまたはオレンジジュース（ ``supp`` 列"
+"で ``VC`` または ``OJ`` として記録）というサプリメントを、異なる用量"
+"（ ``dose`` 列）で与えたときの歯の長さ（ ``len`` 列）のデータが含まれていま"
+"す。ここで、用量が歯の長さに与える影響に興味があると仮定します。その場合、従"
+"属変数を ``len`` 、グループ変数を ``dose`` としてANOVAを行うことになるでしょ"
+"う。しかし、ビタミンCの効果だけに関心があり、オレンジジュースの効果には関心が"
+"ない場合、次の数式を使うことができます。"
 
-#: ../../usermanual/um_4_spreadsheet.rst:335
+#: ../../usermanual/um_4_spreadsheet.rst:332
 msgid ""
 "In fact we can specify this formula in addition to the ``ROW() != 9`` "
 "formula if we like. We can add it as another expression to ``Filter 1`` (by "
@@ -1023,17 +1052,16 @@ msgid ""
 "own column as well, and by looking at the ticks and crosses, we can see "
 "which filter or expression is responsible for excluding each row."
 msgstr ""
-"必要であれば、この数式を ``ROW() != 9`` "
-"の数式と一緒に指定することもできます。最初の数式の横にある小さな``+``"
-"をクリックして ``フィルタ1`` に別の式として追加することもできますし、"
-"フィルタのダイアログボックスの左側にある大きな ``+`` "
-"を選択して追加のフィルタとして追加することもできます。後ほど説明しますが、既"
-"存のフィルターに式を追加する場合と、別のフィルターを作成する場合とでは、動作"
-"が異なる場合があります。しかし、この場合は違いがないので、既存のフィルターに"
-"追加します。この追加した式にも独自の列が表示され、チェックマークや×印を見るこ"
-"とで、どのフィルターや式が各行を除外しているのかを確認できます。"
+"必要であれば、この数式を ``ROW() != 9`` の数式と一緒に指定することもできま"
+"す。最初の数式の横にある小さな``+``をクリックして ``フィルタ1`` に別の式とし"
+"て追加することもできますし、フィルタのダイアログボックスの左側にある大きな "
+"``+`` を選択して追加のフィルタとして追加することもできます。後ほど説明します"
+"が、既存のフィルターに式を追加する場合と、別のフィルターを作成する場合とで"
+"は、動作が異なる場合があります。しかし、この場合は違いがないので、既存のフィ"
+"ルターに追加します。この追加した式にも独自の列が表示され、チェックマークや×印"
+"を見ることで、どのフィルターや式が各行を除外しているのかを確認できます。"
 
-#: ../../usermanual/um_4_spreadsheet.rst:346
+#: ../../usermanual/um_4_spreadsheet.rst:343
 msgid ""
 "But let’s say we want to exclude from the analysis all the tooth lengths "
 "that were more than 1.5 standard deviations from the mean. To do this, we’d "
@@ -1046,7 +1074,7 @@ msgstr ""
 "ます。次のいずれかの数式を使えばよいでしょう（2つ目の数式は、zスコアが何かを"
 "学生に説明するのにとてもよい方法です）。"
 
-#: ../../usermanual/um_4_spreadsheet.rst:357
+#: ../../usermanual/um_4_spreadsheet.rst:354
 msgid ""
 "There are a lot of functions available in jamovi, and you can see them by "
 "clicking the small *f*\\ :sub:`x` beside the formula box."
@@ -1054,7 +1082,7 @@ msgstr ""
 "jamovi には多くの関数が用意されており、数式ボックスの横にある小さな *f*\\ :"
 "sub:`x` をクリックすると、それらを確認できます。"
 
-#: ../../usermanual/um_4_spreadsheet.rst:360
+#: ../../usermanual/um_4_spreadsheet.rst:357
 msgid ""
 "Now let’s add this z-score formula to a separate filter by clicking the "
 "large ``+`` to the left of the filters, and adding it to ``Filter 2``."
@@ -1062,7 +1090,7 @@ msgstr ""
 "次に、フィルターの左側にある大きな ``+`` をクリックして、このzスコアの数式を"
 "別のフィルターとして追加し、 ``フィルタ2`` に追加しましょう。"
 
-#: ../../usermanual/um_4_spreadsheet.rst:367
+#: ../../usermanual/um_4_spreadsheet.rst:364
 msgid ""
 "With multiple filters, the filtered rows cascade from one filter into the "
 "next. So only the rows allowed through by ``Filter 1`` are used in the "
@@ -1075,20 +1103,19 @@ msgid ""
 "not (but you should pre-register your rules).\\ [#]_"
 msgstr ""
 "複数のフィルタがある場合、フィルタされた行は1つのフィルタから次のフィルタへと"
-"連鎖していきます。つまり、``フィルタ 1`` を通過した行だけが ``フィルタ2`` "
-"の計算に使用されます。この場合、zスコアの平均と標準偏差はビタミンCの行（およ"
-"び9行目を除く）だけに基づいて計算されます。対照的に、 ``Z()`` フィルターを "
-"``フィルタ1`` "
-"の追加の式として指定した場合、zスコアの平均と標準偏差はデータセット全体に基づ"
-"いて計算されます。このようにして、どの行を分析に含めるかについて任意に複雑な"
-"ルールを指定することができます（ただし、ルールは事前登録しておくべきです）。"
-"\\ [#]_"
+"連鎖していきます。つまり、``フィルタ 1`` を通過した行だけが ``フィルタ2`` の"
+"計算に使用されます。この場合、zスコアの平均と標準偏差はビタミンCの行（および9"
+"行目を除く）だけに基づいて計算されます。対照的に、 ``Z()`` フィルターを ``"
+"フィルタ1`` の追加の式として指定した場合、zスコアの平均と標準偏差はデータセッ"
+"ト全体に基づいて計算されます。このようにして、どの行を分析に含めるかについて"
+"任意に複雑なルールを指定することができます（ただし、ルールは事前登録しておく"
+"べきです）。\\ [#]_"
 
-#: ../../usermanual/um_4_spreadsheet.rst:378
+#: ../../usermanual/um_4_spreadsheet.rst:375
 msgid "**Column filters**"
 msgstr "**列フィルタ**"
 
-#: ../../usermanual/um_4_spreadsheet.rst:380
+#: ../../usermanual/um_4_spreadsheet.rst:377
 msgid ""
 "Whereas row filters are applied to the data set as a whole, sometimes you "
 "want to just filter individual columns. Column filters come in handy when "
@@ -1101,7 +1128,7 @@ msgstr ""
 "グしたい場合に便利です。これは計算変数システムによって実現されます。計算変数"
 "を使うことで、不要な値が除外された、既存の列のコピーを作成できます。"
 
-#: ../../usermanual/um_4_spreadsheet.rst:386
+#: ../../usermanual/um_4_spreadsheet.rst:383
 msgid ""
 "In the Tooth Growth example, we might want to analyse the doses of 500 and "
 "1000, and 1000 and 2000 separately. To do this we create a new column for "
@@ -1118,7 +1145,7 @@ msgstr ""
 "に数式を入力できます。今回は、以下のいずれかの数式を入力します（どちらも同じ"
 "処理ですが、2つ目の方が分かりやすいかもしれません）。"
 
-#: ../../usermanual/um_4_spreadsheet.rst:399
+#: ../../usermanual/um_4_spreadsheet.rst:396
 msgid ""
 "The first argument to the ``FILTER()`` function (in this example dose) is "
 "what values to use in the computed column. The second argument is the "
@@ -1132,7 +1159,7 @@ msgstr ""
 "は「欠損値」）として扱われます。この数式を使うと、 ``dose (2)`` 列には "
 "``500`` と ``1000`` の値だけが入り、 ``2000`` の値は含まれません。"
 
-#: ../../usermanual/um_4_spreadsheet.rst:406
+#: ../../usermanual/um_4_spreadsheet.rst:403
 msgid ""
 "We might also change the name of the column to something more descriptive, "
 "like ``dose 5,10``. Similarly we can create a column ``dose 10,20`` with the "
@@ -1150,7 +1177,7 @@ msgstr ""
 "なる分析ごとに異なるフィルターを使うことができます。これに対して、行フィルタ"
 "は *すべて* の分析に適用される点が異なります。"
 
-#: ../../usermanual/um_4_spreadsheet.rst:419
+#: ../../usermanual/um_4_spreadsheet.rst:416
 msgid ""
 "It may also have occurred to you, that with ``FILTER()`` we can do what "
 "might be called a “poor man’s split variables”: You can create splits using "
@@ -1166,7 +1193,7 @@ msgstr ""
 "という関数を使います。こうすることで、2つの別々の列ができ、並べて分析できま"
 "す。"
 
-#: ../../usermanual/um_4_spreadsheet.rst:432
+#: ../../usermanual/um_4_spreadsheet.rst:425
 msgid ""
 "Pre-registration is a solution to `p-hacking <https://en.wikipedia.org/wiki/"
 "Data_dredging>`_, not deliberately making software difficult to use! Don’t p-"
@@ -1476,11 +1503,10 @@ msgid ""
 "``descriptives`` on it."
 msgstr ""
 "Rによる分析を実行するには、 ``分析`` （Analyses）リボンの ``R`` アイコンから "
-"``Rj Editor`` "
-"を選択します。これにより、Rコードを入力するためのエディタが表示されます。jamo"
-"viで開いているデータセットは、単に ``data`` "
-"という名前のデータフレームとして利用できます。まずは、 ``記述統計`` "
-"（descriptives）を実行してみるとよいでしょう。"
+"``Rj Editor`` を選択します。これにより、Rコードを入力するためのエディタが表示"
+"されます。jamoviで開いているデータセットは、単に ``data`` という名前のデータ"
+"フレームとして利用できます。まずは、 ``記述統計`` （descriptives）を実行して"
+"みるとよいでしょう。"
 
 #: ../../usermanual/um_6_jamovi_and_R.rst:69
 msgid "|um_Rj2|"
@@ -1522,15 +1548,15 @@ msgid ""
 "R package installed in the R library on your system."
 msgstr ""
 "初期設定では、 ``Rj`` はjamoviに同梱されている ``R`` のバージョンを利用しま"
-"す。このバージョンには多くのパッケージ（|jmv|_\およびその依存パッケージ）が含"
-"まれており、多くのユーザーにとってはこれで十分でしょう。追加のRパッケージを使"
-"いたい場合は ``System R`` バージョンを利用してください。コードボックス右上の"
-"歯車アイコン（⚙）を選択すると、使用する ``R`` のバージョンを変更するオプショ"
-"ンが表示されます。 ``System R`` では、システムにインストールされている ``R`` "
-"のバージョンを利用します。これにより、その ``R`` バージョンにインストールされ"
-"ているすべてのパッケージにアクセスできるという利点があります。必要なのは 、 |"
-"jmvconnect|_ RパッケージをシステムのRライブラリにインストールしておくことだけ"
-"です。"
+"す。このバージョンには多くのパッケージ（|jmv|_\\およびその依存パッケージ）が"
+"含まれており、多くのユーザーにとってはこれで十分でしょう。追加のRパッケージを"
+"使いたい場合は ``System R`` バージョンを利用してください。コードボックス右上"
+"の歯車アイコン（⚙）を選択すると、使用する ``R`` のバージョンを変更するオプ"
+"ションが表示されます。 ``System R`` では、システムにインストールされている "
+"``R`` のバージョンを利用します。これにより、その ``R`` バージョンにインストー"
+"ルされているすべてのパッケージにアクセスできるという利点があります。必要なの"
+"は 、 |jmvconnect|_ RパッケージをシステムのRライブラリにインストールしておく"
+"ことだけです。"
 
 #: ../../usermanual/um_6_jamovi_and_R.rst:100
 msgid "``jmvconnect`` R package"
