@@ -3,17 +3,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: jamovi \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-01 23:26+0200\n"
-"PO-Revision-Date: 2025-03-23 21:34+0000\n"
+"POT-Creation-Date: 2025-06-12 12:29+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"Language: de\n"
 "Language-Team: German <https://hosted.weblate.org/projects/"
 "jamovidocs/1_usermanual/de/>\n"
-"Language: de\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11-dev\n"
 "Generated-By: Babel 2.17.0\n"
 
 #: ../../usermanual/um_1_installation.rst:4
@@ -428,7 +427,7 @@ msgstr "und eines von vier Skalenniveaus:"
 msgid "|nominal|    ``Nominal``"
 msgstr "|nominal|    ``Nominal``"
 
-#: ../../usermanual/um_4_spreadsheet.rst:439
+#: ../../usermanual/um_4_spreadsheet.rst:438
 msgid "nominal"
 msgstr "nominal"
 
@@ -436,7 +435,7 @@ msgstr "nominal"
 msgid "|ordinal|    ``Ordinal``"
 msgstr "|ordinal|    ``Ordinal``"
 
-#: ../../usermanual/um_4_spreadsheet.rst:441
+#: ../../usermanual/um_4_spreadsheet.rst:440
 msgid "ordinal"
 msgstr "ordinal"
 
@@ -444,7 +443,7 @@ msgstr "ordinal"
 msgid "|continuous| ``Continuous``"
 msgstr "|continuous| ``Continuous``"
 
-#: ../../usermanual/um_4_spreadsheet.rst:443
+#: ../../usermanual/um_4_spreadsheet.rst:442
 msgid "continuous"
 msgstr "continuous"
 
@@ -452,7 +451,7 @@ msgstr "continuous"
 msgid "|id|         ``ID``"
 msgstr "|id|         ``ID``"
 
-#: ../../usermanual/um_4_spreadsheet.rst:445
+#: ../../usermanual/um_4_spreadsheet.rst:444
 msgid "id"
 msgstr "id"
 
@@ -688,7 +687,7 @@ msgstr ""
 msgid "|um_transform_create1|"
 msgstr "|um_transform_create1|"
 
-#: ../../usermanual/um_4_spreadsheet.rst:448
+#: ../../usermanual/um_4_spreadsheet.rst:447
 msgid "um_transform_create1"
 msgstr "um_transform_create1"
 
@@ -702,7 +701,7 @@ msgstr ""
 msgid "|um_transform_create2|"
 msgstr "|um_transform_create2|"
 
-#: ../../usermanual/um_4_spreadsheet.rst:449
+#: ../../usermanual/um_4_spreadsheet.rst:448
 msgid "um_transform_create2"
 msgstr "um_transform_create2"
 
@@ -723,7 +722,7 @@ msgstr ""
 msgid "|um_transform_create3|"
 msgstr "|um_transform_create3|"
 
-#: ../../usermanual/um_4_spreadsheet.rst:450
+#: ../../usermanual/um_4_spreadsheet.rst:449
 msgid "um_transform_create3"
 msgstr "um_transform_create3"
 
@@ -767,7 +766,7 @@ msgstr ""
 msgid "|um_transform_edit1|"
 msgstr "|um_transform_edit1|"
 
-#: ../../usermanual/um_4_spreadsheet.rst:451
+#: ../../usermanual/um_4_spreadsheet.rst:450
 msgid "um_transform_edit1"
 msgstr "um_transform_edit1"
 
@@ -882,24 +881,23 @@ msgstr ""
 msgid "|um_transform_ex1|"
 msgstr "|um_transform_ex1|"
 
-#: ../../usermanual/um_4_spreadsheet.rst:452
+#: ../../usermanual/um_4_spreadsheet.rst:451
 msgid "um_transform_ex1"
 msgstr "um_transform_ex1"
 
 #: ../../usermanual/um_4_spreadsheet.rst:234
 msgid ""
-"You can explore this transform by `downloading <../_static/output/"
-"um_transform_ex1.omv>` and opening the file ``transform_ex1`` in jamovi."
+"You can explore this transform by downloading and opening the data set |"
+"um_transform_ex1_omv|_ in jamovi."
 msgstr ""
-"Sie können diese Transformation selbst ausprobieren, indem Sie `<../_static/"
-"output/um_transform_ex1.omv> herunterladen` und die Datei ``transform_ex1`` "
-"in jamovi öffnen."
+"Sie können diese Transformation selbst ausprobieren, indem Sie "
+"|um_transform_ex1_omv|_ herunterladen und in jamovi öffnen."
 
-#: ../../usermanual/um_4_spreadsheet.rst:239
+#: ../../usermanual/um_4_spreadsheet.rst:238
 msgid "**Example 2: Recoding continuous variables into categories**"
 msgstr "**Beispiel 2: Umkodieren kontinuierlicher Variablen in Kategorien**"
 
-#: ../../usermanual/um_4_spreadsheet.rst:241
+#: ../../usermanual/um_4_spreadsheet.rst:240
 msgid ""
 "In a lot of data sets people want to recode their continuous scores into "
 "categories. For example, we may want to classify people, based on their "
@@ -911,15 +909,15 @@ msgstr ""
 "Testergebnisse (0 bis 100%) in eine von drei Gruppen ``Pass``, ``Resit`` und "
 "``Fail`` einteilen."
 
-#: ../../usermanual/um_4_spreadsheet.rst:246
+#: ../../usermanual/um_4_spreadsheet.rst:245
 msgid "|um_transform_ex2|"
 msgstr "|um_transform_ex2|"
 
-#: ../../usermanual/um_4_spreadsheet.rst:453
+#: ../../usermanual/um_4_spreadsheet.rst:452
 msgid "um_transform_ex2"
 msgstr "um_transform_ex2"
 
-#: ../../usermanual/um_4_spreadsheet.rst:248
+#: ../../usermanual/um_4_spreadsheet.rst:247
 msgid ""
 "Note that the conditions are executed in order, and that only the first rule "
 "that matches the case is applied to that case. So this transformation "
@@ -927,8 +925,7 @@ msgid ""
 "will be ``Fail``, if the source variable has a value between 50 and 60, the "
 "value will be ``Resit``, and if the source variable has a value above 60, "
 "the value will be ``Pass``. If you’d like an example data set to play around "
-"with, you can `download <../_static/output/um_transform_ex2.omv>` and use "
-"``transform_ex2.omv``."
+"with, you can download and use |um_transform_ex2_omv|_\\."
 msgstr ""
 "Beachten Sie, dass die Bedingungen der Reihe nach ausgeführt werden und dass "
 "nur die erste Regel, die auf einen Fall zutrifft, angewendet wird. Diese "
@@ -936,15 +933,14 @@ msgstr ""
 "einen Wert unter 50 hat, der Wert ``Fail`` sein wird, wenn die Quellvariable "
 "einen Wert zwischen 50 und 60 hat, der Wert ``Resit`` sein wird, und wenn "
 "die Quellvariable einen Wert über 60 hat, der Wert ``Pass`` sein wird. Wenn "
-"Sie einen Beispieldatensatz zum Ausprobieren haben möchten, können Sie `<../"
-"_static/output/um_transform_ex2.omv> herunterladen` und den Datensatz "
-"``transform_ex2.omv`` verwenden."
+"Sie einen Beispieldatensatz zum Ausprobieren haben möchten, können Sie "
+"|um_transform_ex2_omv|_ herunterladen und verwenden."
 
-#: ../../usermanual/um_4_spreadsheet.rst:258
+#: ../../usermanual/um_4_spreadsheet.rst:256
 msgid "**Example 3: Replacing missing values**"
 msgstr "**Beispiel 3: Ersetzen fehlender Werte**"
 
-#: ../../usermanual/um_4_spreadsheet.rst:260
+#: ../../usermanual/um_4_spreadsheet.rst:258
 msgid ""
 "Now, let’s say your data set has a lot of missing values and removing the "
 "participants with missing values will end up in a severe loss of "
@@ -964,31 +960,30 @@ msgstr ""
 "im Zusammenhang mit der Mittelwertsubstitution gibt und man sie deswegen "
 "eher nicht benutzen sollte, eignet sie sich gut zur Demonstration..."
 
-#: ../../usermanual/um_4_spreadsheet.rst:269
+#: ../../usermanual/um_4_spreadsheet.rst:267
 msgid "|um_transform_ex3|"
 msgstr "|um_transform_ex3|"
 
-#: ../../usermanual/um_4_spreadsheet.rst:454
+#: ../../usermanual/um_4_spreadsheet.rst:453
 msgid "um_transform_ex3"
 msgstr "um_transform_ex3"
 
-#: ../../usermanual/um_4_spreadsheet.rst:271
+#: ../../usermanual/um_4_spreadsheet.rst:269
 msgid ""
 "Note that jamovi has borrowed NA from R to denote missing values. Don’t have "
-"a good data set handy? You can try it out yourself by `downloading <../"
-"_static/output/um_transform_ex3.omv>` and opening the ``transform_ex3.omv`` "
-"data set."
+"a good data set handy? You can try it out yourself by downloading and "
+"opening the |um_transform_ex3_omv|_ data set."
 msgstr ""
 "Beachten Sie, dass jamovi ``NA`` von R übernommen hat, um fehlende Werte zu "
 "kennzeichnen. Sie haben keinen guten Datensatz zur Hand? Sie können es "
-"selbst ausprobieren, indem Sie `<../_static/output/um_transform_ex3.omv> "
-"herunterladen` und den Datensatz ``transform_ex3.omv`` öffnen."
+"selbst ausprobieren, indem Sie |um_transform_ex3_omv|_ herunterladen und "
+"öffnen."
 
-#: ../../usermanual/um_4_spreadsheet.rst:278
+#: ../../usermanual/um_4_spreadsheet.rst:275
 msgid "Filters"
 msgstr "Filter"
 
-#: ../../usermanual/um_4_spreadsheet.rst:280
+#: ../../usermanual/um_4_spreadsheet.rst:277
 msgid ""
 "Filters in jamovi allow you to filter out rows that you don’t want included "
 "in your analysis. For example, you might want to only include people’s "
@@ -1008,7 +1003,7 @@ msgstr ""
 "abweichen oder die Extremwerte in Bezug auf ihren Interquartilbereich sind "
 "(IQR; d.h. Extremwerte außerhalb der Whisker im Box-Whisker-Diagramm)."
 
-#: ../../usermanual/um_4_spreadsheet.rst:288
+#: ../../usermanual/um_4_spreadsheet.rst:285
 msgid ""
 "The filters in jamovi are build on top of jamovi’s *computed variable* "
 "formula system, which allows the building of arbitrarily complex formulas."
@@ -1017,11 +1012,11 @@ msgstr ""
 "Variablen* auf. Dies ermöglicht das Erstellen (und Filtern) beliebig "
 "komplexer Formeln."
 
-#: ../../usermanual/um_4_spreadsheet.rst:291
+#: ../../usermanual/um_4_spreadsheet.rst:288
 msgid "**Row filters**"
 msgstr "**Zeilenfilter**"
 
-#: ../../usermanual/um_4_spreadsheet.rst:293
+#: ../../usermanual/um_4_spreadsheet.rst:290
 msgid ""
 "jamovi filters are demonstrated using the ``Tooth Growth`` data set which is "
 "included with jamovi (``☰`` → ``Open`` → ``Data Library``). Select the "
@@ -1034,7 +1029,7 @@ msgstr ""
 "Dies öffnet die Filteransicht und erstellt einen neuen Filter namens "
 "``Filter 1``."
 
-#: ../../usermanual/um_4_spreadsheet.rst:302
+#: ../../usermanual/um_4_spreadsheet.rst:299
 msgid ""
 "In the short video, we specify a filter to exclude the 9th row. Perhaps we "
 "know that the 9th participant was someone just testing the survey system, "
@@ -1049,7 +1044,7 @@ msgstr ""
 "untersucht, also wissen wir vielleicht, dass der 9. Teilnehmer ein Kaninchen "
 "war). Wir können sie einfach mit der folgenden Formel ausschließen:"
 
-#: ../../usermanual/um_4_spreadsheet.rst:312
+#: ../../usermanual/um_4_spreadsheet.rst:309
 msgid ""
 "In this expression the ``!=`` means ‘does not equal’. If you’ve ever used a "
 "programming language like R this should be very familiar. Filters in jamovi "
@@ -1073,7 +1068,7 @@ msgstr ""
 "die Ergebnisse werden auf Werte aktualisiert, die sich ergäben würden, wenn "
 "die 9. Zeile nicht verwendet würde."
 
-#: ../../usermanual/um_4_spreadsheet.rst:322
+#: ../../usermanual/um_4_spreadsheet.rst:319
 msgid ""
 "Typically, we would like to have more complex filters than this! The ``Tooth "
 "Growth`` example contains the length of teeth from guinea pigs (the ``len`` "
@@ -1095,7 +1090,7 @@ msgstr ""
 "Auswirkungen von Vitamin C interessiert sind und nicht an denen von "
 "Orangensaft. Dann können wir die folgende Formel verwenden:"
 
-#: ../../usermanual/um_4_spreadsheet.rst:335
+#: ../../usermanual/um_4_spreadsheet.rst:332
 msgid ""
 "In fact we can specify this formula in addition to the ``ROW() != 9`` "
 "formula if we like. We can add it as another expression to ``Filter 1`` (by "
@@ -1121,7 +1116,7 @@ msgstr ""
 "Kreuze können wir sehen, welcher Filter oder Ausdruck für den Ausschluss "
 "jeder Zeile verantwortlich ist."
 
-#: ../../usermanual/um_4_spreadsheet.rst:346
+#: ../../usermanual/um_4_spreadsheet.rst:343
 msgid ""
 "But let’s say we want to exclude from the analysis all the tooth lengths "
 "that were more than 1.5 standard deviations from the mean. To do this, we’d "
@@ -1136,7 +1131,7 @@ msgstr ""
 "verwenden (diese zweite Formel eignet sich hervorragend, um den Studenten zu "
 "zeigen, was ein z-Wert ist):"
 
-#: ../../usermanual/um_4_spreadsheet.rst:357
+#: ../../usermanual/um_4_spreadsheet.rst:354
 msgid ""
 "There are a lot of functions available in jamovi, and you can see them by "
 "clicking the small *f*\\ :sub:`x` beside the formula box."
@@ -1144,7 +1139,7 @@ msgstr ""
 "In jamovi stehen viele Funktionen zur Verfügung. Sie können sie sehen, wenn "
 "Sie auf das kleine *f*\\ :sub:`x` neben dem Formel-Eingabefeld klicken."
 
-#: ../../usermanual/um_4_spreadsheet.rst:360
+#: ../../usermanual/um_4_spreadsheet.rst:357
 msgid ""
 "Now let’s add this z-score formula to a separate filter by clicking the "
 "large ``+`` to the left of the filters, and adding it to ``Filter 2``."
@@ -1153,7 +1148,7 @@ msgstr ""
 "hinzu. Dazu klicken wir auf das große ``+`` links neben den Filtern und "
 "fügren die Formel zu ``Filter 2`` hinzu."
 
-#: ../../usermanual/um_4_spreadsheet.rst:367
+#: ../../usermanual/um_4_spreadsheet.rst:364
 msgid ""
 "With multiple filters, the filtered rows cascade from one filter into the "
 "next. So only the rows allowed through by ``Filter 1`` are used in the "
@@ -1177,11 +1172,11 @@ msgstr ""
 "Zeile in die Analysen einbezogen werden soll oder nicht (Sie sollten Ihre "
 "Regeln jedoch im prå-registrieren).\\ [#]_"
 
-#: ../../usermanual/um_4_spreadsheet.rst:378
+#: ../../usermanual/um_4_spreadsheet.rst:375
 msgid "**Column filters**"
 msgstr "**Variablenfilter**"
 
-#: ../../usermanual/um_4_spreadsheet.rst:380
+#: ../../usermanual/um_4_spreadsheet.rst:377
 msgid ""
 "Whereas row filters are applied to the data set as a whole, sometimes you "
 "want to just filter individual columns. Column filters come in handy when "
@@ -1196,7 +1191,7 @@ msgstr ""
 "berechneten Variablen erstellen wir eine Kopie einer vorhandenen Spalte, wo "
 "nur die erwünschten (zu analysierenden) Werte eingeschlossen werden."
 
-#: ../../usermanual/um_4_spreadsheet.rst:386
+#: ../../usermanual/um_4_spreadsheet.rst:383
 msgid ""
 "In the Tooth Growth example, we might want to analyse the doses of 500 and "
 "1000, and 1000 and 2000 separately. To do this we create a new column for "
@@ -1216,7 +1211,7 @@ msgstr ""
 "Formel eingeben. In diesem Fall geben wir eine der folgenden Formeln ein "
 "(die beiden sind gleich, die zweite ist vielleicht einfacher zu verstehen):"
 
-#: ../../usermanual/um_4_spreadsheet.rst:399
+#: ../../usermanual/um_4_spreadsheet.rst:396
 msgid ""
 "The first argument to the ``FILTER()`` function (in this example dose) is "
 "what values to use in the computed column. The second argument is the "
@@ -1232,7 +1227,7 @@ msgstr ""
 "vorziehen). Mit dieser Formel enthält die Spalte ``dose (2)`` alle Werte von "
 "``500`` und ``1000``, während die Werte für ``2000`` ausgeschlossen wurden."
 
-#: ../../usermanual/um_4_spreadsheet.rst:406
+#: ../../usermanual/um_4_spreadsheet.rst:403
 msgid ""
 "We might also change the name of the column to something more descriptive, "
 "like ``dose 5,10``. Similarly we can create a column ``dose 10,20`` with the "
@@ -1251,7 +1246,7 @@ msgstr ""
 "können wir verschiedene Filter für verschiedene Analysen verwenden. Dies ist "
 "ein Unterschied zu Zeilenfiltern, die auf *alle* Analysen angewendet werden."
 
-#: ../../usermanual/um_4_spreadsheet.rst:419
+#: ../../usermanual/um_4_spreadsheet.rst:416
 msgid ""
 "It may also have occurred to you, that with ``FILTER()`` we can do what "
 "might be called a “poor man’s split variables”: You can create splits using "
@@ -1267,7 +1262,7 @@ msgstr ""
 "aufteilen. Dadurch entstehen zwei getrennte Spalten, die wir getrennt "
 "voneinander analysieren können."
 
-#: ../../usermanual/um_4_spreadsheet.rst:432
+#: ../../usermanual/um_4_spreadsheet.rst:425
 msgid ""
 "Pre-registration is a solution to `p-hacking <https://en.wikipedia.org/wiki/"
 "Data_dredging>`_, not deliberately making software difficult to use! Don’t p-"
@@ -1648,17 +1643,18 @@ msgid ""
 "version of ``R``. The last thing you will need is to have the |jmvconnect|_ "
 "R package installed in the R library on your system."
 msgstr ""
-"Standardmäßig nutzt ``Rj`` die Version von ``R``\, die in jamovi enthalten "
+"Standardmäßig nutzt ``Rj`` die Version von ``R``\\, die in jamovi enthalten "
 "ist. Dies beinhaltet viele R-Pakete (|jmv|_ und alle seine Abhängigkeiten). "
 "Der Funktionsumfang dieser R-Pakete reicht sicherlich für die Bedürfnisse "
-"der meisten Nutzer. Wenn Sie zusätzliche ``R``\-Pakete benötigen, können Sie "
-"die ``System R``\-Version verwenden. Wenn Sie ⚙ (oben rechts in der Code-Box)"
-" wählen, sehen Sie eine Option, um die verwendete ``R version`` zu ändern. "
-"Die Version ``System R`` verwendet die Version von ``R``\, die Sie auf Ihrem "
-"System installiert haben. Dies hat den Vorteil, dass Ihr ``R`` Code nun "
-"Zugriff auf alle Pakete hat, die Sie für diese Version von ``R`` installiert "
-"haben. Um ``System R`` zu benutzen, benötigen Sie das R-Paket |jmvconnect|_\,"
-" das in der R-Bibliothek auf Ihrem System installiert sein muss."
+"der meisten Nutzer. Wenn Sie zusätzliche ``R``\\-Pakete benötigen, können "
+"Sie die ``System R``\\-Version verwenden. Wenn Sie ⚙ (oben rechts in der "
+"Code-Box) wählen, sehen Sie eine Option, um die verwendete ``R version`` zu "
+"ändern. Die Version ``System R`` verwendet die Version von ``R``\\, die Sie "
+"auf Ihrem System installiert haben. Dies hat den Vorteil, dass Ihr ``R`` "
+"Code nun Zugriff auf alle Pakete hat, die Sie für diese Version von ``R`` "
+"installiert haben. Um ``System R`` zu benutzen, benötigen Sie das R-Paket |"
+"jmvconnect|_\\, das in der R-Bibliothek auf Ihrem System installiert sein "
+"muss."
 
 #: ../../usermanual/um_6_jamovi_and_R.rst:100
 msgid "``jmvconnect`` R package"

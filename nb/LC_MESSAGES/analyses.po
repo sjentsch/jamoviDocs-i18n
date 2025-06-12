@@ -3,6 +3,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: jamovi \n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-12 12:29+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: jamovi \n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-01 23:26+0200\n"
 "PO-Revision-Date: 2025-03-23 21:41+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
@@ -28,7 +37,7 @@ msgstr ""
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:0
 msgid "Select ``Analyses`` → ``Exploration`` → ``Descriptives``."
-msgstr "Velg ``Analyses`` → ``Exploration`` → ``Descriptives``\."
+msgstr "Velg ``Analyses`` → ``Exploration`` → ``Descriptives``."
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:11
 msgid "|select_descriptives|"
@@ -44,7 +53,7 @@ msgid ""
 "``Variables``."
 msgstr ""
 "Dra og slipp variablene du vil ha deskriptivstatistiske analyser for til "
-"``Variables``\."
+"``Variables``."
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:18
 msgid "|add_var_descriptives|"
@@ -77,7 +86,7 @@ msgid ""
 msgstr ""
 "For å dele de deskriptivstatistiske analysene dine etter en kategorisk "
 "variabel (f.eks. for å skille etter kjønn), flytt denne variabelen til "
-"``Split by``\."
+"``Split by``."
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:32
 msgid "|add_var_descriptives_groupby|"
@@ -101,7 +110,7 @@ msgstr "output_descriptives_groupby"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:0
 msgid "Click the ``Statistics`` tab to see more alternatives."
-msgstr "Klikk på ``Statistics``\-rullemeny for å se flere alternativer."
+msgstr "Klikk på ``Statistics``-rullemeny for å se flere alternativer."
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:42
 msgid "|select_descriptives_statistics|"
@@ -118,10 +127,10 @@ msgid ""
 "and to check whehter your variables conform with a normal distribution, then "
 "you should tick ``Box plot``, ``Violin``, and ``Q-Q``."
 msgstr ""
-"For å lage et plott basert på valgene ovenfor, klikk på ``Plots``\-rullemeny "
+"For å lage et plott basert på valgene ovenfor, klikk på ``Plots``-rullemeny "
 "og merk av i boksen for ønsket plot. Hvis du vil identifisere uteliggere og "
 "sjekke om variablene dine samsvarer med en normalfordeling, bør du krysse av "
-"for ``Boxplot``\, ``Violin`` og ``Q-Q``\."
+"for ``Boxplot``, ``Violin`` og ``Q-Q``."
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:49
 msgid "|select_descriptives_plots|"
