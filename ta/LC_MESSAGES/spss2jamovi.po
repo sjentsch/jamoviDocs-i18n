@@ -1,48 +1,13 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: jamovi \n"
+"Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-12 12:29+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-12 12:28+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-12 12:26+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: jamovi \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-12 12:25+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-06-12 12:21+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1292,7 +1257,7 @@ msgstr "|jamovi_Analyze|"
 msgid "jamovi_Analyze"
 msgstr "jamovi_Analyze"
 
-#: ../../spss2jamovi/s2j_Comparison_of_analyses.rst
+#: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:0
 msgid ""
 "Already at first glance, it becomes clear that jamovi currently has fewer "
 "features than SPSS. **BUT**:"
@@ -1300,7 +1265,7 @@ msgstr ""
 "ஏற்கனவே முதல் பார்வையில், சாமோவிக்கு தற்போது SPSS ஐ விட குறைவான நற்பொருத்தங்கள் உள்ளன "
 "என்பது தெளிவாகிறது. ** ஆனால் **:"
 
-#: ../../spss2jamovi/s2j_Comparison_of_analyses.rst
+#: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:0
 msgid ""
 "(1) There is a (ever increasing) made available via modules (press the \"+\" "
 "sign in the right upper corner of the jamovi window to add them)."
@@ -1308,8 +1273,7 @@ msgstr ""
 "(1) There is a (ever increasing) made available வழிமம் தொகுதிகள் (press the \"+"
 "\" sign in the வலது upper corner of the jamovi சாளரம் பெறுநர் கூட்டு them)."
 
-#: ../../spss2jamovi/s2j_Comparison_of_analyses.rst
-#, python-format
+#: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:0
 msgid ""
 "(2) The features implemented already cover \"standard\" needs (90% of the "
 "most frequently used analyses in psychology)."
@@ -1317,7 +1281,7 @@ msgstr ""
 "(2) செயல்படுத்தப்பட்ட நற்பொருத்தங்கள் ஏற்கனவே \"நிலையான\" தேவைகளை உள்ளடக்கியது "
 "(உளவியலில் அடிக்கடி பயன்படுத்தப்படும் பகுப்பாய்வுகளில் 90%)."
 
-#: ../../spss2jamovi/s2j_Comparison_of_analyses.rst
+#: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:0
 msgid ""
 "Feel free to check out which |modules| are available: There is also quite a "
 "wealth of modules covering functions that are not available in SPSS but very "
@@ -1327,7 +1291,7 @@ msgstr ""
 "மிகவும் பயனுள்ளதாக இருக்கும் (எ.கா., மேவு பகுப்பாய்வுகள், கட்டமைப்பு சமன்பாடு மாதிரிகள் "
 "போன்றவற்றுக்கு) செயல்பாடுகளை உள்ளடக்கிய தொகுதிகளின் செல்வமும் உள்ளது."
 
-#: ../../spss2jamovi/s2j_Comparison_of_analyses.rst
+#: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:0
 msgid ""
 "If you are willing to use some R code (e.g., in conjunction with the jamovi-"
 "module Rj) then you can (most presumably) do every analysis you can imagine."
@@ -1402,11 +1366,11 @@ msgstr "** விளக்க புள்ளிவிவரங்கள் **"
 msgid "Descriptive Statistics → Frequencies"
 msgstr "விளக்க புள்ளிவிவரங்கள் → அதிர்வெண்கள்"
 
-#: ../../spss2jamovi/s2j_Comparison_of_analyses.rst
+#: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:0
 msgid "Exploration → Descriptives combines all three procedures"
 msgstr "ஆய்வு → விளக்கங்கள் மூன்று நடைமுறைகளையும் ஒருங்கிணைக்கிறது"
 
-#: ../../spss2jamovi/s2j_Comparison_of_analyses.rst
+#: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:0
 msgid ""
 "*tick «Frequency tables» to get an output that is similar to that of "
 "«Frequencies» in SPSS*"
@@ -1742,11 +1706,11 @@ msgstr "** பரிமாணக் குறைப்பு **"
 msgid "Dimension Reduction → Factor"
 msgstr "பரிமாண குறைப்பு → காரணி"
 
-#: ../../spss2jamovi/s2j_Comparison_of_analyses.rst
+#: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:0
 msgid "Factor → (Data reduction) → Principal Component Analysis"
 msgstr "காரணி → (தரவு குறைப்பு) → முதன்மை கூறு பகுப்பாய்வு"
 
-#: ../../spss2jamovi/s2j_Comparison_of_analyses.rst
+#: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:0
 msgid "Factor → (Data reduction) → Exploratory Factor Analysis [#FA]_"
 msgstr "காரணி → (தரவு குறைப்பு) → ஆய்வு காரணி பகுப்பாய்வு [#FA]_"
 
@@ -3287,7 +3251,6 @@ msgstr ""
 "முக்கியத்துவத்தை குணக அட்டவணை காட்டுகிறது."
 
 #: ../../spss2jamovi/s2j_linReg.rst:40
-#, python-format
 msgid ""
 "In jamovi, *R* and *R²* are found in the table called Model Fit Measures. "
 "The results from the ANOVA is found in the table called Omnibus ANOVA Test, "
@@ -3678,7 +3641,6 @@ msgid "jamovi_Output_linReg2_6"
 msgstr "jamovi_Output_linReg2_6"
 
 #: ../../spss2jamovi/s2j_linReg2.rst:73
-#, python-format
 msgid ""
 "In the Model Summary, you can see the summary statistics for model 1, where "
 "the only predictor is advertising budget, as well as for model 2, in which "
@@ -4144,7 +4106,7 @@ msgstr ""
 "மாதிரி குறிப்பிட்ட முடிவுகள்`` க்கு அடுத்ததாக கீழ்தோன்றும் மெனுவைப் பயன்படுத்துவதன் மூலம் "
 "மாதிரியைத் தேர்ந்தெடுக்க முடியும்."
 
-#: ../../spss2jamovi/s2j_logReg.rst
+#: ../../spss2jamovi/s2j_logReg.rst:0
 msgid ""
 "SPSS produces a lot more output tables (some not shown) than jamovi, not the "
 "least due to Field (2017) asking for options that are not available in "
@@ -4154,11 +4116,11 @@ msgstr ""
 "விளைவாக்கம் செய்கிறது, புலம் (2017) காரணமாக குறைந்தது அல்ல (2017) சாமோவியில் "
 "கிடைக்காத விருப்பங்களைக் கேட்கிறது."
 
-#: ../../spss2jamovi/s2j_logReg.rst
+#: ../../spss2jamovi/s2j_logReg.rst:0
 msgid "The numerical values for the results are the same."
 msgstr "முடிவுகளுக்கான எண் மதிப்புகள் ஒன்றே."
 
-#: ../../spss2jamovi/s2j_logReg.rst
+#: ../../spss2jamovi/s2j_logReg.rst:0
 msgid ""
 "Model 1: -2LL = 144.158, χ² = 9.926, df = 1, *p* = 0.002, *R²*:sub:`CS` = "
 "0.084, *R²*:sub:`N` = 0.113, corr.\\ :sub:`NC` = 66.667, corr.\\ :sub:`C` = "
@@ -4168,7 +4130,7 @@ msgstr ""
 "= 0.084, *r² *: துணை:` n` = 0.113, கோர். \\ துணை: `nc` = 66.667, கோர். \\: "
 "துணை:` சி` = 63.077"
 
-#: ../../spss2jamovi/s2j_logReg.rst
+#: ../../spss2jamovi/s2j_logReg.rst:0
 msgid ""
 "Model 2: -2LL = 144.156, χ² = 9.928, df = 2, *p* = 0.007, *R²*:sub:`CS` = "
 "0.084, *R²*:sub:`N` = 0.113, corr.\\ :sub:`NC` = 66.667, corr.\\ :sub:`C` = "
@@ -4178,7 +4140,7 @@ msgstr ""
 "= 0.084, *r² *: துணை:` n` = 0.113, கோர். \\ துணை: `nc` = 66.667, கோர். \\: "
 "துணை:` சி` = 63.077"
 
-#: ../../spss2jamovi/s2j_logReg.rst
+#: ../../spss2jamovi/s2j_logReg.rst:0
 msgid ""
 "Model 3: -2LL = 144.095, χ² = 9.989, df = 3, *p* = 0.019, *R²*:sub:`CS` = "
 "0.085, *R²*:sub:`N` = 0.114, corr.\\ :sub:`NC` = 66.667, corr.\\ :sub:`C` = "
@@ -4188,7 +4150,7 @@ msgstr ""
 "= 0.085, *r² *: துணை:` n` = 0.114, கோர். \\ துணை: `nc` = 66.667, கோர். \\: "
 "துணை:` சி` = 63.077"
 
-#: ../../spss2jamovi/s2j_logReg.rst
+#: ../../spss2jamovi/s2j_logReg.rst:0
 msgid ""
 "It becomes clear that ``Intervention`` is the most decisive predictor "
 "whereas ``Duration`` and the interaction of ``Intervention × Duration`` "
