@@ -1,26 +1,26 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: \n"
+"Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 12:29+0200\n"
-"PO-Revision-Date: 2025-03-23 16:15+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Ukrainian <https://hosted.weblate.org/projects/"
-"jamovidocs/3_howto/uk/>\n"
+"PO-Revision-Date: 2025-08-14 07:01+0000\n"
+"Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
+"Language-Team: Ukrainian <https://hosted.weblate.org/projects/jamovidocs/"
+"3_howto/uk/>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.11-dev\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Weblate 5.13-dev\n"
 "Generated-By: Babel 2.17.0\n"
 
 #: ../../howto/howto_Filtering_data.rst:5
 msgid ""
 "How do I identify outliers and filter them out from being used in analyses?"
 msgstr ""
+"Як мені виявити викиди та відфільтрувати їх для використання в аналізах?"
 
 #: ../../howto/howto_Filtering_data.rst:7
 msgid "|Outliers_Filter_Shortcut|"
@@ -35,26 +35,34 @@ msgid ""
 "open the ``Data`` tab and select ``Filter`` (either by using the symbol in "
 "the icon bar or the one in the bottom-left corner of the jamovi window)"
 msgstr ""
+"відкрийте вкладку ``Data`` та виберіть ``Filter`` (використовуючи символ на "
+"панелі значків або символ у лівому нижньому куті вікна jamovi)"
 
 #: ../../howto/howto_Filtering_data.rst:0
 msgid ""
 "in order to access functions, press the ``fx`` icon in the filter settings"
 msgstr ""
+"Щоб отримати доступ до функцій, натисніть значок ``fx`` у налаштуваннях "
+"фільтра"
 
 #: ../../howto/howto_Filtering_data.rst:0
 msgid ""
 "there also is a switch where you can activate or deactivate the filter (see "
 "the comment in red below)"
 msgstr ""
+"також є перемикач, за допомогою якого можна активувати або деактивувати "
+"фільтр (див. коментар, виділений червоним кольором нижче)"
 
 #: ../../howto/howto_Filtering_data.rst:0
 msgid ""
 "you close the filter settings by pressing the arrow in the top-right corner"
 msgstr ""
+"Ви закриваєте налаштування фільтра, натискаючи стрілку у верхньому правому "
+"куті"
 
 #: ../../howto/howto_Filtering_data.rst:0
 msgid "there are three large approaches, to exclude outliers:"
-msgstr ""
+msgstr "Існує три основні підходи для виключення викидів:"
 
 #: ../../howto/howto_Filtering_data.rst:19
 msgid ""
@@ -62,16 +70,21 @@ msgid ""
 "a probability of 0.1% = 1 / 1000; based upon a standard normal distribution "
 "~ parametric)"
 msgstr ""
+"на основі z-показників (абсолютне значення має бути більше 3,3; це дорівнює "
+"ймовірності 0,1% = 1/1000; на основі стандартного нормального розподілу ~ "
+"параметричного)"
 
 #: ../../howto/howto_Filtering_data.rst:22
 msgid ""
 "based upon the IQR (like in a box plot; based upon ranks and quantiles ~ non-"
 "parametric)"
 msgstr ""
+"на основі міжквартильного коефіцієнта розбіжності (як у коробчастій діаграмі;"
+" на основі рангів та квантилів ~ непараметрично)"
 
 #: ../../howto/howto_Filtering_data.rst:24
 msgid "based on the Mahalanobis distance (multivariate outliers)"
-msgstr ""
+msgstr "на основі відстані Махаланобіса (багатовимірні викиди)"
 
 #: ../../howto/howto_Filtering_data.rst:0
 msgid ""
@@ -79,6 +92,9 @@ msgid ""
 "3. you have to use R-code (decribed two bullet point below); for 2. you "
 "could also do it visually (three bullet points below)"
 msgstr ""
+"для 1. та 2. існують функції в jamovi (див. наступні пункти), для 3. "
+"потрібно використовувати R-код (описано двома пунктами нижче); для 2. також "
+"можна зробити це візуально (три пункти нижче)"
 
 #: ../../howto/howto_Filtering_data.rst:0
 msgid ""
@@ -88,6 +104,11 @@ msgid ""
 "upon the output from the calculation of the Mahalanobis distance further "
 "below; third line):"
 msgstr ""
+"Ви можете використовувати вибір на основі функцій; наведені нижче функції "
+"фільтрують рядки на основі z-оцінок (перший рядок), міжквартильного "
+"діапазону (IQR, другий рядок) або виключаючи певні рядки/номери рядків ("
+"наприклад, на основі результатів обчислення відстані Махаланобіса далі; "
+"третій рядок):"
 
 #: ../../howto/howto_Filtering_data.rst:48
 msgid "|Outliers_Filter_Settings|"
@@ -102,11 +123,13 @@ msgid ""
 "the following code example detects multivariate outliers based upon the "
 "Mahalanobis distance (remember to adjust the variable names in VL)"
 msgstr ""
+"У наступному прикладі коду виявляється багатовимірний викид на основі "
+"відстані Махаланобіса (не забудьте налаштувати назви змінних у VL)"
 
 #: ../../howto/howto_Filtering_data.rst:0
 msgid ""
 "the output from the ``R``-code tells you which lines you should de-select"
-msgstr ""
+msgstr "Вивід з ``R``-коду показує, які рядки слід скасувати вибір"
 
 #: ../../howto/howto_Filtering_data.rst:0
 msgid ""
@@ -114,11 +137,16 @@ msgid ""
 "and-paste them and run them by hitting the ►-button (the little green "
 "triangle)"
 msgstr ""
+"Ви використовуєте скрипти в редакторі `Rj <jamovi-module_Rj>`__, просто "
+"скопіюйте та вставте їх і запустіть, натиснувши кнопку ► (маленький зелений "
+"трикутник)"
 
 #: ../../howto/howto_Filtering_data.rst:0
 msgid ""
 "the filter conditions can then be combined using boolean ``and`` / ``or``:"
 msgstr ""
+"умови фільтра потім можна комбінувати за допомогою логічного виразу ``and`` /"
+" ``or``:"
 
 #: ../../howto/howto_Filtering_data.rst:0
 msgid ""
@@ -128,16 +156,23 @@ msgid ""
 "under ``Descriptives``, ensuring that the tick box ``Label outliers`` is set "
 "and exclude the row numbers that are marked as outliers)"
 msgstr ""
+"Замість використання другого рядка (``MAXABSIQR``) ви також можете скасувати "
+"вибір випадків, виключивши їхні відповідні номери рядків у наборі даних (як "
+"у третьому рядку; потім ви візуально перевірите викиди на діаграмах у "
+"розділі ``Descriptives``, переконавшись, що встановлено прапорець ``Label "
+"outliers``, та виключите номери рядків, позначені як викиди)"
 
 #: ../../howto/howto_Install_modules.rst:5
 msgid "Install modules in jamovi"
-msgstr ""
+msgstr "Встановлення модулів у jamovi"
 
 #: ../../howto/howto_Install_modules.rst:8
 msgid ""
 "Click on the «+»-icon in the top-right corner to install modules from the "
 "jamovi library."
 msgstr ""
+"Натисніть на значок «+» у верхньому правому куті, щоб встановити модулі з "
+"бібліотеки jamovi."
 
 #: ../../howto/howto_Install_modules.rst:9
 msgid "|jamovi_Modules1|"
@@ -149,7 +184,7 @@ msgstr "jamovi_Modules1"
 
 #: ../../howto/howto_Install_modules.rst:11
 msgid "Choose the jamovi library from the menu that opens."
-msgstr ""
+msgstr "Виберіть бібліотеку jamovi з меню, що відкриється."
 
 #: ../../howto/howto_Install_modules.rst:12
 msgid "|jamovi_Modules2|"
@@ -166,6 +201,10 @@ msgid ""
 "would like to use. Finally, close this window by clicking on the arrow "
 "pointing up (top-right corner)."
 msgstr ""
+"У вікні, що відкриється, спочатку натисніть на «Доступно» (угорі посередині)"
+". Потім перегляньте список модулів і натисніть «ВСТАНОВИТИ» на будь-якому "
+"модулі, який ви хочете використовувати. Нарешті, закрийте це вікно, "
+"натиснувши на стрілку, що вказує вгору (у верхньому правому куті)."
 
 #: ../../howto/howto_Install_modules.rst:18
 msgid "|jamovi_Modules3|"
@@ -177,7 +216,7 @@ msgstr "jamovi_Modules3"
 
 #: ../../howto/howto_Use_PROCESS.rst:7
 msgid "Use the R-version of the PROCESS-macro from within jamovi"
-msgstr ""
+msgstr "Використовуйте R-версію макросу PROCESS з jamovi"
 
 #: ../../howto/howto_Use_PROCESS.rst:9
 msgid ""
@@ -187,6 +226,10 @@ msgid ""
 "``PROCESS v... for R`` and extract the ``process.R``-file into your "
 "``Documents``-directory."
 msgstr ""
+"Підготовка: Вам потрібно встановити Rj та завантажити найновішу версію "
+"`PROCESS-macro <з http://processmacro.org/download.html>`__\\ . Відкрийте "
+"завантажений ZIP-файл, перейдіть до папки ``PROCESS v... for R`` та "
+"розпакуйте файл ``process.R`` у каталог ``Documents``."
 
 #: ../../howto/howto_Use_PROCESS.rst:14
 msgid ""
@@ -195,6 +238,10 @@ msgid ""
 "jamovi module; if you have not installed it yet, you may check :doc:`Install "
 "modules in jamovi <howto_Install_modules>`)."
 msgstr ""
+"Відкрийте файл даних, який ви хочете використовувати для аналізу. Після "
+"цього відкрийте ``Rj`` за допомогою символу ``R`` на панелі значків "
+"``Analyses`` (``Rj`` — це модуль jamovi; якщо ви ще його не встановили, ви "
+"можете перевірити :doc:`Install modules in jamovi <howto_Install_modules>`)."
 
 #: ../../howto/howto_Use_PROCESS.rst:19
 msgid ""
@@ -202,14 +249,17 @@ msgid ""
 "the ``Rj`` text box for commands. You may just copy-and-paste the following "
 "code."
 msgstr ""
+"Тепер ви готові писати R-код всередині jamovi. Виконайте наступний код у "
+"текстовому полі ``Rj`` для команд. Ви можете просто скопіювати та вставити "
+"наступний код."
 
 #: ../../howto/howto_Use_PROCESS.rst:22
 msgid "on Windows"
-msgstr ""
+msgstr "на Windows"
 
 #: ../../howto/howto_Use_PROCESS.rst:28
 msgid "on Mac and Linux"
-msgstr ""
+msgstr "на Mac та Linux"
 
 #: ../../howto/howto_Use_PROCESS.rst:34
 msgid ""
@@ -217,12 +267,17 @@ msgid ""
 "patient, it might take a moment (up to a minute, depending on how fast your "
 "computer is). You should see an output like this"
 msgstr ""
+"Запустіть цей код (``source…``), натиснувши зелений трикутник. Будь ласка, "
+"будьте терплячими, це може зайняти деякий час (до хвилини, залежно від "
+"швидкості вашого комп'ютера). Ви повинні побачити подібний результат"
 
 #: ../../howto/howto_Use_PROCESS.rst:51
 msgid ""
 "Afterwards, the PROCESS-macro is initialized and you can comment the line "
 "out (by putting a ``#`` at the start of the line) → ``# source(…``"
 msgstr ""
+"Після цього макрос PROCESS ініціалізується, і ви можете закоментувати рядок ("
+"додавши символ ``#`` на початку рядка) → ``# source(…``"
 
 #: ../../howto/howto_Use_PROCESS.rst:54
 msgid ""
@@ -236,6 +291,15 @@ msgid ""
 "command. This can be done using the following command in ``Rj`` (just copy-"
 "and-paste it)."
 msgstr ""
+"Тепер ви готові до виконання аналізів. Зверніть увагу, що макрос :red:`"
+"PROCESS для R використовує інший генератор випадкових чисел, ніж SPSS та SAS`"
+"\\ [#]_, і тому довірчі інтервали :red:`бутстрепінгу для непрямого(их) "
+"впливу(ів) X на Y відрізняються` від результату, показаного в книзі. Крім "
+"того, чи приймає поточна версія макросу :red:`PROCESS для R дані лише в "
+"числовому форматі`.\\ [#]_ Таким чином, фактори необхідно перетворити на "
+"числову форму (наприклад, ``0`` та ``1``) перед їх використанням у команді "
+"PROCESS. Це можна зробити за допомогою наступної команди в ``Rj`` (просто "
+"скопіюйте та вставте її)."
 
 #: ../../howto/howto_Use_PROCESS.rst:69
 msgid ""
@@ -247,6 +311,13 @@ msgid ""
 "adjusted by changing ``data = pmi`` into ``data = data`` (``data`` refers to "
 "the currently opened dataset in jamovi)."
 msgstr ""
+"Після цього ви можете просто написати (або скопіювати та вставити, якщо у "
+"вас є електронна книга) команди, показані в книзі. Зверніть увагу, що вам "
+"потрібно змінити назву набору даних: у цьому прикладі, взятому зі с. 188 "
+"книги Hayes (2022), потрібен набір даних ``pmi`` (для завантаження `наборів "
+"даних <https://afhayes.com/public/hayes2022data.zip>`__). Команду в книзі "
+"потрібно скоригувати, змінивши ``data = pmi`` на ``data = data`` (``data`` "
+"стосується поточного відкритого набору даних у jamovi)."
 
 #: ../../howto/howto_Use_PROCESS.rst:81
 msgid ""
@@ -255,6 +326,10 @@ msgid ""
 "analyses with the same dataset / within the same jamovi session, this is not "
 "required."
 msgstr ""
+"Пам’ятайте, що вам потрібно повторно запускати команду ``source…`` щоразу, "
+"коли ви відкриваєте новий набір даних / новий сеанс jamovi. Якщо ви хочете "
+"виконати кілька аналізів з одним і тим самим набором даних / в межах одного "
+"сеансу jamovi, це не обов’язково."
 
 #: ../../howto/howto_Use_PROCESS.rst:89
 msgid ""
@@ -264,6 +339,12 @@ msgid ""
 "SAS even when the same seed is used when estimating the same model using the "
 "same data.” (Hayes, 2022, p. 613)"
 msgstr ""
+"«Генератор випадкових чисел за замовчуванням у R відрізняється від "
+"генератора випадкових чисел за замовчуванням у SPSS та SAS. Таким чином, "
+"довірчі інтервали бутстрепу, згенеровані R, відрізнятимуться від тих, що "
+"створюються SPSS та SAS, навіть якщо використовується те саме початкове "
+"значення під час оцінювання тієї ж моделі з використанням тих самих даних». ("
+"Hayes, 2022, с. 613)"
 
 #: ../../howto/howto_Use_PROCESS.rst:96
 msgid ""
@@ -272,17 +353,23 @@ msgid ""
 "must be converted to numeric form (e.g., 0 and 1) prior to their use in a "
 "PROCESS command.” (Hayes, 2022, p. 612)"
 msgstr ""
+"«PROCESS для R приймає дані лише в числовому форматі. Наприклад, якщо змінна "
+"з іменем «стать» була закодована в даних як M та F, ці літерні коди "
+"необхідно перетворити на числову форму (наприклад, 0 та 1) перед їх "
+"використанням у команді PROCESS». (Hayes, 2022, с. 612)"
 
 #: ../../howto/howto_overview.rst:7
 msgid ""
 "The aim of the following section is to clear and simple instructions on how "
 "to deal with common tasks within jamovi."
 msgstr ""
+"Мета наступного розділу — надати чіткі та прості інструкції щодо виконання "
+"поширених завдань у jamovi."
 
 #: ../../howto/howto_overview.rst:11
 msgid "jamovi user interface"
-msgstr ""
+msgstr "інтерфейс користувача jamovi"
 
 #: ../../howto/howto_overview.rst:21
 msgid "Analyses"
-msgstr ""
+msgstr "Аналізи"
