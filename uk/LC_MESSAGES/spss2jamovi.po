@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 12:29+0200\n"
-"PO-Revision-Date: 2025-08-14 07:01+0000\n"
+"PO-Revision-Date: 2025-08-14 08:02+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/jamovidocs/"
 "4_spss2jamovi/uk/>\n"
@@ -286,12 +286,20 @@ msgid ""
 "*β*-values, which are located before the *t*- and *p*-values in SPSS and "
 "after the *t*- and *p*-values in jamovi."
 msgstr ""
+"Значення *R* та *R²* знаходяться в першому та другому стовпцях першої "
+"таблиці виводу як у SPSS, так і в jamovi. На відміну від SPSS, jamovi "
+"розділяє ``ANOVA`` та ``Coefficients`` для моделі 1 та моделі 2. Незважаючи "
+"на це, майже всі значення знаходяться в одних і тих самих стовпцях, за "
+"винятком значень *β*, які розташовані перед значеннями *t* та *p* в SPSS та "
+"після значень *t* та *p* в jamovi."
 
 #: ../../spss2jamovi/s2j_ANCOVA.rst:56
 msgid ""
 "The numerical values for the model 2 statistics are identical: *R* = 0.54, "
 "*R²* = 0.29; *b* = 0.42, *p* < .05; *β* = 0.39, *p* < .05."
 msgstr ""
+"Числові значення для статистики моделі 2 ідентичні: *R* = 0.54, *R²* = 0.29; "
+"*b* = 0.42, *p* < .05; *β* = 0.39, *p* < .05."
 
 #: ../../spss2jamovi/s2j_ANCOVA.rst:58 ../../spss2jamovi/s2j_ANCOVA2.rst:38
 #: ../../spss2jamovi/s2j_ANCOVA3.rst:64 ../../spss2jamovi/s2j_ANCOVA4.rst:63
@@ -315,18 +323,26 @@ msgid ""
 "<rj_editor>`). Alternatively, you can download the SPSS output files and the "
 "jamovi files with the analyses from below the syntax."
 msgstr ""
+"Якщо ви хочете повторити ці аналізи, використовуючи синтаксис, ви можете "
+"скористатися наведеними нижче командами (у jamovi просто скопіюйте код нижче "
+"до :ref:`Rj <rj_editor>`). Або ж ви можете завантажити вихідні файли SPSS та "
+"файли jamovi з аналізами, використовуючи синтаксис нижче."
 
 #: ../../spss2jamovi/s2j_ANCOVA.rst:76
 msgid ""
 "`SPSS output file containing the analyses <../../_static/output/"
 "s2j_Output_SPSS_ANCOVA1.spv>`_"
 msgstr ""
+"`Вихідний файл SPSS, що містить аналізи <../../_static/output/"
+"s2j_Output_SPSS_ANCOVA1.spv>`_"
 
 #: ../../spss2jamovi/s2j_ANCOVA.rst:76
 msgid ""
 "`jamovi file containing the analyses <../../_static/output/"
 "s2j_Output_jamovi_ANCOVA1.omv>`_"
 msgstr ""
+"`файл jamovi, що містить аналізи <../../_static/output/"
+"s2j_Output_jamovi_ANCOVA1.omv>`_"
 
 #: ../../spss2jamovi/s2j_ANCOVA.rst:90 ../../spss2jamovi/s2j_ANCOVA2.rst:52
 #: ../../spss2jamovi/s2j_ANCOVA3.rst:83 ../../spss2jamovi/s2j_ANCOVA4.rst:82
@@ -347,7 +363,7 @@ msgstr ""
 #: ../../spss2jamovi/s2j_ttestIS.rst:62 ../../spss2jamovi/s2j_ttestPS.rst:109
 #: ../../spss2jamovi/s2j_ttestPS2.rst:69
 msgid "**References**"
-msgstr ""
+msgstr "**Посилання**"
 
 #: ../../spss2jamovi/s2j_ANCOVA.rst:91 ../../spss2jamovi/s2j_ANCOVA2.rst:53
 #: ../../spss2jamovi/s2j_ANCOVA3.rst:84 ../../spss2jamovi/s2j_ANCOVA4.rst:83
@@ -383,17 +399,26 @@ msgid ""
 "accompanying the book <https://edge.sagepub.com/field5e/student-resources/"
 "datasets>`__."
 msgstr ""
+"Це порівняння показує, як перевірити, чи є коваріата незалежною від "
+"незалежної змінної, як описано в розділі 13.5.3 книги `Field (2017) <https://"
+"edge.sagepub.com/field5e>`__, особливо у виводі 13.3. Він використовує набір "
+"даних **Puppy Love Dummy.sav**, який можна завантажити з веб-сторінки, що "
+"додається до книги <https://edge.sagepub.com/field5e/student-resources/"
+"datasets>`__."
 
 #: ../../spss2jamovi/s2j_ANCOVA2.rst:14
 msgid ""
 "In SPSS you can run this test using ``Analyze`` → ``Compare Means`` → ``One "
 "Way ANOVA``."
 msgstr ""
+"У SPSS ви можете виконати цей тест, використовуючи ``Analyze`` → ``Compare "
+"Means`` → ``One Way ANOVA``."
 
 #: ../../spss2jamovi/s2j_ANCOVA2.rst:14 ../../spss2jamovi/s2j_ANCOVA3.rst:15
 #: ../../spss2jamovi/s2j_ANCOVA5.rst:14
 msgid "In jamovi you do this using: ``Analyses`` → ``ANOVA`` → ``ANCOVA``."
 msgstr ""
+"У jamovi ви робите це за допомогою: ``Analyses`` → ``ANOVA`` → ``ANCOVA``."
 
 #: ../../spss2jamovi/s2j_ANCOVA2.rst:17
 msgid "|SPSS_Menu_ANCOVA2|"
@@ -416,12 +441,16 @@ msgid ""
 "In SPSS, move ``Puppy_love`` to the variable box ``Dependent List`` and "
 "``Dose`` to the variable box ``Factor``."
 msgstr ""
+"У SPSS перемістіть ``Puppy_love`` до поля змінної ``Dependent List``, а "
+"``Dose`` до поля змінної ``Factor``."
 
 #: ../../spss2jamovi/s2j_ANCOVA2.rst:19
 msgid ""
 "In jamovi, move ``Puppy_love`` to the variable box ``Dependent Variable`` "
 "and ``Dose`` to the variable box ``Fixed Factors``."
 msgstr ""
+"У jamovi перемістіть ``Puppy_love`` до поля змінної ``Dependent Variable``, "
+"а ``Dose`` до поля змінної ``Fixed Factors``."
 
 #: ../../spss2jamovi/s2j_ANCOVA2.rst:22
 msgid "|SPSS_Input_ANCOVA2|"
@@ -445,6 +474,9 @@ msgid ""
 "same. The only difference is that jamovi does not provide a row with the "
 "total sum of squares and degrees of freedom."
 msgstr ""
+"При порівнянні результатів у SPSS та jamovi результати абсолютно однакові. "
+"Єдина відмінність полягає в тому, що jamovi не надає рядок із загальною "
+"сумою квадратів та ступенями свободи."
 
 #: ../../spss2jamovi/s2j_ANCOVA2.rst:27
 msgid "|SPSS_Output_ANCOVA2|"
@@ -469,36 +501,50 @@ msgid ""
 "results from this analysis indicate that for all three puppy therapy groups, "
 "the love for puppies were about the same."
 msgstr ""
+"У таблиці ``ANCOVA`` ви можете знайти ступені свободи між групами та "
+"всередині груп, а також значення *F* та його рівень значущості. Результати "
+"цього аналізу показують, що для всіх трьох груп терапії цуценят любов до "
+"цуценят була приблизно однаковою."
 
 #: ../../spss2jamovi/s2j_ANCOVA2.rst:29
 msgid ""
 "In jamovi, these values are found in the equivalent table (``ANCOVA – "
 "Puppy_love``)."
 msgstr ""
+"У jamovi ці значення знаходяться в еквівалентній таблиці (``ANCOVA – "
+"Puppy_love``)."
 
 #: ../../spss2jamovi/s2j_ANCOVA2.rst:34
 msgid ""
 "In both SPSS and in jamovi, the degrees of freedom can be found in the "
 "second, the *F*-value in the fourth, and the *p*-value in the fifth column."
 msgstr ""
+"Як у SPSS, так і в jamovi ступені свободи можна знайти у другому, значення "
+"*F* – у четвертому, а значення *p* – у п'ятому стовпці."
 
 #: ../../spss2jamovi/s2j_ANCOVA2.rst:36
 msgid ""
 "The numerical values are the same in both SPSS and jamovi: *F*(2, 27) = "
 "1.98, *p* = 0.16."
 msgstr ""
+"Числові значення однакові як у SPSS, так і в jamovi: *F*(2, 27) = 1.98, *p* "
+"= 0.16."
 
 #: ../../spss2jamovi/s2j_ANCOVA2.rst:47
 msgid ""
 "`SPSS output file containing the analyses <../../_static/output/"
 "s2j_Output_SPSS_ANCOVA2.spv>`_"
 msgstr ""
+"`Вихідний файл SPSS, що містить аналізи <../../_static/output/"
+"s2j_Output_SPSS_ANCOVA2.spv>`_"
 
 #: ../../spss2jamovi/s2j_ANCOVA2.rst:47
 msgid ""
 "`jamovi file containing the analyses <../../_static/output/"
 "s2j_Output_jamovi_ANCOVA2.omv>`_"
 msgstr ""
+"`файл jamovi, що містить аналізи <../../_static/output/"
+"s2j_Output_jamovi_ANCOVA2.omv>`_"
 
 #: ../../spss2jamovi/s2j_ANCOVA3.rst:7
 msgid ""
@@ -511,6 +557,13 @@ msgid ""
 "accompanying the book <https://edge.sagepub.com/field5e/student-resources/"
 "datasets>`__."
 msgstr ""
+"Це порівняння показує, як провести аналіз коваріації в SPSS та jamovi. Тест "
+"SPSS відповідає опису в розділах 13.5.4 - 13.5.6 у `Field (2017) <https://"
+"edge.sagepub.com/field5e>`__, особливо рисунках 13.5 - 13.7 (за винятком "
+"``Options``) та видає результати 13.6 - 13.11 (за винятком ``Bootstrap``, "
+"оскільки це [ще] не є опцією в jamovi). Він використовує набір даних **Puppy "
+"Love.sav**, який можна завантажити з `веб-сторінки, що додається до книги "
+"<https://edge.sagepub.com/field5e/student-resources/datasets>`__."
 
 #: ../../spss2jamovi/s2j_ANCOVA3.rst:15 ../../spss2jamovi/s2j_ANCOVA4.rst:15
 #: ../../spss2jamovi/s2j_ANCOVA5.rst:14
@@ -518,6 +571,8 @@ msgid ""
 "In SPSS, you can run this test using: ``Analyze`` → ``General Linear Model`` "
 "→ ``Univariate``."
 msgstr ""
+"У SPSS ви можете виконати цей тест, використовуючи: ``Analyze`` → ``General "
+"Linear Model`` → ``Univariate``."
 
 #: ../../spss2jamovi/s2j_ANCOVA3.rst:18
 msgid "|SPSS_Menu_ANCOVA3|"
@@ -540,12 +595,16 @@ msgid ""
 "In SPSS, move ``Happiness`` to the ``Dependent Variable`` box, ``Dose`` to "
 "the ``Fixed Factor(s)`` box, and ``Puppy_love`` into ``Covariate(s)``."
 msgstr ""
+"У SPSS перемістіть ``Happiness`` до поля ``Dependent Variable``, ``Dose`` до "
+"поля ``Fixed Factor(s)``, а ``Puppy_love`` до поля ``Covariate(s)``."
 
 #: ../../spss2jamovi/s2j_ANCOVA3.rst:20
 msgid ""
 "In jamovi, move ``Happiness`` to the ``Dependent Variable`` box, ``Dose`` to "
 "the ``Fixed Factors`` box and ``Puppy_love`` into ``Covariates``."
 msgstr ""
+"У jamovi перемістіть ``Happiness`` до поля ``Dependent Variable``, ``Dose`` "
+"до поля ``Fixed Factors`` та ``Puppy_love`` до поля ``Covariates``."
 
 #: ../../spss2jamovi/s2j_ANCOVA3.rst:23
 msgid "|SPSS_Input_ANCOVA3_1|"
@@ -569,11 +628,15 @@ msgid ""
 "to select ``Simple``. Change the ``Reference Category`` to ``First``, and "
 "press ``Change``."
 msgstr ""
+"Потім відкрийте діалогове вікно під назвою ``Contrasts``, і натисніть спадне "
+"меню, щоб вибрати ``Simple``. Змінити ``Reference Category`` до ``First``, і "
+"натисніть ``Change``."
 
 #: ../../spss2jamovi/s2j_ANCOVA3.rst:25 ../../spss2jamovi/s2j_ANCOVA4.rst:25
 msgid ""
 "Open the ``Contrasts`` window, and select ``simple`` from the drop-down menu."
 msgstr ""
+"Відкрийте ``Contrasts`` вікно та виберіть ``simple`` з випадаючого меню."
 
 #: ../../spss2jamovi/s2j_ANCOVA3.rst:29
 msgid "|SPSS_Input_ANCOVA3_2|"
@@ -597,6 +660,9 @@ msgid ""
 "``Display Means for:``, press ``Compare main effects`` and select ``Sidak`` "
 "in the drop-down list."
 msgstr ""
+"Виберіть ``EM Means`` з бічної панелі. Перемістити ``Dose`` до скриньки під "
+"назвою ``Display Means for:``, преса ``Compare main effects`` і виберіть "
+"``Sidak`` у випадаючому списку."
 
 #: ../../spss2jamovi/s2j_ANCOVA3.rst:31
 msgid ""
@@ -604,6 +670,9 @@ msgid ""
 "window. Tick the box for ``Marginal means tables`` as shown in the picture "
 "below."
 msgstr ""
+"Потім перемістити ``Dose`` до ``Term 1`` у ``Estimated Marginal Means`` "
+"вікно. Поставте позначку у відповідному полі ``Marginal means tables`` як "
+"показано на малюнку нижче."
 
 #: ../../spss2jamovi/s2j_ANCOVA3.rst:35
 msgid "|SPSS_Input_ANCOVA3_3|"
@@ -627,6 +696,9 @@ msgid ""
 "However, SPSS provides a lot more, rather unnecessary output than jamovi. "
 "These outputs are not included here."
 msgstr ""
+"При порівнянні результатів SPSS та jamovi результати однакові. Однак SPSS "
+"надає набагато більше, скоріше непотрібних, результатів, ніж jamovi. Ці "
+"результати тут не включені."
 
 #: ../../spss2jamovi/s2j_ANCOVA3.rst:40
 msgid "|SPSS_Output_ANCOVA3_1|"
@@ -672,6 +744,15 @@ msgid ""
 "(30 mins) is compared with level 1 (control). Here, the group differences "
 "are indicated by standard error, a difference value and a *p*-value."
 msgstr ""
+"У SPSS ви можете знайти скориговані значення групових середніх значень у "
+"``Estimates`` таблиці. Дивлячись на ``Mean`` Ви можете дізнатися, чи "
+"відбуваються якісь зміни в рівні щастя, якщо збільшити контакт із "
+"цуценятами. ``Tests of Between-Subjects Effects`` У таблиці наведено суму "
+"квадратів для ``Dose`` змінна, і це показує нам, скільки одиниць дисперсії "
+"враховує цей фактор. У ``Contrast Results (K Matrix)`` У таблиці рівень 2 ("
+"15 хв) порівнюється з рівнем 1 (контроль), а потім рівень 3 (30 хв) "
+"порівнюється з рівнем 1 (контроль). Тут групові відмінності позначені "
+"стандартною помилкою, значенням різниці та *p*-значенням."
 
 #: ../../spss2jamovi/s2j_ANCOVA3.rst:46
 msgid ""
@@ -683,6 +764,13 @@ msgid ""
 "does not provide all of the values that the SPSS analysis does. However, the "
 "most important information is included."
 msgstr ""
+"У jamovi скориговані значення можна знайти в таблиці під назвою ``Estimated "
+"Marginal Means – Dose``. Ця таблиця виглядає точно так само, як і "
+"еквівалентна таблиця в SPSS. Сума квадратів знаходиться в ``ANCOVA – "
+"Happiness`` таблиця. Ці таблиці дещо відрізняються в SPSS та jamovi, "
+"оскільки jamovi надає результати лише для ``Dose`` і ``Residuals``. Аналіз "
+"контрастності в jamovi також не надає всіх значень, які надає аналіз SPSS. "
+"Однак найважливіша інформація включена."
 
 #: ../../spss2jamovi/s2j_ANCOVA3.rst:56
 msgid ""
@@ -696,6 +784,14 @@ msgid ""
 "contrast to SPSS, jamovi only includes the following values: ``Estimate``, "
 "``SE``, ``t`` and ``p``."
 msgstr ""
+"jamovi не включає значення для ``Corrected Model``, ``Intercept``, ``Total`` "
+"та ``Corrected Total`` у свій аналіз коваріації. Окрім цього, таблиця ANCOVA "
+"має ту саму структуру, що й у SPSS. Таблиці для ``Estimated Marginal Means`` "
+"також ідентичні в SPSS та jamovi. Результати контрастного аналізу в jamovi "
+"виглядають набагато чіткішими, ніж у SPSS. Тут результати представлені "
+"горизонтально, тоді як результати в SPSS представлені вертикально. На "
+"відміну від SPSS, jamovi включає лише такі значення: ``Estimate``, ``SE``, "
+"``t`` та ``p``."
 
 #: ../../spss2jamovi/s2j_ANCOVA3.rst:61
 msgid ""
@@ -704,18 +800,26 @@ msgid ""
 "*M*<sub>Control</sub> = 2.93, *M*<sub>15mins</sub> = 4.71, *M*<sub>30mins</"
 "sub> = 5.15; contrast 1, *p* = 0.045; contrast 2, *p* = 0.010."
 msgstr ""
+"Числові значення для цих аналізів однакові: *SS*<sub>Доза</sub> = 25,19, *p* "
+"< 0,05; *SS*<sub>Цуценяча_любов</sub> = 15,08, *p* < 0,05; *M*<sub>Контроль</"
+"sub> = 2,93, *M*<sub>15 хв</sub> = 4,71, *M*<sub>30 хв</sub> = 5,15; "
+"контраст 1, *p* = 0,045; контраст 2, *p* = 0,010."
 
 #: ../../spss2jamovi/s2j_ANCOVA3.rst:78
 msgid ""
 "`SPSS output file containing the analyses <../../_static/output/"
 "s2j_Output_SPSS_ANCOVA3.spv>`_"
 msgstr ""
+"`Вихідний файл SPSS, що містить аналізи <../../_static/output/"
+"s2j_Output_SPSS_ANCOVA3.spv>`_"
 
 #: ../../spss2jamovi/s2j_ANCOVA3.rst:78
 msgid ""
 "`jamovi file containing the analyses <../../_static/output/"
 "s2j_Output_jamovi_ANCOVA3.omv>`_"
 msgstr ""
+"`файл jamovi, що містить аналізи <../../_static/output/"
+"s2j_Output_jamovi_ANCOVA3.omv>`_"
 
 #: ../../spss2jamovi/s2j_ANCOVA4.rst:7
 msgid ""
@@ -728,12 +832,21 @@ msgid ""
 "page accompanying the book <https://edge.sagepub.com/field5e/student-"
 "resources/datasets>`__."
 msgstr ""
+"Це порівняння показує, як проводиться аналіз коваріації, який виключає "
+"коваріату, в SPSS та jamovi. Тест SPSS відповідає опису в розділах 13.6.1 - "
+"13.6.4 у `Field (2017) <https://edge.sagepub.com/field5e>`__, особливо "
+"рисунках 13.5 - 13.7 (виключаючи коваріату на рисунку 13.5 та ``Options`` на "
+"рисунку 13.7) та результату 13.5. Він використовує набір даних **Puppy "
+"Love.sav**, який можна завантажити з `веб-сторінки, що додається до книги "
+"<https://edge.sagepub.com/field5e/student-resources/datasets>`__."
 
 #: ../../spss2jamovi/s2j_ANCOVA4.rst:15
 msgid ""
 "In jamovi, you can create an analysis of covariance using: ``Analyses`` → "
 "``ANOVA`` → ``ANCOVA``."
 msgstr ""
+"У jamovi ви можете створити коваріаційний аналіз, використовуючи: "
+"``Analyses`` → ``ANOVA`` → ``ANCOVA``."
 
 #: ../../spss2jamovi/s2j_ANCOVA4.rst:18
 msgid "|SPSS_Menu_ANCOVA4|"
@@ -756,12 +869,16 @@ msgid ""
 "In SPSS, move ``Happiness`` to the ``Dependent Variable`` box and ``Dose`` "
 "to the ``Fixed Factor(s)`` box."
 msgstr ""
+"У SPSS перемістити ``Happiness`` до ``Dependent Variable`` коробка та "
+"``Dose`` до ``Fixed Factor(s)`` коробка."
 
 #: ../../spss2jamovi/s2j_ANCOVA4.rst:20
 msgid ""
 "In jamovi, move ``Happiness`` to ``Dependent Variable`` and ``Dose`` to "
 "``Fixed Factors``."
 msgstr ""
+"У jamovi перемістіть ``Happiness`` до ``Dependent Variable``, а ``Dose`` до "
+"``Fixed Factors``."
 
 #: ../../spss2jamovi/s2j_ANCOVA4.rst:23
 msgid "|SPSS_Input_ANCOVA4_1|"
@@ -785,6 +902,9 @@ msgid ""
 "select ``Simple``. Change the ``Reference Category`` to ``First``, and press "
 "press ``Change``."
 msgstr ""
+"Відкрийте діалогове вікно під назвою ``Contrasts``, і натисніть спадне меню, "
+"щоб вибрати ``Simple``. Змінити ``Reference Category`` до ``First``, і "
+"натисніть, натисніть ``Change``."
 
 #: ../../spss2jamovi/s2j_ANCOVA4.rst:29
 msgid "|SPSS_Input_ANCOVA4_2|"
@@ -808,6 +928,9 @@ msgid ""
 "Tick Tick the box for ``Marginal means tables`` as shown in the picture "
 "below."
 msgstr ""
+"У ``Estimated Marginal Means`` вікно, переміщення ``Dose`` до ``Term 1``. "
+"Поставте позначку у полі для ``Marginal means tables`` як показано на "
+"малюнку нижче."
 
 #: ../../spss2jamovi/s2j_ANCOVA4.rst:35
 msgid "|SPSS_Input_ANCOVA4_3|"
@@ -830,6 +953,8 @@ msgid ""
 "The results are essentially the same in SPSS and jamovi, except that SPSS "
 "provides more output tables than jamovi."
 msgstr ""
+"Результати по суті однакові в SPSS та jamovi, за винятком того, що SPSS "
+"надає більше вихідних таблиць, ніж jamovi."
 
 #: ../../spss2jamovi/s2j_ANCOVA4.rst:39
 msgid "|SPSS_Output_ANCOVA4_1|"
@@ -875,6 +1000,15 @@ msgid ""
 "(30 mins) is compared with level 1 (control). Here, the group differences "
 "are indicated by standard error, a difference value and a *p*-value."
 msgstr ""
+"У SPSS ви можете знайти скориговані значення середніх груп у таблиці "
+"``Estimates``. Переглядаючи ``Mean``, ви можете дізнатися, чи відбуваються "
+"якісь зміни в рівні щастя, якщо спостерігається збільшення впливу цуценят. "
+"Таблиця ``Tests of Between-Subjects Effects`` показує суму квадратів дози "
+"цуценят, і це показує нам, скільки одиниць дисперсії пояснює цей фактор. У "
+"таблиці ``Contrast Results (K Matrix)`` рівень 2 (15 хв) порівнюється з "
+"рівнем 1 (контроль), а потім рівень 3 (30 хв) порівнюється з рівнем 1 "
+"(контроль). Тут групові відмінності позначені стандартною помилкою, "
+"значенням різниці та *p*-значенням."
 
 #: ../../spss2jamovi/s2j_ANCOVA4.rst:45
 msgid ""
@@ -887,6 +1021,14 @@ msgid ""
 "analysis does. However, all important information (that you typically would "
 "report) is included."
 msgstr ""
+"У jamovi скориговані значення можна знайти в таблиці під назвою ``Estimated "
+"Marginal Means – Dose``. Ця таблиця виглядає точно так само, як і "
+"еквівалентна таблиця в SPSS. Сума квадратів знаходиться в ``ANCOVA – "
+"Happiness`` таблиця. Ці таблиці дещо відрізняються в SPSS та jamovi, "
+"оскільки jamovi надає результати лише для ``Dose``, ``Puppy_love`` і "
+"``Residuals``. Аналіз контрастності в jamovi також не надає всіх значень, "
+"які надає аналіз SPSS. Однак, вся важлива інформація (про яку ви зазвичай "
+"повідомляєте) включена."
 
 #: ../../spss2jamovi/s2j_ANCOVA4.rst:55
 msgid ""
