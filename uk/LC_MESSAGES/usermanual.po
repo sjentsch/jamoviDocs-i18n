@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-12 12:29+0200\n"
-"PO-Revision-Date: 2025-08-13 14:02+0000\n"
+"PO-Revision-Date: 2025-08-14 05:02+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/jamovidocs/"
 "1_usermanual/uk/>\n"
@@ -18,11 +18,11 @@ msgstr ""
 
 #: ../../usermanual/um_1_installation.rst:4
 msgid "Installation"
-msgstr ""
+msgstr "Встановлення"
 
 #: ../../usermanual/um_1_installation.rst:8
 msgid "Windows"
-msgstr ""
+msgstr "Windows"
 
 #: ../../usermanual/um_1_installation.rst:10
 msgid ""
@@ -32,6 +32,11 @@ msgid ""
 "`download page <https://www.jamovi.org/download.html>`__, and double-click "
 "the icon."
 msgstr ""
+"jamovi доступний для Windows Vista (64-розрядна) та вище. Інсталяція у "
+"Windows досить проста та має бути знайомою кожному, хто раніше встановлював "
+"програмне забезпечення у Windows. Завантажте останню версію зі сторінки "
+"завантаження <https://www.jamovi.org/download.html>`__ та двічі клацніть "
+"значок."
 
 #: ../../usermanual/um_1_installation.rst:14
 msgid ""
@@ -43,10 +48,17 @@ msgid ""
 "restrictions prevent jamovi from working in this way, in which case it would "
 "be worth raising the issue with your IT staff."
 msgstr ""
+"У деяких закладах (особливо в університетах) «звичайний» підхід до "
+"встановлення програмного забезпечення блокується політиками ІТ-безпеки. У "
+"цьому випадку ви можете завантажити нашу ``.zip``-версію. Щоб скористатися "
+"нею, просто завантажте, розпакуйте архів у потрібне місце на комп’ютері та "
+"перейдіть до папки bin. Подвійне клацання ``jamovi.exe`` запустить jamovi. "
+"Можливо, додаткові обмеження безпеки перешкоджають роботі jamovi таким "
+"чином, і в такому разі варто звернутися до вашого ІТ-персоналу."
 
 #: ../../usermanual/um_1_installation.rst:21
 msgid "macOS"
-msgstr ""
+msgstr "macOS"
 
 #: ../../usermanual/um_1_installation.rst:23
 msgid ""
@@ -58,6 +70,13 @@ msgid ""
 "way). After this, jamovi will appear in your applications, and can be "
 "started like any other installed application."
 msgstr ""
+"jamovi доступний для macOS 10.9+ (Mavericks та новіших версій). Щоб "
+"встановити його, завантажте файл ``.dmg`` з нашої сторінки завантаження "
+"<https://www.jamovi.org/download.html>`__ та двічі клацніть завантажений "
+"файл. Вам буде запропоновано «перегляд файлів», і ви зможете встановити "
+"jamovi, «перетягнувши» програму jamovi до папки «Програми» (звичайним "
+"способом). Після цього jamovi з’явиться у ваших програмах і його можна буде "
+"запустити, як будь-яку іншу встановлену програму."
 
 #: ../../usermanual/um_1_installation.rst:28
 msgid ""
@@ -65,16 +84,21 @@ msgid ""
 "versions are available. You can update your version of jamovi from the app "
 "menu (☰; at the top right of the window)."
 msgstr ""
+"jamovi для macOS має механізм автоматичного оновлення та може сповіщати вас "
+"про появу нових версій. Ви можете оновити свою версію jamovi з меню програми "
+"(☰; у верхньому правому куті вікна)."
 
 #: ../../usermanual/um_1_installation.rst:33
 msgid "Linux and Chromebooks"
-msgstr ""
+msgstr "Linux і Chromebooks"
 
 #: ../../usermanual/um_1_installation.rst:35
 msgid ""
 "jamovi is currently available for Linux, (for all ‘flatpak participating "
 "linux distributions’ – which is most of them), and Chromebooks, from flathub."
 msgstr ""
+"jamovi наразі доступний для Linux (для всіх «дистрибутивів Linux, що беруть "
+"участь у Flatpak» – а це більшість із них) та Chromebook від flathub."
 
 #: ../../usermanual/um_1_installation.rst:37
 msgid ""
@@ -82,25 +106,33 @@ msgid ""
 "jamovi. If you encounter this, there are instructions on how to fix this a "
 "little :ref:`further down<blank-screen-on-chromebooks>`."
 msgstr ""
+"**Примітка**: На деяких Chromebook виникає проблема з порожнім екраном під "
+"час запуску jamovi. Якщо ви зіткнулися з цією проблемою, є інструкції щодо "
+"її виправлення трохи нижче :ref:`further down<blank-screen-on-chromebooks>`."
 
 #: ../../usermanual/um_1_installation.rst:40
 msgid ""
 "If you’re new to flatpak/flathub, you’ll need to follow the setup guide on "
 "`our flathub page <https://flathub.org/apps/details/org.jamovi.jamovi>`__."
 msgstr ""
+"Якщо ви новачок у flatpak/flathub, вам потрібно буде дотримуватися "
+"інструкцій з налаштування на нашій сторінці flathub. <https://flathub.org/"
+"apps/details/org.jamovi.jamovi>`__."
 
 #: ../../usermanual/um_1_installation.rst:42
 msgid ""
 "If you’re an old hand at flatpak, you can install jamovi with the command:"
 msgstr ""
+"Якщо ви досвідчений користувач flatpak, ви можете встановити jamovi за "
+"допомогою команди:"
 
 #: ../../usermanual/um_1_installation.rst:48
 msgid "and later, you can update your version of jamovi with:"
-msgstr ""
+msgstr "а пізніше ви можете оновити свою версію jamovi за допомогою:"
 
 #: ../../usermanual/um_1_installation.rst:56
 msgid "Text not appearing in plots under linux"
-msgstr ""
+msgstr "Текст не відображається на графіках під Linux"
 
 #: ../../usermanual/um_1_installation.rst:58
 msgid ""
@@ -108,16 +140,21 @@ msgid ""
 "in plots in jamovi not displaying text correctly. To remedy this, you can "
 "run the following command at the terminal:"
 msgstr ""
+"На деяких комп'ютерах з Linux кеш шрифтів flatpak не оновлений, що "
+"призводить до неправильного відображення тексту на графіках у jamovi. Щоб "
+"виправити це, можна виконати таку команду в терміналі:"
 
 #: ../../usermanual/um_1_installation.rst:65
 msgid ""
 "This appears to be an issue with flatpaks, and we’re working with the "
 "flatpak community to get to the bottom of it."
 msgstr ""
+"Схоже, що це проблема з флатпаками, і ми працюємо зі спільнотою флатпаків, "
+"щоб докопатися до суті проблеми."
 
 #: ../../usermanual/um_1_installation.rst:71
 msgid "Blank screen at startup on Chromebooks"
-msgstr ""
+msgstr "Порожній екран під час запуску на Chromebook"
 
 #: ../../usermanual/um_1_installation.rst:73
 msgid ""
@@ -125,6 +162,9 @@ msgid ""
 "cause of this issue is not completely clear at this time, however it can be "
 "fixed by disabling “Crostini GPU support”."
 msgstr ""
+"На деяких Chromebook під час запуску jamovi відображається порожній екран. "
+"Причина цієї проблеми наразі не зовсім зрозуміла, проте її можна виправити, "
+"вимкнувши «Підтримку графічного процесора Crostini»."
 
 #: ../../usermanual/um_1_installation.rst:76
 msgid ""
@@ -133,16 +173,23 @@ msgid ""
 "After restarting your Chromebook the issue will be fixed (special thanks to "
 "`@mulderc <https://github.com/mulderc>`__)."
 msgstr ""
+"Введіть ``chrome://flags/`` в адресний рядок ChromeOS. Це відкриє розділ "
+"«Експерименти». Знайдіть ``Підтримка графічного процесора Crostini`` і "
+"встановіть для неї значення «вимкнено». Після перезавантаження Chromebook "
+"проблему буде виправлено (особлива подяка `@mulderc <https://github.com/"
+"mulderc>`__)."
 
 #: ../../usermanual/um_2_first-steps.rst:4
 msgid "First steps in jamovi"
-msgstr ""
+msgstr "Перші кроки в Jamovi"
 
 #: ../../usermanual/um_2_first-steps.rst:6
 msgid ""
 "When first starting jamovi, you will be presented with a user interface "
 "which looks something like this."
 msgstr ""
+"Під час першого запуску jamovi вам буде представлений інтерфейс користувача, "
+"який виглядає приблизно так."
 
 #: ../../usermanual/um_2_first-steps.rst:9
 msgid "|screenshot|"
@@ -159,12 +206,19 @@ msgid ""
 "regions, and this can be dragged to the left or the right to change their "
 "sizes."
 msgstr ""
+"Ліворуч знаходиться вигляд електронної таблиці, а праворуч – результати "
+"статистичних тестів. Посередині знаходиться смуга, що розділяє ці дві "
+"області, і її можна перетягувати ліворуч або праворуч, щоб змінити їхні "
+"розміри."
 
 #: ../../usermanual/um_2_first-steps.rst:16
 msgid ""
 "It is possible to simply begin typing values into the jamovi spreadsheet as "
 "you would any other spreadsheet software."
 msgstr ""
+"Ви можете просто почати вводити значення в електронну таблицю jamovi, як і в "
+"будь-якому іншому програмному забезпеченні для роботи з електронними "
+"таблицями."
 
 #: ../../usermanual/um_2_first-steps.rst:19
 msgid ""
@@ -175,6 +229,12 @@ msgid ""
 "jamovi), select ``Open`` and then ``Data library`` or ``This PC``, depending "
 "on whether you want to open an example, or a file stored on your computer."
 msgstr ""
+"Крім того, в jamovi можна відкрити існуючі набори даних у різних форматах ("
+"CSV, Excel, LibreOffice, R, SPSS, Stata, SAS тощо). Крім того, в jamovi "
+"доступна низка прикладів наборів даних. Щоб відкрити файл, виберіть меню "
+"файлу (☰, у верхньому лівому куті jamovi), виберіть ``Відкрити``, а потім ``"
+"Бібліотека даних`` або ``Цей ПК``, залежно від того, чи хочете ви відкрити "
+"приклад, чи файл, що зберігається на вашому комп’ютері."
 
 #: ../../usermanual/um_2_first-steps.rst:27
 msgid "|csv-data|"
@@ -198,6 +258,18 @@ msgid ""
 "in the drop-down menu close to the ``Save as``-button. Thereafter, you may "
 "open the CSV-file in jamovi."
 msgstr ""
+"Дуже поширеним форматом для обміну даними є використання файлів зі "
+"значеннями, розділеними комами (.csv або .txt). Оскільки ці дані "
+"зберігаються у вигляді простого текстового файлу з використанням ком (або "
+"\";\", \"|\" тощо) для розділення значень, майже будь-який програмний пакет "
+"може їх читати та записувати (і ви можете переглянути їх за допомогою будь-"
+"якого текстового редактора). Приклад показано на рисунку. Перший рядок "
+"містить назви змінних, а будь-який інший рядок після них - точку вимірювання "
+"(зазвичай особа, з якої були отримані дані). Якщо ваші дані зберігаються в "
+"програмі для роботи з електронними таблицями (наприклад, Excel), ви можете "
+"створити CSV-файл зі своїх даних, вибравши ``Файл`` → ``Зберегти як...`` та "
+"виберіть ``З роздільниками-комами`` у випадаючому меню поруч із кнопкою ``"
+"Зберегти як``. Після цього ви можете відкрити CSV-файл у jamovi."
 
 #: ../../usermanual/um_2_first-steps.rst:41
 msgid ""
@@ -205,6 +277,9 @@ msgid ""
 "issue (bug report) in the GitHub `issue tracker <https://github.com/jamovi/"
 "jamovi/issues>`__."
 msgstr ""
+"У малоймовірному випадку, якщо jamovi не відкриває файл належним чином, "
+"надішліть повідомлення про проблему (звіт про помилку) у систему відстеження "
+"проблем GitHub <https://github.com/jamovi/jamovi/issues>`__."
 
 #: ../../usermanual/um_3_analyses.rst:4
 msgid "Analyses"
@@ -219,6 +294,11 @@ msgid ""
 "for the analysis will appear in the right “results panel”, and will update "
 "as you make changes to the options."
 msgstr ""
+"Аналізи можна вибрати на стрічці ``Analyses`` у верхній частині. Вибір "
+"аналізу відобразить «панель параметрів» для цього конкретного аналізу, що "
+"дозволить вам призначити різні змінні різним частинам аналізу та вибрати "
+"різні параметри. Водночас результати аналізу з’являться на правій «панелі "
+"результатів» і оновлюватимуться, коли ви внесете зміни до параметрів."
 
 #: ../../usermanual/um_3_analyses.rst:13
 msgid ""
@@ -228,6 +308,11 @@ msgid ""
 "produced. In this way, you can return to any analysis that you (or say, a "
 "colleague) created earlier."
 msgstr ""
+"Після правильного налаштування аналізу ви можете закрити параметри аналізу, "
+"натиснувши стрілку у верхньому правому куті панелі параметрів. Якщо ви "
+"хочете повернутися до цих параметрів, ви можете натиснути на отримані "
+"результати. Таким чином, ви можете повернутися до будь-якого аналізу, який "
+"ви (або, скажімо, ваш колега) створили раніше."
 
 #: ../../usermanual/um_3_analyses.rst:19
 msgid ""
@@ -236,6 +321,10 @@ msgid ""
 "bring up a menu, and by selecting ``Analysis``, and then ``Remove``, the "
 "analysis can be removed."
 msgstr ""
+"Якщо ви вирішите, що вам більше не потрібен певний аналіз, ви можете "
+"видалити його за допомогою контекстного меню результатів. Клацнувши правою "
+"кнопкою миші на результатах аналізу, ви відкриєте меню, і, вибравши "
+"``Analysis``, а потім ``Remove``, аналіз можна видалити."
 
 #: ../../usermanual/um_3_analyses.rst:28
 msgid ""
@@ -246,6 +335,11 @@ msgid ""
 "otherwise directly access specific analyses by selecting them from the menu "
 "on the right-hand side."
 msgstr ""
+"Ви можете перейти до розділу \"Analyses\"в меню праворуч, щоб знайти серію "
+"коротких, нетехнічних посібників про те, як проводити поширені статистичні "
+"процедури в jamovi. :doc:`introduction <../analyses/jg_overview>` надає "
+"огляд доступних аналізів, або ви можете безпосередньо отримати доступ до "
+"певних аналізів, вибравши їх у меню праворуч."
 
 #: ../../usermanual/um_3_analyses.rst:35
 msgid ""
@@ -257,20 +351,29 @@ msgid ""
 "Selecting copy, copies the content to the clipboard, and can be pasted into "
 "the other program in the usual way."
 msgstr ""
+"jamovi створює гарні таблиці у форматі APA та привабливі графіки. Часто "
+"корисно мати можливість копіювати та вставляти їх, можливо, в документ Word "
+"або в електронний лист колезі. Щоб скопіювати результати, клацніть правою "
+"кнопкою миші на об'єкті, що вас цікавить, і в меню виберіть саме те, що ви "
+"хочете скопіювати. Меню дозволяє вибрати копіювання, наприклад, лише "
+"зображення або всього аналізу. Вибір \"копіювати\" копіює вміст у буфер "
+"обміну, і його можна вставити в іншу програму звичайним способом."
 
 #: ../../usermanual/um_4_spreadsheet.rst:4
 msgid "The Spreadsheet"
-msgstr ""
+msgstr "Електронна таблиця"
 
 #: ../../usermanual/um_4_spreadsheet.rst:6
 msgid ""
 "In jamovi, data is represented in a spreadsheet, with each column "
 "representing a “variable”."
 msgstr ""
+"У jamovi дані представлені в електронній таблиці, де кожен стовпець "
+"представляє «змінну»."
 
 #: ../../usermanual/um_4_spreadsheet.rst:11
 msgid "Data Variables"
-msgstr ""
+msgstr "Змінні даних"
 
 #: ../../usermanual/um_4_spreadsheet.rst:13
 msgid ""
@@ -278,22 +381,25 @@ msgid ""
 "variables simply contain data either loaded from a data file, or “typed in” "
 "by the user. Data variables can be one three data types:"
 msgstr ""
+"Найчастіше використовуваними змінними в jamovi є «Змінні даних». Ці змінні "
+"просто містять дані, завантажені з файлу даних або «введені» користувачем. "
+"Змінні даних можуть бути одного з трьох типів даних:"
 
 #: ../../usermanual/um_4_spreadsheet.rst:17
 msgid "``Integer``"
-msgstr ""
+msgstr "``Integer``"
 
 #: ../../usermanual/um_4_spreadsheet.rst:18
 msgid "``Decimal``"
-msgstr ""
+msgstr "``Decimal``"
 
 #: ../../usermanual/um_4_spreadsheet.rst:19
 msgid "``Text``"
-msgstr ""
+msgstr "``Text``"
 
 #: ../../usermanual/um_4_spreadsheet.rst:21
 msgid "and one of four measure types:"
-msgstr ""
+msgstr "та один із чотирьох типів мір:"
 
 #: ../../usermanual/um_4_spreadsheet.rst:23
 msgid "|nominal|    ``Nominal``"
@@ -333,6 +439,9 @@ msgid ""
 "variable’s column. Note that some combinations of data-type and measure-type "
 "don’t make sense, and jamovi won’t let you choose these."
 msgstr ""
+"Типи мір позначені символом у заголовку стовпця змінної. Зверніть увагу, що "
+"деякі комбінації типу даних та типу міри не мають сенсу, і jamovi не "
+"дозволить вам вибрати їх."
 
 #: ../../usermanual/um_4_spreadsheet.rst:33
 msgid ""
@@ -346,6 +455,15 @@ msgid ""
 "internally, which can improve performance when interacting with very large "
 "data sets."
 msgstr ""
+"``Nominal`` та ``Ordinal``, як і слід було очікувати, призначені для "
+"номінальних та порядкових змінних. ``Continuous`` призначені для змінних з "
+"числовими значеннями, які вважаються шкалами *Інтервал* або *Відношення* ("
+"еквівалентно ``Scale`` у SPSS). Тип міри ``ID``, на відміну від інших, "
+"унікальний для jamovi. Він призначений для змінних, що містять "
+"ідентифікатори, які ви майже ніколи не захочете аналізувати. Наприклад, ім'я "
+"особи або ідентифікатор учасника. Перевага ідентифікаторів полягає в тому, "
+"що jamovi не потрібно підтримувати список рівнів внутрішньо, що може "
+"покращити продуктивність під час взаємодії з дуже великими наборами даних."
 
 #: ../../usermanual/um_4_spreadsheet.rst:43
 msgid ""
@@ -357,6 +475,13 @@ msgid ""
 "approach may not be correct, and it may be necessary to manually specify the "
 "data and measure type with the variable editor."
 msgstr ""
+"Якщо почати з порожньої електронної таблиці та ввести значення, типи даних "
+"та показників змінюватимуться автоматично залежно від введених даних. Це "
+"гарний спосіб зрозуміти, які типи змінних відповідають певним типам даних. "
+"Аналогічно, під час відкриття файлу даних jamovi визначатиме тип змінної з "
+"даних у кожному стовпці. В обох випадках цей автоматичний підхід може бути "
+"неправильним, і може знадобитися вручну вказати тип даних та показника за "
+"допомогою редактора змінних."
 
 #: ../../usermanual/um_4_spreadsheet.rst:51
 msgid ""
@@ -367,6 +492,12 @@ msgid ""
 "label displayed for each level. The variable editor can be dismissed by "
 "clicking the close arrow, or by pressing ``F3`` again."
 msgstr ""
+"Редактор змінних можна викликати, вибравши ``Setup`` на вкладці ``Data``, "
+"двічі клацнувши на заголовку стовпця або натиснувши ``F3``. Редактор змінних "
+"дозволяє змінити назву змінної та (для змінних даних) тип даних, тип міри, "
+"порядок рівнів та мітку, що відображається для кожного рівня. Редактор "
+"змінних можна закрити, натиснувши стрілку закриття або знову натиснувши "
+"``F3``."
 
 #: ../../usermanual/um_4_spreadsheet.rst:63
 msgid ""
@@ -374,10 +505,13 @@ msgid ""
 "button from the data ribbon. The ``Add`` button also allows the addition of "
 "*Computed variables*."
 msgstr ""
+"Нові змінні можна вставляти або додавати до набору даних за допомогою кнопки "
+"``Add`` на стрічці даних. Кнопка ``Add`` також дозволяє додавати *"
+"Обчислювані змінні*."
 
 #: ../../usermanual/um_4_spreadsheet.rst:69
 msgid "Computed Variables"
-msgstr ""
+msgstr "Обчислювані змінні"
 
 #: ../../usermanual/um_4_spreadsheet.rst:71
 msgid ""
@@ -386,6 +520,10 @@ msgid ""
 "of purposes, including log transforms, z-scores, sum-scores, negative "
 "scoring and means."
 msgstr ""
+"Обчислювані змінні – це ті, значення яких отримують шляхом обчислення інших "
+"змінних. Обчислювані змінні можна використовувати для різних цілей, "
+"включаючи логарифмічні перетворення, z-показники, сумарні показники, "
+"від'ємне оцінювання та середні значення."
 
 #: ../../usermanual/um_4_spreadsheet.rst:76
 msgid ""
@@ -394,20 +532,25 @@ msgid ""
 "can specify the formula. The usual arithmetic operators are available. Some "
 "examples of formulas are:"
 msgstr ""
+"*Обчислювані змінні* можна додати до набору даних за допомогою кнопки ``Add``"
+", доступної на вкладці даних. Це створить поле формули, де ви можете вказати "
+"формулу. Доступні звичайні арифметичні оператори. Деякі приклади формул:"
 
 #: ../../usermanual/um_4_spreadsheet.rst:90
 msgid ""
 "In order, these are the sum of A and B, a log (base 10) transform of "
 "``len``, the mean of ``A`` and ``B``, and the z-score of ``dose`` (twice)."
 msgstr ""
+"По порядку це сума A та B, логарифмічне (десяткове) перетворення ``len``, "
+"середнє значення ``A`` та ``B`` і z-показник ``dose`` (двічі)."
 
 #: ../../usermanual/um_4_spreadsheet.rst:93
 msgid "There are many more functions available."
-msgstr ""
+msgstr "Доступно набагато більше функцій."
 
 #: ../../usermanual/um_4_spreadsheet.rst:97
 msgid "``V``-functions"
-msgstr ""
+msgstr "``V``-functions"
 
 #: ../../usermanual/um_4_spreadsheet.rst:99
 msgid ""
@@ -417,6 +560,12 @@ msgid ""
 "For example, ``MEAN(A, B)`` will produce the mean of ``A`` and ``B`` for "
 "each row. Whereas ``VMEAN(A)`` gives the mean of *all* the values in ``A``."
 msgstr ""
+"Кілька функцій з'являються парами, одна з яких починається з префікса ``V``, "
+"а інша — ні. Функції ``V`` виконують обчислення для змінної *як цілого*, "
+"тоді як функції, що не є ``V``, виконують обчислення рядок за рядком. "
+"Наприклад, ``MEAN(A, B)`` поверне середнє значення ``A`` та ``B`` для "
+"кожного рядка. Тоді як ``VMEAN(A)`` повертає середнє значення *всіх* значень "
+"у ``A``."
 
 #: ../../usermanual/um_4_spreadsheet.rst:105
 msgid ""
@@ -424,6 +573,9 @@ msgid ""
 "``group_by`` variable is specified, a separate value is calculated for each "
 "level of the ``group_by`` variable. In the following example:"
 msgstr ""
+"Крім того, функції ``V`` підтримують аргумент ``group_by``. Коли вказано "
+"змінну ``group_by``, для кожного рівня змінної ``group_by`` обчислюється "
+"окреме значення. У наступному прикладі:"
 
 #: ../../usermanual/um_4_spreadsheet.rst:114
 msgid ""
@@ -431,10 +583,13 @@ msgid ""
 "the computed variable will be the mean corresponding to it’s row’s value of "
 "``dose``."
 msgstr ""
+"Окреме середнє значення обчислюється для кожного рівня ``dose``, і кожне "
+"значення в обчисленій змінній буде середнім значенням, що відповідає "
+"значенню ``dose`` в його рядку."
 
 #: ../../usermanual/um_4_spreadsheet.rst:120
 msgid "Transformed (Recoded) Variables"
-msgstr ""
+msgstr "Трансформовані (перекодовані) змінні"
 
 #: ../../usermanual/um_4_spreadsheet.rst:122
 msgid ""
@@ -445,10 +600,17 @@ msgid ""
 "variables” allow you to easily recode existing variables and apply "
 "transforms across many variables at once."
 msgstr ""
+"Хоча обчислювані змінні чудово підходять для багатьох операцій (наприклад, "
+"обчислення сумарних балів, генерування даних тощо), їх використання може "
+"бути дещо нудним, коли потрібно перекодувати або трансформувати кілька "
+"змінних (наприклад, під час зворотного оцінювання кількох відповідей у "
+"наборі даних опитування). «Трансформовані змінні» дозволяють легко "
+"перекодувати існуючі змінні та застосовувати перетворення до багатьох "
+"змінних одночасно."
 
 #: ../../usermanual/um_4_spreadsheet.rst:130
 msgid "**Creating transformed variables**"
-msgstr ""
+msgstr "**Створення перетворених змінних**"
 
 #: ../../usermanual/um_4_spreadsheet.rst:136
 msgid ""
@@ -463,12 +625,24 @@ msgid ""
 "Ctrl / Cmd key. Once selected, you can either select ``Transform`` from the "
 "data tab, or right click and choose ``Transform`` from the menu."
 msgstr ""
+"Під час перетворення або перекодування змінних у jamovi для оригінальної «"
+"вихідної змінної» створюється друга «перетворена змінна». Таким чином, ви "
+"завжди матимете доступ до оригінальних, неперетворених даних, якщо це "
+"необхідно. Щоб перетворити змінну, спочатку виберіть стовпець(ці), які ви "
+"хочете перетворити. Ви можете вибрати блок стовпців, клацнувши на заголовку "
+"першого стовпця в блоці, а потім клацнувши на заголовку останнього стовпця в "
+"блоці, утримуючи клавішу Shift. Крім того, ви можете вибрати/скасувати вибір "
+"окремих стовпців, клацнувши на заголовках стовпців, утримуючи клавішу Ctrl/"
+"Cmd. Після вибору ви можете вибрати ``Transform`` на вкладці даних або "
+"клацнути правою кнопкою миші та вибрати ``Transform`` з меню."
 
 #: ../../usermanual/um_4_spreadsheet.rst:147
 msgid ""
 "Either right-click on one of the selected variables, and click ``Transform..."
 "``:"
 msgstr ""
+"Або клацніть правою кнопкою миші на одній із вибраних змінних, а потім "
+"виберіть ``Transform...``:"
 
 #: ../../usermanual/um_4_spreadsheet.rst:150
 msgid "|um_transform_create1|"
@@ -480,7 +654,7 @@ msgstr "um_transform_create1"
 
 #: ../../usermanual/um_4_spreadsheet.rst:152
 msgid "or head to the ``Data``-ribbon, and click ``Transform:``"
-msgstr ""
+msgstr "або перейдіть до стрічки ``Data`` та натисніть ``Transform:``"
 
 #: ../../usermanual/um_4_spreadsheet.rst:154
 msgid "|um_transform_create2|"
@@ -497,6 +671,10 @@ msgid ""
 "so we’re only setting up the transform for one variable (called score - "
 "log), but there’s no reason we can’t do more in one go."
 msgstr ""
+"Це створює другу «трансформовану змінну» для кожного вибраного стовпця. У "
+"наступному прикладі у нас була вибрана лише одна змінна, тому ми "
+"налаштовуємо перетворення лише для однієї змінної (під назвою score - log), "
+"але немає жодної причини, чому ми не можемо зробити більше за один раз."
 
 #: ../../usermanual/um_4_spreadsheet.rst:161
 msgid "|um_transform_create3|"
@@ -514,22 +692,31 @@ msgid ""
 "transformed variable. After a transform has been created, it’s available "
 "from the list and can be shared easily across multiple transformed variables."
 msgstr ""
+"Як видно на рисунку вище, кожна трансформована змінна має «вихідну змінну», "
+"яка представляє оригінальну нетрансформовану змінну, та трансформацію, яка "
+"представляє правила для перетворення вихідної змінної на трансформовану "
+"змінну. Після створення трансформації вона доступна зі списку та може бути "
+"легко спільною для кількох трансформованих змінних."
 
 #: ../../usermanual/um_4_spreadsheet.rst:170
 msgid ""
 "If you don’t yet have the appropriate transform defined, you can select "
 "``Create new transform...`` from the list."
 msgstr ""
+"Якщо у вас ще не визначено відповідне перетворення, ви можете вибрати зі "
+"списку ``Create new transform``."
 
 #: ../../usermanual/um_4_spreadsheet.rst:174
 msgid "**Create a new transformation**"
-msgstr ""
+msgstr "**Створити нове перетворення**"
 
 #: ../../usermanual/um_4_spreadsheet.rst:176
 msgid ""
 "After clicking ``Create new transform...`` the transform editor slides into "
 "view:"
 msgstr ""
+"Після натискання кнопки ``Create new transform...`` з’явиться редактор "
+"перетворень:"
 
 #: ../../usermanual/um_4_spreadsheet.rst:179
 msgid "|um_transform_edit1|"
@@ -541,17 +728,18 @@ msgstr "um_transform_edit1"
 
 #: ../../usermanual/um_4_spreadsheet.rst:181
 msgid "The transform editor contains these elements."
-msgstr ""
+msgstr "Редактор перетворень містить ці елементи."
 
 #: ../../usermanual/um_4_spreadsheet.rst:183
 msgid "*Name*: The name for the transformation."
-msgstr ""
+msgstr "*Ім'я*: Ім'я для перетворення."
 
 #: ../../usermanual/um_4_spreadsheet.rst:185
 msgid ""
 "*Description*: Space for you to provide a description of the transformation "
 "so you (and others) know what it does."
 msgstr ""
+"*Опис*: Місце для опису перетворення, щоб ви (та інші) знали, що воно робить."
 
 #: ../../usermanual/um_4_spreadsheet.rst:188
 msgid ""
@@ -564,12 +752,22 @@ msgid ""
 "naming schemes (if left empty, the transformation name is used as the "
 "variable suffix):"
 msgstr ""
+"*Суфікс змінної* (необов'язково): Тут ви можете визначити форматування назви "
+"трансформованої змінної за замовчуванням. За замовчуванням суфікс змінної "
+"буде додано до назви вихідної змінної з тире (-) між ними. Однак ви можете "
+"змінити цю поведінку, використовуючи три крапки (...), які будуть замінені "
+"на назву змінної. Наприклад, якщо ви трансформуєте змінну з назвою Q1, ви "
+"можете використовувати суфікси змінних, щоб застосувати такі схеми "
+"іменування (якщо залишити поле порожнім, як суфікс змінної використовується "
+"назва трансформації):"
 
 #: ../../usermanual/um_4_spreadsheet.rst:197
 msgid ""
 "``log``        → ``Q1 - log`` ``..._log``  → ``Q1_log`` ``log(...)`` → "
 "``log(Q1)``"
 msgstr ""
+"``log``        → ``Q1 - log`` ``..._log``  → ``Q1_log`` ``log(...)`` → "
+"``log(Q1)``"
 
 #: ../../usermanual/um_4_spreadsheet.rst:201
 msgid ""
@@ -581,12 +779,22 @@ msgid ""
 "conditions. To add additional conditions (i.e., if-statements), you click on "
 "the ``Add recode condition`` button:"
 msgstr ""
+"*Трансформація*: Цей розділ містить правила та формули для перетворення. Ви "
+"можете використовувати всі ті ж функції, що й обчислювані змінні, а для "
+"звернення до значень у стовпці джерела (щоб ви могли їх трансформувати) "
+"можна використовувати спеціальне ключове слово ``$source``. Якщо ви хочете "
+"перекодувати змінну в кілька груп, найпростіше використовувати кілька умов. "
+"Щоб додати додаткові умови (тобто оператори if), натисніть кнопку ``Add "
+"recode condition``:"
 
 #: ../../usermanual/um_4_spreadsheet.rst:213
 msgid ""
 "*Used by*: Indicates how many variables are using this particular "
 "transformation. If you click on the number it will list these variables."
 msgstr ""
+"*Використовується*: Вказує, скільки змінних використовують це конкретне "
+"перетворення. Якщо ви натиснете на число, буде відображено список цих "
+"змінних."
 
 #: ../../usermanual/um_4_spreadsheet.rst:216
 msgid ""
@@ -594,10 +802,13 @@ msgid ""
 "the measure type automatically from the transformation. However, if Auto "
 "doesn’t infer the measure type correctly, you can override it over here."
 msgstr ""
+"*Тип міри*: За замовчуванням тип міри встановлено на «Авто», що автоматично "
+"визначатиме тип міри з перетворення. Однак, якщо «Авто» неправильно визначає "
+"тип міри, ви можете змінити його тут."
 
 #: ../../usermanual/um_4_spreadsheet.rst:222
 msgid "**Example 1: Reverse scoring of items**"
-msgstr ""
+msgstr "**Приклад 1: Зворотне підрахунок балів**"
 
 #: ../../usermanual/um_4_spreadsheet.rst:224
 msgid ""
@@ -609,6 +820,14 @@ msgid ""
 "an extravert, and so 6 should be treated as 1, 5 as 2, 1 as 6, etc. To "
 "reverse score these items, we can just use the following simple transform:"
 msgstr ""
+"Дані опитувань часто містять один або декілька пунктів, значення яких "
+"потрібно порівняти з іншими перед аналізом. Наприклад, ми можемо вимірювати "
+"екстраверсію за допомогою питань «Мені подобається ходити на вечірки», «Мені "
+"подобається бути серед людей» та «Мені подобається триматися осторонь». "
+"Очевидно, що людину, яка відповідає 6 (повністю згодна) на це останнє "
+"питання, не слід вважати екстравертом, тому 6 слід розглядати як 1, 5 як 2, "
+"1 як 6 тощо. Щоб порівняти значення цих пунктів, ми можемо просто "
+"використати наступне просте перетворення:"
 
 #: ../../usermanual/um_4_spreadsheet.rst:232
 msgid "|um_transform_ex1|"
@@ -623,10 +842,12 @@ msgid ""
 "You can explore this transform by downloading and opening the data set |"
 "um_transform_ex1_omv|_ in jamovi."
 msgstr ""
+"Ви можете ознайомитися з цим перетворенням, завантаживши та відкривши набір "
+"даних |um_transform_ex1_omv|_ у jamovi."
 
 #: ../../usermanual/um_4_spreadsheet.rst:238
 msgid "**Example 2: Recoding continuous variables into categories**"
-msgstr ""
+msgstr "**Приклад 2: Перекодування неперервних змінних у категорії**"
 
 #: ../../usermanual/um_4_spreadsheet.rst:240
 msgid ""
@@ -635,6 +856,10 @@ msgid ""
 "0-100% test scores into one of three groups, ``Pass``, ``Resit`` and "
 "``Fail``."
 msgstr ""
+"У багатьох наборах даних люди хочуть перекодувати свої безперервні бали в "
+"категорії. Наприклад, ми можемо класифікувати людей на основі їхніх "
+"результатів тесту від 0 до 100% в одну з трьох груп: ``Pass``, ``Resit`` та "
+"``Fail``."
 
 #: ../../usermanual/um_4_spreadsheet.rst:245
 msgid "|um_transform_ex2|"
@@ -654,10 +879,17 @@ msgid ""
 "the value will be ``Pass``. If you’d like an example data set to play around "
 "with, you can download and use |um_transform_ex2_omv|_\\."
 msgstr ""
+"Зверніть увагу, що умови виконуються по порядку, і до випадку застосовується "
+"лише перше правило, яке відповідає цьому випадку. Отже, це перетворення по "
+"суті означає, що якщо вихідна змінна має значення менше 50, значення буде "
+"``Fail``, якщо вихідна змінна має значення від 50 до 60, значення буде "
+"``Resit``, а якщо вихідна змінна має значення вище 60, значення буде ``Pass``"
+". Якщо вам потрібен приклад набору даних для експериментів, ви можете "
+"завантажити та використовувати |um_transform_ex2_omv|_\\."
 
 #: ../../usermanual/um_4_spreadsheet.rst:256
 msgid "**Example 3: Replacing missing values**"
-msgstr ""
+msgstr "**Приклад 3: Заміна відсутніх значень**"
 
 #: ../../usermanual/um_4_spreadsheet.rst:258
 msgid ""
@@ -670,6 +902,14 @@ msgid ""
 "substitution and you should probably never do it, it does make for a neat "
 "demonstration..."
 msgstr ""
+"Тепер, припустимо, у вашому наборі даних багато відсутніх значень, і "
+"видалення учасників з відсутніми значеннями призведе до серйозної втрати "
+"учасників. Існує кілька способів боротьби з відсутніми даними, серед яких "
+"імпутація є досить поширеним методом. Один досить простий метод імпутації "
+"замінює відсутні значення змінним середнім значенням (тобто підстановка "
+"середнього). Хоча існує низка проблем, пов'язаних із підстановкою "
+"середнього, і вам, ймовірно, ніколи не слід цього робити, це чудова "
+"демонстрація..."
 
 #: ../../usermanual/um_4_spreadsheet.rst:267
 msgid "|um_transform_ex3|"
@@ -685,10 +925,13 @@ msgid ""
 "a good data set handy? You can try it out yourself by downloading and "
 "opening the |um_transform_ex3_omv|_ data set."
 msgstr ""
+"Зверніть увагу, що jamovi запозичив NA з R для позначення відсутніх значень. "
+"Немає під рукою гарного набору даних? Ви можете спробувати це самостійно, "
+"завантаживши та відкривши набір даних |um_transform_ex3_omv|_."
 
 #: ../../usermanual/um_4_spreadsheet.rst:275
 msgid "Filters"
-msgstr ""
+msgstr "Фільтри"
 
 #: ../../usermanual/um_4_spreadsheet.rst:277
 msgid ""
@@ -700,16 +943,25 @@ msgid ""
 "exclude extreme scores, for example those that score more than 3 standard "
 "deviations from the mean."
 msgstr ""
+"Фільтри в jamovi дозволяють відфільтрувати рядки, які ви не хочете включати "
+"до свого аналізу. Наприклад, ви можете включити лише відповіді людей на "
+"опитування, якщо вони дали явну згоду на використання своїх даних, або "
+"виключити всіх лівшів, або, можливо, людей, які отримали результат «нижче "
+"шансу» в експериментальному завданні. У деяких випадках вам потрібно "
+"виключити лише екстремальні результати, наприклад, ті, які мають більше 3 "
+"стандартних відхилень від середнього значення."
 
 #: ../../usermanual/um_4_spreadsheet.rst:285
 msgid ""
 "The filters in jamovi are build on top of jamovi’s *computed variable* "
 "formula system, which allows the building of arbitrarily complex formulas."
 msgstr ""
+"Фільтри в jamovi побудовані на основі системи формул jamovi *обчислюваних "
+"змінних*, яка дозволяє створювати формули довільної складності."
 
 #: ../../usermanual/um_4_spreadsheet.rst:288
 msgid "**Row filters**"
-msgstr ""
+msgstr "**Фільтри рядків**"
 
 #: ../../usermanual/um_4_spreadsheet.rst:290
 msgid ""
@@ -718,6 +970,10 @@ msgid ""
 "``Filters button`` from the ``Data`` ribbon. This opens the filter view and "
 "creates a new filter called ``Filter 1``."
 msgstr ""
+"Фільтри jamovi демонструються з використанням набору даних ``Tooth Growth``, "
+"який входить до складу jamovi (``☰`` → ``Open`` → ``Data Library``). "
+"Виберіть кнопку ``Filters`` на стрічці ``Data``. Це відкриє вікно фільтрів і "
+"створить новий фільтр під назвою ``Filter 1``."
 
 #: ../../usermanual/um_4_spreadsheet.rst:299
 msgid ""
