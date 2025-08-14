@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 12:29+0200\n"
-"PO-Revision-Date: 2025-08-14 08:02+0000\n"
+"PO-Revision-Date: 2025-08-14 09:02+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/jamovidocs/"
 "4_spss2jamovi/uk/>\n"
@@ -1042,6 +1042,14 @@ msgid ""
 "contrast to SPSS, jamovi only includes the following values: ``Estimate``, "
 "``SE`, ``*t*`` and ``*p*``."
 msgstr ""
+"jamovi не включає значення для ``Corrected Model``, ``Intercept``, ``Total`` "
+"і ``Corrected Total`` у своєму аналізі коваріації. Окрім цього, таблиця "
+"ANCOVA має таку ж структуру, як і в SPSS. Таблиці для ``Estimated Marginal "
+"Means`` також ідентичні в SPSS та jamovi. Результати аналізу контрасту в "
+"jamovi виглядають набагато чіткішими, ніж у SPSS. Тут результати "
+"представлені горизонтально, тоді як результати в SPSS – вертикально. На "
+"відміну від SPSS, jamovi включає лише такі значення: ``Estimate``, ``SE`, "
+"``*t*`` та ``*p*``."
 
 #: ../../spss2jamovi/s2j_ANCOVA4.rst:60
 msgid ""
@@ -1050,18 +1058,25 @@ msgid ""
 "*M*<sub>30mins</sub> = 4.85; contrast 1, *p* = 0.080; contrast 2, *p* = "
 "0.055."
 msgstr ""
+"Числові значення для цих аналізів однакові: *SS*<sub>Доза</sub> = 16,84; "
+"*M*<sub>Контроль</sub> = 3,22, *M*<sub>15 хв</sub> = 4,87, *M*<sub>30 хв</"
+"sub> = 4,85; контраст 1, *p* = 0,080; контраст 2, *p* = 0,055."
 
 #: ../../spss2jamovi/s2j_ANCOVA4.rst:77
 msgid ""
 "`SPSS output file containing the analyses <../../_static/output/"
 "s2j_Output_SPSS_ANCOVA4.spv>`_"
 msgstr ""
+"`Вихідний файл SPSS, що містить аналізи <../../_static/output/"
+"s2j_Output_SPSS_ANCOVA4.spv>`_"
 
 #: ../../spss2jamovi/s2j_ANCOVA4.rst:77
 msgid ""
 "`jamovi file containing the analyses <../../_static/output/"
 "s2j_Output_jamovi_ANCOVA4.omv>`_"
 msgstr ""
+"`файл jamovi, що містить аналізи <../../_static/output/"
+"s2j_Output_jamovi_ANCOVA4.omv>`_"
 
 #: ../../spss2jamovi/s2j_ANCOVA5.rst:7
 msgid ""
@@ -1072,6 +1087,12 @@ msgid ""
 "Dummy.sav** which can be downloaded from the `web page accompanying the book "
 "<https://edge.sagepub.com/field5e/student-resources/datasets>`__."
 msgstr ""
+"Це порівняння показує, як перевірити припущення про однорідність нахилів "
+"регресії в SPSS та jamovi. Тест SPSS відповідає опису в розділі \\13.7 у `"
+"Field (2017) <https://edge.sagepub.com/field5e>`__, особливо рисунку 13.9 та "
+"результату 13.12. Він використовує набір даних **Puppy Love Dummy.sav**, "
+"який можна завантажити з веб-сторінки, що додається до книги <https://"
+"edge.sagepub.com/field5e/student-resources/datasets>`__."
 
 #: ../../spss2jamovi/s2j_ANCOVA5.rst:17
 msgid "|SPSS_Menu_ANCOVA5|"
@@ -1094,6 +1115,8 @@ msgid ""
 "In SPSS, move ``Happiness`` to the ``Dependent Variable`` box, ``Dose`` to "
 "the ``Fixed Factor(s)`` box, and ``Puppy_love`` to the ``Covariate(s)`` box."
 msgstr ""
+"У SPSS перемістіть ``Happiness`` до поля ``Dependent Variant``, ``Dose`` до "
+"поля ``Fixed Factor(s)``, а ``Puppy_love`` до поля ``Cavariate(s)``."
 
 #: ../../spss2jamovi/s2j_ANCOVA5.rst:19
 msgid ""
@@ -1101,6 +1124,8 @@ msgid ""
 "``Dose`` variable to ``Fixed Factors``, and the ``Puppy_love`` variable to "
 "``Covariates``."
 msgstr ""
+"У jamovi перемістіть змінну ``Happiness`` до ``Dependent Variable``, змінну "
+"``Dose`` до ``Fixed Factors``, а змінну ``Puppy_love`` до ``Covariates``."
 
 #: ../../spss2jamovi/s2j_ANCOVA5.rst:23
 msgid "|SPSS_Input_ANCOVA5_1|"
@@ -1124,12 +1149,18 @@ msgid ""
 "variables ``Dose`` and ``Puppy_love``, open the drop-down menu and choose "
 "``Interaction``."
 msgstr ""
+"Відкрийте вікно ``Model`` та натисніть ``Build terms``. Потім позначте "
+"змінні ``Dose`` та ``Puppy_love``, відкрийте випадаюче меню та виберіть "
+"``Interaction``."
 
 #: ../../spss2jamovi/s2j_ANCOVA5.rst:25
 msgid ""
 "Next, open the ``Model`` window. Mark both ``Dose`` and ``Puppy_love``, then "
 "click the arrow with the drop-down menu and click ``Interaction``."
 msgstr ""
+"Далі відкрийте вікно ``Model``. Позначте обидва пункти ``Dose`` та "
+"``Puppy_love``, потім натисніть стрілку з випадаючим меню та виберіть "
+"``Interaction``."
 
 #: ../../spss2jamovi/s2j_ANCOVA5.rst:29
 msgid "|SPSS_Input_ANCOVA5_2|"
@@ -1152,6 +1183,7 @@ msgid ""
 "Comparisons between the output in SPSS and jamovi shows that the results are "
 "the same."
 msgstr ""
+"Порівняння результатів у SPSS та jamovi показує, що результати однакові."
 
 #: ../../spss2jamovi/s2j_ANCOVA5.rst:33
 msgid "|SPSS_Output_ANCOVA5|"
@@ -1176,6 +1208,10 @@ msgid ""
 "Puppy_love). The tables also includes degrees of freedom, mean square, *F*-"
 "values and significance values."
 msgstr ""
+"У SPSS таблиця ``Tests of Between-Subjects Effects`` показує суму квадратів "
+"змінних, а також член взаємодії (Доза \\* Любов_цуценят). Таблиці також "
+"містять ступені свободи, середньоквадратичне значення, *F*-значення та "
+"значення значущості."
 
 #: ../../spss2jamovi/s2j_ANCOVA5.rst:35
 msgid ""
@@ -1184,6 +1220,10 @@ msgid ""
 "significance values. These values are located in the same order as in the "
 "SPSS table."
 msgstr ""
+"У jamovi ці результати знаходяться в аналогічній таблиці ``ANCOVA``, яка "
+"також включає суму квадратів, ступені свободи, середньоквадратичне, *F*-"
+"значення та значення значущості. Ці значення розташовані в тому ж порядку, "
+"що й у таблиці SPSS."
 
 #: ../../spss2jamovi/s2j_ANCOVA5.rst:40
 msgid ""
@@ -1192,6 +1232,10 @@ msgid ""
 "``Total`` and ``Corrected Total``. SPSS also gives *R²* and adjusted *R²* "
 "values for the corrected model."
 msgstr ""
+"Основна відмінність між результатами в SPSS та jamovi полягає в тому, що "
+"SPSS надає значення для наступних параметрів: ``Corrected Model``, "
+"``Intercept``, ``Total`` та ``Corrected Total``. SPSS також надає значення "
+"*R²* та скориговані значення *R²* для скоригованої моделі."
 
 #: ../../spss2jamovi/s2j_ANCOVA5.rst:43
 msgid ""
@@ -1199,22 +1243,29 @@ msgid ""
 "= 36.6, *p* < .01; *SS*<sub>Puppy_love</sub> = 17.2, *p* < .05; "
 "*SS*<sub>Dose \\* Puppy_love</sub> = 20.4, *p* < .05."
 msgstr ""
+"Якщо порівняти числові значення, вони однакові: *SS*<sub>Dose</sub> = 36.6, "
+"*p* < .01; *SS*<sub>Puppy_love</sub> = 17.2, *p* < .05; *SS*<sub>Dose \\* "
+"Puppy_love</sub> = 20.4, *p* < .05."
 
 #: ../../spss2jamovi/s2j_ANCOVA5.rst:57
 msgid ""
 "`SPSS output file containing the analyses <../../_static/output/"
 "s2j_Output_SPSS_ANCOVA5.spv>`_"
 msgstr ""
+"`Вихідний файл SPSS, що містить аналізи <../../_static/output/"
+"s2j_Output_SPSS_ANCOVA5.spv>`_"
 
 #: ../../spss2jamovi/s2j_ANCOVA5.rst:57
 msgid ""
 "`jamovi file containing the analyses <../../_static/output/"
 "s2j_Output_jamovi_ANCOVA5.omv>`_"
 msgstr ""
+"`файл jamovi, що містить аналізи <../../_static/output/"
+"s2j_Output_jamovi_ANCOVA5.omv>`_"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:5
 msgid "Comparison of Which Analyses Are Available in SPSS and jamovi"
-msgstr ""
+msgstr "Порівняння доступних аналізів у SPSS та jamovi"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:10
 msgid "|SPSS_Analyze|"
@@ -1237,18 +1288,24 @@ msgid ""
 "Already at first glance, it becomes clear that jamovi currently has fewer "
 "features than SPSS. **BUT**:"
 msgstr ""
+"Вже з першого погляду стає зрозуміло, що jamovi наразі має менше функцій, "
+"ніж SPSS. **АЛЕ**:"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:0
 msgid ""
 "(1) There is a (ever increasing) made available via modules (press the \"+\" "
 "sign in the right upper corner of the jamovi window to add them)."
 msgstr ""
+"(1) Існує (постійно зростаюча) кількість модулів, доступних для додавання ("
+"натисніть знак \"+\" у правому верхньому куті вікна jamovi)."
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:0
 msgid ""
 "(2) The features implemented already cover \"standard\" needs (90% of the "
 "most frequently used analyses in psychology)."
 msgstr ""
+"(2) Реалізовані функції вже покривають «стандартні» потреби (90% найчастіше "
+"використовуваних аналізів у психології)."
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:0
 msgid ""
@@ -1256,12 +1313,18 @@ msgid ""
 "wealth of modules covering functions that are not available in SPSS but very "
 "useful (e.g., for meta-analyses, structural equation models, etc.)."
 msgstr ""
+"Не соромтеся перевірити, які |modules| доступні: Існує також чимало модулів, "
+"що охоплюють функції, недоступні в SPSS, але дуже корисні (наприклад, для "
+"метааналізів, моделей структурних рівнянь тощо)."
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:0
 msgid ""
 "If you are willing to use some R code (e.g., in conjunction with the jamovi-"
 "module Rj) then you can (most presumably) do every analysis you can imagine."
 msgstr ""
+"Якщо ви готові використовувати якийсь код на R (наприклад, разом з модулем "
+"jamovi Rj), то ви можете (найімовірніше) виконати будь-який аналіз, який "
+"тільки можете собі уявити."
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:25
 msgid "|jamovi_Modules|"
@@ -1273,11 +1336,11 @@ msgstr "jamovi_Modules"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:27
 msgid "**Reports**"
-msgstr ""
+msgstr "**Звіти**"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:29
 msgid "Reports → Codebook"
-msgstr ""
+msgstr "Звіти → Кодова книга"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:29
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:31
@@ -1299,155 +1362,159 @@ msgstr ""
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:209
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:213
 msgid "N/A"
-msgstr ""
+msgstr "N/A"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:31
 msgid "Reports → OLAP Cubes"
-msgstr ""
+msgstr "Звіти → Куби OLAP"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:33
 msgid "Reports → Case summaries"
-msgstr ""
+msgstr "Звіти → Короткі випадки"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:33
 msgid "Exploration → Descriptives *has the same functionality*"
-msgstr ""
+msgstr "Дослідження → Описи *має таку саму функціональність*"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:35
 msgid "Reports → Reports Summaries in Rows"
-msgstr ""
+msgstr "Звіти → Зведення звітів у рядках"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:37
 msgid "Reports → Reports Summaries in Columns"
-msgstr ""
+msgstr "Звіти → Зведення звітів у стовпцях"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:39
 msgid "**Descriptive Statistics**"
-msgstr ""
+msgstr "**Описова статистика**"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:41
 msgid "Descriptive Statistics → Frequencies"
-msgstr ""
+msgstr "Описова статистика → Частоти"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:0
 msgid "Exploration → Descriptives combines all three procedures"
-msgstr ""
+msgstr "Дослідження → Описові матеріали поєднують усі три процедури"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:0
 msgid ""
 "*tick «Frequency tables» to get an output that is similar to that of "
 "«Frequencies» in SPSS*"
 msgstr ""
+"*позначте «Таблиці частот», щоб отримати результат, подібний до результату "
+"«Частоти» в SPSS*"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:43
 msgid "Descriptive Statistics → Descriptives"
-msgstr ""
+msgstr "Описова статистика → Описові"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:45
 msgid "Descriptive Statistics → Explore"
-msgstr ""
+msgstr "Описова статистика → Дослідити"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:47
 msgid "Descriptive Statistics → Crosstabs"
-msgstr ""
+msgstr "Описова статистика → Перехресні таблиці"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:47
 msgid "Frequencies → (Contingency tables) → Independent samples"
-msgstr ""
+msgstr "Частоти → (Таблиці спряженості) → Незалежні вибірки"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:49
 msgid "Descriptive Statistics → Ratio"
-msgstr ""
+msgstr "Описова статистика → Співвідношення"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:51
 msgid "**Bayesian Statistics**"
-msgstr ""
+msgstr "**Байєсівська статистика**"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:51
 msgid "*requires the jamovi-module «jsq»*"
-msgstr ""
+msgstr "*потрібен модуль jamovi «jsq»*"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:53
 msgid "Bayesian Statistics → One Sample Normal"
-msgstr ""
+msgstr "Баєсівська статистика → Одновибіркова норма"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:53
 msgid "T-Test → Bayesian One Sample T-Test"
-msgstr ""
+msgstr "T-тест → Баєсівський одновибірковий T-тест"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:55
 msgid "Bayesian Statistics → One Sample Binomial"
-msgstr ""
+msgstr "Баєсівська статистика → Одновибірковий біном"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:55
 msgid "Frequencies → Bayesian Proportion Test"
-msgstr ""
+msgstr "Частоти → Баєсівський тест пропорцій"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:57
 msgid "Bayesian Statistics → One Sample Poisson"
-msgstr ""
+msgstr "Баєсівська статистика → Пуассонівський показник для однієї вибірки"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:57
 msgid "Frequencies → Bayesian Contingency Tables"
-msgstr ""
+msgstr "Частоти → Баєсівські таблиці непередбачуваності"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:59
 msgid "Bayesian Statistics → Related Sample Normal"
-msgstr ""
+msgstr "Баєсівська статистика → Пов'язана вибірка Нормальна"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:59
 msgid "T-Test → Bayesian Paired Samples T-Test"
-msgstr ""
+msgstr "T-тест → Баєсівський парний вибірковий t-тест"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:61
 msgid "Bayesian Statistics → Independent Samples Normal"
-msgstr ""
+msgstr "Баєсівська статистика → Незалежні вибірки Нормальні"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:61
 msgid "T-Test → Bayesian Independent Samples T-Test"
-msgstr ""
+msgstr "T-тест → Баєсівський незалежний вибірковий T-тест"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:63
 msgid "Bayesian Statistics → Pearson Correlation"
-msgstr ""
+msgstr "Баєсівська статистика → Кореляція Пірсона"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:63
 msgid "Regression → Bayesian Correlation Matrix / Bayesian Correlation Pairs"
-msgstr ""
+msgstr "Регресія → Баєсівська кореляційна матриця / Баєсівські кореляційні пари"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:65
 msgid "Bayesian Statistics → Linear Regression"
-msgstr ""
+msgstr "Баєсівська статистика → Лінійна регресія"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:65
 msgid "Regression → Bayesian Linear Regression"
-msgstr ""
+msgstr "Регресія → Баєсівська лінійна регресія"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:67
 msgid "Bayesian Statistics → One-way ANOVA"
-msgstr ""
+msgstr "Баєсівська статистика → Односторонній рух ANOVA"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:67
 msgid ""
 "ANOVA → Bayesian ANOVA (*can handle several factors while SPSS is limited to "
 "one factor*)"
 msgstr ""
+"ANOVA → Баєсівський ANOVA (*може обробляти кілька факторів, тоді як SPSS "
+"обмежений одним фактором*)"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:70
 msgid "Bayesian Statistics → Log-Linear Models"
-msgstr ""
+msgstr "Баєсівська статистика → Логічно-лінійні моделі"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:70
 msgid "Frequencies → Bayesian Log-Linear Regression"
-msgstr ""
+msgstr "Частоти → Баєсівська логарифмічно-лінійна регресія"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:72
 msgid "**Compare Means**"
-msgstr ""
+msgstr "**Порівняйте засоби**"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:74
 msgid "Compare Means → Means..."
-msgstr ""
+msgstr "Порівняти засоби → Засоби..."
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:74
 msgid ""
@@ -1455,180 +1522,183 @@ msgid ""
 "the drop-down menu «Statistics» and set ticks at «Mean», «N» and «Std. "
 "deviation»*"
 msgstr ""
+"Дослідження → Описи *замінює / інтегрує цю функціональність, виберіть "
+"випадаюче меню «Статистика» та встановіть позначки біля «Середнє», «N» та «"
+"Стандартне відхилення»*"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:78
 msgid "Compare Means → Independent-Samples T Test"
-msgstr ""
+msgstr "Порівняння середніх значень → T-критерій для незалежних вибірок"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:78
 msgid "T-Test → Independent Samples T-Test"
-msgstr ""
+msgstr "T-тест → T-тест для незалежних вибірок"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:80
 msgid "Compare Means → Paired-Samples T Test"
-msgstr ""
+msgstr "Порівняння середніх значень → T-критерій для парних вибірок"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:80
 msgid "T-Test → Paired Samples T-Test"
-msgstr ""
+msgstr "T-тест → T-тест парних вибірок"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:82
 msgid "Compare Means → One-Sample T Test"
-msgstr ""
+msgstr "Порівняння середніх значень → Одновибірковий t-тест"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:82
 msgid "T-Test → One Sample T-Test"
-msgstr ""
+msgstr "T-тест → Одновибірковий T-тест"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:84
 msgid "Compare Means → One-Way ANOVA"
-msgstr ""
+msgstr "Порівняння засобів → Односторонній рух ANOVA"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:84
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:88
 msgid "ANOVA → One-Way ANOVA"
-msgstr ""
+msgstr "ANOVA → Односторонній рух ANOVA"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:86
 msgid "**General Linear Model**"
-msgstr ""
+msgstr "**Загальна лінійна модель**"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:88
 msgid "General Linear Model → Univariate"
-msgstr ""
+msgstr "Загальна лінійна модель → Одновимірна"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:90
 msgid "General Linear Model → Multivariate"
-msgstr ""
+msgstr "Загальна лінійна модель → Багатовимірна"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:90
 msgid "ANOVA → MANCOVA"
-msgstr ""
+msgstr "ANOVA → MANCOVA"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:92
 msgid "General Linear Model → Repeated Measures"
-msgstr ""
+msgstr "Загальна лінійна модель → Повторні вимірювання"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:92
 msgid "ANOVA → Repeated Measures ANOVA"
-msgstr ""
+msgstr "ANOVA → ANOVA з повторними вимірюваннями"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:94
 msgid "General Linear Model → Variance Components"
-msgstr ""
+msgstr "Загальна лінійна модель → Компоненти дисперсії"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:96
 msgid "**Generalized Linear Models**"
-msgstr ""
+msgstr "**Узагальнені лінійні моделі**"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:96
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:102
 msgid "*requires the jamovi-module «GAMLj»*"
-msgstr ""
+msgstr "*вимагає jamovi-модуля «GAMLj»»*"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:98
 msgid "Generalized Linear Models → Generalized Linear Models"
-msgstr ""
+msgstr "Узагальнені лінійні моделі → Узагальнені лінійні моделі"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:100
 msgid "Generalized Linear Models → Generalized Estimating Equations"
-msgstr ""
+msgstr "Узагальнені лінійні моделі → Узагальнені оцінювальні рівняння"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:102
 msgid "**Mixed Models**"
-msgstr ""
+msgstr "**Змішані моделі**"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:104
 msgid "Mixed Models → Linear"
-msgstr ""
+msgstr "Змішані моделі → Лінійні"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:106
 msgid "Mixed Models → Generalized Linear"
-msgstr ""
+msgstr "Змішані моделі → Узагальнені лінійні"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:108
 msgid "**Correlate**"
-msgstr ""
+msgstr "**Співвідносити**"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:110
 msgid "Correlate → Bivariate"
-msgstr ""
+msgstr "Кореляція → Двовимірний"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:110
 msgid "Regression → Correlation Matrix"
-msgstr ""
+msgstr "Регресія → Кореляційна матриця"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:112
 msgid "Correlate → Partial"
-msgstr ""
+msgstr "Кореляція → Часткова"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:112
 msgid "Regression → Partial Correlation"
-msgstr ""
+msgstr "Регресія → Часткова кореляція"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:114
 msgid "Correlate → Distances"
-msgstr ""
+msgstr "Співвідношення → Відстані"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:116
 msgid "**Regression**"
-msgstr ""
+msgstr "**Регресія**"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:118
 msgid "Regression → Automatic Linear Models"
-msgstr ""
+msgstr "Регресія → Автоматичні лінійні моделі"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:120
 msgid "Regression → Linear"
-msgstr ""
+msgstr "Регресія → Лінійна"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:120
 msgid "Regression → Linear Regression"
-msgstr ""
+msgstr "Регресія → Лінійна регресія"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:122
 msgid "Regression → Ordinal"
-msgstr ""
+msgstr "Регресія → Порядкове число"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:122
 msgid "Regression → (Logistic Regression) → Ordinal Outcomes"
-msgstr ""
+msgstr "Регресія → (Логістична регресія) → Порядкові результати"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:124
 msgid "Regression → Curve Estimation"
-msgstr ""
+msgstr "Регресія → Оцінка кривої"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:126
 msgid "Regression → Partial Least Squares"
-msgstr ""
+msgstr "Регресія → Частково найменші квадрати"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:128
 msgid "**Loglinear**"
-msgstr ""
+msgstr "**Логініальний**"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:130
 msgid "Loglinear → General"
-msgstr ""
+msgstr "Логінеарний → Загальне"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:130
 msgid "Frequencies → Log-Linear Regression"
-msgstr ""
+msgstr "Частоти → Логідролінійна регресія"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:132
 msgid "Loglinear → Logit"
-msgstr ""
+msgstr "Логілінійний → Логіт"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:134
 msgid "Loglinear → Model Selection"
-msgstr ""
+msgstr "Логініальний → Вибір моделі"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:136
 msgid "**Classify**"
-msgstr ""
+msgstr "**Класифікувати**"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:138
 msgid "Classify → Nearest Neighbor"
-msgstr ""
+msgstr "Класифікація → Найближчий сусід"
 
 #: ../../spss2jamovi/s2j_Comparison_of_analyses.rst:140
 msgid "Classify → Discriminant"
