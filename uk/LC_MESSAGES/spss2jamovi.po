@@ -1,23 +1,26 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: \n"
+"Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 12:29+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2025-08-14 07:01+0000\n"
+"Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
+"Language-Team: Ukrainian <https://hosted.weblate.org/projects/jamovidocs/"
+"4_spss2jamovi/uk/>\n"
+"Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.13-dev\n"
 "Generated-By: Babel 2.17.0\n"
 
 #: ../../spss2jamovi/s2j_ANCOVA.rst:5 ../../spss2jamovi/s2j_ANCOVA2.rst:5
 #: ../../spss2jamovi/s2j_ANCOVA3.rst:5 ../../spss2jamovi/s2j_ANCOVA4.rst:5
 #: ../../spss2jamovi/s2j_ANCOVA5.rst:5
 msgid "From SPSS to jamovi: Analysis of Covariance (ANCOVA)"
-msgstr ""
+msgstr "Від SPSS до jamovi: аналіз коваріації (ANCOVA)"
 
 #: ../../spss2jamovi/s2j_ANCOVA.rst:7
 msgid ""
@@ -28,6 +31,12 @@ msgid ""
 "Love Dummy.sav** which can be downloaded from the `web page accompanying the "
 "book <https://edge.sagepub.com/field5e/student-resources/datasets>`__."
 msgstr ""
+"Це порівняння показує, як виконується регресія з одним предиктором та двома "
+"фіктивними змінними в SPSS та jamovi. Тест SPSS відповідає опису в розділі "
+"13.3 книги `Field (2017) <https://edge.sagepub.com/field5e>`__, особливо "
+"Вихідні дані 13.1 - 13.2. Він використовує набір даних **Puppy Love "
+"Dummy.sav**, який можна завантажити з веб-сторінки, що додається до книги "
+"<https://edge.sagepub.com/field5e/student-resources/datasets>`__."
 
 #: ../../spss2jamovi/s2j_ANCOVA.rst:12 ../../spss2jamovi/s2j_ANCOVA2.rst:12
 #: ../../spss2jamovi/s2j_ANCOVA3.rst:13 ../../spss2jamovi/s2j_ANCOVA4.rst:13
@@ -76,12 +85,16 @@ msgid ""
 "In SPSS you can run a regression using: ``Analyze`` → ``Regression`` → → "
 "``Linear``."
 msgstr ""
+"У SPSS ви можете виконати регресію, використовуючи: ``Analyze`` → "
+"``Regression`` → → ``Linear``."
 
 #: ../../spss2jamovi/s2j_ANCOVA.rst:14
 msgid ""
 "In jamovi you do this using: ``Analyses`` → ``Regression`` → ``Linear "
 "Regression``."
 msgstr ""
+"У jamovi ви робите це за допомогою: ``Analyses`` → ``Regression`` → ``Linear "
+"Regression``."
 
 #: ../../spss2jamovi/s2j_ANCOVA.rst:17
 msgid "|SPSS_Menu_ANCOVA1|"
@@ -104,6 +117,8 @@ msgid ""
 "In SPSS, move ``Happiness`` to the variable box ``Dependent`` and "
 "``Puppy_love`` to the variable box ``Independent(s)``."
 msgstr ""
+"У SPSS перемістити ``Happiness`` до поля змінних ``Dependent`` і "
+"``Puppy_love`` до поля змінних ``Independent(s)``."
 
 #: ../../spss2jamovi/s2j_ANCOVA.rst:19
 msgid ""
@@ -111,6 +126,9 @@ msgid ""
 "``Puppy_love`` to the variable box ``Covariates``, and ``Low_Control`` and "
 "``High_Control`` to the ``Factors`` box."
 msgstr ""
+"У jamovi перемістіть ``Happiness`` до поля змінної ``Dependent Variable``, "
+"``Puppy_love`` до поля змінної ``Covariates``, а ``Low_Control`` та "
+"``High_Control`` до поля ``Factors``."
 
 #: ../../spss2jamovi/s2j_ANCOVA.rst:23
 msgid "|SPSS_Input_ANCOVA1_1|"
@@ -133,6 +151,8 @@ msgid ""
 "Press the ``Next`` button to create a new block of ``Independent(s)``, and "
 "move the variables ``Low_Control`` and ``High_Control`` into this box."
 msgstr ""
+"Натисніть кнопку ``Next``, щоб створити новий блок ``Independent(s)``, і "
+"перемістіть змінні ``Low_Control`` та ``High_Control`` у це поле."
 
 #: ../../spss2jamovi/s2j_ANCOVA.rst:25
 msgid ""
@@ -140,6 +160,9 @@ msgid ""
 "``+ Add New Block`` and move ``Low_Control`` and ``High_Control`` into "
 "``Block 2``."
 msgstr ""
+"Створіть новий блок незалежних змінних за допомогою ``Model Builder``. "
+"Натисніть ``+ Add New Block`` та перемістіть ``Low_Control`` та "
+"``High_Control`` у ``Block 2``."
 
 #: ../../spss2jamovi/s2j_ANCOVA.rst:29
 msgid "|SPSS_Input_ANCOVA1_2|"
@@ -162,6 +185,8 @@ msgid ""
 "Open the ``Model Coefficients`` window and tick the box for ``Standardized "
 "estimate``."
 msgstr ""
+"Відкрийте ``Model Coefficients`` вікно та поставте галочку у відповідному "
+"полі ``Standardized estimate``."
 
 #: ../../spss2jamovi/s2j_ANCOVA.rst:34
 msgid "|jamovi_Input_ANCOVA1_3|"
@@ -178,6 +203,9 @@ msgid ""
 "important information. The results are found in slightly different places in "
 "SPSS and in jamovi."
 msgstr ""
+"Якщо порівняти результати SPSS та jamovi, то вони будуть однаковими. Однак, "
+"результати jamovi набагато чіткіші, оскільки містять лише найважливішу "
+"інформацію. Результати знаходяться в дещо різних місцях у SPSS та jamovi."
 
 #: ../../spss2jamovi/s2j_ANCOVA.rst:39
 msgid "|SPSS_Output_ANCOVA1_1|"
@@ -222,6 +250,14 @@ msgid ""
 "``Coefficients`` table, where you can find the differences  in *b-*values "
 "and *β*-values for the two models, as well as their significance values."
 msgstr ""
+"У SPSS, вихідна таблиця ``Model Summary`` починається з *R* та *R²*. "
+"Значення *R²* для моделі 1 показує ступінь відповідності, коли в аналіз "
+"включена лише коваріата, а значення для моделі 2 показує результати, коли "
+"включено фіктивні змінні та коваріату. ``ANOVA`` У таблиці представлено суму "
+"квадратів регресії, яка показує, скільки одиниць дисперсії враховує модель. "
+"Найцікавіша таблиця – це ``Coefficients`` таблицю, де ви можете знайти "
+"відмінності в значеннях *b-* та *β* для двох моделей, а також їх значення "
+"значущості."
 
 #: ../../spss2jamovi/s2j_ANCOVA.rst:43
 msgid ""
@@ -233,6 +269,13 @@ msgid ""
 "one for each model – in jamovi. Here the *b*-values are found under Estimate "
 "and the the *β*-values under Stand. Estimate."
 msgstr ""
+"У jamovi значення *R* та *R²* знаходяться у вихідній таблиці ``Model Fit "
+"Measures``. Значення суми квадратів та *F* знаходяться в таблиці ``Omnibus "
+"ANOVA Test``, яка в jamovi розділена на таблицю для моделі 1 та таблицю для "
+"моделі 2. Тим не менш, числа відображаються в одному місці в таблицях. "
+"Таблиця ``Coefficients`` також розділена на дві таблиці - по одній для "
+"кожної моделі - в jamovi. Тут значення *b* знаходяться в розділі Estimate "
+"(Оцінка), а значення *β* - у розділі Stand. Estimate (Стандартна оцінка)."
 
 #: ../../spss2jamovi/s2j_ANCOVA.rst:52
 msgid ""
