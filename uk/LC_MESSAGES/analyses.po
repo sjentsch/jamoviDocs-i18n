@@ -1,33 +1,32 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-12 12:29+0200\n"
-"PO-Revision-Date: 2025-03-23 16:15+0000\n"
-"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
-"Language-Team: Ukrainian <https://hosted.weblate.org/projects/"
-"jamovidocs/2_analyses/uk/>\n"
+"PO-Revision-Date: 2025-08-14 07:01+0000\n"
+"Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
+"Language-Team: Ukrainian <https://hosted.weblate.org/projects/jamovidocs/"
+"2_analyses/uk/>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.11-dev\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Weblate 5.13-dev\n"
 "Generated-By: Babel 2.17.0\n"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:5
 msgid "Descriptive analyses"
-msgstr ""
+msgstr "Описовий аналіз"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:7
 msgid "How to perform descriptive analyses and create graphs in jamovi:"
-msgstr ""
+msgstr "Як виконувати описовий аналіз та створювати графіки в jamovi:"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:0
 msgid "Select ``Analyses`` → ``Exploration`` → ``Descriptives``."
-msgstr ""
+msgstr "Виберіть ``Analyses`` → ``Exploration`` → ``Descriptives``."
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:11
 msgid "|select_descriptives|"
@@ -42,6 +41,8 @@ msgid ""
 "Drag and drop the variables you want descriptive analyses for to "
 "``Variables``."
 msgstr ""
+"Перетягніть змінні, для яких потрібно виконати описовий аналіз, до "
+"``Variables``."
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:18
 msgid "|add_var_descriptives|"
@@ -56,6 +57,8 @@ msgid ""
 "The result is shown in the right panel. Right-click on the output to save or "
 "copy it."
 msgstr ""
+"Результат відображається на правій панелі. Клацніть правою кнопкою миші на "
+"виводі, щоб зберегти або скопіювати його."
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:25
 msgid "|output_descriptives|"
@@ -70,6 +73,8 @@ msgid ""
 "To split your descriptive analyses on a categorical variable (e.g. to "
 "separate by gender), move that variable to ``Split by``."
 msgstr ""
+"Щоб розділити ваші описові аналізи за категоріальною змінною (наприклад, для "
+"розділення за статтю), перемістіть цю змінну до ``Split by``."
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:32
 msgid "|add_var_descriptives_groupby|"
@@ -81,7 +86,7 @@ msgstr "add_var_descriptives_groupby"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:0
 msgid "This changes how the output looks like:"
-msgstr ""
+msgstr "Це змінює вигляд виводу:"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:36
 msgid "|output_descriptives_groupby|"
@@ -93,7 +98,7 @@ msgstr "output_descriptives_groupby"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:0
 msgid "Click the ``Statistics`` tab to see more alternatives."
-msgstr ""
+msgstr "Натисніть вкладку ``Statistics``, щоб переглянути більше варіантів."
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:42
 msgid "|select_descriptives_statistics|"
@@ -110,6 +115,11 @@ msgid ""
 "and to check whehter your variables conform with a normal distribution, then "
 "you should tick ``Box plot``, ``Violin``, and ``Q-Q``."
 msgstr ""
+"Щоб створити графік на основі вищезазначених варіантів, натисніть кнопку "
+"``Plots`` перейдіть на вкладку та поставте позначку навпроти потрібного "
+"графіка. Якщо ви хочете визначити викиди та перевірити, чи відповідають ваші "
+"змінні нормальному розподілу, тоді вам слід поставити позначку ``Box plot``, "
+"``Violin``, і ``Q-Q``."
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:49
 msgid "|select_descriptives_plots|"
@@ -128,7 +138,7 @@ msgstr "select_descriptives_plots"
 #: ../../analyses/jg_42_regression-linear.rst:43
 #: ../../analyses/jg_43_regression-logistic.rst:48
 msgid "Further help from the community resources"
-msgstr ""
+msgstr "Подальша допомога від ресурсів громади"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:0
 msgid ""
@@ -137,6 +147,10 @@ msgid ""
 "embed/srqNCux0ijY?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ by `Barton "
 "Poulson <https://datalab.cc/jamovi>`__."
 msgstr ""
+"Якщо ви хочете отримати пояснення цих концепцій іншим способом, перегляньте "
+"це `вступне відео <https://www.youtube.com/embed/"
+"srqNCux0ijY?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ від `Бартона "
+"Поулсона <https://datalab.cc/jamovi>`__."
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:0
 msgid ""
@@ -147,20 +161,29 @@ msgid ""
 "learnstatswithjamovi.com/>`__ by `Danielle J. Navarro <https://djnavarro.net/"
 ">`__ and `David R. Foxcroft <https://www.davidfoxcroft.com/>`__."
 msgstr ""
+"Для тих, хто прагне ще глибшого вступу, ви можете ознайомитися з відповідним "
+"розділом у веб-документації «Статистика навчання з jamovi» <https://"
+"lsj.readthedocs.io/en/latest/lsj/Ch04_Descriptives.html>`__ або з розділом 4 "
+"електронної книги <https://www.learnstatswithjamovi.com/>`__ авторів `"
+"Даніель Дж. Наварро <https://djnavarro.net/>`__ та `Девід Р. Фокскрофт "
+"<https://www.davidfoxcroft.com/>`__."
 
 #: ../../analyses/jg_21_t-test-independent.rst:5
 msgid "t-test: Independent samples"
-msgstr ""
+msgstr "t-тест: Незалежні вибірки"
 
 #: ../../analyses/jg_21_t-test-independent.rst:7
 msgid "How to perform an independent samples t-test in jamovi:"
-msgstr ""
+msgstr "Як виконати t-тест для незалежних вибірок в jamovi:"
 
 #: ../../analyses/jg_21_t-test-independent.rst:0
 msgid ""
 "You need at least one |continuous| continuous dependent variable, and a |"
 "nominal| grouping variable with two levels (e.g. treatment / control)."
 msgstr ""
+"Вам потрібна принаймні одна |безперервна| безперервна залежна змінна та "
+"|номінальна| групувальна змінна з двома рівнями (наприклад, обробка / "
+"контроль)."
 
 #: ../../analyses/jg_21_t-test-independent.rst:56
 #: ../../analyses/jg_22_t-test-paired.rst:56
@@ -191,7 +214,7 @@ msgstr "nominal"
 #: ../../analyses/jg_42_regression-linear.rst:0
 #: ../../analyses/jg_43_regression-logistic.rst:0
 msgid "A correct setup should look similar to this:"
-msgstr ""
+msgstr "Правильне налаштування має виглядати приблизно так:"
 
 #: ../../analyses/jg_21_t-test-independent.rst:13
 msgid "|data_format_ttest_independent|"
@@ -203,7 +226,7 @@ msgstr "data_format_ttest_independent"
 
 #: ../../analyses/jg_21_t-test-independent.rst:0
 msgid "Select ``Analyses`` → ``T-Tests`` → ``Independent Samples T-Test``."
-msgstr ""
+msgstr "Виберіть ``Analyses`` → ``T-Tests`` → ``Independent Samples T-Test``."
 
 #: ../../analyses/jg_21_t-test-independent.rst:19
 msgid "|select_ttest_independent|"
@@ -218,6 +241,8 @@ msgid ""
 "Drag and drop your outcome variable to ``Dependent Variables`` and your "
 "grouping variable to ``Grouping Variable``."
 msgstr ""
+"Перетягніть змінну результату до ``Dependent Variables`` і вашу групову "
+"змінну до ``Grouping Variable``."
 
 #: ../../analyses/jg_21_t-test-independent.rst:25
 msgid "|add_var_ttest_independent|"
@@ -231,7 +256,7 @@ msgstr "add_var_ttest_independent"
 #: ../../analyses/jg_22_t-test-paired.rst:0
 #: ../../analyses/jg_23_t-test-onesample.rst:0
 msgid "The result is shown in the right panel."
-msgstr ""
+msgstr "Результат показано на правій панелі."
 
 #: ../../analyses/jg_21_t-test-independent.rst:31
 msgid "|output_ttest_independent|"
@@ -247,12 +272,15 @@ msgid ""
 "doc:`side-by-side-comparison <../spss2jamovi/s2j_ttestIS>` of how a t-test "
 "for independent samples is conducted in SPSS and jamovi."
 msgstr ""
+"Ті, хто має попередній досвід роботи з SPSS, можуть захотіти ознайомитися з "
+":doc:`side-by-side-comparison <../spss2jamovi/s2j_ttestIS>` про те, як "
+"проводиться t-тест для незалежних вибірок у SPSS та jamovi."
 
 #: ../../analyses/jg_21_t-test-independent.rst:42
 #: ../../analyses/jg_overview.rst:61 ../../analyses/jg_overview.rst:96
 #: ../../analyses/jg_overview.rst:123
 msgid "Community resources"
-msgstr ""
+msgstr "Ресурси громади"
 
 #: ../../analyses/jg_21_t-test-independent.rst:0
 msgid ""
@@ -261,6 +289,9 @@ msgid ""
 "datalab.cc/jamovi>`__ provides a more comprehensive introduction into this "
 "test."
 msgstr ""
+"Це відео <https://www.youtube.com/embed/SM-"
+"DN9dpPd4?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ від Бартона Поулсона "
+"<https://datalab.cc/jamovi>`__ надає більш повне введення в цей тест."
 
 #: ../../analyses/jg_21_t-test-independent.rst:0
 msgid ""
@@ -271,14 +302,21 @@ msgid ""
 "learnstatswithjamovi.com/>`__ by `Danielle J. Navarro <https://djnavarro.net/"
 ">`__ and `David R. Foxcroft <https://www.davidfoxcroft.com/>`__."
 msgstr ""
+"Для тих, хто прагне ще більш глибокого вступу, ви можете ознайомитися з "
+"відповідним розділом у веб-документації «Статистика навчання з jamovi» "
+"<https://lsj.readthedocs.io/en/latest/lsj/Ch11_tTest_03.html>`__ або з "
+"розділами 11.3 / 11.4 електронної книги <https://"
+"www.learnstatswithjamovi.com/>`__ авторів `Даніель Дж. Наварро <https://"
+"djnavarro.net/>`__ та `Девід Р. Фокскрофт <https://www.davidfoxcroft.com/"
+">`__."
 
 #: ../../analyses/jg_22_t-test-paired.rst:5
 msgid "t-test: Paired samples"
-msgstr ""
+msgstr "t-тест: Парні вибірки"
 
 #: ../../analyses/jg_22_t-test-paired.rst:7
 msgid "How to perform a paired samples t-test in jamovi:"
-msgstr ""
+msgstr "Як виконати t-тест для парних вибірок в jamovi:"
 
 #: ../../analyses/jg_22_t-test-paired.rst:0
 msgid ""
@@ -286,6 +324,9 @@ msgid ""
 "subject. i.e. the pair of values taken from each row represent paired "
 "measurements."
 msgstr ""
+"Вам потрібні дві |безперервні| безперервні змінні, кожен рядок яких "
+"представляє один об'єкт, тобто пара значень, взятих з кожного рядка, "
+"представляє парні вимірювання."
 
 #: ../../analyses/jg_22_t-test-paired.rst:14
 msgid "|data_format_ttest_paired|"
@@ -297,7 +338,7 @@ msgstr "data_format_ttest_paired"
 
 #: ../../analyses/jg_22_t-test-paired.rst:0
 msgid "Select ``Analyses`` → ``T-Tests`` → ``Paired Samples T-Test``."
-msgstr ""
+msgstr "Виберіть ``Analyses`` → ``T-Tests`` → ``Paired Samples T-Test``."
 
 #: ../../analyses/jg_22_t-test-paired.rst:20
 msgid "|select_ttest_paired|"
@@ -313,6 +354,9 @@ msgid ""
 "one at a time, or select both variables in a pair by holding down the Ctrl-"
 "key while clicking on each, before dragging them across)."
 msgstr ""
+"Перетягніть дві змінні до ``Paired Variables`` (ви можете перетягувати їх по "
+"одній або вибрати обидві змінні парно, утримуючи клавішу Ctrl під час "
+"клацання на кожній, перш ніж перетягувати їх)."
 
 #: ../../analyses/jg_22_t-test-paired.rst:27
 msgid "|add_var_ttest_paired|"
@@ -336,6 +380,9 @@ msgid ""
 "doc:`side-by-side-comparison <../spss2jamovi/s2j_ttestPS2>` of how a t-test "
 "for paired samples is conducted in SPSS and jamovi."
 msgstr ""
+"Ті, хто має попередній досвід роботи з SPSS, можуть захотіти ознайомитися з "
+":doc:`side-by-side-comparison <../spss2jamovi/s2j_ttestPS2>` про те, як "
+"проводиться t-тест для парних вибірок у SPSS та jamovi."
 
 #: ../../analyses/jg_22_t-test-paired.rst:0
 msgid ""
@@ -344,6 +391,10 @@ msgid ""
 "datalab.cc/jamovi>`__ provides a more comprehensive introduction into this "
 "test."
 msgstr ""
+"Це відео <https://www.youtube.com/embed/"
+"lSjfYYiJG6E?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ від `Бартона "
+"Поулсона <https://datalab.cc/jamovi>`__ надає більш повний вступ до цього "
+"тесту."
 
 #: ../../analyses/jg_22_t-test-paired.rst:0
 msgid ""
@@ -354,20 +405,28 @@ msgid ""
 "com/>`__ by `Danielle J. Navarro <https://djnavarro.net/>`__ and `David R. "
 "Foxcroft <https://www.davidfoxcroft.com/>`__."
 msgstr ""
+"Для тих, хто прагне ще глибшого вступу, ви можете ознайомитися з відповідним "
+"розділом у веб-документації «Статистика навчання з jamovi» <https://"
+"lsj.readthedocs.io/en/latest/lsj/Ch11_tTest_05.html>`__ або з розділом 11.5 "
+"електронної книги <https://www.learnstatswithjamovi.com/>`__ авторів `"
+"Даніель Дж. Наварро <https://djnavarro.net/>`__ та `Девід Р. Фокскрофт "
+"<https://www.davidfoxcroft.com/>`__."
 
 #: ../../analyses/jg_23_t-test-onesample.rst:5
 msgid "t-test: One sample"
-msgstr ""
+msgstr "t-тест: Одна вибірка"
 
 #: ../../analyses/jg_23_t-test-onesample.rst:7
 msgid "How to perform a one-sample t-test in jamovi:"
-msgstr ""
+msgstr "Як виконати одновибірковий t-тест в jamovi:"
 
 #: ../../analyses/jg_23_t-test-onesample.rst:0
 msgid ""
 "You need one |continuous| continuous variable and a mean to test against "
 "(typically the mean being tested is zero)."
 msgstr ""
+"Вам потрібна одна |безперервна| безперервна змінна та середнє значення для "
+"перевірки (зазвичай середнє значення, що перевіряється, дорівнює нулю)."
 
 #: ../../analyses/jg_23_t-test-onesample.rst:13
 msgid "|data_format_ttest_onesample|"
@@ -379,7 +438,7 @@ msgstr "data_format_ttest_onesample"
 
 #: ../../analyses/jg_23_t-test-onesample.rst:0
 msgid "Select ``Analyses`` → ``T-Tests`` → ``One Sample T-Test``."
-msgstr ""
+msgstr "Виберіть ``Analyses`` → ``T-Tests`` → ``One Sample T-Test``."
 
 #: ../../analyses/jg_23_t-test-onesample.rst:19
 msgid "|select_ttest_onesample|"
@@ -391,7 +450,7 @@ msgstr "select_ttest_onesample"
 
 #: ../../analyses/jg_23_t-test-onesample.rst:0
 msgid "Drag and drop your dependent variable to ``Dependent Variables``."
-msgstr ""
+msgstr "Перетягніть залежну змінну до ``Dependent Variables``."
 
 #: ../../analyses/jg_23_t-test-onesample.rst:25
 msgid "|add_var_ttest_onesample|"
@@ -406,6 +465,8 @@ msgid ""
 "Locate the section ``Hypothesis`` further down, this is where you enter the "
 "mean you want to test against."
 msgstr ""
+"Знайдіть розділ ``Hypothesis`` далі, саме тут ви вводите середнє значення, з "
+"яким хочете порівняти його."
 
 #: ../../analyses/jg_23_t-test-onesample.rst:31
 msgid "|options_ttest_onesample|"
@@ -430,6 +491,10 @@ msgid ""
 "datalab.cc/jamovi>`__ provides a more comprehensive introduction into this "
 "test."
 msgstr ""
+"Це відео <https://www.youtube.com/embed/"
+"DrBT4ezYIL8?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ від `Бартона "
+"Поулсона <https://datalab.cc/jamovi>`__ надає більш повний вступ до цього "
+"тесту."
 
 #: ../../analyses/jg_23_t-test-onesample.rst:0
 msgid ""
@@ -440,20 +505,28 @@ msgid ""
 "com/>`__ by `Danielle J. Navarro <https://djnavarro.net/>`__ and `David R. "
 "Foxcroft <https://www.davidfoxcroft.com/>`__."
 msgstr ""
+"Для тих, хто прагне ще глибшого вступу, ви можете ознайомитися з відповідним "
+"розділом у веб-документації «Статистика навчання з jamovi» <https://"
+"lsj.readthedocs.io/en/latest/lsj/Ch11_tTest_02.html>`__ або з розділом 11.2 "
+"електронної книги <https://www.learnstatswithjamovi.com/>`__ авторів `"
+"Даніель Дж. Наварро <https://djnavarro.net/>`__ та `Девід Р. Фокскрофт "
+"<https://www.davidfoxcroft.com/>`__."
 
 #: ../../analyses/jg_31_unianova.rst:5
 msgid "ANOVA: One-Way"
-msgstr ""
+msgstr "ANOVA: Односторонній"
 
 #: ../../analyses/jg_31_unianova.rst:7
 msgid "How to perform a One-way ANOVA in jamovi:"
-msgstr ""
+msgstr "Як виконати однофакторний дисперсійний аналіз (ANOVA) в jamovi:"
 
 #: ../../analyses/jg_31_unianova.rst:0
 msgid ""
 "You need one |continuous| continuous dependent variable, and one |nominal| "
 "grouping variable with two or more levels."
 msgstr ""
+"Вам потрібна одна |безперервна| безперервна залежна змінна та одна "
+"|номінальна| групувальна змінна з двома або більше рівнями."
 
 #: ../../analyses/jg_31_unianova.rst:13
 msgid "|data_format_unianova|"
@@ -465,7 +538,7 @@ msgstr "data_format_unianova"
 
 #: ../../analyses/jg_31_unianova.rst:0
 msgid "Select ``Analyses`` → ``ANOVA`` → ``One-way ANOVA``."
-msgstr ""
+msgstr "Виберіть ``Analyses`` → ``ANOVA`` → ``One-way ANOVA``."
 
 #: ../../analyses/jg_31_unianova.rst:19
 msgid "|select_unianova|"
@@ -480,6 +553,8 @@ msgid ""
 "Drag and drop your outcome variable to ``Dependent Variable`` and your "
 "grouping variable to ``Fixed Factors``."
 msgstr ""
+"Перетягніть змінну результату до ``Dependent Variable`` і вашу змінну "
+"групування до ``Fixed Factors``."
 
 #: ../../analyses/jg_31_unianova.rst:25
 msgid "|add_var_unianova|"
@@ -494,6 +569,9 @@ msgid ""
 "Select whether your variances are equal or unequal. To test for equality of "
 "variancess using Levene’s test, tick the box ``Equality of variances``."
 msgstr ""
+"Виберіть, чи ваші дисперсії рівні чи нерівні. Щоб перевірити рівність "
+"дисперсій за допомогою тесту Левена, поставте позначку у відповідному полі. "
+"``Equality of variances``."
 
 #: ../../analyses/jg_31_unianova.rst:31
 msgid "|options_unianova|"
@@ -507,7 +585,7 @@ msgstr "options_unianova"
 #: ../../analyses/jg_32_anova-factorial.rst:0
 #: ../../analyses/jg_33_anova-rm.rst:0
 msgid "The results are shown in the right panel:"
-msgstr ""
+msgstr "Результати показано на правій панелі:"
 
 #: ../../analyses/jg_31_unianova.rst:37
 msgid "|output_unianova|"
@@ -526,20 +604,28 @@ msgid ""
 "Navarro <https://djnavarro.net/>`__ and `David R. Foxcroft <https://www."
 "davidfoxcroft.com/>`__."
 msgstr ""
+"Ті, хто шукає глибокого вступу: Ви можете ознайомитися з відповідним "
+"розділом у веб-документації «Статистика навчання з jamovi» <https://"
+"lsj.readthedocs.io/en/latest/lsj/Ch13_ANOVA_01.html>`__ або з розділом 13.1-"
+"6 електронної книги <https://www.learnstatswithjamovi.com/>`__ авторів `"
+"Даніель Дж. Наварро <https://djnavarro.net/>`__ та `Девід Р. Фокскрофт "
+"<https://www.davidfoxcroft.com/>`__."
 
 #: ../../analyses/jg_32_anova-factorial.rst:5
 msgid "ANOVA"
-msgstr ""
+msgstr "ANOVA"
 
 #: ../../analyses/jg_32_anova-factorial.rst:7
 msgid "How to perform a factorial ANOVA in jamovi:"
-msgstr ""
+msgstr "Як виконати факторіальний дисперсійний розрахунок (ANOVA) в jamovi:"
 
 #: ../../analyses/jg_32_anova-factorial.rst:0
 msgid ""
 "You need one |continuous| continuous dependent variable, and one or more |"
 "nominal| grouping variables."
 msgstr ""
+"Вам потрібна одна |безперервна| безперервна залежна змінна та одна або "
+"декілька |номінальних| групуючих змінних."
 
 #: ../../analyses/jg_32_anova-factorial.rst:13
 msgid "|data_format_anova_factorial|"
@@ -551,7 +637,7 @@ msgstr "data_format_anova_factorial"
 
 #: ../../analyses/jg_32_anova-factorial.rst:0
 msgid "Select ``Analyses`` → ``ANOVA`` → ``ANOVA``."
-msgstr ""
+msgstr "Виберіть ``Analyses`` → ``ANOVA`` → ``ANOVA``."
 
 #: ../../analyses/jg_32_anova-factorial.rst:19
 msgid "|select_anova_factorial|"
@@ -566,6 +652,8 @@ msgid ""
 "Drag and drop your outcome variable to ``Dependent Variable`` and your "
 "grouping variables to ``Fixed Factors``."
 msgstr ""
+"Перетягніть змінну результату до ``Dependent Variable`` і ваші групові "
+"змінні до ``Fixed Factors``."
 
 #: ../../analyses/jg_32_anova-factorial.rst:25
 msgid "|add_var_anova_factorial|"
@@ -590,6 +678,10 @@ msgid ""
 "list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ by `Barton Poulson <https://"
 "datalab.cc/jamovi>`__."
 msgstr ""
+"Більш повний вступ до цього статистичного методу наведено у цьому відео. "
+"<https://www.youtube.com/embed/"
+"TJoJTVgDyqY?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ від Бартона Поулсона "
+"<https://datalab.cc/jamovi>`__."
 
 #: ../../analyses/jg_32_anova-factorial.rst:0
 msgid ""
@@ -600,20 +692,28 @@ msgid ""
 "learnstatswithjamovi.com/>`__ by `Danielle J. Navarro <https://djnavarro.net/"
 ">`__ and `David R. Foxcroft <https://www.davidfoxcroft.com/>`__."
 msgstr ""
+"Для тих, хто прагне ще більш глибокого вступу, ви можете ознайомитися з "
+"відповідним розділом у веб-документації «Статистика навчання з jamovi» "
+"<https://lsj.readthedocs.io/en/latest/lsj/Ch14_ANOVA2_01.html>`__ або з "
+"розділами 14.1-4 електронної книги <https://www.learnstatswithjamovi.com/>`"
+"__ авторів `Даніель Дж. Наварро <https://djnavarro.net/>`__ та `Девід Р. "
+"Фокскрофт <https://www.davidfoxcroft.com/>`__."
 
 #: ../../analyses/jg_33_anova-rm.rst:5
 msgid "ANOVA: Repeated Measures"
-msgstr ""
+msgstr "ANOVA: Повторні вимірювання"
 
 #: ../../analyses/jg_33_anova-rm.rst:7
 msgid "How to perform a repeated measures ANOVA in jamovi:"
-msgstr ""
+msgstr "Як виконати повторні вимірювання ANOVA в jamovi:"
 
 #: ../../analyses/jg_33_anova-rm.rst:0
 msgid ""
 "You need one |continuous| continuous dependent variable for each measurement "
 "occasion."
 msgstr ""
+"Вам потрібна одна |безперервна| безперервна залежна змінна для кожного "
+"випадку вимірювання."
 
 #: ../../analyses/jg_33_anova-rm.rst:13
 msgid "|data_format_anova_repeated|"
@@ -625,7 +725,7 @@ msgstr "data_format_anova_repeated"
 
 #: ../../analyses/jg_33_anova-rm.rst:0 ../../analyses/jg_34_anova-mixed.rst:0
 msgid "Select ``Analyses`` → ``ANOVA`` → ``Repeated Measures ANOVA``."
-msgstr ""
+msgstr "Виберіть ``Analyses`` → ``ANOVA`` → ``Repeated Measures ANOVA``."
 
 #: ../../analyses/jg_33_anova-rm.rst:19 ../../analyses/jg_34_anova-mixed.rst:20
 msgid "|select_anova_repeated|"
@@ -643,6 +743,11 @@ msgid ""
 "below shows the box with default values (left) and when the values has been "
 "set (right)."
 msgstr ""
+"У коробці ``Repeated Measures Factors``: напишіть назву вашої змінної "
+"результату (наприклад, ``My_scale``) та назвіть рівні для кожного випадку "
+"вимірювання (наприклад, ``Pre``, ``Post`` і ``12 month follow-up``). На "
+"зображеннях нижче показано поле зі значеннями за замовчуванням (ліворуч) та "
+"після встановлення значень (праворуч)."
 
 #: ../../analyses/jg_33_anova-rm.rst:26 ../../analyses/jg_34_anova-mixed.rst:27
 msgid ""
@@ -663,6 +768,8 @@ msgid ""
 "Drag and drop your outcome variables to their respective cells in ``Repeated "
 "Measures Cells``."
 msgstr ""
+"Перетягніть змінні результату у відповідні комірки в ``Repeated Measures "
+"Cells``."
 
 #: ../../analyses/jg_33_anova-rm.rst:32 ../../analyses/jg_34_anova-mixed.rst:33
 msgid "|add_var_anova_repeated|"
@@ -681,6 +788,12 @@ msgid ""
 "``Assumption Checks`` drop-down menu and set the ``Sphericity tests`` tick "
 "box."
 msgstr ""
+"Щоб перевірити рівність дисперсії за допомогою тесту Левена, відкрийте ``"
+"Assumption Checks`` випадаюче меню та встановіть ``Homogeneity test`` "
+"позначте поле. Також гарною ідеєю буде перевірити, чи є дисперсії на різних "
+"кроках коефіцієнта повторення однаковими (сферичність). Щоб це зробити, "
+"відкрийте ``Assumption Checks`` випадаюче меню та встановіть ``Sphericity "
+"tests`` позначте поле."
 
 #: ../../analyses/jg_33_anova-rm.rst:44
 msgid "|output_anova_repeated|"
@@ -697,6 +810,10 @@ msgid ""
 "list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ by `Barton Poulson <https://"
 "datalab.cc/jamovi>`__."
 msgstr ""
+"Більш повний вступ до цього статистичного методу наведено у цьому відео. "
+"<https://www.youtube.com/embed/"
+"m5JNwPgiMso?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ від `Бартона "
+"Поулсона <https://datalab.cc/jamovi>`__."
 
 #: ../../analyses/jg_33_anova-rm.rst:0
 msgid ""
@@ -706,14 +823,19 @@ msgid ""
 "html>`__ or chapter 13.7 of the `e-book <https://www.learnstatswithjamovi."
 "com/>`__ by Danielle J. Navarro and David R. Foxcroft."
 msgstr ""
+"Для тих, хто прагне ще глибшого вступу, ви можете ознайомитися з відповідним "
+"розділом у веб-документації «Статистика навчання з jamovi» <https://"
+"lsj.readthedocs.io/en/latest/lsj/Ch13_ANOVA_07.html>__ або з розділом 13.7 "
+"електронної книги <https://www.learnstatswithjamovi.com/>__ Даніель Дж. "
+"Наварро та Девіда Р. Фокскрофта."
 
 #: ../../analyses/jg_34_anova-mixed.rst:5
 msgid "ANOVA: Mixed"
-msgstr ""
+msgstr "ANOVA: Змішаний"
 
 #: ../../analyses/jg_34_anova-mixed.rst:7
 msgid "How to perform a mixed ANOVA in jamovi:"
-msgstr ""
+msgstr "Як виконати змішаний ANOVA в jamovi:"
 
 #: ../../analyses/jg_34_anova-mixed.rst:0
 msgid ""
@@ -722,6 +844,10 @@ msgid ""
 "(between-subjects-factor) with at least two levels (e.g., treatment / "
 "control, gender)."
 msgstr ""
+"Вам потрібна одна |безперервна| безперервна змінна для кожного "
+"внутрішньосуб'єктного вимірювання (наприклад, до / після) та принаймні одна "
+"|номінальна| групувальна змінна (міжсуб'єктний фактор) щонайменше з двома "
+"рівнями (наприклад, лікування / контроль, стать)."
 
 #: ../../analyses/jg_34_anova-mixed.rst:14
 msgid "|data_format_anova_mixed|"
@@ -738,10 +864,14 @@ msgid ""
 "occasion (e.g., ``Pre``, ``Post`` and ``12 month follow-up``). The images "
 "below illustrates this."
 msgstr ""
+"У коробці ``Repeated Measures Factors``: напишіть назву вашої змінної "
+"результату (наприклад., ``My_scale``) та назвіть рівні для кожного випадку "
+"вимірювання (наприклад., ``Pre``, ``Post`` і ``12 month follow-up``). "
+"Зображення нижче ілюструють це."
 
 #: ../../analyses/jg_34_anova-mixed.rst:0
 msgid "Move your grouping variable(s) to ``Between Subject Factors``."
-msgstr ""
+msgstr "Перемістіть змінну(и) групування до ``Between Subject Factors``."
 
 #: ../../analyses/jg_34_anova-mixed.rst:39
 msgid "|add_var_anova_mixed|"
@@ -755,7 +885,7 @@ msgstr "add_var_anova_mixed"
 #: ../../analyses/jg_42_regression-linear.rst:0
 #: ../../analyses/jg_43_regression-logistic.rst:0
 msgid "The result is shown in the right panel:"
-msgstr ""
+msgstr "Результат показано на правій панелі:"
 
 #: ../../analyses/jg_34_anova-mixed.rst:45
 msgid "|output_anova_mixed|"
@@ -771,20 +901,25 @@ msgid ""
 "provided by this `video <https://www.youtube.com/embed/m5JNwPgiMso?"
 "list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__."
 msgstr ""
+"Трохи більш повне введення в цей статистичний метод наведено в цьому `відео. "
+"<https://www.youtube.com/embed/"
+"m5JNwPgiMso?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__."
 
 #: ../../analyses/jg_42_regression-linear.rst:5
 msgid "Linear Regression"
-msgstr ""
+msgstr "Лінійна регресія"
 
 #: ../../analyses/jg_42_regression-linear.rst:7
 msgid "How to perform a linear regression in jamovi:"
-msgstr ""
+msgstr "Як виконати лінійну регресію в jamovi:"
 
 #: ../../analyses/jg_42_regression-linear.rst:0
 msgid ""
 "You need one |continuous| dependent variable, and at least one |continuous| "
 "predictor variable (aka a covariate)."
 msgstr ""
+"Вам потрібна одна |безперервна| залежна змінна та принаймні одна "
+"|безперервна| змінна-предиктор (також відома як коваріата)."
 
 #: ../../analyses/jg_42_regression-linear.rst:13
 msgid "|data_format_regression_linear|"
@@ -796,7 +931,7 @@ msgstr "data_format_regression_linear"
 
 #: ../../analyses/jg_42_regression-linear.rst:0
 msgid "Select ``Analyses`` → ``Regression`` → ``Linear Regression``."
-msgstr ""
+msgstr "Виберіть ``Analyses`` → ``Regression`` → ``Linear Regression``."
 
 #: ../../analyses/jg_42_regression-linear.rst:19
 msgid "|select_regression_linear|"
@@ -812,6 +947,9 @@ msgid ""
 "explanatory variable to ``Covariates`` if it is continuous or to ``Factors`` "
 "if it is categorical."
 msgstr ""
+"Перетягніть залежну змінну до ``Dependent Variable`` і вашу пояснювальну "
+"змінну до ``Covariates`` якщо воно безперервне або ``Factors`` якщо це "
+"категорично."
 
 #: ../../analyses/jg_42_regression-linear.rst:26
 msgid "|add_var_regression_linear|"
@@ -835,6 +973,9 @@ msgid ""
 "doc:`side-by-side-comparison <../spss2jamovi/s2j_linReg>` of how a linear "
 "regression is conducted in SPSS and jamovi."
 msgstr ""
+"Ті, хто має попередній досвід роботи з SPSS, можуть захотіти ознайомитися з "
+":doc:`side-by-side-comparison <../spss2jamovi/s2j_linReg>` про те, як "
+"проводиться лінійна регресія в SPSS та jamovi."
 
 #: ../../analyses/jg_42_regression-linear.rst:0
 msgid ""
@@ -843,6 +984,10 @@ msgid ""
 "list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ by `Barton Poulson <https://"
 "datalab.cc/jamovi>`__."
 msgstr ""
+"Більш повний вступ до цього статистичного методу наведено у цьому `відео. "
+"<https://www.youtube.com/embed/"
+"_5AVGuEzCXc?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ від `Бартона "
+"Поулсона <https://datalab.cc/jamovi>`__."
 
 #: ../../analyses/jg_42_regression-linear.rst:0
 msgid ""
@@ -853,20 +998,28 @@ msgid ""
 "learnstatswithjamovi.com/>`__ by `Danielle J. Navarro <https://djnavarro.net/"
 ">`__ and `David R. Foxcroft <https://www.davidfoxcroft.com/>`__."
 msgstr ""
+"Для тих, хто прагне ще глибшого вступу, ви можете ознайомитися з відповідним "
+"розділом у веб-документації «Статистика навчання з jamovi» <https://"
+"lsj.readthedocs.io/en/latest/lsj/Ch12_Regression_03.html>`__ або з розділами "
+"12.3-11 електронної книги <https://www.learnstatswithjamovi.com/>`__ авторів "
+"`Даніель Дж. Наварро <https://djnavarro.net/>`__ та `Девід Р. Фокскрофт "
+"<https://www.davidfoxcroft.com/>`__."
 
 #: ../../analyses/jg_43_regression-logistic.rst:5
 msgid "Logistic Regression"
-msgstr ""
+msgstr "Логістична регресія"
 
 #: ../../analyses/jg_43_regression-logistic.rst:7
 msgid "How to perform a logistic regression in jamovi:"
-msgstr ""
+msgstr "Як виконати логістичну регресію в jamovi:"
 
 #: ../../analyses/jg_43_regression-logistic.rst:0
 msgid ""
 "You need one |nominal| |ordinal| categorical dependent variable (nominal or "
 "ordinal), and at least one continuous explanatory variable."
 msgstr ""
+"Вам потрібна одна |номінальна| |порядкова| категоріальна залежна змінна ("
+"номінальна або порядкова) та принаймні одна неперервна пояснювальна змінна."
 
 #: ../../analyses/jg_43_regression-logistic.rst:60
 msgid "ordinal"
@@ -888,6 +1041,11 @@ msgid ""
 "*more* than 2 steps. If the outcome variable is ordinal (e.g., low, medium, "
 "high), select ``Ordinal Outcomes``."
 msgstr ""
+"Логістичну регресію можна знайти, вибравши ``Analyses`` → ``Regression``. "
+"Якщо вихідна змінна номінальна (як на зображенні вище), виберіть ``2 "
+"Outcomes`` якщо він має 2 кроки / різні значення, або ``N outcomes`` якщо "
+"воно має *більше* ніж 2 кроки. Якщо вихідна змінна є порядковою (наприклад, "
+"низький, середній, високий), виберіть ``Ordinal Outcomes``."
 
 #: ../../analyses/jg_43_regression-logistic.rst:21
 msgid "|select_regression_logistic|"
@@ -902,6 +1060,8 @@ msgid ""
 "Drag and drop your dependent variable to ``Dependent Variable`` and your "
 "predictor to ``Covariates``."
 msgstr ""
+"Перетягніть залежну змінну до ``Dependent Variable`` і ваш провісник "
+"``Covariates``."
 
 #: ../../analyses/jg_43_regression-logistic.rst:27
 msgid "|add_var_regression_logistic|"
@@ -916,6 +1076,8 @@ msgid ""
 "Scroll down to the ``Model Coefficients`` drop-down-menu and check the "
 "options ``Odds ratio`` and ``Confidence interval``."
 msgstr ""
+"Прокрутіть униз до ``Model Coefficients`` випадаюче меню та перевірте "
+"параметри ``Odds ratio`` і ``Confidence interval``."
 
 #: ../../analyses/jg_43_regression-logistic.rst:33
 msgid "|options_regression_logistic|"
@@ -939,6 +1101,9 @@ msgid ""
 "doc:`side-by-side-comparison <../spss2jamovi/s2j_logReg>` of how a logistic "
 "regression is conducted in SPSS and jamovi."
 msgstr ""
+"Ті, хто має попередній досвід роботи з SPSS, можуть захотіти ознайомитися з "
+":doc:`side-by-side-comparison <../spss2jamovi/s2j_logReg>` про те, як "
+"проводиться логістична регресія в SPSS та jamovi."
 
 #: ../../analyses/jg_43_regression-logistic.rst:0
 msgid ""
@@ -951,10 +1116,18 @@ msgid ""
 "(to predict, e.g., food preferences: fast food, healthy food, high protein "
 "food, vegan food, etc.)."
 msgstr ""
+"Трохи більш повне введення в цей статистичний метод надається у цих двох "
+"відео, що пояснюють логістичну регресію з `двома рівнями <https://"
+"www.youtube.com/embed/s7GL0z-3ymA?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`"
+"__ (для прогнозування, наприклад, статі або клінічної групи проти "
+"контрольної) та з `більш ніж двома рівнями <https://www.youtube.com/embed/"
+"nuyEUEBf-GQ?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ (для прогнозування, "
+"наприклад, харчових уподобань: фастфуд, здорова їжа, їжа з високим вмістом "
+"білка, веганська їжа тощо)."
 
 #: ../../analyses/jg_overview.rst:5
 msgid "Analyses: Introduction"
-msgstr ""
+msgstr "Аналізи: Вступ"
 
 #: ../../analyses/jg_overview.rst:7
 msgid ""
@@ -965,6 +1138,12 @@ msgid ""
 "analyses, we'd recommend you take a look at the many `community resources "
 "<https://www.jamovi.org/community.html>`__ available."
 msgstr ""
+"Мета наступного розділу — надати короткі, нетехнічні навчальні посібники "
+"щодо проведення поширених статистичних процедур у jamovi. Спочатку розділ "
+"був створений Йонасом Рафі під назвою jamovi guide. Однак, це лише короткий "
+"огляд. Для більш глибокого ознайомлення з цими аналізами ми рекомендуємо вам "
+"ознайомитися з численними доступними `ресурсами спільноти <https://"
+"www.jamovi.org/community.html>`__."
 
 #: ../../analyses/jg_overview.rst:14
 msgid ""
@@ -983,14 +1162,27 @@ msgid ""
 "the data simply needs to be the correct 'shape', and you can save yourself "
 "the labour of setting the measure types correctly if you don't want to."
 msgstr ""
+"**Примітка щодо типів вимірювань**: У наступній документації описано кожен з "
+"аналізів та необхідні типи змінних мір. Наприклад, може бути пояснено, що "
+"для певного аналізу потрібна неперервна |continuous| залежна змінна та "
+"номінальна |nominal| групувальна змінна. Однак можливо, що стовпці у вашому "
+"наборі даних з різних причин не налаштовані з правильними типами мір (як "
+"зазначено в заголовку стовпця). Ви можете налаштувати тип міри стовпців за "
+"допомогою редактора змінних, проте (здебільшого) ці типи мір є лише "
+"орієнтиром і не потребують правильного налаштування. Якщо ви призначите "
+"|continuous| безперервну змінну аналізу, який очікує |nominal| номінальну, "
+"аналіз просто трактуватиме змінну як номінальну. Все це для того, щоб "
+"сказати, що якщо в документації зазначено, що потрібен певний тип міри, дані "
+"просто повинні мати правильну «форму», і ви можете заощадити собі зусилля на "
+"правильне налаштування типів мір, якщо не хочете."
 
 #: ../../analyses/jg_overview.rst:33
 msgid "Descriptive statistics"
-msgstr ""
+msgstr "Описова статистика"
 
 #: ../../analyses/jg_overview.rst:44
 msgid "t-tests"
-msgstr ""
+msgstr "t-тести"
 
 #: ../../analyses/jg_overview.rst:46
 msgid ""
@@ -998,10 +1190,13 @@ msgid ""
 "data set deviates significantly from a null hypothesis (which assumes that "
 "there is no difference)."
 msgstr ""
+"T-критерій використовується для перевірки того, чи суттєво відхиляється "
+"середнє значення в нормально розподіленому наборі даних від нульової "
+"гіпотези (яка припускає відсутність різниці)."
 
 #: ../../analyses/jg_overview.rst:50
 msgid "There are three types of t-tests:"
-msgstr ""
+msgstr "Існує три типи t-тестів:"
 
 #: ../../analyses/jg_overview.rst:0
 msgid ""
@@ -1010,10 +1205,13 @@ msgid ""
 "list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ by `Barton Poulson <https://"
 "datalab.cc/jamovi>`__."
 msgstr ""
+"Більш повний вступ до концепції представлено в цьому `відео <https://"
+"www.youtube.com/embed/mb7KCLYEis8?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`"
+"__ від `Бартон Поулсон <https://datalab.cc/jamovi>`__."
 
 #: ../../analyses/jg_overview.rst:70
 msgid "Analyses of Variance (ANOVA)"
-msgstr ""
+msgstr "Дисперсійний аналіз (ANOVA)"
 
 #: ../../analyses/jg_overview.rst:72
 msgid ""
@@ -1027,6 +1225,15 @@ msgid ""
 "that, in that factors can have several levels (t-tests only allow two), and "
 "in that several factors can be examined simultaneously."
 msgstr ""
+"Дисперсійний аналіз (ANOVA) – це статистичний метод, який досліджує, як "
+"вплив одного або кількох факторів впливає на результатну (залежну) змінну. "
+"Ці фактори є предикторними змінними та є категоріальними. Як правило, такі "
+"фактори відображають експериментальну маніпуляцію (наприклад, з лікуванням "
+"або без нього), але фактор також може представляти групи, вплив яких "
+"потрібно контролювати (наприклад, стать: чоловіки чи жінки). Дисперсійний "
+"аналіз базується на концепції, подібній до t-тесту, але він виходить за її "
+"межі, оскільки фактори можуть мати кілька рівнів (t-тести дозволяють лише "
+"два), і кілька факторів можна досліджувати одночасно."
 
 #: ../../analyses/jg_overview.rst:82
 msgid ""
@@ -1034,6 +1241,9 @@ msgid ""
 "number of factors examined - one or more factors - or whether they compare "
 "between people or within a person - repeated measurements:"
 msgstr ""
+"Існують різні типи дисперсійного аналізу, які відрізняються кількістю "
+"досліджуваних факторів – один чи декілька факторів – або тим, чи "
+"порівнюються вони між людьми чи в межах однієї людини – повторні вимірювання:"
 
 #: ../../analyses/jg_overview.rst:0
 msgid ""
@@ -1042,10 +1252,14 @@ msgid ""
 "list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ by `Barton Poulson <https://"
 "datalab.cc/jamovi>`__."
 msgstr ""
+"У цій статті представлено вступ до концепції дисперсійного аналізу (ANOVA). `"
+"відео <https://www.youtube.com/embed/"
+"GcbMG6sizXs?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ від `Бартон Поулсон "
+"<https://datalab.cc/jamovi>`__."
 
 #: ../../analyses/jg_overview.rst:105
 msgid "Correlation and regression"
-msgstr ""
+msgstr "Кореляція та регресія"
 
 #: ../../analyses/jg_overview.rst:107
 msgid ""
@@ -1057,6 +1271,14 @@ msgid ""
 "more variables predict another (outcome) variable). Often, a distinction is "
 "made between linear and non-linear (e.g., logistic regression)."
 msgstr ""
+"Кореляційний та регресійний аналізи – це статистичні методи для оцінки "
+"зв'язків між залежною/результуючою змінною та однією або кількома "
+"незалежними/предикторними змінними. У той час як *кореляційний* аналіз "
+"досліджує *зв'язок* між одним предиктором та однією результатною змінною, "
+"*регресійний* аналіз в основному зосереджується на *прогнозі* (наскільки "
+"добре одна або кілька змінних можуть передбачити іншу (результуючу) змінну). "
+"Часто розрізняють лінійний та нелінійний аналізи (наприклад, логістична "
+"регресія)."
 
 #: ../../analyses/jg_overview.rst:0
 msgid ""
@@ -1065,3 +1287,7 @@ msgid ""
 "list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ by `Barton Poulson <https://"
 "datalab.cc/jamovi>`__."
 msgstr ""
+"У цій статті представлено вступ до концепції регресійного аналізу. `відео "
+"<https://www.youtube.com/embed/"
+"gRhVjKNWiUs?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn>`__ від `Бартон Поулсон "
+"<https://datalab.cc/jamovi>`__."
