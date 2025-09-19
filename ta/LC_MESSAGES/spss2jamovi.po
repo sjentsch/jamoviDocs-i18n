@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 12:29+0200\n"
-"PO-Revision-Date: 2025-09-15 05:01+0000\n"
+"PO-Revision-Date: 2025-09-19 15:01+0000\n"
 "Last-Translator: தமிழ்நேரம் <tamilneram247@gmail.com>\n"
 "Language-Team: Tamil <https://hosted.weblate.org/projects/jamovidocs/"
 "4_spss2jamovi/ta/>\n"
@@ -333,12 +333,16 @@ msgid ""
 "`SPSS output file containing the analyses <../../_static/output/"
 "s2j_Output_SPSS_ANCOVA1.spv>`_"
 msgstr ""
+"`பகுப்பாய்வுகளைக் கொண்ட SPSS வெளியீட்டு கோப்பு<../../_static/output/"
+"s2j_Output_SPSS_ANCOVA1.spv>`_"
 
 #: ../../spss2jamovi/s2j_ANCOVA.rst:76
 msgid ""
 "`jamovi file containing the analyses <../../_static/output/"
 "s2j_Output_jamovi_ANCOVA1.omv>`_"
 msgstr ""
+"`பகுப்பாய்வுகளைக் கொண்ட சாமோவி கோப்பு <../../_static/output/"
+"s2j_Output_jamovi_ANCOVA1.omv>`_"
 
 #: ../../spss2jamovi/s2j_ANCOVA.rst:90 ../../spss2jamovi/s2j_ANCOVA2.rst:52
 #: ../../spss2jamovi/s2j_ANCOVA3.rst:83 ../../spss2jamovi/s2j_ANCOVA4.rst:82
@@ -531,12 +535,16 @@ msgid ""
 "`SPSS output file containing the analyses <../../_static/output/"
 "s2j_Output_SPSS_ANCOVA2.spv>`_"
 msgstr ""
+"`பகுப்பாய்வுகளைக் கொண்ட SPSS வெளியீட்டு கோப்பு <../../_static/output/"
+"s2j_Output_SPSS_ANCOVA2.spv>`_"
 
 #: ../../spss2jamovi/s2j_ANCOVA2.rst:47
 msgid ""
 "`jamovi file containing the analyses <../../_static/output/"
 "s2j_Output_jamovi_ANCOVA2.omv>`_"
 msgstr ""
+"`பகுப்பாய்வுகளைக் கொண்ட ஜாமோவி கோப்பு <../../_static/output/"
+"s2j_Output_jamovi_ANCOVA2.omv>`_"
 
 #: ../../spss2jamovi/s2j_ANCOVA3.rst:7
 msgid ""
