@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-12 12:29+0200\n"
-"PO-Revision-Date: 2025-06-28 15:01+0000\n"
-"Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
+"PO-Revision-Date: 2025-09-20 17:01+0000\n"
+"Last-Translator: தமிழ்நேரம் <tamilneram247@gmail.com>\n"
 "Language-Team: Tamil <https://hosted.weblate.org/projects/jamovidocs/"
 "1_usermanual/ta/>\n"
 "Language: ta\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.13-dev\n"
+"X-Generator: Weblate 5.14-dev\n"
 "Generated-By: Babel 2.17.0\n"
 
 #: ../../usermanual/um_1_installation.rst:4
@@ -187,11 +187,11 @@ msgstr ""
 
 #: ../../usermanual/um_2_first-steps.rst:9
 msgid "|screenshot|"
-msgstr "|screenshot|"
+msgstr "| திரைக்காட்சி |"
 
 #: ../../usermanual/um_2_first-steps.rst:47
 msgid "screenshot"
-msgstr "screenshot"
+msgstr "திரைக்காட்சி"
 
 #: ../../usermanual/um_2_first-steps.rst:11
 msgid ""
@@ -231,11 +231,11 @@ msgstr ""
 
 #: ../../usermanual/um_2_first-steps.rst:27
 msgid "|csv-data|"
-msgstr "|csv-data|"
+msgstr "| CSV-DATA |"
 
 #: ../../usermanual/um_2_first-steps.rst:49
 msgid "csv-data"
-msgstr "csv-data"
+msgstr "CSV-DATA"
 
 #: ../../usermanual/um_2_first-steps.rst:29
 msgid ""
@@ -394,35 +394,35 @@ msgstr "மற்றும் நான்கு அளவீட்டு வக
 
 #: ../../usermanual/um_4_spreadsheet.rst:23
 msgid "|nominal|    ``Nominal``"
-msgstr "|nominal|    ``Nominal``"
+msgstr "| பெயரளவு | `` பெயரளவு``"
 
 #: ../../usermanual/um_4_spreadsheet.rst:438
 msgid "nominal"
-msgstr "nominal"
+msgstr "பெயரளவு"
 
 #: ../../usermanual/um_4_spreadsheet.rst:24
 msgid "|ordinal|    ``Ordinal``"
-msgstr "|ordinal|    ``Ordinal``"
+msgstr "| ஆர்டினல் | `` ஆர்டினல்``"
 
 #: ../../usermanual/um_4_spreadsheet.rst:440
 msgid "ordinal"
-msgstr "ordinal"
+msgstr "சாதாரண"
 
 #: ../../usermanual/um_4_spreadsheet.rst:25
 msgid "|continuous| ``Continuous``"
-msgstr "|continuous| ``Continuous``"
+msgstr "| தொடர்ச்சியான | `` தொடர்ச்சியான``"
 
 #: ../../usermanual/um_4_spreadsheet.rst:442
 msgid "continuous"
-msgstr "continuous"
+msgstr "தொடர்ச்சியான"
 
 #: ../../usermanual/um_4_spreadsheet.rst:26
 msgid "|id|         ``ID``"
-msgstr "|id|         ``ID``"
+msgstr "| அடையாளம் | `` ஐடி``"
 
 #: ../../usermanual/um_4_spreadsheet.rst:444
 msgid "id"
-msgstr "id"
+msgstr "ஐடி"
 
 #: ../../usermanual/um_4_spreadsheet.rst:29
 msgid ""
@@ -634,11 +634,11 @@ msgstr "தேர்ந்தெடுக்கப்பட்ட மாறி�
 
 #: ../../usermanual/um_4_spreadsheet.rst:150
 msgid "|um_transform_create1|"
-msgstr "|um_transform_create1|"
+msgstr "| um_transform_create1 |"
 
 #: ../../usermanual/um_4_spreadsheet.rst:447
 msgid "um_transform_create1"
-msgstr "um_transform_create1"
+msgstr "UM_TRANSFORM_CREATE1"
 
 #: ../../usermanual/um_4_spreadsheet.rst:152
 msgid "or head to the ``Data``-ribbon, and click ``Transform:``"
@@ -646,7 +646,7 @@ msgstr "அல்லது `` தரவு``-ரிப்பனுக்கு�
 
 #: ../../usermanual/um_4_spreadsheet.rst:154
 msgid "|um_transform_create2|"
-msgstr "|um_transform_create2|"
+msgstr "| um_transform_create2 |"
 
 #: ../../usermanual/um_4_spreadsheet.rst:448
 msgid "um_transform_create2"
@@ -667,7 +667,7 @@ msgstr ""
 
 #: ../../usermanual/um_4_spreadsheet.rst:161
 msgid "|um_transform_create3|"
-msgstr "|um_transform_create3|"
+msgstr "| um_transform_create3 |"
 
 #: ../../usermanual/um_4_spreadsheet.rst:449
 msgid "um_transform_create3"
@@ -709,11 +709,11 @@ msgstr ""
 
 #: ../../usermanual/um_4_spreadsheet.rst:179
 msgid "|um_transform_edit1|"
-msgstr "|um_transform_edit1|"
+msgstr "| UM_TRANSFORM_EDIT1 |"
 
 #: ../../usermanual/um_4_spreadsheet.rst:450
 msgid "um_transform_edit1"
-msgstr "um_transform_edit1"
+msgstr "UM_TRANSFORM_EDIT1"
 
 #: ../../usermanual/um_4_spreadsheet.rst:181
 msgid "The transform editor contains these elements."
@@ -819,17 +819,19 @@ msgstr ""
 
 #: ../../usermanual/um_4_spreadsheet.rst:232
 msgid "|um_transform_ex1|"
-msgstr "|um_transform_ex1|"
+msgstr "| um_transform_ex1 |"
 
 #: ../../usermanual/um_4_spreadsheet.rst:451
 msgid "um_transform_ex1"
-msgstr "um_transform_ex1"
+msgstr "UM_TRANSFORM_EX1"
 
 #: ../../usermanual/um_4_spreadsheet.rst:234
 msgid ""
 "You can explore this transform by downloading and opening the data set |"
 "um_transform_ex1_omv|_ in jamovi."
 msgstr ""
+"சமோவியில் தரவு தொகுப்பை | UM_TRANSFORM_EX1_OMV | _ பதிவிறக்கம் செய்து திறப்பதன் மூலம்"
+" இந்த மாற்றத்தை ஆராயலாம்."
 
 #: ../../usermanual/um_4_spreadsheet.rst:238
 msgid "**Example 2: Recoding continuous variables into categories**"
@@ -849,11 +851,11 @@ msgstr ""
 
 #: ../../usermanual/um_4_spreadsheet.rst:245
 msgid "|um_transform_ex2|"
-msgstr "|um_transform_ex2|"
+msgstr "| UM_TRANSFORM_EX2 |"
 
 #: ../../usermanual/um_4_spreadsheet.rst:452
 msgid "um_transform_ex2"
-msgstr "um_transform_ex2"
+msgstr "Um_transform_ex2"
 
 #: ../../usermanual/um_4_spreadsheet.rst:247
 msgid ""
@@ -865,6 +867,13 @@ msgid ""
 "the value will be ``Pass``. If you’d like an example data set to play around "
 "with, you can download and use |um_transform_ex2_omv|_\\."
 msgstr ""
+"நிபந்தனைகள் வரிசையில் செயல்படுத்தப்படுகின்றன என்பதையும், வழக்குடன் பொருந்தக்கூடிய முதல் "
+"விதி மட்டுமே அந்த வழக்கில் பயன்படுத்தப்படுகிறது என்பதையும் நினைவில் கொள்க. எனவே இந்த "
+"மாற்றம் அடிப்படையில் மூல மாறிக்கு 50 க்கும் குறைவான மதிப்பு இருந்தால், மதிப்பு `` "
+"தோல்வி``, மூல மாறிக்கு 50 முதல் 60 வரை மதிப்பு இருந்தால், மதிப்பு `` மறுசீரமைப்பு`` "
+"ஆக இருக்கும், மேலும் மூல மாறி 60 க்கு மேல் மதிப்பைக் கொண்டிருந்தால், மதிப்பு `` பாச்``. "
+"நீங்கள் ஒரு எடுத்துக்காட்டு தரவை விரும்பினால், நீங்கள் பதிவிறக்கம் செய்து பயன்படுத்தலாம் | "
+"UM_TRANSFORM_EX2_OMV | _."
 
 #: ../../usermanual/um_4_spreadsheet.rst:256
 msgid "**Example 3: Replacing missing values**"
@@ -891,11 +900,11 @@ msgstr ""
 
 #: ../../usermanual/um_4_spreadsheet.rst:267
 msgid "|um_transform_ex3|"
-msgstr "|um_transform_ex3|"
+msgstr "| UM_TRANSFORM_EX3 |"
 
 #: ../../usermanual/um_4_spreadsheet.rst:453
 msgid "um_transform_ex3"
-msgstr "um_transform_ex3"
+msgstr "Um_transform_ex3"
 
 #: ../../usermanual/um_4_spreadsheet.rst:269
 msgid ""
@@ -903,6 +912,9 @@ msgid ""
 "a good data set handy? You can try it out yourself by downloading and "
 "opening the |um_transform_ex3_omv|_ data set."
 msgstr ""
+"காணாமல் போன மதிப்புகளைக் குறிக்க சாமோவி ஆர் இலிருந்து நா ஐ கடன் வாங்கியுள்ளார் என்பதை "
+"நினைவில் கொள்க. நல்ல தரவு தொகுப்பு எளிதில் இல்லையா? | Um_transform_ex3_omv | _ தரவு"
+" தொகுப்பு பதிவிறக்கம் செய்து திறப்பதன் மூலம் அதை நீங்களே முயற்சி செய்யலாம்."
 
 #: ../../usermanual/um_4_spreadsheet.rst:275
 msgid "Filters"
@@ -1375,6 +1387,9 @@ msgid ""
 "jamovi, and jamovi from R. The syntax mode, ``Rj``, |jmvconnect| and |"
 "jmvReadWrite| help you to achieve that."
 msgstr ""
+"சாமோவியின் ஒரு பெரிய நன்மை என்னவென்றால், இது ஆர் புள்ளிவிவர மொழியின் மேல் "
+"கட்டமைக்கப்பட்டுள்ளது மட்டுமல்லாமல், சாமோவியிடமிருந்து ஆர் மற்றும் ஆர். மற்றும் | "
+"JMVREADWRITE | அதை அடைய உங்களுக்கு உதவுங்கள்."
 
 #: ../../usermanual/um_6_jamovi_and_R.rst:12
 msgid "Syntax Mode"
@@ -1415,6 +1430,10 @@ msgid ""
 "write jamovi data files (.omv) in R, |jmvconnect|_ permits you to access "
 "data sets that you have opened in your jamovi session from R."
 msgstr ""
+"வழங்கப்பட்ட ஆர் தொடரியல் தரவு இறக்குமதி படி அல்ல, ஆனால் R தொகுப்புகள் | JMVConnect | _ "
+"மற்றும் | JMVReadWrite | _ (கீழே மேலும் விரிவாக விளக்கப்பட்டுள்ளது) பயன்படுத்துவதன் மூலம்"
+" இதை எளிதாக அடைய முடியும். | jmvreadwrite | _ r, | jmvconnect | _ உங்கள் சாமோவி "
+"அமர்வில் நீங்கள் திறந்த தரவுத் தொகுப்புகளை ஆர்."
 
 #: ../../usermanual/um_6_jamovi_and_R.rst:43
 msgid "``Rj`` Editor"
@@ -1436,11 +1455,11 @@ msgstr ""
 
 #: ../../usermanual/um_6_jamovi_and_R.rst:51
 msgid "|um_Rj1|"
-msgstr "|um_Rj1|"
+msgstr "| UM_RJ1 |"
 
 #: ../../usermanual/um_6_jamovi_and_R.rst:265
 msgid "um_Rj1"
-msgstr "um_Rj1"
+msgstr "UM_RJ1"
 
 #: ../../usermanual/um_6_jamovi_and_R.rst:53
 msgid ""
@@ -1481,7 +1500,7 @@ msgstr ""
 
 #: ../../usermanual/um_6_jamovi_and_R.rst:69
 msgid "|um_Rj2|"
-msgstr "|um_Rj2|"
+msgstr "| UM_RJ2 |"
 
 #: ../../usermanual/um_6_jamovi_and_R.rst:266
 msgid "um_Rj2"
@@ -1532,7 +1551,7 @@ msgstr ""
 
 #: ../../usermanual/um_6_jamovi_and_R.rst:100
 msgid "``jmvconnect`` R package"
-msgstr ""
+msgstr "`` jmvconnect`` r தொகுப்பு"
 
 #: ../../usermanual/um_6_jamovi_and_R.rst:102
 msgid ""
@@ -1540,6 +1559,8 @@ msgid ""
 "access the data sets that you opened in jamovi. You can install it in ``R`` "
 "with:"
 msgstr ""
+"| Jmvconnect | _ r தொகுப்பு உங்கள் கணினியில் `` r`` பதிப்பை சாமோவியில் நீங்கள் திறந்த "
+"தரவுத் தொகுப்புகளை அணுக அனுமதிக்கிறது. நீங்கள் அதை `` r`` உடன் நிறுவலாம்:"
 
 #: ../../usermanual/um_6_jamovi_and_R.rst:109
 msgid ""
@@ -1610,13 +1631,15 @@ msgstr "இந்த இரண்டு கட்டளைகளில் ஒன
 
 #: ../../usermanual/um_6_jamovi_and_R.rst:165
 msgid "``jmvReadWrite`` R package"
-msgstr ""
+msgstr "`` jmvreadwrite` r தொகுப்பு"
 
 #: ../../usermanual/um_6_jamovi_and_R.rst:167
 msgid ""
 "The |jmvReadWrite|_ R package reads and writes jamovi-data-files (.omv) in "
 "``R``. It can be installed with:"
 msgstr ""
+"| Jmvreadwrite | _ r தொகுப்பு `` r`` இல் சாமோவி-டேட்டா-கோப்புகளை (.omv) படித்து "
+"எழுதுகிறது. இதை நிறுவலாம்:"
 
 #: ../../usermanual/um_6_jamovi_and_R.rst:175
 msgid ""
@@ -1626,6 +1649,11 @@ msgid ""
 "easiest achieved in R. Once you have assembled your dataset from these "
 "files, you can write it using the ``write_omv()``-function."
 msgstr ""
+"ஒரு பெரிய எண்ணிக்கையிலான முடிவு கோப்புகளை (எ.கா., ஒரு பரிசோதனையில் "
+"பங்கேற்பாளர்களிடமிருந்து அல்லது வெவ்வேறு கேள்வித்தாள்களின் பதில்களுடன்) செயலாக்க "
+"விரும்பினால் ஒரு பொதுவான பயன்பாட்டு வழக்கு. ஆர். இல் ரேங்கிங் தரவு பெரும்பாலும் எளிதானது"
+". இந்த கோப்புகளிலிருந்து உங்கள் தரவுத்தொகுப்பை நீங்கள் கூடியவுடன், `` write_omv () "
+"``-செயல்பாட்டைப் பயன்படுத்தி அதை எழுதலாம்."
 
 #: ../../usermanual/um_6_jamovi_and_R.rst:190
 msgid ""
@@ -1634,6 +1662,10 @@ msgid ""
 "manipulations that currently are not possible in jamovi, and then writing "
 "back the resulting modified file (in the jamovi file format)."
 msgstr ""
+"அதேபோல் `` read_omv`` செயல்பாடும் சாமோவி-டேட்டா-கோப்புகளை `` r`` இல் படிக்க "
+"அனுமதிக்கிறது. மற்றொரு பொதுவான பயன்பாட்டு வழக்கு ஒரு தரவுக் கோப்பைப் படிப்பது, தற்போது "
+"சாமோவியில் சாத்தியமில்லாத கையாளுதல்களைச் செய்து, அதன் விளைவாக மாற்றியமைக்கப்பட்ட கோப்பை "
+"மீண்டும் எழுதுகிறது (சாமோவி கோப்பு வடிவத்தில்)."
 
 #: ../../usermanual/um_6_jamovi_and_R.rst:206
 msgid ""
@@ -1647,6 +1679,11 @@ msgid ""
 "(``merge_rows_omv``), or sort a data set after one or more variables "
 "(``sort_omv``)."
 msgstr ""
+"| JMVREADWRITE | _ இல் இரண்டு உதவி செயல்பாடுகள் செயல்படுத்தப்படுகின்றன. அவை தரவுத் "
+"தொகுப்பின் நெடுவரிசைகள் / மாறிகள் (`` ஏற்பாடு_கோல்ச்_ஓம்வி``), ஒரு தரவுக் கோப்புகளை "
+"சாமோவி கோப்பு வடிவத்தில் வெகுசன-மாற்றுதல் (`` `` கன்வெர்ட்_டோ_ஓஎம்.வி``; '; எ.கா. நீங்கள்"
+" முன்னர் பயன்படுத்திய ஒரு புள்ளிவிவரங்கள் மற்றும் `நீண்ட காலத்திலிருந்து) முதல் வடிவத்தில் "
+"இருந்து மாற்றுவது போன்ற செயல்பாடுகளை அவை செயல்படுத்துகின்றன. ."
 
 #: ../../usermanual/um_6_jamovi_and_R.rst:216
 msgid ""
@@ -1659,6 +1696,14 @@ msgid ""
 "below). Tables from the results can be converted into a data frame with the "
 "function ``asDF`` (e.g., ``result$main$asDF``)."
 msgstr ""
+"`` Read_omv`` க்கான மற்றொரு சாத்தியமான பயன்பாட்டு வழக்கு உங்கள் சாமோவி பகுப்பாய்வுகளின் "
+"முடிவுகளைப் பயன்படுத்தி ஆர் மார்க் பேரூர் கோப்புகளை உருவாக்குவதாகும். கோப்பில் உள்ள "
+"பகுப்பாய்வுகளின் தொடரியல் பிரித்தெடுக்கப்படுகிறதா என்பதை `` getsyn``-அளவுரு "
+"தீர்மானிக்கிறது. தொடரியல் இயக்க, | JMV | _ R தொகுப்பு நிறுவப்பட வேண்டும். பின்னர் "
+"முடிவுகளுடன் நீங்கள் பணியாற்ற விரும்பினால், அவற்றை ஒரு மாறிக்கு ஒதுக்க "
+"பரிந்துரைக்கப்படுகிறது (கீழே உள்ள இரண்டாவது `` எவால்`` ஐப் பார்க்கவும்). "
+"முடிவுகளிலிருந்து அட்டவணைகள் `` ASDF`` (எ.கா., `` முடிவு $ முதன்மை $ ASDF``) "
+"செயல்பாட்டுடன் தரவு சட்டமாக மாற்றப்படலாம்."
 
 #~ msgid ""
 #~ "You can explore this transform by `downloading <../_static/output/"
