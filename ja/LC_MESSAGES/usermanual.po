@@ -1,18 +1,18 @@
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version:  jamovi\n"
+"Project-Id-Version: jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-12 12:29+0200\n"
-"PO-Revision-Date: 2025-04-28 02:48+0000\n"
+"PO-Revision-Date: 2025-09-25 10:02+0000\n"
 "Last-Translator: SHIBATA Seiji <contact@sbtseiji.net>\n"
-"Language-Team: Japanese <https://hosted.weblate.org/projects/"
-"jamovidocs/1_usermanual/ja/>\n"
+"Language-Team: Japanese <https://hosted.weblate.org/projects/jamovidocs/"
+"1_usermanual/ja/>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.14-dev\n"
 "Generated-By: Babel 2.17.0\n"
 
 #: ../../usermanual/um_1_installation.rst:4
@@ -814,13 +814,13 @@ msgid "um_transform_ex1"
 msgstr "um_transform_ex1"
 
 #: ../../usermanual/um_4_spreadsheet.rst:234
-#, fuzzy
 msgid ""
 "You can explore this transform by downloading and opening the data set |"
 "um_transform_ex1_omv|_ in jamovi."
 msgstr ""
-"この変換は、 `サンプルデータ <../_static/output/um_transform_ex1.omv>` をダウ"
-"ンロードし、jamoviで ``transform_ex1`` ファイルを開くことで確認できます。"
+"この変換は、 `サンプルデータ <../_static/output/um_transform_ex1.omv>` "
+"をダウンロードし、jamoviで ``transform_ex1`` "
+"ファイルを開くことで確認できます。"
 
 #: ../../usermanual/um_4_spreadsheet.rst:238
 msgid "**Example 2: Recoding continuous variables into categories**"
@@ -846,7 +846,6 @@ msgid "um_transform_ex2"
 msgstr "um_transform_ex2"
 
 #: ../../usermanual/um_4_spreadsheet.rst:247
-#, fuzzy
 msgid ""
 "Note that the conditions are executed in order, and that only the first rule "
 "that matches the case is applied to that case. So this transformation "
@@ -857,10 +856,11 @@ msgid ""
 "with, you can download and use |um_transform_ex2_omv|_\\."
 msgstr ""
 "条件は上から順に実行され、最初に該当したルールだけがそのケースに適用されるこ"
-"とに注意してください。つまり、この変換は「変換元の変数が50点未満なら値は ``不"
-"合格`` 、50点以上60点以下なら値は ``再試験`` 、60点より大きければ値は ``合格"
-"`` という意味になります。試してみたい場合は、 ``transform_ex2.omv`` を `ダウ"
-"ンロード <../_static/output/um_transform_ex2.omv>` して使うことができます。"
+"とに注意してください。つまり、この変換は「変換元の変数が50点未満なら値は "
+"``不合格`` 、50点以上60点以下なら値は ``再試験`` 、60点より大きければ値は "
+"``合格`` という意味になります。試してみたい場合は、 ``transform_ex2.omv`` を "
+"`ダウンロード <../_static/output/um_transform_ex2.omv>` "
+"して使うことができます。"
 
 #: ../../usermanual/um_4_spreadsheet.rst:256
 msgid "**Example 3: Replacing missing values**"
@@ -893,16 +893,15 @@ msgid "um_transform_ex3"
 msgstr "um_transform_ex3"
 
 #: ../../usermanual/um_4_spreadsheet.rst:269
-#, fuzzy
 msgid ""
 "Note that jamovi has borrowed NA from R to denote missing values. Don’t have "
 "a good data set handy? You can try it out yourself by downloading and "
 "opening the |um_transform_ex3_omv|_ data set."
 msgstr ""
-"jamoviでは、Rと同様に欠損値に NA を使用していることに注意してください。適当な"
-"データセットが手元にない場合は、 ``transform_ex3.omv`` データセットを `ダウン"
-"ロード <../_static/output/um_transform_ex3.omv>` して、自分で試すことができま"
-"す。"
+"jamoviでは、Rと同様に欠損値に NA "
+"を使用していることに注意してください。適当なデータセットが手元にない場合は、 "
+"``transform_ex3.omv`` データセットを `ダウンロード <../_static/output/"
+"um_transform_ex3.omv>` して、自分で試すことができます。"
 
 #: ../../usermanual/um_4_spreadsheet.rst:275
 msgid "Filters"
