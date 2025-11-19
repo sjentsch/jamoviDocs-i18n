@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jamovi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-12 12:29+0200\n"
-"PO-Revision-Date: 2025-09-25 10:02+0000\n"
+"PO-Revision-Date: 2025-11-19 08:51+0000\n"
 "Last-Translator: SHIBATA Seiji <contact@sbtseiji.net>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/jamovidocs/"
 "2_analyses/ja/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.14-dev\n"
+"X-Generator: Weblate 5.15-dev\n"
 "Generated-By: Babel 2.17.0\n"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:5
@@ -26,8 +26,8 @@ msgstr "jamoviにおける記述統計とグラフの作成方法は次のとお
 #: ../../analyses/jg_11_descriptive-analyses.rst:0
 msgid "Select ``Analyses`` → ``Exploration`` → ``Descriptives``."
 msgstr ""
-"``分析`` （Analyses） → ``探索`` （Exploration） → ``記述統計`` "
-"（Descriptives）を選択します。"
+"``Analyses`` （分析） → ``Exploration`` （探索） → ``Descriptives`` （記述統"
+"計）を選択します。"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:11
 msgid "|select_descriptives|"
@@ -41,9 +41,8 @@ msgstr "select_descriptives"
 msgid ""
 "Drag and drop the variables you want descriptive analyses for to "
 "``Variables``."
-msgstr ""
-"記述統計を実施したい変数を ``変数`` （Variables） にドラッグ＆ドロップしま"
-"す。"
+msgstr "記述統計を実施したい変数を ``Variables`` （変数） にドラッグ＆ドロップします"
+"。"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:18
 msgid "|add_var_descriptives|"
@@ -75,7 +74,7 @@ msgid ""
 "separate by gender), move that variable to ``Split by``."
 msgstr ""
 "記述統計をカテゴリ変数（例：性別など）ごとに分割して実施したい場合は、その変"
-"数を「 ``グループ変数`` （Split by）」に移動してください。"
+"数を「 ``Split by`` （グループ変数）」に移動してください。"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:32
 msgid "|add_var_descriptives_groupby|"
@@ -99,8 +98,7 @@ msgstr "output_descriptives_groupby"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:0
 msgid "Click the ``Statistics`` tab to see more alternatives."
-msgstr ""
-"``統計量`` （Statistics）タブをクリックすると、多数の選択肢が表示されます。"
+msgstr "``Statistics`` （統計量）タブをクリックすると、多数の選択肢が表示されます。"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:42
 msgid "|select_descriptives_statistics|"
@@ -117,10 +115,10 @@ msgid ""
 "and to check whehter your variables conform with a normal distribution, then "
 "you should tick ``Box plot``, ``Violin``, and ``Q-Q``."
 msgstr ""
-"上記の選択に基づいてグラフを作成するには、 ``グラフ`` （Plots）タブをクリック"
+"上記の選択に基づいてグラフを作成するには、 ``Plots`` （グラフ）タブをクリック"
 "し、希望するグラフのチェックボックスにチェックを入れてください。外れ値を特定"
-"したい場合や、変数が正規分布に従っているかを確認したい場合は、 ``箱ひげ図`` "
-"（Box Plots）、 ``バイオリン図`` （Violin）、 ``Q-Qプロット`` （Q-Q）にチェッ"
+"したい場合や、変数が正規分布に従っているかを確認したい場合は、 ``Box Plots`` "
+"（箱ひげ図）、 ``Violin`` （バイオリン図）、 ``Q-Q`` （Q-Qプロット）にチェッ"
 "クを入れてください。"
 
 #: ../../analyses/jg_11_descriptive-analyses.rst:49
@@ -225,8 +223,8 @@ msgstr "data_format_ttest_independent"
 #: ../../analyses/jg_21_t-test-independent.rst:0
 msgid "Select ``Analyses`` → ``T-Tests`` → ``Independent Samples T-Test``."
 msgstr ""
-"``分析`` （Analyses） → ``t検定`` （T-Tests） → ``対応なしt検定`` "
-"（Independent Samples T-Test）を選択します。"
+"``Analyses`` （分析） → ``T-Tests`` （t検定） → ``Independent Samples "
+"T-Test`` （対応なしt検定）を選択します。"
 
 #: ../../analyses/jg_21_t-test-independent.rst:19
 msgid "|select_ttest_independent|"
@@ -241,8 +239,8 @@ msgid ""
 "Drag and drop your outcome variable to ``Dependent Variables`` and your "
 "grouping variable to ``Grouping Variable``."
 msgstr ""
-"結果変数を ``従属変数`` （Dependent Variables）に、グループ変数を ``グループ"
-"変数`` （Grouping Variable）にドラッグ＆ドロップします。"
+"結果変数を ``Dependent Variables`` （従属変数）に、グループ変数を ``Grouping "
+"Variable`` （グループ変数）にドラッグ＆ドロップします。"
 
 #: ../../analyses/jg_21_t-test-independent.rst:25
 msgid "|add_var_ttest_independent|"
@@ -338,8 +336,8 @@ msgstr "data_format_ttest_paired"
 #: ../../analyses/jg_22_t-test-paired.rst:0
 msgid "Select ``Analyses`` → ``T-Tests`` → ``Paired Samples T-Test``."
 msgstr ""
-"``分析`` （Analyses）→ ``t検定`` （T-Tests）→ ``対応ありt検定`` （Paired "
-"Samples T-Test）を選択します。"
+"``Analyses`` （分析）→ ``T-Tests`` （t検定）→ ``Paired Samples T-Test`` （対"
+"応ありt検定）を選択します。"
 
 #: ../../analyses/jg_22_t-test-paired.rst:20
 msgid "|select_ttest_paired|"
@@ -355,7 +353,7 @@ msgid ""
 "one at a time, or select both variables in a pair by holding down the Ctrl-"
 "key while clicking on each, before dragging them across)."
 msgstr ""
-"2つの変数を ``ペア変数`` （Paired Variables）にドラッグ＆ドロップします（１つ"
+"2つの変数を ``Paired Variables`` （ペア変数）にドラッグ＆ドロップします（１つ"
 "ずつドラッグしてもいいですし、Ctrlキーを押しながらクリックすれば両方の変数を"
 "選択できるので、それらを同時にドラッグしても構いません）。"
 
