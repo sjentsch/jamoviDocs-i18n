@@ -1,19 +1,18 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: \n"
+"Report-Msgid-Bugs-To: sebastian.jentschke@uib.no\n"
 "POT-Creation-Date: 2025-06-12 12:29+0200\n"
-"PO-Revision-Date: 2025-05-29 08:01+0000\n"
+"PO-Revision-Date: 2026-02-17 11:09+0000\n"
 "Last-Translator: SHIBATA Seiji <contact@sbtseiji.net>\n"
-"Language-Team: Japanese <https://hosted.weblate.org/projects/"
-"jamovidocs/3_howto/ja/>\n"
+"Language-Team: Japanese <https://hosted.weblate.org/projects/jamovidocs/"
+"3_howto/ja/>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.12-dev\n"
+"X-Generator: Weblate 5.16\n"
 "Generated-By: Babel 2.17.0\n"
 
 #: ../../howto/howto_Filtering_data.rst:5
@@ -48,15 +47,17 @@ msgid ""
 "there also is a switch where you can activate or deactivate the filter (see "
 "the comment in red below)"
 msgstr ""
+"フィルタを有効化または無効化できるスイッチもあります（下の赤字のコメントを参"
+"照）"
 
 #: ../../howto/howto_Filtering_data.rst:0
 msgid ""
 "you close the filter settings by pressing the arrow in the top-right corner"
-msgstr ""
+msgstr "右上の矢印を押して、フィルタ設定を閉じます"
 
 #: ../../howto/howto_Filtering_data.rst:0
 msgid "there are three large approaches, to exclude outliers:"
-msgstr ""
+msgstr "外れ値を除外するには、大きく分けて3つのアプローチがあります。"
 
 #: ../../howto/howto_Filtering_data.rst:19
 msgid ""
@@ -64,16 +65,20 @@ msgid ""
 "a probability of 0.1% = 1 / 1000; based upon a standard normal distribution "
 "~ parametric)"
 msgstr ""
+"zスコアに基づく方法（絶対値が3.3より大きい場合。これは確率0.1% = 1 / 1000に相"
+"当します。標準正規分布に基づくパラメトリック法）"
 
 #: ../../howto/howto_Filtering_data.rst:22
 msgid ""
 "based upon the IQR (like in a box plot; based upon ranks and quantiles ~ non-"
 "parametric)"
 msgstr ""
+"（箱ひげ図のように）IQR（四分位範囲）に基づく方法。順位と分位数に基づく"
+"ノンパラメトリック法）"
 
 #: ../../howto/howto_Filtering_data.rst:24
 msgid "based on the Mahalanobis distance (multivariate outliers)"
-msgstr ""
+msgstr "マハラノビス距離に基づく方法（多変量外れ値）"
 
 #: ../../howto/howto_Filtering_data.rst:0
 msgid ""
@@ -81,6 +86,9 @@ msgid ""
 "3. you have to use R-code (decribed two bullet point below); for 2. you "
 "could also do it visually (three bullet points below)"
 msgstr ""
+"1.と2.については、jamoviに関数が用意されています（次の箇条書きを参照）。3.に"
+"ついては、Rコードを使用する必要があります（2つ下の箇条書きで説明）。2.につい"
+"ては、視覚的に行うこともできます（3つ下の箇条書きを参照）"
 
 #: ../../howto/howto_Filtering_data.rst:0
 msgid ""
@@ -90,6 +98,9 @@ msgid ""
 "upon the output from the calculation of the Mahalanobis distance further "
 "below; third line):"
 msgstr ""
+"関数ベースの選択を使用することもできます。以下の関数は、zスコア（1行目）、四"
+"分位範囲（IQR、2行目）、または特定の行/行番号の除外（例：さらに下の"
+"マハラノビス距離の計算結果に基づく場合、3行目）に基づいて行を除外します。"
 
 #: ../../howto/howto_Filtering_data.rst:48
 msgid "|Outliers_Filter_Settings|"
@@ -104,11 +115,13 @@ msgid ""
 "the following code example detects multivariate outliers based upon the "
 "Mahalanobis distance (remember to adjust the variable names in VL)"
 msgstr ""
+"以下のコード例は、マハラノビス距離に基づいて多変量外れ値を検出します（VL内の"
+"変数名を調整することを忘れないでください）"
 
 #: ../../howto/howto_Filtering_data.rst:0
 msgid ""
 "the output from the ``R``-code tells you which lines you should de-select"
-msgstr ""
+msgstr "``R`` コードの出力は、どの行を選択解除すべきかを示しています"
 
 #: ../../howto/howto_Filtering_data.rst:0
 msgid ""
@@ -116,11 +129,15 @@ msgid ""
 "and-paste them and run them by hitting the ►-button (the little green "
 "triangle)"
 msgstr ""
+"スクリプトは `Rj editor <jamovi-module_Rj>`__ 内で使用します。コピー＆"
+"ペーストして、►ボタン（緑色の小さな三角形）を押して実行してください"
 
 #: ../../howto/howto_Filtering_data.rst:0
 msgid ""
 "the filter conditions can then be combined using boolean ``and`` / ``or``:"
 msgstr ""
+"フィルタ条件は、ブール演算子の ``and`` / ``or`` を使って組み合わせることがで"
+"きます。"
 
 #: ../../howto/howto_Filtering_data.rst:0
 msgid ""
@@ -130,16 +147,23 @@ msgid ""
 "under ``Descriptives``, ensuring that the tick box ``Label outliers`` is set "
 "and exclude the row numbers that are marked as outliers)"
 msgstr ""
+"2行目（ ``MAXABSIQR`` ）を使用する代わりに、データセット内のそれぞれの行番号"
+"を除外することで（3行目のように）ケースの選択を解除することもできます。その場"
+"合、 ``Descriptives`` （記述統計）の箱ひげ図で外れ値を視覚的に確認し、 "
+"``Label outliers`` （外れ値にラベル）のチェックボックスがオンになっていること"
+"を確認した上で、外れ値としてマークされた行番号を除外します"
 
 #: ../../howto/howto_Install_modules.rst:5
 msgid "Install modules in jamovi"
-msgstr ""
+msgstr "jamoviにモジュールをインストールする"
 
 #: ../../howto/howto_Install_modules.rst:8
 msgid ""
 "Click on the «+»-icon in the top-right corner to install modules from the "
 "jamovi library."
 msgstr ""
+"右上の「＋」アイコンをクリックすると、jamoviライブラリからモジュールを"
+"インストールできます。"
 
 #: ../../howto/howto_Install_modules.rst:9
 msgid "|jamovi_Modules1|"
@@ -151,7 +175,7 @@ msgstr "jamovi_Modules1"
 
 #: ../../howto/howto_Install_modules.rst:11
 msgid "Choose the jamovi library from the menu that opens."
-msgstr ""
+msgstr "開いたメニューからjamoviライブラリを選択します。"
 
 #: ../../howto/howto_Install_modules.rst:12
 msgid "|jamovi_Modules2|"
@@ -168,6 +192,10 @@ msgid ""
 "would like to use. Finally, close this window by clicking on the arrow "
 "pointing up (top-right corner)."
 msgstr ""
+"開いたウィンドウで、まず «Available» （利用可能）（上部中央）をクリックします"
+"。次に、モジュールのリストを見て、使用したいモジュールの «INSTALL» （"
+"インストール）をクリックします。最後に、上向きの矢印（右上隅）をクリックして"
+"、このウィンドウを閉じます。"
 
 #: ../../howto/howto_Install_modules.rst:18
 msgid "|jamovi_Modules3|"
@@ -179,7 +207,7 @@ msgstr "jamovi_Modules3"
 
 #: ../../howto/howto_Use_PROCESS.rst:7
 msgid "Use the R-version of the PROCESS-macro from within jamovi"
-msgstr ""
+msgstr "jamoviからRのPROCESSマクロを使用する"
 
 #: ../../howto/howto_Use_PROCESS.rst:9
 msgid ""
@@ -189,6 +217,11 @@ msgid ""
 "``PROCESS v... for R`` and extract the ``process.R``-file into your "
 "``Documents``-directory."
 msgstr ""
+"準備：Rjをインストールし、 `PROCESSマクロ <from http://processmacro.org/"
+"download.html>`__\\\\ の最新バージョンをダウンロードする必要があります。"
+"ダウンロードしたZIPファイルを開き、 ``PROCESS v... for R`` フォルダに移動して"
+"、 ``process.R`` ファイルを ``Documents`` （ドキュメント）ディレクトリに展開"
+"してください。"
 
 #: ../../howto/howto_Use_PROCESS.rst:14
 msgid ""
@@ -197,6 +230,10 @@ msgid ""
 "jamovi module; if you have not installed it yet, you may check :doc:`Install "
 "modules in jamovi <howto_Install_modules>`)."
 msgstr ""
+"\"分析に使用したいデータファイルを開きます。その後、 ``Analyses`` （分析）"
+"アイコンバーの ``R`` シンボルを使って ``Rj`` を開きます（ ``Rj`` はjamoviの"
+"モジュールです。まだインストールしていない場合は、 :doc:`jamoviにモジュールを"
+"インストールする <howto_Install_modules>` を確認してください）。"
 
 #: ../../howto/howto_Use_PROCESS.rst:19
 msgid ""
@@ -204,14 +241,17 @@ msgid ""
 "the ``Rj`` text box for commands. You may just copy-and-paste the following "
 "code."
 msgstr ""
+"これで、jamovi内でRコードを記述する準備ができました。コマンド用の ``Rj`` "
+"テキストボックスで次のコードを実行してください。次のコードをコピー＆ペースト"
+"するだけで構いません。"
 
 #: ../../howto/howto_Use_PROCESS.rst:22
 msgid "on Windows"
-msgstr ""
+msgstr "Windowsの場合"
 
 #: ../../howto/howto_Use_PROCESS.rst:28
 msgid "on Mac and Linux"
-msgstr ""
+msgstr "MacおよびLinuxの場合"
 
 #: ../../howto/howto_Use_PROCESS.rst:34
 msgid ""
@@ -219,12 +259,18 @@ msgid ""
 "patient, it might take a moment (up to a minute, depending on how fast your "
 "computer is). You should see an output like this"
 msgstr ""
+"緑色の三角形を押して、このコード（ ``source…`` ）を実行します。しばらく時間が"
+"かかる場合があります（コンピュータの速度によっては最大1分程度）ので、お待ちく"
+"ださい。次のような出力が表示されるはずです"
 
 #: ../../howto/howto_Use_PROCESS.rst:51
 msgid ""
 "Afterwards, the PROCESS-macro is initialized and you can comment the line "
 "out (by putting a ``#`` at the start of the line) → ``# source(…``"
 msgstr ""
+"その後、PROCESSマクロが初期化されるので、そのあとは行をコメントアウトできます"
+"（ ``# source(…`` のように行の先頭に ``#`` を置くことでコメントアウトされます"
+"）"
 
 #: ../../howto/howto_Use_PROCESS.rst:54
 msgid ""
@@ -238,6 +284,13 @@ msgid ""
 "command. This can be done using the following command in ``Rj`` (just copy-"
 "and-paste it)."
 msgstr ""
+"これで分析を実行する準備が整いました。:red:`R用のPROCESSマクロは、SPSSやSASと"
+"は異なる乱数生成器を使用している`\\\\ [#]_ ため、:red:`XのYに対する間接効果の"
+"ブートストラップ信頼区間は、本に示されている出力とは異なる` ことに注意してく"
+"ださい。さらに、現在のバージョンの :red:`R用PROCESSマクロは、数値形式のデータ"
+"のみを受け入れます` 。\\\\ [#]_ したがって、PROCESSコマンドで使用する前に、因"
+"子を数値形式（例： ``0`` と ``1`` ）に変換する必要があります。これは、 "
+"``Rj`` で次のコマンドを使用して実行できます（コピー＆ペーストしてください）。"
 
 #: ../../howto/howto_Use_PROCESS.rst:69
 msgid ""
@@ -249,6 +302,13 @@ msgid ""
 "adjusted by changing ``data = pmi`` into ``data = data`` (``data`` refers to "
 "the currently opened dataset in jamovi)."
 msgstr ""
+"これが完了したら、本に示されているコマンドを記述（または電子書籍をお持ちの場"
+"合はコピー＆ペースト）するだけです。データセットの名前を変更する必要があるこ"
+"とに注意してください。Hayes (2022) のp. 188から引用したこの例では、"
+"データセット ``pmi`` が必要です（ `データセット <https://afhayes.com/public/"
+"hayes2022data.zip>`__ をダウンロードするため）。本のコマンドは、 ``data = "
+"pmi`` を ``data = data`` に変更して調整する必要があります（ ``data`` はjamovi"
+"で現在開いているデータセットを指します）。"
 
 #: ../../howto/howto_Use_PROCESS.rst:81
 msgid ""
@@ -257,6 +317,10 @@ msgid ""
 "analyses with the same dataset / within the same jamovi session, this is not "
 "required."
 msgstr ""
+"新しいデータセットを開くか、新しいjamoviセッションを開始するたびに、 ``source"
+"…`` コマンドを再度実行する必要があることを忘れないでください。同じ"
+"データセット（同じjamoviセッション内）で複数の分析を実行したい場合、これは必"
+"要ありません。"
 
 #: ../../howto/howto_Use_PROCESS.rst:89
 msgid ""
@@ -266,6 +330,10 @@ msgid ""
 "SAS even when the same seed is used when estimating the same model using the "
 "same data.” (Hayes, 2022, p. 613)"
 msgstr ""
+"「Rのデフォルトの乱数生成器は、SPSSやSASのデフォルトの乱数生成器とは異なりま"
+"す。したがって、同じデータを使用して同じモデルを推定するときに同じシードを使"
+"用しても、Rによって生成されるブートストラップ信頼区間は、SPSSやSASによって生"
+"成されるものとは異なります。」(Hayes, 2022, p. 613)"
 
 #: ../../howto/howto_Use_PROCESS.rst:96
 msgid ""
@@ -274,16 +342,22 @@ msgid ""
 "must be converted to numeric form (e.g., 0 and 1) prior to their use in a "
 "PROCESS command.” (Hayes, 2022, p. 612)"
 msgstr ""
+"「R用のPROCESSは、数値形式のデータのみを受け入れます。したがって、たとえば、"
+"データ内でsexという名前の変数がMおよびFとしてコード化されている場合、これらの"
+"アルファベットコードは、PROCESSコマンドで使用する前に数値形式（例：0および1）"
+"に変換する必要があります。」(Hayes, 2022, p. 612)"
 
 #: ../../howto/howto_overview.rst:7
 msgid ""
 "The aim of the following section is to clear and simple instructions on how "
 "to deal with common tasks within jamovi."
 msgstr ""
+"次のセクションの目的は、jamovi内の一般的なタスクを処理する方法について、明確"
+"で簡単な指示を提供することです。"
 
 #: ../../howto/howto_overview.rst:11
 msgid "jamovi user interface"
-msgstr ""
+msgstr "jamoviユーザーインターフェース"
 
 #: ../../howto/howto_overview.rst:21
 msgid "Analyses"
